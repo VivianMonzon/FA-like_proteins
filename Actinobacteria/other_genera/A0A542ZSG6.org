@@ -1,0 +1,7 @@
+* Organism: Propioniferax innocua
+* Protein length: 637
+* Adhesive domains:
+-TED (PF08341): pos. 87 - 223
+* Stalk domains:
+-TQ (PF18202): pos. 440 - 553
+

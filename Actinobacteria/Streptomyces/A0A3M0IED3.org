@@ -1,0 +1,8 @@
+* Organism: Streptomyces shenzhenensis
+* Protein length: 853
+* Adhesive domains:
+-VWA (PF00092): pos. 53 - 256
+* Stalk domains:
+-DUF11 (PF01345): pos. 637 - 747
+-HYR (PF02494): pos. 550 - 628
+

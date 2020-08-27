@@ -1,0 +1,7 @@
+* Organism: Microbispora triticiradicis
+* Protein length: 379
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 61 - 246
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 283 - 379
+

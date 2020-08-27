@@ -1,0 +1,7 @@
+* Organism: Microbispora rosea
+* Protein length: 375
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 57 - 243
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 279 - 375
+

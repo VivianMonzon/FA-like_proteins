@@ -1,0 +1,8 @@
+* Organism: Streptomyces autolyticus
+* Protein length: 944
+* Adhesive domains:
+-VWA (PF00092): pos. 88 - 287
+* Stalk domains:
+-DUF11 (PF01345): pos. 731 - 841
+-HYR (PF02494): pos. 644 - 722
+

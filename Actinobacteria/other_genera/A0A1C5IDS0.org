@@ -1,0 +1,11 @@
+* Organism: Micromonospora coxensis
+* Protein length: 1091
+* Adhesive domains:
+-VWA (PF00092): pos. 190 - 372
+* Stalk domains:
+-SpaA_2 (PF19403): pos. 378 - 494
+-SpaA_2 (PF19403): pos. 597 - 712
+-SpaA_2 (PF19403): pos. 716 - 823
+-SpaA_2 (PF19403): pos. 832 - 938
+-SpaA_2 (PF19403): pos. 945 - 1046
+

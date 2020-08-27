@@ -1,0 +1,14 @@
+* Organism: Cellulomonas aerilata
+* Protein length: 1642
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 74 - 344
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 574 - 660
+-Big_3_5 (PF16640): pos. 668 - 752
+-Big_3_5 (PF16640): pos. 760 - 843
+-Big_3_5 (PF16640): pos. 852 - 936
+-Big_3_5 (PF16640): pos. 943 - 1028
+-Big_3_5 (PF16640): pos. 1037 - 1120
+-Big_3_5 (PF16640): pos. 1128 - 1212
+-Big_3_5 (PF16640): pos. 1491 - 1574
+

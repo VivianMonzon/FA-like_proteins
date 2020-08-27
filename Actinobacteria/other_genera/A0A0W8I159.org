@@ -1,0 +1,8 @@
+* Organism: Serinicoccus chungangensis
+* Protein length: 1457
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 659 - 814
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 483 - 560
+-CarboxypepD_reg (PF13620): pos. 827 - 913
+

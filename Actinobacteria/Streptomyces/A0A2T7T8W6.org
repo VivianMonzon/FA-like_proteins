@@ -1,0 +1,8 @@
+* Organism: Streptomyces scopuliridis RB72
+* Protein length: 674
+* Adhesive domains:
+-VWA (PF00092): pos. 63 - 233
+* Stalk domains:
+-DUF11 (PF01345): pos. 461 - 571
+-HYR (PF02494): pos. 361 - 438
+

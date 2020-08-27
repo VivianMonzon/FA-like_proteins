@@ -1,0 +1,7 @@
+* Organism: Leucobacter triazinivorans
+* Protein length: 595
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 157 - 199
+* Stalk domains:
+-He_PIG (PF05345): pos. 357 - 439
+

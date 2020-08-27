@@ -1,0 +1,7 @@
+* Organism: Streptomyces paucisporeus
+* Protein length: 731
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 22 - 330
+* Stalk domains:
+-DUF11 (PF01345): pos. 449 - 549
+

@@ -1,0 +1,7 @@
+* Organism: Streptomyces sp. MnatMP-M17
+* Protein length: 679
+* Adhesive domains:
+-VWA (PF00092): pos. 61 - 240
+* Stalk domains:
+-HYR (PF02494): pos. 373 - 450
+

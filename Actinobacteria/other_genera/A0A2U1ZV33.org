@@ -1,0 +1,8 @@
+* Organism: Miniimonas sp. PCH200
+* Protein length: 1224
+* Adhesive domains:
+-VWA (PF00092): pos. 389 - 579
+* Stalk domains:
+-DUF11 (PF01345): pos. 730 - 841
+-DUF11 (PF01345): pos. 861 - 972
+

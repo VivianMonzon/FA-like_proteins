@@ -1,0 +1,8 @@
+* Organism: Kitasatospora setae (strain ATCC 33774 / DSM 43861 / JCM 3304 / KCC A-0304 / NBRC 14216 / KM-6054) (Streptomyces setae)
+* Protein length: 883
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 85 - 334
+* Stalk domains:
+-DUF11 (PF01345): pos. 568 - 683
+-DUF11 (PF01345): pos. 690 - 804
+

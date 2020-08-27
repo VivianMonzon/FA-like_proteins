@@ -1,0 +1,13 @@
+* Organism: Olsenella uli (strain ATCC 49627 / DSM 7084 / CIP 109912 / JCM 12494 / NCIMB 702895 / VPI D76D-27C) (Lactobacillus uli)
+* Protein length: 1350
+* Adhesive domains:
+-TED (PF08341): pos. 85 - 178
+* Stalk domains:
+-SpaA (PF17802): pos. 225 - 291
+-SpaA (PF17802): pos. 478 - 562
+-TQ (PF18202): pos. 710 - 830
+-TQ (PF18202): pos. 832 - 952
+-TQ (PF18202): pos. 953 - 1070
+-TQ (PF18202): pos. 1071 - 1192
+-TQ (PF18202): pos. 1193 - 1308
+

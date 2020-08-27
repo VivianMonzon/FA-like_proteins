@@ -1,0 +1,7 @@
+* Organism: Micromonospora sp. 4G51
+* Protein length: 555
+* Adhesive domains:
+-VWA (PF00092): pos. 98 - 272
+* Stalk domains:
+-HYR (PF02494): pos. 360 - 437
+

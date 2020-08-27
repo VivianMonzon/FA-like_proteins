@@ -1,0 +1,12 @@
+* Organism: Micromonospora rhizosphaerae
+* Protein length: 1302
+* Adhesive domains:
+-PA14 (PF07691): pos. 650 - 781
+-PA14 (PF07691): pos. 794 - 917
+-PA14 (PF07691): pos. 912 - 1044
+-PA14 (PF07691): pos. 1048 - 1183
+-PA14 (PF07691): pos. 1178 - 1301
+* Stalk domains:
+-PKD (PF00801): pos. 377 - 454
+-PKD_4 (PF18911): pos. 372 - 451
+

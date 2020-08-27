@@ -1,0 +1,8 @@
+* Organism: Nocardioides simplex (Arthrobacter simplex)
+* Protein length: 320
+* Adhesive domains:
+-BclA_C (PF18573): pos. 193 - 320
+* Stalk domains:
+-Collagen (PF01391): pos. 84 - 143
+-Collagen (PF01391): pos. 131 - 191
+

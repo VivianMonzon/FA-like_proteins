@@ -1,0 +1,8 @@
+* Organism: Bifidobacterium angulatum DSM 20098 = JCM 7096
+* Protein length: 1185
+* Adhesive domains:
+-VWA (PF00092): pos. 492 - 613
+* Stalk domains:
+-Cna_B (PF05738): pos. 889 - 995
+-FctA (PF12892): pos. 1005 - 1141
+

@@ -1,0 +1,7 @@
+* Organism: Micromonospora coxensis
+* Protein length: 523
+* Adhesive domains:
+-VWA (PF00092): pos. 66 - 234
+* Stalk domains:
+-HYR (PF02494): pos. 328 - 406
+

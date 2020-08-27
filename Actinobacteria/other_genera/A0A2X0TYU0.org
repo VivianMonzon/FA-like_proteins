@@ -1,0 +1,8 @@
+* Organism: Actinomyces bovis
+* Protein length: 665
+* Adhesive domains:
+-VWA (PF00092): pos. 244 - 427
+* Stalk domains:
+-PKD (PF00801): pos. 441 - 515
+-PKD_4 (PF18911): pos. 427 - 508
+

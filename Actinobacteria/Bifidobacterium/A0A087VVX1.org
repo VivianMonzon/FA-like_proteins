@@ -1,0 +1,8 @@
+* Organism: Bifidobacterium indicum LMG 11587 = DSM 20214
+* Protein length: 997
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 533 - 578
+* Stalk domains:
+-Flg_new (PF09479): pos. 279 - 345
+-Flg_new (PF09479): pos. 826 - 890
+

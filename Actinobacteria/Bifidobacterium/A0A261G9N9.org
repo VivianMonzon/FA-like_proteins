@@ -1,0 +1,17 @@
+* Organism: Bifidobacterium aquikefiri
+* Protein length: 1671
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 204 - 354
+-Collagen_bind (PF05737): pos. 363 - 497
+-Collagen_bind (PF05737): pos. 501 - 634
+-Collagen_bind (PF05737): pos. 648 - 778
+-Collagen_bind (PF05737): pos. 796 - 933
+* Stalk domains:
+-SpaA (PF17802): pos. 962 - 1025
+-SpaA (PF17802): pos. 1061 - 1137
+-SpaA (PF17802): pos. 1161 - 1230
+-SpaA (PF17802): pos. 1256 - 1325
+-SpaA (PF17802): pos. 1351 - 1420
+-SpaA (PF17802): pos. 1446 - 1514
+-SpaA (PF17802): pos. 1540 - 1608
+

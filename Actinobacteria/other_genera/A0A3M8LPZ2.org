@@ -1,0 +1,18 @@
+* Organism: Cryobacterium tepidiphilum
+* Protein length: 1358
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 39 - 318
+* Stalk domains:
+-Cadherin_5 (PF17892): pos. 912 - 983
+-Big_9 (PF17963): pos. 542 - 649
+-Big_9 (PF17963): pos. 759 - 865
+-Big_9 (PF17963): pos. 867 - 971
+-Big_9 (PF17963): pos. 975 - 1081
+-Big_9 (PF17963): pos. 1083 - 1195
+-CshA_repeat (PF19076): pos. 530 - 635
+-CshA_repeat (PF19076): pos. 640 - 742
+-CshA_repeat (PF19076): pos. 746 - 851
+-CshA_repeat (PF19076): pos. 856 - 958
+-CshA_repeat (PF19076): pos. 962 - 1067
+-CshA_repeat (PF19076): pos. 1072 - 1181
+

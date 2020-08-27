@@ -1,0 +1,7 @@
+* Organism: Bifidobacterium callitrichos DSM 23973
+* Protein length: 1297
+* Adhesive domains:
+-VWA (PF00092): pos. 59 - 259
+* Stalk domains:
+-Big_3 (PF07523): pos. 1042 - 1125
+

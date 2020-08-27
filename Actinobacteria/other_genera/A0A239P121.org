@@ -1,0 +1,7 @@
+* Organism: Streptosporangium subroseum
+* Protein length: 377
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 55 - 243
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 262 - 353
+

@@ -1,0 +1,8 @@
+* Organism: Bifidobacterium tissieri
+* Protein length: 796
+* Adhesive domains:
+-VWA (PF00092): pos. 110 - 346
+* Stalk domains:
+-Cna_B (PF05738): pos. 503 - 590
+-FctA (PF12892): pos. 617 - 755
+

@@ -1,0 +1,8 @@
+* Organism: Trueperella bialowiezensis
+* Protein length: 763
+* Adhesive domains:
+-VWA (PF00092): pos. 52 - 274
+* Stalk domains:
+-SpaA (PF17802): pos. 632 - 701
+-DUF5979 (PF19407): pos. 516 - 617
+

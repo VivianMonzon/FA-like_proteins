@@ -1,0 +1,8 @@
+* Organism: Amycolatopsis mediterranei (strain S699) (Nocardia mediterranei)
+* Protein length: 1342
+* Adhesive domains:
+-VWA (PF00092): pos. 503 - 695
+* Stalk domains:
+-DUF11 (PF01345): pos. 999 - 1111
+-DUF11 (PF01345): pos. 1126 - 1236
+

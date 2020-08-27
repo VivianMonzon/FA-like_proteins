@@ -1,0 +1,7 @@
+* Organism: Amycolatopsis keratiniphila
+* Protein length: 624
+* Adhesive domains:
+-VWA (PF00092): pos. 61 - 234
+* Stalk domains:
+-Calx-beta (PF03160): pos. 307 - 407
+

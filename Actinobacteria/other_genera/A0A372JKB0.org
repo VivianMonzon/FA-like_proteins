@@ -1,0 +1,8 @@
+* Organism: Actinomadura sp. NEAU-G17
+* Protein length: 748
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 85 - 348
+* Stalk domains:
+-DUF11 (PF01345): pos. 480 - 588
+-DUF11 (PF01345): pos. 615 - 727
+

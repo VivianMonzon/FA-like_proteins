@@ -1,0 +1,13 @@
+* Organism: Microbacterium sp. No. 7
+* Protein length: 949
+* Adhesive domains:
+-VWA (PF00092): pos. 396 - 558
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 149 - 170
+-TSP3_bac (PF18884): pos. 205 - 226
+-TSP3_bac (PF18884): pos. 227 - 248
+-TSP3_bac (PF18884): pos. 567 - 581
+-TSP3_bac (PF18884): pos. 598 - 612
+-TSP3_bac (PF18884): pos. 630 - 651
+-TSP3_bac (PF18884): pos. 652 - 671
+

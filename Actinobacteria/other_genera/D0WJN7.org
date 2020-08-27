@@ -1,0 +1,11 @@
+* Organism: Slackia exigua (strain ATCC 700122 / DSM 15923 / CIP 105133 / JCM 11022 / KCTC 5966 / S-7)
+* Protein length: 1334
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 99 - 476
+* Stalk domains:
+-CshA_repeat (PF19076): pos. 683 - 777
+-CshA_repeat (PF19076): pos. 782 - 893
+-CshA_repeat (PF19076): pos. 898 - 999
+-CshA_repeat (PF19076): pos. 1004 - 1110
+-CshA_repeat (PF19076): pos. 1115 - 1224
+

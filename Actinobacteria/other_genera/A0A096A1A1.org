@@ -1,0 +1,7 @@
+* Organism: Corynebacterium tuscaniense DNF00037
+* Protein length: 1137
+* Adhesive domains:
+-VWA (PF00092): pos. 472 - 648
+* Stalk domains:
+-SpaA (PF17802): pos. 967 - 1038
+

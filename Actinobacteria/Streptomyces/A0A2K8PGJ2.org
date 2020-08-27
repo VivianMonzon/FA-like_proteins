@@ -1,0 +1,9 @@
+* Organism: Streptomyces lavendulae subsp. lavendulae
+* Protein length: 577
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 60 - 248
+* Stalk domains:
+-Collagen (PF01391): pos. 253 - 314
+-Collagen (PF01391): pos. 300 - 368
+-Collagen (PF01391): pos. 348 - 419
+

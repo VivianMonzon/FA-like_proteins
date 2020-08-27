@@ -1,0 +1,7 @@
+* Organism: Lentzea aerocolonigenes (Lechevalieria aerocolonigenes) (Saccharothrix aerocolonigenes)
+* Protein length: 994
+* Adhesive domains:
+-VWA (PF00092): pos. 215 - 399
+* Stalk domains:
+-HYR (PF02494): pos. 483 - 561
+

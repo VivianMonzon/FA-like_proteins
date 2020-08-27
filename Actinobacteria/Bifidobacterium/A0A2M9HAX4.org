@@ -1,0 +1,8 @@
+* Organism: Bifidobacterium primatium
+* Protein length: 843
+* Adhesive domains:
+-VWA (PF00092): pos. 89 - 279
+* Stalk domains:
+-FctA (PF12892): pos. 519 - 644
+-FctA (PF12892): pos. 654 - 774
+

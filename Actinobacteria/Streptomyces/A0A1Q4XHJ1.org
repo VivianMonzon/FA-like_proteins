@@ -1,0 +1,8 @@
+* Organism: Streptomyces sp. CB03911
+* Protein length: 976
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 82 - 336
+* Stalk domains:
+-DUF11 (PF01345): pos. 578 - 693
+-DUF11 (PF01345): pos. 700 - 814
+

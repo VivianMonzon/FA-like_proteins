@@ -1,0 +1,7 @@
+* Organism: Microbacterium sp. dk485
+* Protein length: 476
+* Adhesive domains:
+-TED (PF08341): pos. 96 - 188
+* Stalk domains:
+-DUF5979 (PF19407): pos. 332 - 417
+

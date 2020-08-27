@@ -1,0 +1,12 @@
+* Organism: Actinomyces bovis
+* Protein length: 1088
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 58 - 429
+* Stalk domains:
+-SpaA (PF17802): pos. 711 - 791
+-SpaA (PF17802): pos. 942 - 1028
+-SpaA_2 (PF19403): pos. 587 - 695
+-SpaA_2 (PF19403): pos. 736 - 808
+-SpaA_2 (PF19403): pos. 810 - 920
+-SpaA_2 (PF19403): pos. 958 - 1019
+

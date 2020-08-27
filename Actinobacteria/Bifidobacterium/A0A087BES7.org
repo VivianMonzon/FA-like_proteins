@@ -1,0 +1,7 @@
+* Organism: Bifidobacterium magnum
+* Protein length: 894
+* Adhesive domains:
+-VWA (PF00092): pos. 186 - 406
+* Stalk domains:
+-FctA (PF12892): pos. 699 - 849
+

@@ -1,0 +1,11 @@
+* Organism: Actinoplanes philippinensis
+* Protein length: 1153
+* Adhesive domains:
+-PA14 (PF07691): pos. 636 - 771
+-PA14 (PF07691): pos. 761 - 902
+-PA14 (PF07691): pos. 901 - 1031
+-PA14 (PF07691): pos. 1027 - 1150
+* Stalk domains:
+-PKD (PF00801): pos. 379 - 440
+-PKD_4 (PF18911): pos. 355 - 435
+

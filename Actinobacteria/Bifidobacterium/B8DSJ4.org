@@ -1,0 +1,7 @@
+* Organism: Bifidobacterium animalis subsp. lactis (strain AD011)
+* Protein length: 879
+* Adhesive domains:
+-VWA (PF00092): pos. 200 - 417
+* Stalk domains:
+-FctA (PF12892): pos. 693 - 834
+

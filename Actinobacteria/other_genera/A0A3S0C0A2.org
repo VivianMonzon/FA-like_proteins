@@ -1,0 +1,10 @@
+* Organism: Actinobaculum sp. 352
+* Protein length: 940
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 49 - 411
+* Stalk domains:
+-SpaA (PF17802): pos. 675 - 759
+-SpaA (PF17802): pos. 795 - 882
+-SpaA_2 (PF19403): pos. 545 - 658
+-SpaA_2 (PF19403): pos. 670 - 774
+

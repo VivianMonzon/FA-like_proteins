@@ -1,0 +1,7 @@
+* Organism: Amnibacterium sp. M8JJ-5
+* Protein length: 383
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 51 - 237
+* Stalk domains:
+-He_PIG (PF05345): pos. 247 - 337
+
