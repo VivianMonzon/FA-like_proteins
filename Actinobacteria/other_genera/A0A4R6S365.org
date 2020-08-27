@@ -1,8 +1,0 @@
-* Organism: Leucobacter luti
-* Protein length: 751
-* Adhesive domains:
--LRR_4 (PF12799): pos. 120 - 162
-* Stalk domains:
--He_PIG (PF05345): pos. 366 - 459
--He_PIG (PF05345): pos. 465 - 547
-

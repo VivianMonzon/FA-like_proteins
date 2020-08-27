@@ -1,7 +1,0 @@
-* Organism: Actinomadura sp. NEAU-G17
-* Protein length: 666
-* Adhesive domains:
--VWA (PF00092): pos. 186 - 379
-* Stalk domains:
--SpaA_2 (PF19403): pos. 528 - 626
-

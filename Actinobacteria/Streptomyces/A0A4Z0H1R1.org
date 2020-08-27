@@ -1,8 +1,0 @@
-* Organism: Streptomyces palmae
-* Protein length: 1267
-* Adhesive domains:
--Bact_lectin (PF18483): pos. 97 - 367
-* Stalk domains:
--DUF11 (PF01345): pos. 487 - 591
--DUF11 (PF01345): pos. 717 - 826
-

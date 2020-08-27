@@ -1,8 +1,0 @@
-* Organism: Actinocorallia herbida
-* Protein length: 676
-* Adhesive domains:
--TED (PF08341): pos. 139 - 231
-* Stalk domains:
--DUF5979 (PF19407): pos. 373 - 468
--DUF5979 (PF19407): pos. 482 - 574
-

@@ -1,7 +1,0 @@
-* Organism: Bifidobacterium stellenboschense
-* Protein length: 994
-* Adhesive domains:
--PA14 (PF07691): pos. 642 - 776
-* Stalk domains:
--FctA (PF12892): pos. 776 - 930
-

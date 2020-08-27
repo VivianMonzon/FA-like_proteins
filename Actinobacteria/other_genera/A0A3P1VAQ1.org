@@ -1,9 +1,0 @@
-* Organism: Actinomyces bowdenii
-* Protein length: 1019
-* Adhesive domains:
--CshA_NR2 (PF18651): pos. 69 - 390
-* Stalk domains:
--SpaA (PF17802): pos. 670 - 750
--SpaA (PF17802): pos. 777 - 858
--SpaA (PF17802): pos. 884 - 963
-

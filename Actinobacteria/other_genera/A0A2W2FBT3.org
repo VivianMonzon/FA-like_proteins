@@ -1,7 +1,0 @@
-* Organism: Micromonospora craterilacus
-* Protein length: 1472
-* Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 674 - 777
-* Stalk domains:
--CarboxypepD_reg (PF13620): pos. 494 - 571
-

@@ -1,7 +1,0 @@
-* Organism: Nakamurella flava
-* Protein length: 752
-* Adhesive domains:
--TED (PF08341): pos. 96 - 189
-* Stalk domains:
--DUF5979 (PF19407): pos. 330 - 416
-

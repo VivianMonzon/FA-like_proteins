@@ -1,7 +1,0 @@
-* Organism: Amycolatopsis marina
-* Protein length: 638
-* Adhesive domains:
--VWA (PF00092): pos. 68 - 228
-* Stalk domains:
--Calx-beta (PF03160): pos. 318 - 413
-

@@ -1,7 +1,0 @@
-* Organism: Nocardioides lianchengensis
-* Protein length: 1569
-* Adhesive domains:
--PA14 (PF07691): pos. 43 - 185
-* Stalk domains:
--Big_3_5 (PF16640): pos. 1372 - 1459
-

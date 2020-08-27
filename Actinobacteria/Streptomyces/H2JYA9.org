@@ -1,8 +1,0 @@
-* Organism: Streptomyces hygroscopicus subsp. jinggangensis (strain 5008)
-* Protein length: 697
-* Adhesive domains:
--VWA (PF00092): pos. 52 - 255
-* Stalk domains:
--DUF11 (PF01345): pos. 483 - 594
--HYR (PF02494): pos. 396 - 475
-

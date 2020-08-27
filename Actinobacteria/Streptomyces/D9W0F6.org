@@ -1,7 +1,0 @@
-* Organism: Streptomyces sp. C
-* Protein length: 529
-* Adhesive domains:
--Ice_binding (PF11999): pos. 59 - 247
-* Stalk domains:
--Collagen (PF01391): pos. 251 - 310
-

@@ -1,7 +1,0 @@
-* Organism: Bifidobacterium scardovii
-* Protein length: 871
-* Adhesive domains:
--VWA (PF00092): pos. 178 - 414
-* Stalk domains:
--SpaA (PF17802): pos. 728 - 805
-

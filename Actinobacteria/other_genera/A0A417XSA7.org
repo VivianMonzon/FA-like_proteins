@@ -1,8 +1,0 @@
-* Organism: Nocardioides immobilis
-* Protein length: 451
-* Adhesive domains:
--Ice_binding (PF11999): pos. 11 - 196
-* Stalk domains:
--Big_13 (PF19077): pos. 211 - 291
--Big_13 (PF19077): pos. 297 - 381
-

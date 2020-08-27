@@ -1,9 +1,0 @@
-* Organism: Actinobaculum suis
-* Protein length: 1202
-* Adhesive domains:
--CshA_NR2 (PF18651): pos. 199 - 618
-* Stalk domains:
--SpaA (PF17802): pos. 1054 - 1141
--DUF5979 (PF19407): pos. 925 - 1026
--DUF5979 (PF19407): pos. 1071 - 1134
-

@@ -1,7 +1,0 @@
-* Organism: Kribbella sp. 16K104
-* Protein length: 1470
-* Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 677 - 798
-* Stalk domains:
--CarboxypepD_reg (PF13620): pos. 495 - 574
-

@@ -1,7 +1,0 @@
-* Organism: Micromonospora sp. CB01531
-* Protein length: 1367
-* Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 662 - 768
-* Stalk domains:
--CarboxypepD_reg (PF13620): pos. 485 - 563
-

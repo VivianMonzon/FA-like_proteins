@@ -1,8 +1,0 @@
-* Organism: Streptomyces jeddahensis
-* Protein length: 609
-* Adhesive domains:
--TED (PF08341): pos. 127 - 221
-* Stalk domains:
--DUF5979 (PF19407): pos. 362 - 455
--DUF5979 (PF19407): pos. 469 - 563
-

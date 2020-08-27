@@ -1,8 +1,0 @@
-* Organism: Pseudoscardovia suis
-* Protein length: 1561
-* Adhesive domains:
--VWA (PF00092): pos. 1095 - 1252
-* Stalk domains:
--PKD (PF00801): pos. 1371 - 1445
--PKD_4 (PF18911): pos. 1357 - 1441
-

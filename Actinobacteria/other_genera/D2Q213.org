@@ -1,7 +1,0 @@
-* Organism: Kribbella flavida (strain DSM 17836 / JCM 10339 / NBRC 14399)
-* Protein length: 1467
-* Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 673 - 804
-* Stalk domains:
--CarboxypepD_reg (PF13620): pos. 493 - 570
-

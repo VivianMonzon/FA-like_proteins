@@ -1,7 +1,0 @@
-* Organism: Streptosporangium roseum (strain ATCC 12428 / DSM 43021 / JCM 3005 / NI 9100)
-* Protein length: 631
-* Adhesive domains:
--Ice_binding (PF11999): pos. 11 - 196
-* Stalk domains:
--Big_3_5 (PF16640): pos. 215 - 314
-

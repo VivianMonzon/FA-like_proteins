@@ -1,7 +1,0 @@
-* Organism: Microbacterium pygmaeum
-* Protein length: 764
-* Adhesive domains:
--VWA (PF00092): pos. 244 - 440
-* Stalk domains:
--DUF11 (PF01345): pos. 570 - 702
-

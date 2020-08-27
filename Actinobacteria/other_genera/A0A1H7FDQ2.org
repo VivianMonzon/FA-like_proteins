@@ -1,7 +1,0 @@
-* Organism: Nonomuraea pusilla
-* Protein length: 737
-* Adhesive domains:
--Ice_binding (PF11999): pos. 119 - 305
-* Stalk domains:
--Big_3_5 (PF16640): pos. 326 - 420
-

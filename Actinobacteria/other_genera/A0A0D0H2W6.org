@@ -1,9 +1,0 @@
-* Organism: Leucobacter komagatae
-* Protein length: 776
-* Adhesive domains:
--CshA_NR2 (PF18651): pos. 36 - 261
-* Stalk domains:
--DUF11 (PF01345): pos. 577 - 699
--SpaA (PF17802): pos. 388 - 461
--SpaA (PF17802): pos. 487 - 560
-

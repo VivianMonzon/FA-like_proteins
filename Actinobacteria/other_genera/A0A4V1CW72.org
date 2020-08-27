@@ -1,9 +1,0 @@
-* Organism: Nocardioides daphniae
-* Protein length: 532
-* Adhesive domains:
--BclA_C (PF18573): pos. 407 - 532
-* Stalk domains:
--Collagen (PF01391): pos. 117 - 174
--Collagen (PF01391): pos. 191 - 268
--Collagen (PF01391): pos. 351 - 408
-

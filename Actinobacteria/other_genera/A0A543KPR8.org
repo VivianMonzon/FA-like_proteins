@@ -1,8 +1,0 @@
-* Organism: Ornithinimicrobium humiphilum
-* Protein length: 1464
-* Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 669 - 765
-* Stalk domains:
--CarboxypepD_reg (PF13620): pos. 492 - 569
--CarboxypepD_reg (PF13620): pos. 836 - 921
-

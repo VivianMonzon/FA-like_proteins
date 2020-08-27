@@ -1,7 +1,0 @@
-* Organism: Nocardioides sp. Root151
-* Protein length: 513
-* Adhesive domains:
--VWA (PF00092): pos. 53 - 235
-* Stalk domains:
--HYR (PF02494): pos. 320 - 397
-

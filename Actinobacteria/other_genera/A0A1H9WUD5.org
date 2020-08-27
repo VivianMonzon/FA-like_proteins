@@ -1,7 +1,0 @@
-* Organism: Actinokineospora terrae
-* Protein length: 635
-* Adhesive domains:
--VWA (PF00092): pos. 64 - 239
-* Stalk domains:
--Calx-beta (PF03160): pos. 312 - 410
-

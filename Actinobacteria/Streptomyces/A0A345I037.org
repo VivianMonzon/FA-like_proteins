@@ -1,8 +1,0 @@
-* Organism: Streptomyces sp. GSSD-12
-* Protein length: 682
-* Adhesive domains:
--VWA (PF00092): pos. 51 - 225
-* Stalk domains:
--DUF11 (PF01345): pos. 468 - 578
--HYR (PF02494): pos. 353 - 430
-
