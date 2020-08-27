@@ -1,0 +1,9 @@
+* Organism:
+- Kribbella soli
+* Protein length:
+- 1468
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 676 - 767
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 494 - 573
+

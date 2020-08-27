@@ -1,0 +1,14 @@
+* Organism:
+- Sporanaerobacter sp. PP17-6a
+* Protein length:
+- 1350
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 231 - 358
+-Collagen_bind (PF05737): pos. 361 - 485
+-Collagen_bind (PF05737): pos. 489 - 612
+-Collagen_bind (PF05737): pos. 774 - 899
+-Collagen_bind (PF05737): pos. 905 - 1030
+* Stalk domains:
+-SpaA (PF17802): pos. 1062 - 1132
+-SpaA (PF17802): pos. 1155 - 1222
+

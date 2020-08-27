@@ -1,0 +1,19 @@
+* Organism:
+- Lachnoclostridium phytofermentans (strain ATCC 700394 / DSM 18823 / ISDg) (Clostridium phytofermentans)
+* Protein length:
+- 1888
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 193 - 321
+-Collagen_bind (PF05737): pos. 332 - 472
+-Collagen_bind (PF05737): pos. 486 - 608
+-Collagen_bind (PF05737): pos. 808 - 940
+-Collagen_bind (PF05737): pos. 954 - 1081
+* Stalk domains:
+-SpaA (PF17802): pos. 1125 - 1190
+-SpaA (PF17802): pos. 1219 - 1294
+-SpaA (PF17802): pos. 1326 - 1396
+-SpaA (PF17802): pos. 1433 - 1493
+-SpaA (PF17802): pos. 1528 - 1589
+-SpaA (PF17802): pos. 1620 - 1687
+-Big_9 (PF17963): pos. 1736 - 1825
+

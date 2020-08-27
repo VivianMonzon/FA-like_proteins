@@ -1,0 +1,25 @@
+* Organism:
+- Enterococcus avium ATCC 14025
+* Protein length:
+- 2057
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 354 - 483
+-Collagen_bind (PF05737): pos. 497 - 628
+-Collagen_bind (PF05737): pos. 791 - 927
+-Collagen_bind (PF05737): pos. 937 - 1075
+* Stalk domains:
+-SpaA (PF17802): pos. 1107 - 1176
+-SpaA (PF17802): pos. 1211 - 1286
+-SpaA (PF17802): pos. 1311 - 1379
+-SpaA (PF17802): pos. 1412 - 1481
+-SpaA (PF17802): pos. 1507 - 1580
+-SpaA (PF17802): pos. 1605 - 1675
+-SpaA (PF17802): pos. 1700 - 1788
+-SpaA (PF17802): pos. 1813 - 1890
+-SpaA (PF17802): pos. 1916 - 1983
+-SpaA_2 (PF19403): pos. 1304 - 1379
+-SpaA_2 (PF19403): pos. 1403 - 1484
+-SpaA_2 (PF19403): pos. 1497 - 1583
+-SpaA_2 (PF19403): pos. 1810 - 1879
+-SpaA_2 (PF19403): pos. 1907 - 1991
+

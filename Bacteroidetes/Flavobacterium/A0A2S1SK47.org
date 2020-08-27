@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium pallidum
+* Protein length:
+- 1231
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 312 - 379
+-Cleaved_Adhesin (PF07675): pos. 482 - 632
+* Stalk domains:
+-fn3 (PF00041): pos. 135 - 217
+-fn3 (PF00041): pos. 386 - 467
+

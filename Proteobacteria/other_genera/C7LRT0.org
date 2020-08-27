@@ -1,0 +1,14 @@
+* Organism:
+- Desulfomicrobium baculatum (strain DSM 4028 / VKM B-1378) (Desulfovibrio baculatus)
+* Protein length:
+- 2452
+* Adhesive domains:
+-VWA (PF00092): pos. 1693 - 1876
+* Stalk domains:
+-DUF5801 (PF19116): pos. 508 - 658
+-DUF5801 (PF19116): pos. 671 - 857
+-DUF5801 (PF19116): pos. 875 - 1064
+-DUF5801 (PF19116): pos. 1082 - 1271
+-DUF5801 (PF19116): pos. 1289 - 1478
+-DUF5801 (PF19116): pos. 1496 - 1652
+

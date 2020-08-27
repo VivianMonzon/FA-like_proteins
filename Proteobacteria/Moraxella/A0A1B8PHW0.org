@@ -1,0 +1,17 @@
+* Organism:
+- Moraxella nonliquefaciens
+* Protein length:
+- 2868
+* Adhesive domains:
+-YadA_head (PF05658): pos. 96 - 121
+-YadA_head (PF05658): pos. 250 - 276
+-YadA_head (PF05658): pos. 2586 - 2612
+-YadA_head (PF05658): pos. 2614 - 2639
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 454 - 494
+-YadA_stalk (PF05662): pos. 695 - 737
+-YadA_stalk (PF05662): pos. 1127 - 1169
+-YadA_stalk (PF05662): pos. 1879 - 1921
+-YadA_stalk (PF05662): pos. 2401 - 2448
+-YadA_stalk (PF05662): pos. 2747 - 2789
+

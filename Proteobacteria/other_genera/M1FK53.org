@@ -1,0 +1,12 @@
+* Organism:
+- Marinobacter sp. BSs20148
+* Protein length:
+- 663
+* Adhesive domains:
+-PA14 (PF07691): pos. 49 - 196
+-PA14 (PF07691): pos. 351 - 481
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 292 - 313
+-TSP3_bac (PF18884): pos. 319 - 336
+-TSP3_bac (PF18884): pos. 503 - 522
+

@@ -1,0 +1,27 @@
+* Organism:
+- Collimonas fungivorans (strain Ter331)
+* Protein length:
+- 2376
+* Adhesive domains:
+-YadA_head (PF05658): pos. 401 - 427
+-YadA_head (PF05658): pos. 689 - 715
+-YadA_head (PF05658): pos. 703 - 729
+-YadA_head (PF05658): pos. 1314 - 1340
+-YadA_head (PF05658): pos. 1610 - 1636
+-YadA_head (PF05658): pos. 1970 - 1996
+-YadA_head (PF05658): pos. 1984 - 2010
+-YadA_head (PF05658): pos. 2122 - 2148
+-YadA_head (PF05658): pos. 2136 - 2162
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 631 - 667
+-YadA_stalk (PF05662): pos. 982 - 1027
+-YadA_stalk (PF05662): pos. 1104 - 1149
+-YadA_stalk (PF05662): pos. 1255 - 1300
+-YadA_stalk (PF05662): pos. 1393 - 1438
+-YadA_stalk (PF05662): pos. 1551 - 1596
+-YadA_stalk (PF05662): pos. 1689 - 1734
+-YadA_stalk (PF05662): pos. 1895 - 1939
+-YadA_stalk (PF05662): pos. 2063 - 2106
+-YadA_stalk (PF05662): pos. 2198 - 2240
+-YadA_stalk (PF05662): pos. 2251 - 2289
+

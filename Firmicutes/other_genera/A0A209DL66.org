@@ -1,0 +1,12 @@
+* Organism:
+- Saccharibacillus sp. O16
+* Protein length:
+- 1324
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 275 - 403
+-Collagen_bind (PF05737): pos. 413 - 537
+-Collagen_bind (PF05737): pos. 685 - 818
+-Collagen_bind (PF05737): pos. 828 - 961
+* Stalk domains:
+-SpaA (PF17802): pos. 989 - 1051
+

@@ -1,0 +1,15 @@
+* Organism:
+- Dinghuibacter silviterrae
+* Protein length:
+- 648
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 24 - 234
+* Stalk domains:
+-PKD_4 (PF18911): pos. 235 - 299
+-PKD_4 (PF18911): pos. 308 - 385
+-PKD_5 (PF19406): pos. 289 - 329
+-PKD_5 (PF19406): pos. 347 - 411
+-PKD_5 (PF19406): pos. 469 - 566
+-PKD_6 (PF19408): pos. 340 - 398
+-PKD_6 (PF19408): pos. 465 - 554
+

@@ -1,0 +1,23 @@
+* Organism:
+- Nakamurella silvestris
+* Protein length:
+- 3078
+* Adhesive domains:
+-VWA (PF00092): pos. 252 - 444
+* Stalk domains:
+-DUF11 (PF01345): pos. 597 - 714
+-DUF11 (PF01345): pos. 733 - 850
+-DUF11 (PF01345): pos. 869 - 987
+-DUF11 (PF01345): pos. 1005 - 1123
+-DUF11 (PF01345): pos. 1276 - 1395
+-DUF11 (PF01345): pos. 1412 - 1531
+-DUF11 (PF01345): pos. 1550 - 1667
+-DUF11 (PF01345): pos. 1820 - 1939
+-DUF11 (PF01345): pos. 2092 - 2208
+-DUF11 (PF01345): pos. 2228 - 2346
+-DUF11 (PF01345): pos. 2365 - 2481
+-DUF11 (PF01345): pos. 2501 - 2617
+-DUF11 (PF01345): pos. 2636 - 2750
+-DUF11 (PF01345): pos. 2767 - 2881
+-DUF11 (PF01345): pos. 2903 - 3018
+

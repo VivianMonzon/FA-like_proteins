@@ -1,0 +1,10 @@
+* Organism:
+- Stenotrophomonas maltophilia (strain K279a)
+* Protein length:
+- 586
+* Adhesive domains:
+-YadA_head (PF05658): pos. 114 - 140
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 294 - 335
+-YadA_stalk (PF05662): pos. 459 - 503
+

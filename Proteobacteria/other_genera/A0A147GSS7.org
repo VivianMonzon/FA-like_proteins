@@ -1,0 +1,13 @@
+* Organism:
+- Pseudacidovorax intermedius
+* Protein length:
+- 959
+* Adhesive domains:
+-YadA_head (PF05658): pos. 641 - 667
+-YadA_head (PF05658): pos. 669 - 695
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 461 - 506
+-YadA_stalk (PF05662): pos. 538 - 578
+-YadA_stalk (PF05662): pos. 785 - 827
+-YadA_stalk (PF05662): pos. 837 - 879
+

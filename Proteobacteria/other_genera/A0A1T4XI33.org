@@ -1,0 +1,9 @@
+* Organism:
+- Thiothrix eikelboomii
+* Protein length:
+- 1073
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 341 - 583
+* Stalk domains:
+-SdrD_B (PF17210): pos. 716 - 826
+

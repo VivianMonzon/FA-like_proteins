@@ -1,0 +1,31 @@
+* Organism:
+- Peptoniphilus sp. BV3C26
+* Protein length:
+- 4792
+* Adhesive domains:
+-SdrG_C_C (PF10425): pos. 4124 - 4272
+* Stalk domains:
+-SpaA (PF17802): pos. 933 - 996
+-SpaA (PF17802): pos. 1233 - 1300
+-SpaA (PF17802): pos. 1749 - 1817
+-SpaA (PF17802): pos. 1861 - 1933
+-SpaA (PF17802): pos. 2187 - 2255
+-SpaA (PF17802): pos. 3231 - 3313
+-SpaA (PF17802): pos. 3619 - 3691
+-SpaA (PF17802): pos. 3873 - 3939
+-SpaA (PF17802): pos. 4305 - 4378
+-SpaA (PF17802): pos. 4431 - 4543
+-Flg_new_2 (PF18998): pos. 2561 - 2635
+-Flg_new_2 (PF18998): pos. 2794 - 2871
+-Flg_new_2 (PF18998): pos. 2875 - 2950
+-Flg_new_2 (PF18998): pos. 2954 - 3038
+-Flg_new_2 (PF18998): pos. 3044 - 3124
+-Flg_new_2 (PF18998): pos. 3130 - 3204
+-SpaA_2 (PF19403): pos. 1228 - 1303
+-SpaA_2 (PF19403): pos. 1738 - 1829
+-SpaA_2 (PF19403): pos. 1853 - 1929
+-SpaA_2 (PF19403): pos. 2179 - 2266
+-SpaA_2 (PF19403): pos. 2765 - 2849
+-SpaA_2 (PF19403): pos. 3861 - 3942
+-SpaA_2 (PF19403): pos. 4282 - 4367
+

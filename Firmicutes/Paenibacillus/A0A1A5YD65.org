@@ -1,0 +1,19 @@
+* Organism:
+- Paenibacillus oryzae
+* Protein length:
+- 2093
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 419 - 556
+-Collagen_bind (PF05737): pos. 732 - 864
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 1154 - 1230
+-SdrD_B (PF17210): pos. 1139 - 1253
+-SdrD_B (PF17210): pos. 1257 - 1392
+-SdrD_B (PF17210): pos. 1396 - 1517
+-SdrD_B (PF17210): pos. 1521 - 1644
+-SdrD_B (PF17210): pos. 1648 - 1774
+-SdrD_B (PF17210): pos. 1778 - 1898
+-SpaA (PF17802): pos. 1059 - 1126
+-SpaA (PF17802): pos. 1157 - 1216
+-Big_9 (PF17963): pos. 1939 - 2030
+

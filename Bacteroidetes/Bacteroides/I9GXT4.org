@@ -1,0 +1,9 @@
+* Organism:
+- Bacteroides nordii CL02T12C05
+* Protein length:
+- 615
+* Adhesive domains:
+-VWA (PF00092): pos. 252 - 425
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 29 - 99
+

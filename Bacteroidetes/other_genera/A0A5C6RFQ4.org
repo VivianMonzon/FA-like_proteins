@@ -1,0 +1,11 @@
+* Organism:
+- Phaeodactylibacter luteus
+* Protein length:
+- 1540
+* Adhesive domains:
+-VWA (PF00092): pos. 83 - 264
+* Stalk domains:
+-DUF11 (PF01345): pos. 1174 - 1286
+-DUF11 (PF01345): pos. 1293 - 1405
+-DUF11 (PF01345): pos. 1412 - 1524
+

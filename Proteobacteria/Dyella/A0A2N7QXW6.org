@@ -1,0 +1,12 @@
+* Organism:
+- Dyella sp. AD56
+* Protein length:
+- 1907
+* Adhesive domains:
+-YadA_head (PF05658): pos. 1666 - 1692
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 1538 - 1579
+-YadA_stalk (PF05662): pos. 1595 - 1640
+-YadA_stalk (PF05662): pos. 1724 - 1766
+-YadA_stalk (PF05662): pos. 1781 - 1823
+

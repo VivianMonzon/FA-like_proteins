@@ -1,0 +1,11 @@
+* Organism:
+- Agarivorans albus MKT 106
+* Protein length:
+- 1004
+* Adhesive domains:
+-VWA (PF00092): pos. 254 - 441
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 1 - 72
+-Cadherin_5 (PF17892): pos. 1 - 105
+-Big_9 (PF17963): pos. 1 - 93
+

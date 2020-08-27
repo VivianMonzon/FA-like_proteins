@@ -1,0 +1,12 @@
+* Organism:
+- Myroides guanonis
+* Protein length:
+- 2024
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 158 - 309
+-Cleaved_Adhesin (PF07675): pos. 423 - 559
+-Cleaved_Adhesin (PF07675): pos. 682 - 809
+-Cleaved_Adhesin (PF07675): pos. 946 - 1082
+* Stalk domains:
+-fn3 (PF00041): pos. 1103 - 1186
+

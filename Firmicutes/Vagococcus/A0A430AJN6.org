@@ -1,0 +1,11 @@
+* Organism:
+- Vagococcus entomophilus
+* Protein length:
+- 701
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 33 - 260
+* Stalk domains:
+-Cna_B (PF05738): pos. 342 - 427
+-Cna_B (PF05738): pos. 435 - 522
+-MucBP (PF06458): pos. 268 - 337
+

@@ -1,0 +1,20 @@
+* Organism:
+- Carnobacterium divergens DSM 20623
+* Protein length:
+- 1430
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 109 - 248
+* Stalk domains:
+-Cna_B (PF05738): pos. 368 - 452
+-Cna_B (PF05738): pos. 459 - 542
+-Cna_B (PF05738): pos. 549 - 633
+-Cna_B (PF05738): pos. 640 - 723
+-Cna_B (PF05738): pos. 730 - 814
+-Cna_B (PF05738): pos. 821 - 904
+-Cna_B (PF05738): pos. 911 - 994
+-Cna_B (PF05738): pos. 1001 - 1085
+-Cna_B (PF05738): pos. 1092 - 1174
+-Cna_B (PF05738): pos. 1181 - 1264
+-Cna_B (PF05738): pos. 1271 - 1354
+-SpaA (PF17802): pos. 283 - 351
+

@@ -1,0 +1,15 @@
+* Organism:
+- Marinilactibacillus sp. 15R
+* Protein length:
+- 1511
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 363 - 499
+-Collagen_bind (PF05737): pos. 658 - 785
+-Collagen_bind (PF05737): pos. 802 - 938
+-Collagen_bind (PF05737): pos. 947 - 1085
+* Stalk domains:
+-SpaA (PF17802): pos. 1116 - 1184
+-SpaA (PF17802): pos. 1220 - 1281
+-SpaA (PF17802): pos. 1306 - 1372
+-SpaA (PF17802): pos. 1398 - 1465
+

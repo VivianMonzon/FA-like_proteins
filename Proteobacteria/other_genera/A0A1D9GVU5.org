@@ -1,0 +1,41 @@
+* Organism:
+- Cupriavidus sp. USMAA2-4
+* Protein length:
+- 2735
+* Adhesive domains:
+-YadA_head (PF05658): pos. 208 - 234
+-YadA_head (PF05658): pos. 222 - 248
+-YadA_head (PF05658): pos. 634 - 659
+-YadA_head (PF05658): pos. 872 - 898
+-YadA_head (PF05658): pos. 900 - 926
+-YadA_head (PF05658): pos. 1033 - 1059
+-YadA_head (PF05658): pos. 1868 - 1894
+-YadA_head (PF05658): pos. 2555 - 2592
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 252 - 284
+-YadA_stalk (PF05662): pos. 343 - 381
+-YadA_stalk (PF05662): pos. 404 - 445
+-YadA_stalk (PF05662): pos. 460 - 483
+-YadA_stalk (PF05662): pos. 518 - 552
+-YadA_stalk (PF05662): pos. 568 - 593
+-YadA_stalk (PF05662): pos. 689 - 730
+-YadA_stalk (PF05662): pos. 781 - 822
+-YadA_stalk (PF05662): pos. 958 - 981
+-YadA_stalk (PF05662): pos. 1091 - 1121
+-YadA_stalk (PF05662): pos. 1287 - 1329
+-YadA_stalk (PF05662): pos. 1340 - 1382
+-YadA_stalk (PF05662): pos. 1397 - 1438
+-YadA_stalk (PF05662): pos. 1456 - 1498
+-YadA_stalk (PF05662): pos. 1513 - 1554
+-YadA_stalk (PF05662): pos. 1572 - 1614
+-YadA_stalk (PF05662): pos. 1629 - 1669
+-YadA_stalk (PF05662): pos. 1688 - 1730
+-YadA_stalk (PF05662): pos. 1745 - 1786
+-YadA_stalk (PF05662): pos. 1926 - 1966
+-YadA_stalk (PF05662): pos. 2125 - 2163
+-YadA_stalk (PF05662): pos. 2217 - 2259
+-YadA_stalk (PF05662): pos. 2274 - 2316
+-YadA_stalk (PF05662): pos. 2331 - 2371
+-YadA_stalk (PF05662): pos. 2387 - 2410
+-YadA_stalk (PF05662): pos. 2443 - 2488
+

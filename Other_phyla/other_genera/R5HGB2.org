@@ -1,0 +1,9 @@
+* Organism:
+- Acholeplasma sp. CAG:878
+* Protein length:
+- 381
+* Adhesive domains:
+-BclA_C (PF18573): pos. 247 - 381
+* Stalk domains:
+-Collagen (PF01391): pos. 88 - 132
+

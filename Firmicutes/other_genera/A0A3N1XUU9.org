@@ -1,0 +1,12 @@
+* Organism:
+- Mobilisporobacter senegalensis
+* Protein length:
+- 1106
+* Adhesive domains:
+-VWA (PF00092): pos. 560 - 729
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 277 - 295
+-TSP3_bac (PF18884): pos. 299 - 321
+-TSP3_bac (PF18884): pos. 378 - 399
+-TSP3_bac (PF18884): pos. 740 - 754
+

@@ -1,0 +1,13 @@
+* Organism:
+- Candidatus Aquiluna sp. IMCC13023
+* Protein length:
+- 1249
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 54 - 259
+* Stalk domains:
+-fn3 (PF00041): pos. 270 - 353
+-fn3 (PF00041): pos. 363 - 445
+-fn3 (PF00041): pos. 866 - 942
+-Flg_new (PF09479): pos. 648 - 716
+-Big_3_5 (PF16640): pos. 563 - 649
+

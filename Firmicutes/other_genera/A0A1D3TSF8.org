@@ -1,0 +1,21 @@
+* Organism:
+- Anaerobium acetethylicum
+* Protein length:
+- 1791
+* Adhesive domains:
+-TED (PF08341): pos. 72 - 186
+* Stalk domains:
+-SpaA (PF17802): pos. 315 - 384
+-SpaA (PF17802): pos. 418 - 499
+-SpaA (PF17802): pos. 528 - 609
+-SpaA (PF17802): pos. 647 - 729
+-SpaA (PF17802): pos. 761 - 849
+-SpaA (PF17802): pos. 878 - 959
+-SpaA (PF17802): pos. 1012 - 1100
+-SpaA (PF17802): pos. 1129 - 1210
+-SpaA (PF17802): pos. 1237 - 1304
+-SpaA (PF17802): pos. 1347 - 1428
+-SpaA (PF17802): pos. 1457 - 1538
+-SpaA (PF17802): pos. 1565 - 1629
+-SpaA (PF17802): pos. 1654 - 1732
+

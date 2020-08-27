@@ -1,0 +1,13 @@
+* Organism:
+- Spirosoma sp. HMF3257
+* Protein length:
+- 674
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 138 - 184
+* Stalk domains:
+-He_PIG (PF05345): pos. 472 - 560
+-PKD_6 (PF19408): pos. 238 - 299
+-PKD_6 (PF19408): pos. 300 - 373
+-PKD_6 (PF19408): pos. 429 - 471
+-PKD_6 (PF19408): pos. 504 - 559
+

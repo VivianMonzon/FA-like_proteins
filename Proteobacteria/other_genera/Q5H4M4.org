@@ -1,0 +1,16 @@
+* Organism:
+- Xanthomonas oryzae pv. oryzae (strain KACC10331 / KXO85)
+* Protein length:
+- 1265
+* Adhesive domains:
+-YadA_head (PF05658): pos. 105 - 131
+-YadA_head (PF05658): pos. 395 - 421
+-YadA_head (PF05658): pos. 423 - 449
+-YadA_head (PF05658): pos. 451 - 489
+-YadA_head (PF05658): pos. 731 - 757
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 177 - 217
+-YadA_stalk (PF05662): pos. 495 - 537
+-YadA_stalk (PF05662): pos. 880 - 922
+-YadA_stalk (PF05662): pos. 1132 - 1172
+

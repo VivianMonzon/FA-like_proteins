@@ -1,0 +1,15 @@
+* Organism:
+- Paraburkholderia aromaticivorans
+* Protein length:
+- 655
+* Adhesive domains:
+-YadA_head (PF05658): pos. 130 - 156
+-YadA_head (PF05658): pos. 158 - 184
+-YadA_head (PF05658): pos. 225 - 251
+-YadA_head (PF05658): pos. 323 - 349
+-YadA_head (PF05658): pos. 473 - 498
+-YadA_head (PF05658): pos. 501 - 526
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 389 - 434
+-YadA_stalk (PF05662): pos. 544 - 586
+

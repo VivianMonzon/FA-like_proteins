@@ -1,0 +1,11 @@
+* Organism:
+- Paucibacter toxinivorans
+* Protein length:
+- 632
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 410 - 630
+* Stalk domains:
+-Big_5 (PF13205): pos. 40 - 148
+-Big_5 (PF13205): pos. 155 - 272
+-Big_5 (PF13205): pos. 277 - 387
+

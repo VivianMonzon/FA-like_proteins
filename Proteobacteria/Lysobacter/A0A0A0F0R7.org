@@ -1,0 +1,12 @@
+* Organism:
+- Lysobacter arseniciresistens ZS79
+* Protein length:
+- 823
+* Adhesive domains:
+-YadA_head (PF05658): pos. 159 - 185
+-YadA_head (PF05658): pos. 173 - 199
+-YadA_head (PF05658): pos. 464 - 490
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 217 - 247
+-YadA_stalk (PF05662): pos. 530 - 569
+

@@ -1,0 +1,11 @@
+* Organism:
+- Phascolarctobacterium sp. CAG:207
+* Protein length:
+- 768
+* Adhesive domains:
+-YadA_head (PF05658): pos. 213 - 239
+-YadA_head (PF05658): pos. 241 - 266
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 342 - 380
+-YadA_stalk (PF05662): pos. 490 - 535
+

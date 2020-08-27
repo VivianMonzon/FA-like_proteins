@@ -1,0 +1,13 @@
+* Organism:
+- Mangrovimonas sp. DI 80
+* Protein length:
+- 2279
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 55 - 219
+-Cleaved_Adhesin (PF07675): pos. 818 - 979
+-Cleaved_Adhesin (PF07675): pos. 1084 - 1196
+* Stalk domains:
+-fn3 (PF00041): pos. 228 - 305
+-fn3 (PF00041): pos. 986 - 1065
+-Ig_7 (PF19081): pos. 1935 - 2015
+

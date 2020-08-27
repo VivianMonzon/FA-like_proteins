@@ -1,0 +1,23 @@
+* Organism:
+- Vibrio nigripulchritudo
+* Protein length:
+- 2895
+* Adhesive domains:
+-VWA (PF00092): pos. 2410 - 2545
+* Stalk domains:
+-Cadherin (PF00028): pos. 1085 - 1170
+-Cadherin_4 (PF17803): pos. 470 - 543
+-Cadherin_4 (PF17803): pos. 568 - 635
+-Cadherin_4 (PF17803): pos. 667 - 736
+-Cadherin_4 (PF17803): pos. 765 - 836
+-Cadherin_4 (PF17803): pos. 871 - 940
+-Cadherin_4 (PF17803): pos. 969 - 1036
+-Cadherin_5 (PF17892): pos. 487 - 576
+-Cadherin_5 (PF17892): pos. 978 - 1069
+-Cadherin_5 (PF17892): pos. 1960 - 2065
+-Big_9 (PF17963): pos. 468 - 564
+-Big_9 (PF17963): pos. 566 - 662
+-Big_9 (PF17963): pos. 666 - 764
+-Big_9 (PF17963): pos. 764 - 866
+-Big_9 (PF17963): pos. 968 - 1057
+

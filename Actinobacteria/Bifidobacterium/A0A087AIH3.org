@@ -1,0 +1,9 @@
+* Organism:
+- Bifidobacterium cuniculi
+* Protein length:
+- 927
+* Adhesive domains:
+-VWA (PF00092): pos. 212 - 422
+* Stalk domains:
+-FctA (PF12892): pos. 734 - 882
+

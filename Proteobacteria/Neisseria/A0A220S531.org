@@ -1,0 +1,10 @@
+* Organism:
+- Neisseria chenwenguii
+* Protein length:
+- 661
+* Adhesive domains:
+-VWA (PF00092): pos. 230 - 418
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 76 - 143
+-Big_9 (PF17963): pos. 74 - 174
+

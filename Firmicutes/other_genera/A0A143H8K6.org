@@ -1,0 +1,16 @@
+* Organism:
+- Rummeliibacillus stabekisii
+* Protein length:
+- 1781
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 336 - 471
+-Collagen_bind (PF05737): pos. 741 - 867
+-Collagen_bind (PF05737): pos. 880 - 1018
+* Stalk domains:
+-SpaA (PF17802): pos. 1047 - 1114
+-SpaA (PF17802): pos. 1140 - 1214
+-SpaA (PF17802): pos. 1239 - 1305
+-SpaA (PF17802): pos. 1331 - 1407
+-SpaA (PF17802): pos. 1433 - 1499
+-SpaA (PF17802): pos. 1527 - 1609
+

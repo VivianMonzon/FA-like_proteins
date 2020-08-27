@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus criceti HS-6
+* Protein length:
+- 1109
+* Adhesive domains:
+-GbpC (PF08363): pos. 26 - 362
+* Stalk domains:
+-Antigen_C (PF16364): pos. 877 - 1036
+-AgI_II_C2 (PF17998): pos. 701 - 869
+

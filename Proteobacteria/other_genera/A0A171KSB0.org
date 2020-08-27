@@ -1,0 +1,27 @@
+* Organism:
+- Kerstersia gyiorum
+* Protein length:
+- 3087
+* Adhesive domains:
+-YadA_head (PF05658): pos. 761 - 787
+-YadA_head (PF05658): pos. 825 - 850
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 96 - 141
+-YadA_stalk (PF05662): pos. 571 - 611
+-YadA_stalk (PF05662): pos. 659 - 701
+-YadA_stalk (PF05662): pos. 1105 - 1147
+-YadA_stalk (PF05662): pos. 1386 - 1427
+-YadA_stalk (PF05662): pos. 1517 - 1549
+-YadA_stalk (PF05662): pos. 1631 - 1673
+-YadA_stalk (PF05662): pos. 1752 - 1777
+-YadA_stalk (PF05662): pos. 1872 - 1914
+-YadA_stalk (PF05662): pos. 2006 - 2038
+-YadA_stalk (PF05662): pos. 2120 - 2162
+-YadA_stalk (PF05662): pos. 2241 - 2266
+-YadA_stalk (PF05662): pos. 2361 - 2403
+-YadA_stalk (PF05662): pos. 2484 - 2509
+-YadA_stalk (PF05662): pos. 2607 - 2648
+-YadA_stalk (PF05662): pos. 2734 - 2776
+-YadA_stalk (PF05662): pos. 2798 - 2843
+-YadA_stalk (PF05662): pos. 2969 - 3010
+

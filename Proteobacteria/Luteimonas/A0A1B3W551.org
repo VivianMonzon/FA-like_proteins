@@ -1,0 +1,21 @@
+* Organism:
+- Luteimonas sp. JM171
+* Protein length:
+- 2925
+* Adhesive domains:
+-YadA_head (PF05658): pos. 1702 - 1728
+-YadA_head (PF05658): pos. 1716 - 1742
+-YadA_head (PF05658): pos. 1730 - 1755
+-YadA_head (PF05658): pos. 2736 - 2762
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 153 - 195
+-YadA_stalk (PF05662): pos. 301 - 327
+-YadA_stalk (PF05662): pos. 641 - 681
+-YadA_stalk (PF05662): pos. 1078 - 1123
+-YadA_stalk (PF05662): pos. 1345 - 1387
+-YadA_stalk (PF05662): pos. 1639 - 1682
+-YadA_stalk (PF05662): pos. 1981 - 2026
+-YadA_stalk (PF05662): pos. 2475 - 2519
+-YadA_stalk (PF05662): pos. 2644 - 2686
+-YadA_stalk (PF05662): pos. 2792 - 2833
+

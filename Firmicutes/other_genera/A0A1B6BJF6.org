@@ -1,0 +1,13 @@
+* Organism:
+- Fusibacter sp. 3D3
+* Protein length:
+- 1216
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 364 - 484
+-Collagen_bind (PF05737): pos. 493 - 621
+-Collagen_bind (PF05737): pos. 628 - 752
+-Collagen_bind (PF05737): pos. 761 - 889
+* Stalk domains:
+-SpaA (PF17802): pos. 921 - 991
+-SpaA (PF17802): pos. 1015 - 1082
+

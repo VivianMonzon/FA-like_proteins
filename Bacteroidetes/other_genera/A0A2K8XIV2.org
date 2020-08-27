@@ -1,0 +1,11 @@
+* Organism:
+- Lacinutrix sp. Bg11-31
+* Protein length:
+- 722
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 21 - 223
+-Ice_binding (PF11999): pos. 259 - 449
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 476 - 496
+-TSP3_bac (PF18884): pos. 559 - 579
+

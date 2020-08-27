@@ -1,0 +1,11 @@
+* Organism:
+- Pedosphaera parvula (strain Ellin514)
+* Protein length:
+- 1102
+* Adhesive domains:
+-PA14 (PF07691): pos. 568 - 666
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 671 - 748
+-Cadherin_5 (PF17892): pos. 673 - 766
+-Big_9 (PF17963): pos. 665 - 755
+

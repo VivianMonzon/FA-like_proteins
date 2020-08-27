@@ -1,0 +1,10 @@
+* Organism:
+- Chitinophaga niastensis
+* Protein length:
+- 2318
+* Adhesive domains:
+-PA14 (PF07691): pos. 638 - 774
+* Stalk domains:
+-fn3 (PF00041): pos. 1931 - 2011
+-He_PIG (PF05345): pos. 1191 - 1285
+

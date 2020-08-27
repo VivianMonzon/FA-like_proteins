@@ -1,0 +1,13 @@
+* Organism:
+- Paenibacillus sp. UNC496MF
+* Protein length:
+- 1147
+* Adhesive domains:
+-PA14 (PF07691): pos. 990 - 1139
+* Stalk domains:
+-fn3 (PF00041): pos. 648 - 725
+-fn3 (PF00041): pos. 808 - 885
+-fn3 (PF00041): pos. 902 - 978
+-PKD (PF00801): pos. 467 - 538
+-PKD_4 (PF18911): pos. 458 - 533
+

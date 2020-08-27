@@ -1,0 +1,16 @@
+* Organism:
+- Paraburkholderia piptadeniae
+* Protein length:
+- 469
+* Adhesive domains:
+-YadA_head (PF05658): pos. 135 - 161
+-YadA_head (PF05658): pos. 163 - 189
+-YadA_head (PF05658): pos. 258 - 284
+-YadA_head (PF05658): pos. 272 - 298
+-YadA_head (PF05658): pos. 300 - 326
+-YadA_head (PF05658): pos. 314 - 340
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 31 - 76
+-YadA_stalk (PF05662): pos. 207 - 245
+-YadA_stalk (PF05662): pos. 344 - 386
+

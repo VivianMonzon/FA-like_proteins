@@ -1,0 +1,23 @@
+* Organism:
+- Chryseolinea flava
+* Protein length:
+- 1214
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 412 - 636
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 307 - 375
+-Cadherin_4 (PF17803): pos. 635 - 700
+-Cadherin_4 (PF17803): pos. 728 - 799
+-Cadherin_4 (PF17803): pos. 826 - 896
+-Cadherin_4 (PF17803): pos. 923 - 991
+-Cadherin_5 (PF17892): pos. 315 - 406
+-Cadherin_5 (PF17892): pos. 641 - 735
+-Cadherin_5 (PF17892): pos. 737 - 832
+-Cadherin_5 (PF17892): pos. 834 - 930
+-Big_9 (PF17963): pos. 306 - 396
+-Big_9 (PF17963): pos. 633 - 721
+-Big_9 (PF17963): pos. 727 - 820
+-Big_9 (PF17963): pos. 824 - 917
+-Big_9 (PF17963): pos. 922 - 1012
+-Big_9 (PF17963): pos. 1019 - 1107
+

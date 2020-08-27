@@ -1,0 +1,9 @@
+* Organism:
+- Paenibacillus swuensis
+* Protein length:
+- 896
+* Adhesive domains:
+-BclA_C (PF18573): pos. 767 - 896
+* Stalk domains:
+-Collagen (PF01391): pos. 699 - 765
+

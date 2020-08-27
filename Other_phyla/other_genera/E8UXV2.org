@@ -1,0 +1,14 @@
+* Organism:
+- Terriglobus saanensis (strain ATCC BAA-1853 / DSM 23119 / SP1PR4)
+* Protein length:
+- 856
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 602 - 854
+* Stalk domains:
+-Big_5 (PF13205): pos. 1 - 42
+-Big_5 (PF13205): pos. 43 - 147
+-Big_5 (PF13205): pos. 148 - 253
+-Big_5 (PF13205): pos. 256 - 361
+-Big_5 (PF13205): pos. 365 - 470
+-Big_5 (PF13205): pos. 475 - 581
+

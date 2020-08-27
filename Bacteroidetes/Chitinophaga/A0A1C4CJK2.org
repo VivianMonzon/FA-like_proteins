@@ -1,0 +1,14 @@
+* Organism:
+- Chitinophaga costaii
+* Protein length:
+- 647
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 18 - 226
+* Stalk domains:
+-PKD (PF00801): pos. 232 - 300
+-PKD (PF00801): pos. 321 - 384
+-PKD (PF00801): pos. 402 - 465
+-PKD_4 (PF18911): pos. 218 - 295
+-PKD_4 (PF18911): pos. 300 - 379
+-PKD_4 (PF18911): pos. 383 - 461
+

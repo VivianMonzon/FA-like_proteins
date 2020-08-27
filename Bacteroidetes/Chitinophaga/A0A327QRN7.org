@@ -1,0 +1,12 @@
+* Organism:
+- Chitinophaga skermanii
+* Protein length:
+- 647
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 18 - 228
+* Stalk domains:
+-PKD (PF00801): pos. 234 - 302
+-PKD_4 (PF18911): pos. 226 - 297
+-PKD_4 (PF18911): pos. 302 - 379
+-PKD_4 (PF18911): pos. 384 - 461
+

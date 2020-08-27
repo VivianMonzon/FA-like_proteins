@@ -1,0 +1,18 @@
+* Organism:
+- Nicoletella semolina
+* Protein length:
+- 2810
+* Adhesive domains:
+-YadA_head (PF05658): pos. 2527 - 2553
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 236 - 274
+-YadA_stalk (PF05662): pos. 379 - 421
+-YadA_stalk (PF05662): pos. 638 - 676
+-YadA_stalk (PF05662): pos. 783 - 825
+-YadA_stalk (PF05662): pos. 1210 - 1252
+-YadA_stalk (PF05662): pos. 1451 - 1492
+-YadA_stalk (PF05662): pos. 1701 - 1742
+-YadA_stalk (PF05662): pos. 2070 - 2111
+-YadA_stalk (PF05662): pos. 2244 - 2286
+-YadA_stalk (PF05662): pos. 2693 - 2738
+

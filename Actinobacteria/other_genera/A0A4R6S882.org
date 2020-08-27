@@ -1,0 +1,11 @@
+* Organism:
+- Leucobacter luti
+* Protein length:
+- 1165
+* Adhesive domains:
+-VWA (PF00092): pos. 546 - 738
+* Stalk domains:
+-SpaA_2 (PF19403): pos. 745 - 873
+-SpaA_2 (PF19403): pos. 898 - 966
+-SpaA_2 (PF19403): pos. 1004 - 1104
+

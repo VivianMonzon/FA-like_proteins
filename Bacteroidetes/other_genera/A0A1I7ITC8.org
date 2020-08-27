@@ -1,0 +1,9 @@
+* Organism:
+- Pustulibacterium marinum
+* Protein length:
+- 1178
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 33 - 188
+* Stalk domains:
+-fn3 (PF00041): pos. 195 - 274
+

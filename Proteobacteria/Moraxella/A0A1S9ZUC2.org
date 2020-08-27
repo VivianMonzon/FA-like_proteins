@@ -1,0 +1,12 @@
+* Organism:
+- Moraxella caviae
+* Protein length:
+- 921
+* Adhesive domains:
+-YadA_head (PF05658): pos. 200 - 225
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 268 - 313
+-YadA_stalk (PF05662): pos. 567 - 612
+-YadA_stalk (PF05662): pos. 709 - 754
+-YadA_stalk (PF05662): pos. 799 - 835
+

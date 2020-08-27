@@ -1,0 +1,30 @@
+* Organism:
+- Altererythrobacter marensis
+* Protein length:
+- 2581
+* Adhesive domains:
+-YadA_head (PF05658): pos. 143 - 166
+-YadA_head (PF05658): pos. 157 - 182
+-YadA_head (PF05658): pos. 389 - 415
+-YadA_head (PF05658): pos. 405 - 429
+-YadA_head (PF05658): pos. 948 - 973
+-YadA_head (PF05658): pos. 961 - 987
+-YadA_head (PF05658): pos. 1284 - 1310
+-YadA_head (PF05658): pos. 1298 - 1324
+-YadA_head (PF05658): pos. 1543 - 1569
+-YadA_head (PF05658): pos. 1702 - 1728
+-YadA_head (PF05658): pos. 2123 - 2149
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 592 - 637
+-YadA_stalk (PF05662): pos. 1084 - 1123
+-YadA_stalk (PF05662): pos. 1191 - 1236
+-YadA_stalk (PF05662): pos. 1363 - 1402
+-YadA_stalk (PF05662): pos. 1470 - 1515
+-YadA_stalk (PF05662): pos. 1608 - 1653
+-YadA_stalk (PF05662): pos. 1767 - 1810
+-YadA_stalk (PF05662): pos. 1843 - 1888
+-YadA_stalk (PF05662): pos. 2020 - 2062
+-YadA_stalk (PF05662): pos. 2184 - 2226
+-YadA_stalk (PF05662): pos. 2403 - 2442
+-YadA_stalk (PF05662): pos. 2455 - 2496
+

@@ -1,0 +1,9 @@
+* Organism:
+- Aquimarina spongiae
+* Protein length:
+- 702
+* Adhesive domains:
+-VWA (PF00092): pos. 346 - 519
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 23 - 95
+

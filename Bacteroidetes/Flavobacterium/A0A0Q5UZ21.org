@@ -1,0 +1,9 @@
+* Organism:
+- Flavobacterium sp. Leaf359
+* Protein length:
+- 2628
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 672 - 901
+* Stalk domains:
+-He_PIG (PF05345): pos. 610 - 695
+

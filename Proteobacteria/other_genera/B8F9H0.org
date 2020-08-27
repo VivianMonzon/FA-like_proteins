@@ -1,0 +1,14 @@
+* Organism:
+- Desulfatibacillum aliphaticivorans
+* Protein length:
+- 1461
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 32 - 254
+* Stalk domains:
+-DUF11 (PF01345): pos. 255 - 388
+-DUF11 (PF01345): pos. 392 - 511
+-DUF11 (PF01345): pos. 518 - 639
+-DUF11 (PF01345): pos. 646 - 767
+-DUF11 (PF01345): pos. 774 - 894
+-DUF11 (PF01345): pos. 901 - 1022
+

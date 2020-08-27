@@ -1,0 +1,9 @@
+* Organism:
+- Fusobacterium nucleatum subsp. nucleatum (strain ATCC 25586 / CIP 101130 / JCM 8532 / LMG 13131)
+* Protein length:
+- 340
+* Adhesive domains:
+-YadA_head (PF05658): pos. 37 - 63
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 153 - 196
+

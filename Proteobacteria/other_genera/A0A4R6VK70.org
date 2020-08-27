@@ -1,0 +1,19 @@
+* Organism:
+- Mesocricetibacter intestinalis
+* Protein length:
+- 2345
+* Adhesive domains:
+-YadA_head (PF05658): pos. 365 - 391
+-YadA_head (PF05658): pos. 395 - 421
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 312 - 357
+-YadA_stalk (PF05662): pos. 478 - 520
+-YadA_stalk (PF05662): pos. 584 - 626
+-YadA_stalk (PF05662): pos. 908 - 950
+-YadA_stalk (PF05662): pos. 1206 - 1248
+-YadA_stalk (PF05662): pos. 1409 - 1451
+-YadA_stalk (PF05662): pos. 1729 - 1771
+-YadA_stalk (PF05662): pos. 1876 - 1918
+-YadA_stalk (PF05662): pos. 2043 - 2081
+-YadA_stalk (PF05662): pos. 2150 - 2191
+

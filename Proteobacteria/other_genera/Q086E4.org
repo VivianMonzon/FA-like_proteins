@@ -1,0 +1,14 @@
+* Organism:
+- Shewanella frigidimarina (strain NCIMB 400)
+* Protein length:
+- 892
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 670 - 889
+* Stalk domains:
+-Big_2 (PF02368): pos. 42 - 128
+-Big_2 (PF02368): pos. 132 - 213
+-Big_2 (PF02368): pos. 218 - 300
+-Big_2 (PF02368): pos. 304 - 386
+-Big_2 (PF02368): pos. 390 - 472
+-Big_2 (PF02368): pos. 476 - 558
+

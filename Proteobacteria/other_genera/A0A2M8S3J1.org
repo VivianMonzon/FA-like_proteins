@@ -1,0 +1,19 @@
+* Organism:
+- Conservatibacter flavescens
+* Protein length:
+- 3003
+* Adhesive domains:
+-YadA_head (PF05658): pos. 265 - 291
+-YadA_head (PF05658): pos. 321 - 347
+-YadA_head (PF05658): pos. 507 - 533
+-YadA_head (PF05658): pos. 663 - 689
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 395 - 438
+-YadA_stalk (PF05662): pos. 785 - 830
+-YadA_stalk (PF05662): pos. 1273 - 1315
+-YadA_stalk (PF05662): pos. 1982 - 2024
+-YadA_stalk (PF05662): pos. 2167 - 2206
+-YadA_stalk (PF05662): pos. 2660 - 2702
+-YadA_stalk (PF05662): pos. 2758 - 2802
+-YadA_stalk (PF05662): pos. 2892 - 2934
+

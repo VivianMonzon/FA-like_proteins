@@ -1,0 +1,13 @@
+* Organism:
+- Helcococcus kunzii ATCC 51366
+* Protein length:
+- 1136
+* Adhesive domains:
+-TED (PF08341): pos. 69 - 205
+-TED (PF08341): pos. 534 - 673
+* Stalk domains:
+-SpaA (PF17802): pos. 282 - 349
+-SpaA (PF17802): pos. 413 - 484
+-SpaA (PF17802): pos. 731 - 795
+-SpaA (PF17802): pos. 956 - 1020
+

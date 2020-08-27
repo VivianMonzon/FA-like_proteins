@@ -1,0 +1,19 @@
+* Organism:
+- Campylobacter geochelonis
+* Protein length:
+- 2279
+* Adhesive domains:
+-YadA_head (PF05658): pos. 369 - 395
+-YadA_head (PF05658): pos. 678 - 704
+-YadA_head (PF05658): pos. 1301 - 1327
+-YadA_head (PF05658): pos. 1817 - 1854
+-YadA_head (PF05658): pos. 2109 - 2135
+-YadA_head (PF05658): pos. 2126 - 2149
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 327 - 369
+-YadA_stalk (PF05662): pos. 537 - 579
+-YadA_stalk (PF05662): pos. 1245 - 1279
+-YadA_stalk (PF05662): pos. 1938 - 1983
+-YadA_stalk (PF05662): pos. 2063 - 2105
+-YadA_stalk (PF05662): pos. 2168 - 2210
+

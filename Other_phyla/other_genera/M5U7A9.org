@@ -1,0 +1,9 @@
+* Organism:
+- Rhodopirellula sallentina SM41
+* Protein length:
+- 1262
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 618 - 827
+* Stalk domains:
+-Calx-beta (PF03160): pos. 498 - 590
+

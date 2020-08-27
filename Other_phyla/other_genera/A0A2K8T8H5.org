@@ -1,0 +1,59 @@
+* Organism:
+- Nostoc flagelliforme CCNUN1
+* Protein length:
+- 10889
+* Adhesive domains:
+-PA14 (PF07691): pos. 1180 - 1327
+* Stalk domains:
+-PKD (PF00801): pos. 9994 - 10060
+-PKD (PF00801): pos. 10075 - 10147
+-PKD (PF00801): pos. 10164 - 10233
+-PKD (PF00801): pos. 10247 - 10319
+-Calx-beta (PF03160): pos. 10328 - 10419
+-Calx-beta (PF03160): pos. 10431 - 10531
+-Calx-beta (PF03160): pos. 10543 - 10643
+-Calx-beta (PF03160): pos. 10655 - 10755
+-He_PIG (PF05345): pos. 5682 - 5768
+-He_PIG (PF05345): pos. 5789 - 5884
+-He_PIG (PF05345): pos. 5889 - 5976
+-He_PIG (PF05345): pos. 6004 - 6087
+-He_PIG (PF05345): pos. 6304 - 6390
+-He_PIG (PF05345): pos. 6395 - 6482
+-He_PIG (PF05345): pos. 6484 - 6574
+-CARDB (PF07705): pos. 398 - 513
+-CARDB (PF07705): pos. 519 - 634
+-CARDB (PF07705): pos. 640 - 755
+-CARDB (PF07705): pos. 761 - 876
+-CARDB (PF07705): pos. 884 - 1002
+-CARDB (PF07705): pos. 1008 - 1135
+-CARDB (PF07705): pos. 1340 - 1453
+-CARDB (PF07705): pos. 1459 - 1573
+-CARDB (PF07705): pos. 1579 - 1693
+-CARDB (PF07705): pos. 1699 - 1815
+-CARDB (PF07705): pos. 1821 - 1939
+-CARDB (PF07705): pos. 1948 - 2063
+-CARDB (PF07705): pos. 2069 - 2185
+-CARDB (PF07705): pos. 2193 - 2307
+-CARDB (PF07705): pos. 2313 - 2430
+-CARDB (PF07705): pos. 2436 - 2551
+-CARDB (PF07705): pos. 2557 - 2671
+-CARDB (PF07705): pos. 2677 - 2791
+-CARDB (PF07705): pos. 2797 - 2911
+-CARDB (PF07705): pos. 2917 - 3030
+-CARDB (PF07705): pos. 3287 - 3398
+-CARDB (PF07705): pos. 3410 - 3525
+-CARDB (PF07705): pos. 3533 - 3664
+-CARDB (PF07705): pos. 4091 - 4214
+-CARDB (PF07705): pos. 4224 - 4340
+-Cadherin_5 (PF17892): pos. 9890 - 9984
+-Big_9 (PF17963): pos. 5876 - 5963
+-Big_9 (PF17963): pos. 6291 - 6379
+-Big_9 (PF17963): pos. 6382 - 6470
+-Big_9 (PF17963): pos. 6474 - 6561
+-Big_9 (PF17963): pos. 7206 - 7296
+-Big_9 (PF17963): pos. 9890 - 9971
+-PKD_4 (PF18911): pos. 9977 - 10056
+-PKD_4 (PF18911): pos. 10062 - 10142
+-PKD_4 (PF18911): pos. 10148 - 10228
+-PKD_4 (PF18911): pos. 10234 - 10314
+

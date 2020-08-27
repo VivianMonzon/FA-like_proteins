@@ -1,0 +1,32 @@
+* Organism:
+- Paenibacillus contaminans
+* Protein length:
+- 2189
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 205 - 293
+-Collagen_bind (PF05737): pos. 463 - 589
+* Stalk domains:
+-SpaA (PF17802): pos. 941 - 1001
+-SpaA (PF17802): pos. 1052 - 1124
+-SpaA (PF17802): pos. 1150 - 1218
+-SpaA (PF17802): pos. 1244 - 1312
+-SpaA (PF17802): pos. 1338 - 1410
+-SpaA (PF17802): pos. 1436 - 1504
+-SpaA (PF17802): pos. 1530 - 1598
+-SpaA (PF17802): pos. 1624 - 1692
+-SpaA (PF17802): pos. 1719 - 1790
+-SpaA (PF17802): pos. 1819 - 1886
+-SpaA (PF17802): pos. 1913 - 1984
+-SpaA (PF17802): pos. 2008 - 2075
+-SpaA_2 (PF19403): pos. 1041 - 1132
+-SpaA_2 (PF19403): pos. 1140 - 1231
+-SpaA_2 (PF19403): pos. 1234 - 1319
+-SpaA_2 (PF19403): pos. 1328 - 1420
+-SpaA_2 (PF19403): pos. 1427 - 1516
+-SpaA_2 (PF19403): pos. 1523 - 1612
+-SpaA_2 (PF19403): pos. 1614 - 1706
+-SpaA_2 (PF19403): pos. 1710 - 1789
+-SpaA_2 (PF19403): pos. 1826 - 1893
+-SpaA_2 (PF19403): pos. 1906 - 1993
+-SpaA_2 (PF19403): pos. 2007 - 2087
+

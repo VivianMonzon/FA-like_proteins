@@ -1,0 +1,20 @@
+* Organism:
+- Vibrio pectenicida
+* Protein length:
+- 3071
+* Adhesive domains:
+-VWA (PF00092): pos. 2578 - 2710
+* Stalk domains:
+-Calx-beta (PF03160): pos. 313 - 351
+-Calx-beta (PF03160): pos. 362 - 476
+-Calx-beta (PF03160): pos. 505 - 614
+-Calx-beta (PF03160): pos. 656 - 752
+-Calx-beta (PF03160): pos. 772 - 879
+-Calx-beta (PF03160): pos. 1583 - 1698
+-Calx-beta (PF03160): pos. 1718 - 1795
+-Calx-beta (PF03160): pos. 1796 - 1831
+-Cadherin_5 (PF17892): pos. 152 - 249
+-Cadherin_5 (PF17892): pos. 1381 - 1470
+-Big_9 (PF17963): pos. 150 - 237
+-Big_9 (PF17963): pos. 1384 - 1458
+

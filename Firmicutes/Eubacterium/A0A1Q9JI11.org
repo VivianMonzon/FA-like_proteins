@@ -1,0 +1,25 @@
+* Organism:
+- Eubacterium sp. 68-3-10
+* Protein length:
+- 2733
+* Adhesive domains:
+-VWA (PF00092): pos. 65 - 283
+* Stalk domains:
+-Cna_B (PF05738): pos. 821 - 924
+-Cna_B (PF05738): pos. 932 - 1023
+-Cna_B (PF05738): pos. 1151 - 1259
+-FctA (PF12892): pos. 1268 - 1381
+-FctA (PF12892): pos. 1391 - 1511
+-FctA (PF12892): pos. 1523 - 1648
+-FctA (PF12892): pos. 1660 - 1778
+-FctA (PF12892): pos. 1790 - 1910
+-FctA (PF12892): pos. 1922 - 2041
+-FctA (PF12892): pos. 2047 - 2168
+-FctA (PF12892): pos. 2175 - 2313
+-FctA (PF12892): pos. 2321 - 2435
+-FctA (PF12892): pos. 2447 - 2554
+-FctA (PF12892): pos. 2565 - 2689
+-SpaA (PF17802): pos. 1044 - 1110
+-DUF5979 (PF19407): pos. 721 - 795
+-DUF5979 (PF19407): pos. 1274 - 1379
+

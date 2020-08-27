@@ -1,0 +1,10 @@
+* Organism:
+- Hyphomicrobium sulfonivorans
+* Protein length:
+- 420
+* Adhesive domains:
+-YadA_head (PF05658): pos. 36 - 62
+-YadA_head (PF05658): pos. 50 - 77
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 294 - 335
+

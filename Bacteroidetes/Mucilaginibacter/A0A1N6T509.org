@@ -1,0 +1,9 @@
+* Organism:
+- Mucilaginibacter lappiensis
+* Protein length:
+- 646
+* Adhesive domains:
+-VWA (PF00092): pos. 274 - 446
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 23 - 94
+

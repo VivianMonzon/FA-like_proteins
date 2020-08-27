@@ -1,0 +1,26 @@
+* Organism:
+- Clostridium intestinale URNW
+* Protein length:
+- 2582
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 186 - 304
+-Collagen_bind (PF05737): pos. 320 - 433
+-Collagen_bind (PF05737): pos. 442 - 562
+-Collagen_bind (PF05737): pos. 568 - 701
+-Collagen_bind (PF05737): pos. 701 - 831
+* Stalk domains:
+-Big_1 (PF02369): pos. 2136 - 2197
+-SpaA (PF17802): pos. 860 - 928
+-SpaA (PF17802): pos. 975 - 1047
+-SpaA (PF17802): pos. 1078 - 1146
+-SpaA (PF17802): pos. 1174 - 1249
+-SpaA (PF17802): pos. 1284 - 1358
+-SpaA (PF17802): pos. 1392 - 1460
+-SpaA (PF17802): pos. 1486 - 1558
+-SpaA (PF17802): pos. 1584 - 1651
+-SpaA (PF17802): pos. 1676 - 1743
+-SpaA (PF17802): pos. 1767 - 1834
+-SpaA (PF17802): pos. 1858 - 1928
+-SpaA (PF17802): pos. 1952 - 2019
+-SpaA (PF17802): pos. 2043 - 2110
+

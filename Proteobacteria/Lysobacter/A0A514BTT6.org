@@ -1,0 +1,9 @@
+* Organism:
+- Lysobacter alkalisoli
+* Protein length:
+- 517
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 66 - 517
+* Stalk domains:
+-DUF11 (PF01345): pos. 416 - 516
+

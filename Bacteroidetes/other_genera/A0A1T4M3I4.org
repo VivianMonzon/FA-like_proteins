@@ -1,0 +1,16 @@
+* Organism:
+- Porphyromonas circumdentaria
+* Protein length:
+- 1112
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 47 - 205
+-Cleaved_Adhesin (PF07675): pos. 386 - 545
+* Stalk domains:
+-Flg_new_2 (PF18998): pos. 231 - 303
+-Flg_new_2 (PF18998): pos. 310 - 380
+-Flg_new_2 (PF18998): pos. 570 - 642
+-Flg_new_2 (PF18998): pos. 722 - 797
+-Flg_new_2 (PF18998): pos. 800 - 876
+-Flg_new_2 (PF18998): pos. 879 - 955
+-Flg_new_2 (PF18998): pos. 958 - 1033
+

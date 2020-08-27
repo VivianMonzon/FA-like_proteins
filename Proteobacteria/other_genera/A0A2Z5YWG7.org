@@ -1,0 +1,13 @@
+* Organism:
+- Altererythrobacter sp. B11
+* Protein length:
+- 523
+* Adhesive domains:
+-YadA_head (PF05658): pos. 50 - 75
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 110 - 152
+-YadA_stalk (PF05662): pos. 163 - 205
+-YadA_stalk (PF05662): pos. 229 - 273
+-YadA_stalk (PF05662): pos. 307 - 352
+-YadA_stalk (PF05662): pos. 397 - 438
+

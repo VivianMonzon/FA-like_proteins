@@ -1,0 +1,18 @@
+* Organism:
+- Pseudoxanthomonas wuyuanensis
+* Protein length:
+- 1238
+* Adhesive domains:
+-YadA_head (PF05658): pos. 108 - 134
+-YadA_head (PF05658): pos. 136 - 162
+-YadA_head (PF05658): pos. 296 - 322
+-YadA_head (PF05658): pos. 577 - 601
+-YadA_head (PF05658): pos. 625 - 651
+-YadA_head (PF05658): pos. 744 - 770
+-YadA_head (PF05658): pos. 891 - 917
+-YadA_head (PF05658): pos. 919 - 945
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 340 - 381
+-YadA_stalk (PF05662): pos. 669 - 710
+-YadA_stalk (PF05662): pos. 963 - 1001
+

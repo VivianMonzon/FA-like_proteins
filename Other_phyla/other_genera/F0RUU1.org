@@ -1,0 +1,11 @@
+* Organism:
+- Sphaerochaeta globosa (strain ATCC BAA-1886 / DSM 22777 / Buddy) (Spirochaeta sp. (strain Buddy))
+* Protein length:
+- 644
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 431 - 636
+* Stalk domains:
+-Big_2 (PF02368): pos. 36 - 120
+-Big_2 (PF02368): pos. 129 - 208
+-Big_2 (PF02368): pos. 222 - 302
+

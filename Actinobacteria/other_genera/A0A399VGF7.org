@@ -1,0 +1,9 @@
+* Organism:
+- Nakamurella silvestris
+* Protein length:
+- 1386
+* Adhesive domains:
+-PA14 (PF07691): pos. 62 - 204
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 1120 - 1208
+

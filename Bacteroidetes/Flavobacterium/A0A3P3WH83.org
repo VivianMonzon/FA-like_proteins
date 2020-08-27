@@ -1,0 +1,10 @@
+* Organism:
+- Flavobacterium macacae
+* Protein length:
+- 1349
+* Adhesive domains:
+-PA14 (PF07691): pos. 524 - 618
+* Stalk domains:
+-Cadherin_5 (PF17892): pos. 187 - 280
+-Big_9 (PF17963): pos. 185 - 268
+

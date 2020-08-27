@@ -1,0 +1,13 @@
+* Organism:
+- Enterococcus faecalis (strain ATCC 700802 / V583)
+* Protein length:
+- 1305
+* Adhesive domains:
+-GbpC (PF08363): pos. 256 - 548
+-Adhesin_P1_N (PF18652): pos. 150 - 255
+* Stalk domains:
+-Antigen_C (PF16364): pos. 753 - 915
+-Antigen_C (PF16364): pos. 1073 - 1232
+-AgI_II_C2 (PF17998): pos. 588 - 745
+-AgI_II_C2 (PF17998): pos. 920 - 1065
+

@@ -1,0 +1,13 @@
+* Organism:
+- Listeria booriae
+* Protein length:
+- 1072
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 509 - 552
+* Stalk domains:
+-MucBP (PF06458): pos. 342 - 404
+-MucBP (PF06458): pos. 699 - 761
+-MucBP (PF06458): pos. 770 - 832
+-MucBP (PF06458): pos. 842 - 904
+-MucBP (PF06458): pos. 913 - 975
+

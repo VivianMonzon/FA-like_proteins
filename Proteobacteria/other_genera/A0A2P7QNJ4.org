@@ -1,0 +1,14 @@
+* Organism:
+- Sphingosinicella sp. GL-C-18
+* Protein length:
+- 1309
+* Adhesive domains:
+-YadA_head (PF05658): pos. 488 - 514
+-YadA_head (PF05658): pos. 1054 - 1080
+-YadA_head (PF05658): pos. 1138 - 1164
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 405 - 446
+-YadA_stalk (PF05662): pos. 560 - 602
+-YadA_stalk (PF05662): pos. 664 - 708
+-YadA_stalk (PF05662): pos. 801 - 846
+

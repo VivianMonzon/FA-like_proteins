@@ -1,0 +1,10 @@
+* Organism:
+- Primorskyibacter insulae
+* Protein length:
+- 989
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 325 - 558
+* Stalk domains:
+-CARDB (PF07705): pos. 603 - 714
+-CARDB (PF07705): pos. 743 - 857
+

@@ -1,0 +1,16 @@
+* Organism:
+- Terriglobus roseus (strain DSM 18391 / NRRL B-41598 / KBS 63)
+* Protein length:
+- 1186
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 941 - 1182
+* Stalk domains:
+-Big_5 (PF13205): pos. 49 - 156
+-Big_5 (PF13205): pos. 161 - 264
+-Big_5 (PF13205): pos. 271 - 373
+-Big_5 (PF13205): pos. 380 - 482
+-Big_5 (PF13205): pos. 485 - 590
+-Big_5 (PF13205): pos. 593 - 698
+-Big_5 (PF13205): pos. 703 - 808
+-Big_5 (PF13205): pos. 813 - 921
+

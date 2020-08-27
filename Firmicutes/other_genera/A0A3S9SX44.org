@@ -1,0 +1,31 @@
+* Organism:
+- Anoxybacter fermentans
+* Protein length:
+- 1674
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 186 - 228
+-LRR_4 (PF12799): pos. 254 - 298
+-LRR_4 (PF12799): pos. 276 - 318
+-LRR_4 (PF12799): pos. 298 - 344
+-LRR_4 (PF12799): pos. 343 - 385
+-LRR_4 (PF12799): pos. 365 - 405
+-LRR_4 (PF12799): pos. 387 - 431
+* Stalk domains:
+-He_PIG (PF05345): pos. 449 - 533
+-He_PIG (PF05345): pos. 716 - 801
+-He_PIG (PF05345): pos. 806 - 893
+-He_PIG (PF05345): pos. 897 - 982
+-He_PIG (PF05345): pos. 987 - 1074
+-He_PIG (PF05345): pos. 1079 - 1164
+-CARDB (PF07705): pos. 1165 - 1264
+-Big_9 (PF17963): pos. 437 - 522
+-Big_9 (PF17963): pos. 525 - 610
+-Big_9 (PF17963): pos. 703 - 789
+-Big_9 (PF17963): pos. 793 - 881
+-Big_9 (PF17963): pos. 884 - 971
+-Big_9 (PF17963): pos. 974 - 1062
+-Big_9 (PF17963): pos. 1066 - 1153
+-PKD_4 (PF18911): pos. 526 - 610
+-PKD_4 (PF18911): pos. 615 - 699
+-Flg_new_2 (PF18998): pos. 1281 - 1354
+

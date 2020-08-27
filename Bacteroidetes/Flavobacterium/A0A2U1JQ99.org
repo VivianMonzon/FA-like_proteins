@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium psychrotolerans
+* Protein length:
+- 565
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 360 - 562
+* Stalk domains:
+-Big_5 (PF13205): pos. 32 - 131
+-Big_5 (PF13205): pos. 133 - 235
+-Big_5 (PF13205): pos. 237 - 341
+

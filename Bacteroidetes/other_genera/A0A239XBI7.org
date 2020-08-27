@@ -1,0 +1,12 @@
+* Organism:
+- Chryseobacterium taklimakanense
+* Protein length:
+- 1477
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 729 - 835
+-Cleaved_Adhesin (PF07675): pos. 1099 - 1266
+* Stalk domains:
+-PKD (PF00801): pos. 984 - 1059
+-PKD_6 (PF19408): pos. 909 - 973
+-PKD_6 (PF19408): pos. 1001 - 1061
+

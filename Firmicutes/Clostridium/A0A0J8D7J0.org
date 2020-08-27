@@ -1,0 +1,22 @@
+* Organism:
+- Clostridium cylindrosporum DSM 605
+* Protein length:
+- 1782
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 187 - 306
+-Collagen_bind (PF05737): pos. 316 - 434
+-Collagen_bind (PF05737): pos. 571 - 697
+* Stalk domains:
+-SdrD_B (PF17210): pos. 1086 - 1200
+-SdrD_B (PF17210): pos. 1290 - 1384
+-SpaA (PF17802): pos. 728 - 792
+-SpaA (PF17802): pos. 824 - 895
+-SpaA (PF17802): pos. 925 - 992
+-SpaA (PF17802): pos. 1016 - 1083
+-SpaA (PF17802): pos. 1109 - 1176
+-SpaA (PF17802): pos. 1200 - 1267
+-SpaA (PF17802): pos. 1303 - 1370
+-SpaA (PF17802): pos. 1396 - 1467
+-SpaA (PF17802): pos. 1508 - 1573
+-SpaA (PF17802): pos. 1599 - 1666
+

@@ -1,0 +1,14 @@
+* Organism:
+- Streptococcus intermedius B196
+* Protein length:
+- 1311
+* Adhesive domains:
+-GbpC (PF08363): pos. 327 - 654
+-Adhesin_P1_N (PF18652): pos. 79 - 184
+* Stalk domains:
+-Strep_SA_rep (PF06696): pos. 200 - 224
+-Strep_SA_rep (PF06696): pos. 225 - 249
+-Strep_SA_rep (PF06696): pos. 282 - 306
+-Antigen_C (PF16364): pos. 1091 - 1250
+-AgI_II_C2 (PF17998): pos. 915 - 1083
+

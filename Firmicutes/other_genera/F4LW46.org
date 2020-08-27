@@ -1,0 +1,11 @@
+* Organism:
+- Tepidanaerobacter acetatoxydans (strain DSM 21804 / JCM 16047 / Re1)
+* Protein length:
+- 925
+* Adhesive domains:
+-VWA (PF00092): pos. 230 - 426
+* Stalk domains:
+-FctA (PF12892): pos. 580 - 694
+-FctA (PF12892): pos. 702 - 807
+-FctA (PF12892): pos. 815 - 919
+

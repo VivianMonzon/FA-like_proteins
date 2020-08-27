@@ -1,0 +1,9 @@
+* Organism:
+- Enterococcus casseliflavus EC20
+* Protein length:
+- 799
+* Adhesive domains:
+-VWA (PF00092): pos. 113 - 307
+* Stalk domains:
+-Cna_B (PF05738): pos. 475 - 577
+

@@ -1,0 +1,28 @@
+* Organism:
+- Kingella potus
+* Protein length:
+- 3903
+* Adhesive domains:
+-YadA_head (PF05658): pos. 303 - 329
+-YadA_head (PF05658): pos. 729 - 755
+-YadA_head (PF05658): pos. 1241 - 1266
+-YadA_head (PF05658): pos. 1353 - 1379
+-YadA_head (PF05658): pos. 1367 - 1393
+-YadA_head (PF05658): pos. 3622 - 3648
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 599 - 643
+-YadA_stalk (PF05662): pos. 857 - 898
+-YadA_stalk (PF05662): pos. 1131 - 1171
+-YadA_stalk (PF05662): pos. 1437 - 1482
+-YadA_stalk (PF05662): pos. 1855 - 1899
+-YadA_stalk (PF05662): pos. 2263 - 2308
+-YadA_stalk (PF05662): pos. 2671 - 2716
+-YadA_stalk (PF05662): pos. 3079 - 3123
+-YadA_stalk (PF05662): pos. 3209 - 3250
+-YadA_stalk (PF05662): pos. 3290 - 3332
+-YadA_stalk (PF05662): pos. 3774 - 3819
+-Trp_ring (PF18669): pos. 1621 - 1675
+-Trp_ring (PF18669): pos. 2029 - 2083
+-Trp_ring (PF18669): pos. 2437 - 2491
+-Trp_ring (PF18669): pos. 2845 - 2899
+

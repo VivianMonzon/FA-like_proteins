@@ -1,0 +1,12 @@
+* Organism:
+- Paenibacillus sabinae T27
+* Protein length:
+- 1201
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 186 - 315
+-Collagen_bind (PF05737): pos. 323 - 459
+-Collagen_bind (PF05737): pos. 602 - 730
+-Collagen_bind (PF05737): pos. 744 - 876
+* Stalk domains:
+-SpaA (PF17802): pos. 908 - 978
+

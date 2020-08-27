@@ -1,0 +1,13 @@
+* Organism:
+- Stenotrophobium rhamnosiphilum
+* Protein length:
+- 759
+* Adhesive domains:
+-YadA_head (PF05658): pos. 84 - 106
+-YadA_head (PF05658): pos. 335 - 361
+-YadA_head (PF05658): pos. 570 - 596
+-YadA_head (PF05658): pos. 598 - 626
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 439 - 481
+-YadA_stalk (PF05662): pos. 644 - 686
+

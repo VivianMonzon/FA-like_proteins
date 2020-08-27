@@ -1,0 +1,30 @@
+* Organism:
+- Bacillus salarius
+* Protein length:
+- 2062
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 335 - 466
+-Collagen_bind (PF05737): pos. 477 - 599
+-Collagen_bind (PF05737): pos. 743 - 877
+-Collagen_bind (PF05737): pos. 888 - 1014
+* Stalk domains:
+-SpaA (PF17802): pos. 1046 - 1114
+-SpaA (PF17802): pos. 1135 - 1202
+-SpaA (PF17802): pos. 1232 - 1300
+-SpaA (PF17802): pos. 1330 - 1400
+-SpaA (PF17802): pos. 1426 - 1494
+-SpaA (PF17802): pos. 1530 - 1598
+-SpaA (PF17802): pos. 1622 - 1690
+-SpaA (PF17802): pos. 1716 - 1784
+-SpaA (PF17802): pos. 1810 - 1878
+-SpaA (PF17802): pos. 1914 - 1983
+-SpaA_2 (PF19403): pos. 1033 - 1116
+-SpaA_2 (PF19403): pos. 1123 - 1207
+-SpaA_2 (PF19403): pos. 1220 - 1314
+-SpaA_2 (PF19403): pos. 1318 - 1387
+-SpaA_2 (PF19403): pos. 1413 - 1506
+-SpaA_2 (PF19403): pos. 1609 - 1696
+-SpaA_2 (PF19403): pos. 1705 - 1798
+-SpaA_2 (PF19403): pos. 1797 - 1889
+-SpaA_2 (PF19403): pos. 1900 - 1997
+

@@ -1,0 +1,16 @@
+* Organism:
+- Lysobacter antibioticus
+* Protein length:
+- 1517
+* Adhesive domains:
+-YadA_head (PF05658): pos. 400 - 426
+-YadA_head (PF05658): pos. 1140 - 1166
+-YadA_head (PF05658): pos. 1335 - 1361
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 659 - 700
+-YadA_stalk (PF05662): pos. 781 - 821
+-YadA_stalk (PF05662): pos. 909 - 954
+-YadA_stalk (PF05662): pos. 1078 - 1120
+-YadA_stalk (PF05662): pos. 1205 - 1250
+-YadA_stalk (PF05662): pos. 1391 - 1428
+

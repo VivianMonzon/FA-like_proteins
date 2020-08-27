@@ -1,0 +1,11 @@
+* Organism:
+- Candidatus Syntrophosphaera thermopropionivorans
+* Protein length:
+- 1071
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 407 - 548
+-Cleaved_Adhesin (PF07675): pos. 846 - 967
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 300 - 375
+-CarboxypepD_reg (PF13620): pos. 711 - 785
+

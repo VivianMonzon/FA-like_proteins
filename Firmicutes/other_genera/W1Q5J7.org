@@ -1,0 +1,12 @@
+* Organism:
+- Abiotrophia defectiva ATCC 49176
+* Protein length:
+- 860
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 209 - 339
+* Stalk domains:
+-FctA (PF12892): pos. 361 - 464
+-FctA (PF12892): pos. 472 - 577
+-FctA (PF12892): pos. 585 - 689
+-FctA (PF12892): pos. 699 - 807
+

@@ -1,0 +1,15 @@
+* Organism:
+- Cohnella sp. K2E09-144
+* Protein length:
+- 1517
+* Adhesive domains:
+-VWA (PF00092): pos. 907 - 1070
+* Stalk domains:
+-Big_2 (PF02368): pos. 445 - 525
+-Big_1 (PF02369): pos. 276 - 335
+-TSP3_bac (PF18884): pos. 617 - 638
+-TSP3_bac (PF18884): pos. 639 - 661
+-TSP3_bac (PF18884): pos. 674 - 695
+-TSP3_bac (PF18884): pos. 696 - 718
+-TSP3_bac (PF18884): pos. 719 - 740
+

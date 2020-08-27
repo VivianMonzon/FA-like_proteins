@@ -1,0 +1,19 @@
+* Organism:
+- Fictibacillus aquaticus
+* Protein length:
+- 1713
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 293 - 336
+-LRR_4 (PF12799): pos. 364 - 406
+* Stalk domains:
+-Big_6 (PF17936): pos. 644 - 723
+-Big_6 (PF17936): pos. 725 - 804
+-Big_6 (PF17936): pos. 891 - 974
+-Big_6 (PF17936): pos. 1063 - 1140
+-Big_6 (PF17936): pos. 1142 - 1222
+-Big_6 (PF17936): pos. 1225 - 1305
+-Big_6 (PF17936): pos. 1391 - 1470
+-Big_6 (PF17936): pos. 1472 - 1551
+-Big_6 (PF17936): pos. 1553 - 1632
+-Big_6 (PF17936): pos. 1634 - 1713
+

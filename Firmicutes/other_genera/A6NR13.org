@@ -1,0 +1,14 @@
+* Organism:
+- Pseudoflavonifractor capillosus ATCC 29799
+* Protein length:
+- 1896
+* Adhesive domains:
+-VWA (PF00092): pos. 204 - 359
+* Stalk domains:
+-MucBP (PF06458): pos. 949 - 1024
+-MucBP (PF06458): pos. 1726 - 1793
+-Flg_new (PF09479): pos. 564 - 631
+-Flg_new (PF09479): pos. 1330 - 1383
+-Flg_new_2 (PF18998): pos. 564 - 646
+-Flg_new_2 (PF18998): pos. 801 - 870
+

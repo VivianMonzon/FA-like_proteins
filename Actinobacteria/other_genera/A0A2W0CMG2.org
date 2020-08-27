@@ -1,0 +1,9 @@
+* Organism:
+- Curtobacterium sp. MCBD17_030
+* Protein length:
+- 438
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 51 - 239
+* Stalk domains:
+-He_PIG (PF05345): pos. 251 - 337
+

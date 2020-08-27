@@ -1,0 +1,15 @@
+* Organism:
+- Lactobacillus diolivorans DSM 14421
+* Protein length:
+- 972
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 5 - 144
+* Stalk domains:
+-SpaA (PF17802): pos. 171 - 245
+-SpaA (PF17802): pos. 270 - 339
+-SpaA (PF17802): pos. 363 - 431
+-SpaA (PF17802): pos. 457 - 529
+-SpaA (PF17802): pos. 554 - 623
+-SpaA (PF17802): pos. 648 - 716
+-SpaA (PF17802): pos. 742 - 813
+

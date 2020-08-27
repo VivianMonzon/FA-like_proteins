@@ -1,0 +1,14 @@
+* Organism:
+- Chitinophaga parva
+* Protein length:
+- 646
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 18 - 226
+* Stalk domains:
+-PKD (PF00801): pos. 232 - 300
+-PKD (PF00801): pos. 312 - 383
+-PKD (PF00801): pos. 401 - 465
+-PKD_4 (PF18911): pos. 219 - 295
+-PKD_4 (PF18911): pos. 300 - 378
+-PKD_4 (PF18911): pos. 382 - 460
+

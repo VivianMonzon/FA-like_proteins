@@ -1,0 +1,9 @@
+* Organism:
+- Flammeovirga sp. MY04
+* Protein length:
+- 930
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 248 - 288
+* Stalk domains:
+-DUF11 (PF01345): pos. 576 - 683
+

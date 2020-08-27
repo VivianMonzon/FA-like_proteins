@@ -1,0 +1,17 @@
+* Organism:
+- Paraburkholderia xenovorans (strain LB400)
+* Protein length:
+- 1246
+* Adhesive domains:
+-YadA_head (PF05658): pos. 1100 - 1126
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 304 - 335
+-YadA_stalk (PF05662): pos. 396 - 441
+-YadA_stalk (PF05662): pos. 481 - 522
+-YadA_stalk (PF05662): pos. 590 - 634
+-YadA_stalk (PF05662): pos. 688 - 733
+-YadA_stalk (PF05662): pos. 811 - 850
+-YadA_stalk (PF05662): pos. 920 - 964
+-YadA_stalk (PF05662): pos. 1039 - 1084
+-YadA_stalk (PF05662): pos. 1144 - 1186
+

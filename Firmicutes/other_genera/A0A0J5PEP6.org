@@ -1,0 +1,20 @@
+* Organism:
+- Fructobacillus sp. EFB-N1
+* Protein length:
+- 1130
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 242 - 454
+* Stalk domains:
+-Big_3 (PF07523): pos. 563 - 636
+-Big_3 (PF07523): pos. 643 - 714
+-Big_3 (PF07523): pos. 721 - 792
+-Big_3 (PF07523): pos. 801 - 872
+-Big_3 (PF07523): pos. 879 - 952
+-Big_3 (PF07523): pos. 959 - 1033
+-DUF5011 (PF16403): pos. 579 - 636
+-DUF5011 (PF16403): pos. 644 - 714
+-DUF5011 (PF16403): pos. 721 - 792
+-DUF5011 (PF16403): pos. 800 - 872
+-DUF5011 (PF16403): pos. 883 - 952
+-DUF5011 (PF16403): pos. 963 - 1032
+

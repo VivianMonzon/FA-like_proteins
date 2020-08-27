@@ -1,0 +1,10 @@
+* Organism:
+- Microvirga lotononidis
+* Protein length:
+- 614
+* Adhesive domains:
+-YadA_head (PF05658): pos. 326 - 352
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 370 - 412
+-YadA_stalk (PF05662): pos. 481 - 518
+

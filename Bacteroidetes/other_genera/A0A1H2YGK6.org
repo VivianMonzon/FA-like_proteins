@@ -1,0 +1,9 @@
+* Organism:
+- Hydrobacter penzbergensis
+* Protein length:
+- 650
+* Adhesive domains:
+-VWA (PF00092): pos. 277 - 445
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 24 - 104
+

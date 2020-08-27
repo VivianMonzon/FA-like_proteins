@@ -1,0 +1,11 @@
+* Organism:
+- Leptolyngbya boryana NIES-2135
+* Protein length:
+- 1149
+* Adhesive domains:
+-PA14 (PF07691): pos. 202 - 337
+-PA14 (PF07691): pos. 351 - 486
+* Stalk domains:
+-Calx-beta (PF03160): pos. 494 - 589
+-Calx-beta (PF03160): pos. 602 - 702
+

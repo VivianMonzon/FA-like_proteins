@@ -1,0 +1,9 @@
+* Organism:
+- Vagococcus sp. MN-17
+* Protein length:
+- 663
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 87 - 319
+* Stalk domains:
+-MucBP (PF06458): pos. 463 - 527
+

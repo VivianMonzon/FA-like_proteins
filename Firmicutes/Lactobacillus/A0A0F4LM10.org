@@ -1,0 +1,12 @@
+* Organism:
+- Lactobacillus apis
+* Protein length:
+- 988
+* Adhesive domains:
+-TED (PF08341): pos. 105 - 200
+* Stalk domains:
+-SpaA (PF17802): pos. 374 - 446
+-TQ (PF18202): pos. 481 - 612
+-TQ (PF18202): pos. 615 - 735
+-TQ (PF18202): pos. 738 - 856
+

@@ -1,0 +1,11 @@
+* Organism:
+- Parafilimonas terrae
+* Protein length:
+- 2248
+* Adhesive domains:
+-PA14 (PF07691): pos. 645 - 777
+-PA14 (PF07691): pos. 883 - 1019
+* Stalk domains:
+-fn3 (PF00041): pos. 559 - 635
+-fn3 (PF00041): pos. 801 - 881
+

@@ -1,0 +1,16 @@
+* Organism:
+- Anaerovirgula multivorans
+* Protein length:
+- 1071
+* Adhesive domains:
+-VWA (PF00092): pos. 70 - 260
+* Stalk domains:
+-TIG (PF01833): pos. 367 - 446
+-TIG (PF01833): pos. 450 - 533
+-TIG (PF01833): pos. 539 - 621
+-TIG (PF01833): pos. 630 - 711
+-TIG (PF01833): pos. 719 - 801
+-TIG (PF01833): pos. 806 - 888
+-TIG (PF01833): pos. 896 - 978
+-TIG (PF01833): pos. 987 - 1069
+

@@ -1,0 +1,13 @@
+* Organism:
+- Helcococcus kunzii ATCC 51366
+* Protein length:
+- 1470
+* Adhesive domains:
+-VWA (PF00092): pos. 191 - 347
+* Stalk domains:
+-Cna_B (PF05738): pos. 664 - 764
+-SpaA (PF17802): pos. 1 - 37
+-SpaA (PF17802): pos. 786 - 863
+-SpaA (PF17802): pos. 899 - 960
+-SpaA (PF17802): pos. 1312 - 1392
+

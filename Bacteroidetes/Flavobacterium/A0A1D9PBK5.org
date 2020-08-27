@@ -1,0 +1,9 @@
+* Organism:
+- Flavobacterium commune
+* Protein length:
+- 644
+* Adhesive domains:
+-VWA (PF00092): pos. 288 - 459
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 25 - 96
+

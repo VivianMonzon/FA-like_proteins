@@ -1,0 +1,11 @@
+* Organism:
+- Microscilla marina ATCC 23134
+* Protein length:
+- 3238
+* Adhesive domains:
+-VWA (PF00092): pos. 2209 - 2350
+-Bact_lectin (PF18483): pos. 4 - 216
+* Stalk domains:
+-DUF11 (PF01345): pos. 2585 - 2695
+-DUF11 (PF01345): pos. 2704 - 2805
+

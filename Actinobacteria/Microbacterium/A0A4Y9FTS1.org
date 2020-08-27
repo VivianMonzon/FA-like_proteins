@@ -1,0 +1,11 @@
+* Organism:
+- Microbacterium paludicola
+* Protein length:
+- 1011
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 57 - 326
+* Stalk domains:
+-DUF11 (PF01345): pos. 455 - 576
+-DUF11 (PF01345): pos. 597 - 716
+-SpaA (PF17802): pos. 884 - 955
+

@@ -1,0 +1,37 @@
+* Organism:
+- Dyella sp. L4-6
+* Protein length:
+- 3207
+* Adhesive domains:
+-YadA_head (PF05658): pos. 483 - 509
+-YadA_head (PF05658): pos. 1130 - 1156
+-YadA_head (PF05658): pos. 1629 - 1655
+-YadA_head (PF05658): pos. 1672 - 1697
+-YadA_head (PF05658): pos. 1788 - 1814
+-YadA_head (PF05658): pos. 1926 - 1952
+-YadA_head (PF05658): pos. 2066 - 2092
+-YadA_head (PF05658): pos. 2272 - 2298
+-YadA_head (PF05658): pos. 2616 - 2642
+-YadA_head (PF05658): pos. 2835 - 2861
+-YadA_head (PF05658): pos. 2989 - 3015
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 547 - 592
+-YadA_stalk (PF05662): pos. 670 - 715
+-YadA_stalk (PF05662): pos. 945 - 987
+-YadA_stalk (PF05662): pos. 1058 - 1103
+-YadA_stalk (PF05662): pos. 1191 - 1236
+-YadA_stalk (PF05662): pos. 1264 - 1309
+-YadA_stalk (PF05662): pos. 1361 - 1406
+-YadA_stalk (PF05662): pos. 1577 - 1614
+-YadA_stalk (PF05662): pos. 1867 - 1912
+-YadA_stalk (PF05662): pos. 1987 - 2032
+-YadA_stalk (PF05662): pos. 2127 - 2172
+-YadA_stalk (PF05662): pos. 2200 - 2245
+-YadA_stalk (PF05662): pos. 2333 - 2378
+-YadA_stalk (PF05662): pos. 2406 - 2451
+-YadA_stalk (PF05662): pos. 2529 - 2574
+-YadA_stalk (PF05662): pos. 2776 - 2821
+-YadA_stalk (PF05662): pos. 2911 - 2952
+-YadA_stalk (PF05662): pos. 3033 - 3075
+-YadA_stalk (PF05662): pos. 3085 - 3130
+

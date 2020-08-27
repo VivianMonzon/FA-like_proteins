@@ -1,0 +1,9 @@
+* Organism:
+- Neorhizobium alkalisoli
+* Protein length:
+- 505
+* Adhesive domains:
+-YadA_head (PF05658): pos. 320 - 349
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 225 - 267
+

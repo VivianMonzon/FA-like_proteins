@@ -1,0 +1,15 @@
+* Organism:
+- Bacillus sp. BGMRC 2118
+* Protein length:
+- 1019
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 100 - 142
+-LRR_4 (PF12799): pos. 198 - 237
+-LRR_4 (PF12799): pos. 217 - 259
+* Stalk domains:
+-Big_6 (PF17936): pos. 469 - 548
+-Big_6 (PF17936): pos. 551 - 628
+-Big_6 (PF17936): pos. 634 - 715
+-Big_6 (PF17936): pos. 718 - 798
+-Big_6 (PF17936): pos. 801 - 881
+

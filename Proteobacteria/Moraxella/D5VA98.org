@@ -1,0 +1,16 @@
+* Organism:
+- Moraxella catarrhalis (strain BBH18)
+* Protein length:
+- 816
+* Adhesive domains:
+-YadA_head (PF05658): pos. 171 - 197
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 269 - 314
+-DUF1079 (PF06435): pos. 386 - 416
+-DUF1079 (PF06435): pos. 421 - 451
+-DUF1079 (PF06435): pos. 456 - 486
+-DUF1079 (PF06435): pos. 491 - 521
+-DUF1079 (PF06435): pos. 526 - 556
+-DUF1079 (PF06435): pos. 561 - 591
+-DUF1079 (PF06435): pos. 604 - 633
+

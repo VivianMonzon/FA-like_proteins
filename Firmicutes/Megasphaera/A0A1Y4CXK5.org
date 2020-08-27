@@ -1,0 +1,10 @@
+* Organism:
+- Megasphaera sp. An286
+* Protein length:
+- 2918
+* Adhesive domains:
+-YadA_head (PF05658): pos. 852 - 877
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 1221 - 1266
+-YadA_stalk (PF05662): pos. 2735 - 2777
+

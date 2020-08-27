@@ -1,0 +1,10 @@
+* Organism:
+- Sporosarcina psychrophila (Bacillus psychrophilus)
+* Protein length:
+- 585
+* Adhesive domains:
+-BclA_C (PF18573): pos. 455 - 585
+* Stalk domains:
+-Collagen (PF01391): pos. 1 - 58
+-Collagen (PF01391): pos. 389 - 455
+

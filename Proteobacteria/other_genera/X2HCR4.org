@@ -1,0 +1,33 @@
+* Organism:
+- Snodgrassella alvi wkB2
+* Protein length:
+- 3592
+* Adhesive domains:
+-YadA_head (PF05658): pos. 314 - 339
+-YadA_head (PF05658): pos. 451 - 476
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 533 - 575
+-YadA_stalk (PF05662): pos. 768 - 814
+-YadA_stalk (PF05662): pos. 872 - 916
+-YadA_stalk (PF05662): pos. 996 - 1041
+-YadA_stalk (PF05662): pos. 1098 - 1144
+-YadA_stalk (PF05662): pos. 1175 - 1219
+-YadA_stalk (PF05662): pos. 1368 - 1413
+-YadA_stalk (PF05662): pos. 1479 - 1524
+-YadA_stalk (PF05662): pos. 1588 - 1633
+-YadA_stalk (PF05662): pos. 1699 - 1743
+-YadA_stalk (PF05662): pos. 1812 - 1873
+-YadA_stalk (PF05662): pos. 1934 - 1978
+-YadA_stalk (PF05662): pos. 2030 - 2073
+-YadA_stalk (PF05662): pos. 2211 - 2256
+-YadA_stalk (PF05662): pos. 2319 - 2364
+-YadA_stalk (PF05662): pos. 2461 - 2506
+-YadA_stalk (PF05662): pos. 2553 - 2598
+-YadA_stalk (PF05662): pos. 2660 - 2705
+-YadA_stalk (PF05662): pos. 2786 - 2831
+-YadA_stalk (PF05662): pos. 2893 - 2938
+-YadA_stalk (PF05662): pos. 3021 - 3066
+-YadA_stalk (PF05662): pos. 3152 - 3197
+-YadA_stalk (PF05662): pos. 3243 - 3287
+-YadA_stalk (PF05662): pos. 3471 - 3513
+

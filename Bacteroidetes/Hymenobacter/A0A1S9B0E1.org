@@ -1,0 +1,19 @@
+* Organism:
+- Hymenobacter sp. CRA2
+* Protein length:
+- 2291
+* Adhesive domains:
+-PA14 (PF07691): pos. 301 - 460
+* Stalk domains:
+-DUF11 (PF01345): pos. 968 - 1090
+-DUF11 (PF01345): pos. 1099 - 1216
+-DUF11 (PF01345): pos. 1231 - 1348
+-DUF11 (PF01345): pos. 1356 - 1477
+-DUF11 (PF01345): pos. 1485 - 1608
+-DUF11 (PF01345): pos. 1619 - 1736
+-DUF11 (PF01345): pos. 1751 - 1867
+-Cadherin_4 (PF17803): pos. 565 - 632
+-Cadherin_5 (PF17892): pos. 574 - 667
+-Big_9 (PF17963): pos. 564 - 653
+-Big_9 (PF17963): pos. 855 - 950
+

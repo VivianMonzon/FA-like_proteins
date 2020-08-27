@@ -1,0 +1,13 @@
+* Organism:
+- Chitinophaga eiseniae
+* Protein length:
+- 2250
+* Adhesive domains:
+-PA14 (PF07691): pos. 634 - 770
+-PA14 (PF07691): pos. 874 - 1013
+* Stalk domains:
+-fn3 (PF00041): pos. 548 - 626
+-fn3 (PF00041): pos. 788 - 870
+-fn3 (PF00041): pos. 1864 - 1945
+-Cadherin_5 (PF17892): pos. 1116 - 1216
+

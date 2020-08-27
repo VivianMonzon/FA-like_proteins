@@ -1,0 +1,22 @@
+* Organism:
+- Paraburkholderia sacchari
+* Protein length:
+- 1311
+* Adhesive domains:
+-YadA_head (PF05658): pos. 499 - 525
+-YadA_head (PF05658): pos. 513 - 539
+-YadA_head (PF05658): pos. 837 - 863
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 94 - 138
+-YadA_stalk (PF05662): pos. 149 - 194
+-YadA_stalk (PF05662): pos. 225 - 270
+-YadA_stalk (PF05662): pos. 301 - 346
+-YadA_stalk (PF05662): pos. 377 - 422
+-YadA_stalk (PF05662): pos. 446 - 491
+-YadA_stalk (PF05662): pos. 578 - 623
+-YadA_stalk (PF05662): pos. 637 - 681
+-YadA_stalk (PF05662): pos. 752 - 793
+-YadA_stalk (PF05662): pos. 915 - 952
+-YadA_stalk (PF05662): pos. 1074 - 1129
+-YadA_stalk (PF05662): pos. 1190 - 1233
+

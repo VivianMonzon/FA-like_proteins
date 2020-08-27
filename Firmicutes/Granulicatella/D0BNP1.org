@@ -1,0 +1,11 @@
+* Organism:
+- Granulicatella elegans ATCC 700633
+* Protein length:
+- 2342
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 451 - 775
+* Stalk domains:
+-MucBP_2 (PF17965): pos. 1767 - 1871
+-MucBP_2 (PF17965): pos. 2052 - 2137
+-CshA_repeat (PF19076): pos. 1442 - 1533
+

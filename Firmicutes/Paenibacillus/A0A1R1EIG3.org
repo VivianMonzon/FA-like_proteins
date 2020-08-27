@@ -1,0 +1,16 @@
+* Organism:
+- Paenibacillus rhizosphaerae
+* Protein length:
+- 1528
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 272 - 397
+-Collagen_bind (PF05737): pos. 411 - 536
+-Collagen_bind (PF05737): pos. 553 - 663
+-Collagen_bind (PF05737): pos. 683 - 817
+-Collagen_bind (PF05737): pos. 830 - 959
+* Stalk domains:
+-SpaA (PF17802): pos. 990 - 1052
+-SpaA (PF17802): pos. 1084 - 1157
+-SpaA (PF17802): pos. 1182 - 1250
+-SpaA (PF17802): pos. 1276 - 1349
+

@@ -1,0 +1,10 @@
+* Organism:
+- Desulfosporosinus acidiphilus (strain DSM 22704 / JCM 16185 / SJ4)
+* Protein length:
+- 555
+* Adhesive domains:
+-BclA_C (PF18573): pos. 429 - 555
+* Stalk domains:
+-Collagen (PF01391): pos. 112 - 173
+-Collagen (PF01391): pos. 364 - 425
+

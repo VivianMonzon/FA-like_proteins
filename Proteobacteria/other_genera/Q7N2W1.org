@@ -1,0 +1,10 @@
+* Organism:
+- Photorhabdus laumondii subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01)
+* Protein length:
+- 212
+* Adhesive domains:
+-YadA_head (PF05658): pos. 76 - 102
+-YadA_head (PF05658): pos. 90 - 116
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 134 - 179
+

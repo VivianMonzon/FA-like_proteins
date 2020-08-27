@@ -1,0 +1,17 @@
+* Organism:
+- Pedobacter luteus
+* Protein length:
+- 794
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 562 - 791
+* Stalk domains:
+-Flg_new (PF09479): pos. 337 - 401
+-Flg_new (PF09479): pos. 407 - 475
+-Flg_new (PF09479): pos. 481 - 547
+-Big_5 (PF13205): pos. 77 - 178
+-Flg_new_2 (PF18998): pos. 182 - 252
+-Flg_new_2 (PF18998): pos. 258 - 328
+-Flg_new_2 (PF18998): pos. 334 - 406
+-Flg_new_2 (PF18998): pos. 407 - 477
+-Flg_new_2 (PF18998): pos. 481 - 551
+

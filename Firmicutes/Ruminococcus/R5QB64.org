@@ -1,0 +1,10 @@
+* Organism:
+- [Ruminococcus] torques CAG:61
+* Protein length:
+- 766
+* Adhesive domains:
+-TED (PF08341): pos. 321 - 449
+* Stalk domains:
+-Cna_B (PF05738): pos. 602 - 702
+-SpaA (PF17802): pos. 496 - 566
+

@@ -1,0 +1,18 @@
+* Organism:
+- Bacillus caseinilyticus
+* Protein length:
+- 1814
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 385 - 514
+-Collagen_bind (PF05737): pos. 527 - 655
+-Collagen_bind (PF05737): pos. 798 - 932
+-Collagen_bind (PF05737): pos. 943 - 1073
+* Stalk domains:
+-SpaA (PF17802): pos. 1104 - 1173
+-SpaA (PF17802): pos. 1195 - 1265
+-SpaA (PF17802): pos. 1291 - 1359
+-SpaA (PF17802): pos. 1385 - 1453
+-SpaA (PF17802): pos. 1479 - 1547
+-SpaA (PF17802): pos. 1573 - 1641
+-SpaA (PF17802): pos. 1669 - 1735
+

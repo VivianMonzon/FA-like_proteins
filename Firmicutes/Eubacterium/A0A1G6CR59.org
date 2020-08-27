@@ -1,0 +1,10 @@
+* Organism:
+- Eubacterium oxidoreducens
+* Protein length:
+- 1317
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 735 - 876
+* Stalk domains:
+-SpaA (PF17802): pos. 905 - 968
+-SpaA (PF17802): pos. 1006 - 1074
+

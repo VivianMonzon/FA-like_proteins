@@ -1,0 +1,9 @@
+* Organism:
+- Enterococcus dispar ATCC 51266
+* Protein length:
+- 1464
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 1033 - 1167
+* Stalk domains:
+-SpaA (PF17802): pos. 1192 - 1262
+

@@ -1,0 +1,19 @@
+* Organism:
+- Zhizhongheella caldifontis
+* Protein length:
+- 1576
+* Adhesive domains:
+-PA14 (PF07691): pos. 649 - 753
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 268 - 340
+-Cadherin_4 (PF17803): pos. 469 - 543
+-Cadherin_4 (PF17803): pos. 692 - 814
+-Cadherin_5 (PF17892): pos. 277 - 370
+-Cadherin_5 (PF17892): pos. 478 - 571
+-Cadherin_5 (PF17892): pos. 756 - 847
+-Big_9 (PF17963): pos. 267 - 358
+-Big_9 (PF17963): pos. 468 - 559
+-Big_9 (PF17963): pos. 759 - 835
+-Big_9 (PF17963): pos. 839 - 939
+-Big_9 (PF17963): pos. 945 - 1063
+

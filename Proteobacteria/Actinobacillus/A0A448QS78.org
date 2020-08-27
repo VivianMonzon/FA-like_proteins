@@ -1,0 +1,12 @@
+* Organism:
+- Actinobacillus equuli
+* Protein length:
+- 443
+* Adhesive domains:
+-YadA_head (PF05658): pos. 54 - 80
+-YadA_head (PF05658): pos. 154 - 180
+-YadA_head (PF05658): pos. 380 - 406
+-YadA_head (PF05658): pos. 408 - 434
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 278 - 323
+

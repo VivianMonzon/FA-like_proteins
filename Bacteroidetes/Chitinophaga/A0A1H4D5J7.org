@@ -1,0 +1,12 @@
+* Organism:
+- Chitinophaga terrae Kim and Jung 2007
+* Protein length:
+- 637
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 12 - 218
+* Stalk domains:
+-PKD (PF00801): pos. 226 - 292
+-PKD (PF00801): pos. 392 - 455
+-PKD_4 (PF18911): pos. 216 - 287
+-PKD_4 (PF18911): pos. 377 - 448
+

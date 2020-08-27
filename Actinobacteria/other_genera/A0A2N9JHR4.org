@@ -1,0 +1,21 @@
+* Organism:
+- Micropruina glycogenica
+* Protein length:
+- 2255
+* Adhesive domains:
+-VWA (PF00092): pos. 274 - 461
+* Stalk domains:
+-DUF11 (PF01345): pos. 2092 - 2195
+-SpaA_2 (PF19403): pos. 720 - 819
+-SpaA_2 (PF19403): pos. 841 - 945
+-SpaA_2 (PF19403): pos. 949 - 1043
+-SpaA_2 (PF19403): pos. 1048 - 1141
+-SpaA_2 (PF19403): pos. 1146 - 1238
+-SpaA_2 (PF19403): pos. 1242 - 1336
+-SpaA_2 (PF19403): pos. 1341 - 1433
+-SpaA_2 (PF19403): pos. 1437 - 1531
+-SpaA_2 (PF19403): pos. 1536 - 1629
+-SpaA_2 (PF19403): pos. 1634 - 1726
+-SpaA_2 (PF19403): pos. 1730 - 1831
+-SpaA_2 (PF19403): pos. 1836 - 1933
+

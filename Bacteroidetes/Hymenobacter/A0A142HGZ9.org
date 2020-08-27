@@ -1,0 +1,12 @@
+* Organism:
+- Hymenobacter sp. PAMC 26554
+* Protein length:
+- 680
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 24 - 269
+* Stalk domains:
+-DUF11 (PF01345): pos. 376 - 494
+-Cadherin_5 (PF17892): pos. 277 - 373
+-Big_9 (PF17963): pos. 263 - 358
+-CshA_repeat (PF19076): pos. 269 - 347
+

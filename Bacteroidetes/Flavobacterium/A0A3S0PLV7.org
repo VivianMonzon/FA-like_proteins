@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium sp. GSN2
+* Protein length:
+- 593
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 362 - 590
+* Stalk domains:
+-Big_5 (PF13205): pos. 32 - 135
+-Big_5 (PF13205): pos. 138 - 239
+-Big_5 (PF13205): pos. 241 - 343
+

@@ -1,0 +1,11 @@
+* Organism:
+- Caballeronia grimmiae
+* Protein length:
+- 422
+* Adhesive domains:
+-YadA_head (PF05658): pos. 272 - 298
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 105 - 148
+-YadA_stalk (PF05662): pos. 214 - 259
+-YadA_stalk (PF05662): pos. 316 - 356
+

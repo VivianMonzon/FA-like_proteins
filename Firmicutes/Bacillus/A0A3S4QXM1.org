@@ -1,0 +1,41 @@
+* Organism:
+- Bacillus freudenreichii
+* Protein length:
+- 3470
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 399 - 526
+-Collagen_bind (PF05737): pos. 534 - 662
+-Collagen_bind (PF05737): pos. 673 - 781
+-Collagen_bind (PF05737): pos. 804 - 932
+-Collagen_bind (PF05737): pos. 941 - 1068
+* Stalk domains:
+-Cna_B (PF05738): pos. 1679 - 1766
+-Cna_B (PF05738): pos. 1771 - 1861
+-Cna_B (PF05738): pos. 1868 - 1955
+-Cna_B (PF05738): pos. 1962 - 2044
+-Cna_B (PF05738): pos. 2051 - 2133
+-Cna_B (PF05738): pos. 2140 - 2222
+-Cna_B (PF05738): pos. 2229 - 2310
+-Cna_B (PF05738): pos. 2317 - 2403
+-Cna_B (PF05738): pos. 2410 - 2492
+-Cna_B (PF05738): pos. 2499 - 2581
+-Cna_B (PF05738): pos. 2588 - 2669
+-Cna_B (PF05738): pos. 2676 - 2762
+-Cna_B (PF05738): pos. 2769 - 2850
+-Cna_B (PF05738): pos. 2857 - 2938
+-Cna_B (PF05738): pos. 2945 - 3026
+-Cna_B (PF05738): pos. 3033 - 3114
+-Cna_B (PF05738): pos. 3121 - 3202
+-Cna_B (PF05738): pos. 3209 - 3290
+-SpaA (PF17802): pos. 1103 - 1171
+-SpaA (PF17802): pos. 1201 - 1269
+-SpaA (PF17802): pos. 1294 - 1362
+-SpaA (PF17802): pos. 1390 - 1462
+-SpaA (PF17802): pos. 1490 - 1557
+-SpaA (PF17802): pos. 1585 - 1658
+-SpaA (PF17802): pos. 3305 - 3373
+-SpaA_2 (PF19403): pos. 1285 - 1352
+-SpaA_2 (PF19403): pos. 1393 - 1452
+-SpaA_2 (PF19403): pos. 1478 - 1566
+-SpaA_2 (PF19403): pos. 3294 - 3381
+

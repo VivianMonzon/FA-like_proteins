@@ -1,0 +1,12 @@
+* Organism:
+- Mobilisporobacter senegalensis
+* Protein length:
+- 2745
+* Adhesive domains:
+-PA14 (PF07691): pos. 39 - 181
+-PA14 (PF07691): pos. 205 - 352
+* Stalk domains:
+-fn3 (PF00041): pos. 2088 - 2192
+-fn3 (PF00041): pos. 2212 - 2288
+-Big_2 (PF02368): pos. 2680 - 2741
+

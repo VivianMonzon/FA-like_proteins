@@ -1,0 +1,9 @@
+* Organism:
+- Hungateiclostridium saccincola
+* Protein length:
+- 1079
+* Adhesive domains:
+-VWA (PF00092): pos. 208 - 380
+* Stalk domains:
+-Calx-beta (PF03160): pos. 625 - 726
+

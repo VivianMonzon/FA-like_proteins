@@ -1,0 +1,29 @@
+* Organism:
+- Abiotrophia defectiva ATCC 49176
+* Protein length:
+- 2994
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 203 - 515
+* Stalk domains:
+-CshA_repeat (PF19076): pos. 774 - 878
+-CshA_repeat (PF19076): pos. 883 - 979
+-CshA_repeat (PF19076): pos. 984 - 1096
+-CshA_repeat (PF19076): pos. 1101 - 1197
+-CshA_repeat (PF19076): pos. 1202 - 1298
+-CshA_repeat (PF19076): pos. 1303 - 1399
+-CshA_repeat (PF19076): pos. 1404 - 1500
+-CshA_repeat (PF19076): pos. 1505 - 1601
+-CshA_repeat (PF19076): pos. 1606 - 1702
+-CshA_repeat (PF19076): pos. 1707 - 1803
+-CshA_repeat (PF19076): pos. 1808 - 1904
+-CshA_repeat (PF19076): pos. 1909 - 2005
+-CshA_repeat (PF19076): pos. 2010 - 2106
+-CshA_repeat (PF19076): pos. 2111 - 2207
+-CshA_repeat (PF19076): pos. 2212 - 2308
+-CshA_repeat (PF19076): pos. 2313 - 2409
+-CshA_repeat (PF19076): pos. 2414 - 2510
+-CshA_repeat (PF19076): pos. 2515 - 2611
+-CshA_repeat (PF19076): pos. 2616 - 2728
+-CshA_repeat (PF19076): pos. 2733 - 2819
+-CshA_repeat (PF19076): pos. 2824 - 2914
+

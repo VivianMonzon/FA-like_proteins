@@ -1,0 +1,9 @@
+* Organism:
+- Pararcticibacter tournemirensis
+* Protein length:
+- 628
+* Adhesive domains:
+-VWA (PF00092): pos. 257 - 428
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 26 - 100
+

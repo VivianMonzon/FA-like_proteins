@@ -1,0 +1,9 @@
+* Organism:
+- Ketobacter sp.
+* Protein length:
+- 1897
+* Adhesive domains:
+-PA14 (PF07691): pos. 916 - 1034
+* Stalk domains:
+-Calx-beta (PF03160): pos. 1378 - 1467
+

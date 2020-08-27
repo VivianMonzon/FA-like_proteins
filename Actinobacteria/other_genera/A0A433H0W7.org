@@ -1,0 +1,10 @@
+* Organism:
+- Kocuria sp. HSID16901
+* Protein length:
+- 1050
+* Adhesive domains:
+-Adhesin_P1_N (PF18652): pos. 55 - 163
+* Stalk domains:
+-Antigen_C (PF16364): pos. 806 - 967
+-AgI_II_C2 (PF17998): pos. 641 - 798
+

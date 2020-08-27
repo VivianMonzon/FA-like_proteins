@@ -1,0 +1,9 @@
+* Organism:
+- Roseburia sp. CAG:309
+* Protein length:
+- 413
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 353 - 392
+* Stalk domains:
+-Big_2 (PF02368): pos. 26 - 98
+

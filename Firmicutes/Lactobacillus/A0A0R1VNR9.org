@@ -1,0 +1,13 @@
+* Organism:
+- Lactobacillus ghanensis DSM 18630
+* Protein length:
+- 937
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 253 - 381
+* Stalk domains:
+-Cna_B (PF05738): pos. 399 - 482
+-Cna_B (PF05738): pos. 489 - 571
+-Cna_B (PF05738): pos. 579 - 668
+-Cna_B (PF05738): pos. 676 - 758
+-Cna_B (PF05738): pos. 766 - 855
+

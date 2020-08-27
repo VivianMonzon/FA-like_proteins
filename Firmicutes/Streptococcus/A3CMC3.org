@@ -1,0 +1,29 @@
+* Organism:
+- Streptococcus sanguinis (strain SK36)
+* Protein length:
+- 2990
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 204 - 522
+* Stalk domains:
+-CshA_repeat (PF19076): pos. 782 - 885
+-CshA_repeat (PF19076): pos. 890 - 986
+-CshA_repeat (PF19076): pos. 991 - 1094
+-CshA_repeat (PF19076): pos. 1099 - 1195
+-CshA_repeat (PF19076): pos. 1200 - 1296
+-CshA_repeat (PF19076): pos. 1301 - 1397
+-CshA_repeat (PF19076): pos. 1402 - 1498
+-CshA_repeat (PF19076): pos. 1503 - 1599
+-CshA_repeat (PF19076): pos. 1604 - 1700
+-CshA_repeat (PF19076): pos. 1705 - 1801
+-CshA_repeat (PF19076): pos. 1806 - 1902
+-CshA_repeat (PF19076): pos. 1907 - 2003
+-CshA_repeat (PF19076): pos. 2008 - 2104
+-CshA_repeat (PF19076): pos. 2109 - 2205
+-CshA_repeat (PF19076): pos. 2210 - 2306
+-CshA_repeat (PF19076): pos. 2311 - 2407
+-CshA_repeat (PF19076): pos. 2412 - 2508
+-CshA_repeat (PF19076): pos. 2513 - 2609
+-CshA_repeat (PF19076): pos. 2615 - 2710
+-CshA_repeat (PF19076): pos. 2715 - 2805
+-CshA_repeat (PF19076): pos. 2810 - 2900
+

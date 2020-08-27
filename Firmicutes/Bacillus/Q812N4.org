@@ -1,0 +1,16 @@
+* Organism:
+- Bacillus cereus (strain ATCC 14579 / DSM 31 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NRRL B-3711)
+* Protein length:
+- 1309
+* Adhesive domains:
+-BclA_C (PF18573): pos. 1180 - 1309
+* Stalk domains:
+-Collagen (PF01391): pos. 32 - 97
+-Collagen (PF01391): pos. 81 - 146
+-Collagen (PF01391): pos. 415 - 484
+-Collagen (PF01391): pos. 466 - 526
+-Collagen (PF01391): pos. 564 - 624
+-Collagen (PF01391): pos. 659 - 729
+-Collagen (PF01391): pos. 904 - 969
+-Collagen (PF01391): pos. 1059 - 1133
+

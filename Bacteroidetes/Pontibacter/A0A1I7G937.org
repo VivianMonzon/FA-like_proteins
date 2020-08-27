@@ -1,0 +1,9 @@
+* Organism:
+- Pontibacter akesuensis
+* Protein length:
+- 630
+* Adhesive domains:
+-VWA (PF00092): pos. 259 - 431
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 25 - 137
+

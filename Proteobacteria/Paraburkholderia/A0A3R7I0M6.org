@@ -1,0 +1,9 @@
+* Organism:
+- Paraburkholderia sp. BL23I1N1
+* Protein length:
+- 169
+* Adhesive domains:
+-YadA_head (PF05658): pos. 23 - 49
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 67 - 108
+

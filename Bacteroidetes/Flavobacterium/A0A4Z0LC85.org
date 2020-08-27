@@ -1,0 +1,13 @@
+* Organism:
+- Flavobacterium humi
+* Protein length:
+- 2374
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 54 - 197
+-Cleaved_Adhesin (PF07675): pos. 1095 - 1237
+* Stalk domains:
+-fn3 (PF00041): pos. 742 - 824
+-fn3 (PF00041): pos. 1000 - 1080
+-fn3 (PF00041): pos. 1332 - 1416
+-Ig_7 (PF19081): pos. 2031 - 2110
+

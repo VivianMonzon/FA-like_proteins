@@ -1,0 +1,12 @@
+* Organism:
+- Ruminococcus sp. CAG:108
+* Protein length:
+- 870
+* Adhesive domains:
+-TED (PF08341): pos. 84 - 195
+* Stalk domains:
+-SpaA (PF17802): pos. 298 - 387
+-SpaA (PF17802): pos. 508 - 575
+-SpaA (PF17802): pos. 608 - 671
+-SpaA (PF17802): pos. 709 - 789
+

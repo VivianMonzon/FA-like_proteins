@@ -1,0 +1,31 @@
+* Organism:
+- Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1)
+* Protein length:
+- 14944
+* Adhesive domains:
+-PA14 (PF07691): pos. 12103 - 12237
+-PA14 (PF07691): pos. 12559 - 12692
+-PA14 (PF07691): pos. 12718 - 12855
+* Stalk domains:
+-TIG (PF01833): pos. 3501 - 3572
+-TIG (PF01833): pos. 3577 - 3657
+-TIG (PF01833): pos. 4178 - 4260
+-TIG (PF01833): pos. 4265 - 4345
+-TIG (PF01833): pos. 4803 - 4892
+-TIG (PF01833): pos. 4895 - 4982
+-TIG (PF01833): pos. 6250 - 6332
+-TIG (PF01833): pos. 6751 - 6832
+-TIG (PF01833): pos. 6836 - 6921
+-LVIVD (PF08309): pos. 3192 - 3232
+-LVIVD (PF08309): pos. 3233 - 3281
+-LVIVD (PF08309): pos. 5116 - 5142
+-LVIVD (PF08309): pos. 5339 - 5380
+-LVIVD (PF08309): pos. 8742 - 8783
+-LVIVD (PF08309): pos. 8863 - 8901
+-Big_5 (PF13205): pos. 3369 - 3481
+-Big_5 (PF13205): pos. 4049 - 4170
+-Big_5 (PF13205): pos. 4688 - 4794
+-Big_5 (PF13205): pos. 5405 - 5514
+-Big_5 (PF13205): pos. 6639 - 6742
+-Big_5 (PF13205): pos. 7493 - 7597
+

@@ -1,0 +1,9 @@
+* Organism:
+- Agromyces protaetiae
+* Protein length:
+- 941
+* Adhesive domains:
+-VWA (PF00092): pos. 142 - 328
+* Stalk domains:
+-DUF11 (PF01345): pos. 456 - 608
+

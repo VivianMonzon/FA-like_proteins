@@ -1,0 +1,16 @@
+* Organism:
+- Haemophilus sputorum HK 2154
+* Protein length:
+- 782
+* Adhesive domains:
+-YadA_head (PF05658): pos. 158 - 184
+-YadA_head (PF05658): pos. 279 - 302
+-YadA_head (PF05658): pos. 322 - 348
+-YadA_head (PF05658): pos. 350 - 376
+-YadA_head (PF05658): pos. 378 - 404
+* Stalk domains:
+-Collagen (PF01391): pos. 605 - 661
+-Collagen (PF01391): pos. 637 - 697
+-CFSR (PF19079): pos. 688 - 736
+-CFSR (PF19079): pos. 734 - 782
+

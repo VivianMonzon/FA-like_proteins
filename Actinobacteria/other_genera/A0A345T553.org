@@ -1,0 +1,10 @@
+* Organism:
+- Streptacidiphilus sp. DSM 106435
+* Protein length:
+- 682
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 61 - 247
+* Stalk domains:
+-Collagen (PF01391): pos. 251 - 312
+-Collagen (PF01391): pos. 297 - 362
+

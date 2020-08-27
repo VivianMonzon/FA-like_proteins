@@ -1,0 +1,13 @@
+* Organism:
+- Lysinibacillus telephonicus
+* Protein length:
+- 950
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 71 - 187
+-Collagen_bind (PF05737): pos. 207 - 340
+-Collagen_bind (PF05737): pos. 349 - 479
+* Stalk domains:
+-SpaA (PF17802): pos. 511 - 580
+-SpaA (PF17802): pos. 603 - 675
+-SpaA (PF17802): pos. 701 - 769
+

@@ -1,0 +1,11 @@
+* Organism:
+- Streptobacillus moniliformis (strain ATCC 14647 / DSM 12112 / NCTC 10651 / 9901)
+* Protein length:
+- 1014
+* Adhesive domains:
+-YadA_head (PF05658): pos. 35 - 64
+-YadA_head (PF05658): pos. 53 - 78
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 126 - 148
+-YadA_stalk (PF05662): pos. 280 - 322
+

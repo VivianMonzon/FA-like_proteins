@@ -1,0 +1,11 @@
+* Organism:
+- Lactobacillus tucceti DSM 20183
+* Protein length:
+- 728
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 160 - 291
+* Stalk domains:
+-SpaA (PF17802): pos. 317 - 384
+-SpaA (PF17802): pos. 409 - 477
+-SpaA (PF17802): pos. 507 - 574
+

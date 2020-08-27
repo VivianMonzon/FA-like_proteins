@@ -1,0 +1,12 @@
+* Organism:
+- Macrococcus caseolyticus (strain JCSC5402)
+* Protein length:
+- 1102
+* Adhesive domains:
+-VWA (PF00092): pos. 506 - 750
+* Stalk domains:
+-Cna_B (PF05738): pos. 173 - 252
+-Cna_B (PF05738): pos. 260 - 339
+-SpaA (PF17802): pos. 886 - 952
+-SpaA (PF17802): pos. 987 - 1054
+

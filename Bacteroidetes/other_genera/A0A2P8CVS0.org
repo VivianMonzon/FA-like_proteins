@@ -1,0 +1,15 @@
+* Organism:
+- Taibaiella chishuiensis
+* Protein length:
+- 811
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 21 - 230
+* Stalk domains:
+-PKD (PF00801): pos. 401 - 465
+-PKD (PF00801): pos. 479 - 550
+-PKD_4 (PF18911): pos. 384 - 460
+-PKD_4 (PF18911): pos. 463 - 545
+-PKD_4 (PF18911): pos. 550 - 627
+-Ig_7 (PF19081): pos. 236 - 314
+-Ig_7 (PF19081): pos. 316 - 393
+

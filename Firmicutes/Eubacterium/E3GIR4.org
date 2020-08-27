@@ -1,0 +1,15 @@
+* Organism:
+- Eubacterium callanderi
+* Protein length:
+- 1345
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 273 - 405
+-Collagen_bind (PF05737): pos. 415 - 546
+-Collagen_bind (PF05737): pos. 550 - 680
+-Collagen_bind (PF05737): pos. 694 - 827
+-Collagen_bind (PF05737): pos. 840 - 975
+* Stalk domains:
+-SpaA (PF17802): pos. 1007 - 1078
+-SpaA (PF17802): pos. 1101 - 1174
+-SpaA (PF17802): pos. 1200 - 1266
+

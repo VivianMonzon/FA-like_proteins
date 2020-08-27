@@ -1,0 +1,9 @@
+* Organism:
+- Clostridium sp. KNHs216
+* Protein length:
+- 818
+* Adhesive domains:
+-BclA_C (PF18573): pos. 691 - 818
+* Stalk domains:
+-Collagen (PF01391): pos. 137 - 198
+

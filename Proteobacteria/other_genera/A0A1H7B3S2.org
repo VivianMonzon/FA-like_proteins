@@ -1,0 +1,22 @@
+* Organism:
+- Cribrihabitans marinus
+* Protein length:
+- 1478
+* Adhesive domains:
+-VWA (PF00092): pos. 1009 - 1179
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 454 - 519
+-Cadherin_4 (PF17803): pos. 545 - 618
+-Cadherin_4 (PF17803): pos. 652 - 725
+-Cadherin_4 (PF17803): pos. 759 - 832
+-Cadherin_4 (PF17803): pos. 866 - 934
+-Cadherin_5 (PF17892): pos. 399 - 461
+-Cadherin_5 (PF17892): pos. 463 - 552
+-Cadherin_5 (PF17892): pos. 897 - 967
+-Big_9 (PF17963): pos. 373 - 449
+-Big_9 (PF17963): pos. 453 - 540
+-Big_9 (PF17963): pos. 544 - 647
+-Big_9 (PF17963): pos. 651 - 754
+-Big_9 (PF17963): pos. 758 - 861
+-Big_9 (PF17963): pos. 865 - 955
+

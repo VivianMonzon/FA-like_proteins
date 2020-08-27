@@ -1,0 +1,11 @@
+* Organism:
+- Anaerocolumna xylanovorans DSM 12503
+* Protein length:
+- 1238
+* Adhesive domains:
+-VWA (PF00092): pos. 671 - 835
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 399 - 416
+-TSP3_bac (PF18884): pos. 421 - 443
+-TSP3_bac (PF18884): pos. 501 - 522
+

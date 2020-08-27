@@ -1,0 +1,15 @@
+* Organism:
+- Pontibacter sp. 2b14
+* Protein length:
+- 2577
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 461 - 675
+* Stalk domains:
+-Cadherin (PF00028): pos. 690 - 781
+-Cadherin (PF00028): pos. 797 - 884
+-Big_9 (PF17963): pos. 876 - 984
+-Big_9 (PF17963): pos. 1773 - 1882
+-Ig_7 (PF19081): pos. 127 - 208
+-Ig_7 (PF19081): pos. 210 - 292
+-Ig_7 (PF19081): pos. 295 - 377
+

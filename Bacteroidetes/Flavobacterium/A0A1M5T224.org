@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium granuli
+* Protein length:
+- 563
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 358 - 560
+* Stalk domains:
+-Big_5 (PF13205): pos. 30 - 131
+-Big_5 (PF13205): pos. 133 - 235
+-Big_5 (PF13205): pos. 238 - 339
+

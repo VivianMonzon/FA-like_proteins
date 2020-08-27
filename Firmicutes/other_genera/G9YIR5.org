@@ -1,0 +1,9 @@
+* Organism:
+- Anaeroglobus geminatus F0357
+* Protein length:
+- 768
+* Adhesive domains:
+-YadA_head (PF05658): pos. 105 - 131
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 279 - 321
+

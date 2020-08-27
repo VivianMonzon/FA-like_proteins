@@ -1,0 +1,16 @@
+* Organism:
+- Alcaligenes sp. EGD-AK7
+* Protein length:
+- 1980
+* Adhesive domains:
+-YadA_head (PF05658): pos. 228 - 254
+-YadA_head (PF05658): pos. 242 - 268
+-YadA_head (PF05658): pos. 853 - 879
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 520 - 558
+-YadA_stalk (PF05662): pos. 919 - 964
+-YadA_stalk (PF05662): pos. 1176 - 1218
+-YadA_stalk (PF05662): pos. 1399 - 1441
+-YadA_stalk (PF05662): pos. 1695 - 1736
+-YadA_stalk (PF05662): pos. 1862 - 1903
+

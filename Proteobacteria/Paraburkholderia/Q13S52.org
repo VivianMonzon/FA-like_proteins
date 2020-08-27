@@ -1,0 +1,50 @@
+* Organism:
+- Paraburkholderia xenovorans (strain LB400)
+* Protein length:
+- 3192
+* Adhesive domains:
+-YadA_head (PF05658): pos. 239 - 265
+-YadA_head (PF05658): pos. 260 - 286
+-YadA_head (PF05658): pos. 505 - 531
+-YadA_head (PF05658): pos. 1054 - 1080
+-YadA_head (PF05658): pos. 1355 - 1381
+-YadA_head (PF05658): pos. 1764 - 1790
+-YadA_head (PF05658): pos. 1989 - 2015
+-YadA_head (PF05658): pos. 2413 - 2438
+-YadA_head (PF05658): pos. 2637 - 2663
+-YadA_head (PF05658): pos. 3008 - 3034
+-YadA_head (PF05658): pos. 3037 - 3062
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 188 - 230
+-YadA_stalk (PF05662): pos. 296 - 335
+-YadA_stalk (PF05662): pos. 354 - 411
+-YadA_stalk (PF05662): pos. 442 - 486
+-YadA_stalk (PF05662): pos. 549 - 590
+-YadA_stalk (PF05662): pos. 604 - 649
+-YadA_stalk (PF05662): pos. 721 - 761
+-YadA_stalk (PF05662): pos. 780 - 825
+-YadA_stalk (PF05662): pos. 930 - 969
+-YadA_stalk (PF05662): pos. 1142 - 1182
+-YadA_stalk (PF05662): pos. 1233 - 1275
+-YadA_stalk (PF05662): pos. 1289 - 1334
+-YadA_stalk (PF05662): pos. 1399 - 1441
+-YadA_stalk (PF05662): pos. 1458 - 1500
+-YadA_stalk (PF05662): pos. 1517 - 1559
+-YadA_stalk (PF05662): pos. 1576 - 1618
+-YadA_stalk (PF05662): pos. 1635 - 1677
+-YadA_stalk (PF05662): pos. 1691 - 1748
+-YadA_stalk (PF05662): pos. 1808 - 1850
+-YadA_stalk (PF05662): pos. 1867 - 1909
+-YadA_stalk (PF05662): pos. 1923 - 1968
+-YadA_stalk (PF05662): pos. 2033 - 2075
+-YadA_stalk (PF05662): pos. 2092 - 2137
+-YadA_stalk (PF05662): pos. 2246 - 2281
+-YadA_stalk (PF05662): pos. 2456 - 2497
+-YadA_stalk (PF05662): pos. 2511 - 2553
+-YadA_stalk (PF05662): pos. 2567 - 2612
+-YadA_stalk (PF05662): pos. 2681 - 2723
+-YadA_stalk (PF05662): pos. 2740 - 2785
+-YadA_stalk (PF05662): pos. 2897 - 2937
+-YadA_stalk (PF05662): pos. 2954 - 2996
+-YadA_stalk (PF05662): pos. 3080 - 3122
+

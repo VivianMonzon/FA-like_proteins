@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium sp. A45
+* Protein length:
+- 564
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 357 - 561
+* Stalk domains:
+-Big_5 (PF13205): pos. 31 - 131
+-Big_5 (PF13205): pos. 134 - 235
+-Big_5 (PF13205): pos. 237 - 338
+

@@ -1,0 +1,10 @@
+* Organism:
+- Vagococcus entomophilus
+* Protein length:
+- 611
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 228 - 358
+* Stalk domains:
+-Cna_B (PF05738): pos. 376 - 463
+-Cna_B (PF05738): pos. 466 - 548
+

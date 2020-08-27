@@ -1,0 +1,10 @@
+* Organism:
+- Amycolatopsis marina
+* Protein length:
+- 1199
+* Adhesive domains:
+-PA14 (PF07691): pos. 43 - 184
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 1015 - 1104
+-Big_3_5 (PF16640): pos. 1111 - 1197
+

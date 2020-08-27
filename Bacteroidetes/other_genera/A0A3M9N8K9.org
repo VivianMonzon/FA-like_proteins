@@ -1,0 +1,11 @@
+* Organism:
+- Ferruginibacter sp. BO-59
+* Protein length:
+- 588
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 356 - 585
+* Stalk domains:
+-Big_5 (PF13205): pos. 24 - 124
+-Big_5 (PF13205): pos. 129 - 233
+-Big_5 (PF13205): pos. 236 - 338
+

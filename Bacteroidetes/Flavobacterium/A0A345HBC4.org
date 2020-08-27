@@ -1,0 +1,10 @@
+* Organism:
+- Flavobacterium arcticum
+* Protein length:
+- 1981
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 22 - 171
+-Cleaved_Adhesin (PF07675): pos. 1063 - 1178
+* Stalk domains:
+-fn3 (PF00041): pos. 968 - 1050
+

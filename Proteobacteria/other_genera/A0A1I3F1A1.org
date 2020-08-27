@@ -1,0 +1,17 @@
+* Organism:
+- Bosea sp. OK403
+* Protein length:
+- 1380
+* Adhesive domains:
+-YadA_head (PF05658): pos. 132 - 157
+-YadA_head (PF05658): pos. 387 - 413
+-YadA_head (PF05658): pos. 778 - 804
+-YadA_head (PF05658): pos. 922 - 948
+-YadA_head (PF05658): pos. 1108 - 1134
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 719 - 764
+-YadA_stalk (PF05662): pos. 843 - 888
+-YadA_stalk (PF05662): pos. 1005 - 1047
+-YadA_stalk (PF05662): pos. 1173 - 1217
+-YadA_stalk (PF05662): pos. 1243 - 1285
+

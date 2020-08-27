@@ -1,0 +1,28 @@
+* Organism:
+- Bacillus cereus (strain ATCC 14579 / DSM 31 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NRRL B-3711)
+* Protein length:
+- 2444
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 182 - 308
+* Stalk domains:
+-SpaA (PF17802): pos. 492 - 559
+-SpaA (PF17802): pos. 583 - 649
+-SpaA (PF17802): pos. 673 - 740
+-SpaA (PF17802): pos. 766 - 833
+-SpaA (PF17802): pos. 859 - 926
+-SpaA (PF17802): pos. 952 - 1019
+-SpaA (PF17802): pos. 1045 - 1112
+-SpaA (PF17802): pos. 1138 - 1205
+-SpaA (PF17802): pos. 1231 - 1298
+-SpaA (PF17802): pos. 1324 - 1391
+-SpaA (PF17802): pos. 1417 - 1484
+-SpaA (PF17802): pos. 1510 - 1577
+-SpaA (PF17802): pos. 1603 - 1670
+-SpaA (PF17802): pos. 1696 - 1763
+-SpaA (PF17802): pos. 1789 - 1856
+-SpaA (PF17802): pos. 1892 - 1959
+-SpaA (PF17802): pos. 1985 - 2052
+-SpaA (PF17802): pos. 2078 - 2145
+-SpaA (PF17802): pos. 2171 - 2238
+-SpaA (PF17802): pos. 2264 - 2331
+

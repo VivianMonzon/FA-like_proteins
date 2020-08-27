@@ -1,0 +1,11 @@
+* Organism:
+- Cetobacterium ceti
+* Protein length:
+- 286
+* Adhesive domains:
+-YadA_head (PF05658): pos. 38 - 61
+-YadA_head (PF05658): pos. 49 - 75
+-YadA_head (PF05658): pos. 105 - 131
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 149 - 191
+

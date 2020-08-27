@@ -1,0 +1,18 @@
+* Organism:
+- Paraburkholderia ribeironis
+* Protein length:
+- 944
+* Adhesive domains:
+-YadA_head (PF05658): pos. 103 - 129
+-YadA_head (PF05658): pos. 446 - 471
+-YadA_head (PF05658): pos. 459 - 484
+-YadA_head (PF05658): pos. 563 - 589
+-YadA_head (PF05658): pos. 577 - 603
+-YadA_head (PF05658): pos. 781 - 807
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 323 - 365
+-YadA_stalk (PF05662): pos. 489 - 531
+-YadA_stalk (PF05662): pos. 635 - 672
+-YadA_stalk (PF05662): pos. 698 - 738
+-YadA_stalk (PF05662): pos. 825 - 866
+

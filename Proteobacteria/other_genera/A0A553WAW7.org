@@ -1,0 +1,36 @@
+* Organism:
+- Sphingorhabdus contaminans
+* Protein length:
+- 3552
+* Adhesive domains:
+-YadA_head (PF05658): pos. 771 - 797
+-YadA_head (PF05658): pos. 1351 - 1377
+-YadA_head (PF05658): pos. 1511 - 1537
+-YadA_head (PF05658): pos. 1626 - 1652
+-YadA_head (PF05658): pos. 1763 - 1787
+-YadA_head (PF05658): pos. 1841 - 1867
+-YadA_head (PF05658): pos. 1869 - 1895
+-YadA_head (PF05658): pos. 2837 - 2863
+-YadA_head (PF05658): pos. 3077 - 3103
+-YadA_head (PF05658): pos. 3170 - 3196
+-YadA_head (PF05658): pos. 3310 - 3336
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 141 - 169
+-YadA_stalk (PF05662): pos. 723 - 763
+-YadA_stalk (PF05662): pos. 824 - 864
+-YadA_stalk (PF05662): pos. 946 - 988
+-YadA_stalk (PF05662): pos. 1304 - 1337
+-YadA_stalk (PF05662): pos. 1429 - 1471
+-YadA_stalk (PF05662): pos. 1580 - 1619
+-YadA_stalk (PF05662): pos. 1682 - 1724
+-YadA_stalk (PF05662): pos. 1953 - 1989
+-YadA_stalk (PF05662): pos. 2040 - 2085
+-YadA_stalk (PF05662): pos. 2159 - 2198
+-YadA_stalk (PF05662): pos. 2266 - 2308
+-YadA_stalk (PF05662): pos. 2504 - 2552
+-YadA_stalk (PF05662): pos. 2641 - 2678
+-YadA_stalk (PF05662): pos. 2769 - 2811
+-YadA_stalk (PF05662): pos. 3032 - 3074
+-YadA_stalk (PF05662): pos. 3121 - 3167
+-YadA_stalk (PF05662): pos. 3232 - 3292
+

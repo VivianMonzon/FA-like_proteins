@@ -1,0 +1,9 @@
+* Organism:
+- Bacillus sp. FJAT-25509
+* Protein length:
+- 475
+* Adhesive domains:
+-BclA_C (PF18573): pos. 343 - 475
+* Stalk domains:
+-Collagen (PF01391): pos. 40 - 101
+

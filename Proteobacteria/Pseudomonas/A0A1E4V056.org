@@ -1,0 +1,12 @@
+* Organism:
+- Pseudomonas sp. 21C1
+* Protein length:
+- 2069
+* Adhesive domains:
+-VWA (PF00092): pos. 969 - 1150
+-VWA (PF00092): pos. 1280 - 1462
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 679 - 760
+-DUF5801 (PF19116): pos. 317 - 485
+-DUF5801 (PF19116): pos. 497 - 672
+

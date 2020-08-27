@@ -1,0 +1,9 @@
+* Organism:
+- Butyrivibrio sp. TB
+* Protein length:
+- 821
+* Adhesive domains:
+-PA14 (PF07691): pos. 516 - 677
+* Stalk domains:
+-FctA (PF12892): pos. 327 - 462
+

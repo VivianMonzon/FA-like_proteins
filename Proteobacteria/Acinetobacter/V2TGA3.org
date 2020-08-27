@@ -1,0 +1,21 @@
+* Organism:
+- Acinetobacter nectaris CIP 110549
+* Protein length:
+- 2777
+* Adhesive domains:
+-YadA_head (PF05658): pos. 1979 - 2007
+-YadA_head (PF05658): pos. 2010 - 2035
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 345 - 387
+-YadA_stalk (PF05662): pos. 491 - 535
+-YadA_stalk (PF05662): pos. 632 - 677
+-YadA_stalk (PF05662): pos. 1095 - 1137
+-YadA_stalk (PF05662): pos. 1479 - 1524
+-YadA_stalk (PF05662): pos. 1792 - 1837
+-YadA_stalk (PF05662): pos. 1876 - 1918
+-YadA_stalk (PF05662): pos. 2137 - 2181
+-YadA_stalk (PF05662): pos. 2273 - 2318
+-YadA_stalk (PF05662): pos. 2463 - 2505
+-YadA_stalk (PF05662): pos. 2526 - 2571
+-YadA_stalk (PF05662): pos. 2611 - 2657
+

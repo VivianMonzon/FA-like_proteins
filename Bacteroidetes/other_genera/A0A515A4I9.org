@@ -1,0 +1,10 @@
+* Organism:
+- Spirosoma sp. KCTC 42546
+* Protein length:
+- 1294
+* Adhesive domains:
+-PA14 (PF07691): pos. 485 - 620
+* Stalk domains:
+-DUF11 (PF01345): pos. 1008 - 1119
+-DUF11 (PF01345): pos. 1166 - 1277
+

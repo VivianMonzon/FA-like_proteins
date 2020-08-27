@@ -1,0 +1,9 @@
+* Organism:
+- Frateuria aurantia (strain ATCC 33424 / DSM 6220 / NBRC 3245 / NCIMB 13370) (Acetobacter aurantius)
+* Protein length:
+- 600
+* Adhesive domains:
+-VWA (PF00092): pos. 96 - 282
+* Stalk domains:
+-Collagen (PF01391): pos. 456 - 516
+

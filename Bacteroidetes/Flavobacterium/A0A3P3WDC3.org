@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium tangerina
+* Protein length:
+- 2656
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 600 - 746
+-Cleaved_Adhesin (PF07675): pos. 1120 - 1210
+-Cleaved_Adhesin (PF07675): pos. 1631 - 1774
+* Stalk domains:
+-fn3 (PF00041): pos. 1283 - 1359
+

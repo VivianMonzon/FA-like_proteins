@@ -1,0 +1,9 @@
+* Organism:
+- Paenibacillus sp. N3.4
+* Protein length:
+- 1594
+* Adhesive domains:
+-PA14 (PF07691): pos. 1119 - 1252
+* Stalk domains:
+-CARDB (PF07705): pos. 173 - 280
+

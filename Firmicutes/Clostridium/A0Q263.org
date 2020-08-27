@@ -1,0 +1,9 @@
+* Organism:
+- Clostridium novyi (strain NT)
+* Protein length:
+- 892
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 178 - 300
+* Stalk domains:
+-SpaA (PF17802): pos. 336 - 406
+

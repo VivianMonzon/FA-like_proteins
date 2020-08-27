@@ -1,0 +1,15 @@
+* Organism:
+- Bisgaardia hudsonensis
+* Protein length:
+- 1563
+* Adhesive domains:
+-YadA_head (PF05658): pos. 237 - 263
+-YadA_head (PF05658): pos. 287 - 313
+-YadA_head (PF05658): pos. 371 - 397
+-YadA_head (PF05658): pos. 399 - 425
+-YadA_head (PF05658): pos. 427 - 453
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 497 - 542
+-YadA_stalk (PF05662): pos. 911 - 952
+-YadA_stalk (PF05662): pos. 1449 - 1494
+

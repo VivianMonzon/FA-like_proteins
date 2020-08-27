@@ -1,0 +1,12 @@
+* Organism:
+- Synechococcus sp. (strain ATCC 29403 / PCC 7335)
+* Protein length:
+- 1691
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 177 - 379
+* Stalk domains:
+-He_PIG (PF05345): pos. 1010 - 1105
+-He_PIG (PF05345): pos. 1109 - 1204
+-He_PIG (PF05345): pos. 1208 - 1303
+-He_PIG (PF05345): pos. 1307 - 1402
+

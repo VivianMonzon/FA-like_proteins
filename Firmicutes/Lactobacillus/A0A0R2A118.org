@@ -1,0 +1,11 @@
+* Organism:
+- Lactobacillus vaccinostercus DSM 20634
+* Protein length:
+- 773
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 1 - 204
+* Stalk domains:
+-MucBP_2 (PF17965): pos. 210 - 286
+-MucBP_2 (PF17965): pos. 288 - 358
+-MucBP_2 (PF17965): pos. 449 - 521
+

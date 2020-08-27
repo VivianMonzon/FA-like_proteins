@@ -1,0 +1,16 @@
+* Organism:
+- Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288)
+* Protein length:
+- 1499
+* Adhesive domains:
+-GbpC (PF08363): pos. 476 - 747
+-Adhesin_P1_N (PF18652): pos. 78 - 183
+* Stalk domains:
+-Strep_SA_rep (PF06696): pos. 199 - 223
+-Strep_SA_rep (PF06696): pos. 225 - 248
+-Strep_SA_rep (PF06696): pos. 306 - 330
+-Strep_SA_rep (PF06696): pos. 388 - 412
+-Strep_SA_rep (PF06696): pos. 445 - 469
+-Antigen_C (PF16364): pos. 1255 - 1413
+-AgI_II_C2 (PF17998): pos. 1079 - 1247
+

@@ -1,0 +1,12 @@
+* Organism:
+- Kurthia sibirica
+* Protein length:
+- 2145
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 470 - 587
+-Collagen_bind (PF05737): pos. 728 - 862
+-Collagen_bind (PF05737): pos. 878 - 1006
+* Stalk domains:
+-SpaA (PF17802): pos. 1043 - 1106
+-Endotoxin_C2 (PF18449): pos. 65 - 126
+

@@ -1,0 +1,12 @@
+* Organism:
+- Hungateiclostridium straminisolvens JCM 21531
+* Protein length:
+- 1453
+* Adhesive domains:
+-VWA (PF00092): pos. 41 - 242
+* Stalk domains:
+-Flg_new (PF09479): pos. 1095 - 1161
+-Flg_new_2 (PF18998): pos. 922 - 992
+-Flg_new_2 (PF18998): pos. 1001 - 1077
+-Flg_new_2 (PF18998): pos. 1095 - 1166
+

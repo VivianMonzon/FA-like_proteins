@@ -1,0 +1,10 @@
+* Organism:
+- Polaribacter sp. KT25b
+* Protein length:
+- 1625
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 84 - 284
+* Stalk domains:
+-PKD (PF00801): pos. 892 - 962
+-PKD_4 (PF18911): pos. 875 - 957
+

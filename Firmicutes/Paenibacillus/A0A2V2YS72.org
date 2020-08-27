@@ -1,0 +1,23 @@
+* Organism:
+- Paenibacillus cellulosilyticus
+* Protein length:
+- 2338
+* Adhesive domains:
+-VWA (PF00092): pos. 109 - 202
+* Stalk domains:
+-DUF11 (PF01345): pos. 631 - 753
+-Flg_new (PF09479): pos. 829 - 895
+-Flg_new (PF09479): pos. 971 - 1034
+-Flg_new (PF09479): pos. 1036 - 1103
+-Flg_new (PF09479): pos. 1246 - 1314
+-Flg_new (PF09479): pos. 1457 - 1524
+-Flg_new (PF09479): pos. 1532 - 1604
+-Flg_new (PF09479): pos. 1692 - 1759
+-Flg_new (PF09479): pos. 2046 - 2110
+-CarboxypepD_reg (PF13620): pos. 1771 - 1851
+-Flg_new_2 (PF18998): pos. 1036 - 1109
+-Flg_new_2 (PF18998): pos. 1246 - 1320
+-Flg_new_2 (PF18998): pos. 1457 - 1530
+-Flg_new_2 (PF18998): pos. 1613 - 1690
+-Flg_new_2 (PF18998): pos. 2046 - 2115
+

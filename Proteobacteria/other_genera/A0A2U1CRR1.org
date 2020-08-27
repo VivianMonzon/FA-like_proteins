@@ -1,0 +1,16 @@
+* Organism:
+- Pusillimonas noertemannii
+* Protein length:
+- 2047
+* Adhesive domains:
+-YadA_head (PF05658): pos. 237 - 263
+-YadA_head (PF05658): pos. 286 - 312
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 106 - 152
+-YadA_stalk (PF05662): pos. 188 - 213
+-YadA_stalk (PF05662): pos. 515 - 555
+-YadA_stalk (PF05662): pos. 938 - 983
+-YadA_stalk (PF05662): pos. 1195 - 1237
+-YadA_stalk (PF05662): pos. 1406 - 1448
+-YadA_stalk (PF05662): pos. 1930 - 1970
+

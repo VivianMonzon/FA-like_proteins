@@ -1,0 +1,12 @@
+* Organism:
+- Chitinophaga skermanii
+* Protein length:
+- 2114
+* Adhesive domains:
+-PA14 (PF07691): pos. 641 - 772
+* Stalk domains:
+-fn3 (PF00041): pos. 555 - 633
+-fn3 (PF00041): pos. 896 - 977
+-fn3 (PF00041): pos. 1727 - 1809
+-He_PIG (PF05345): pos. 1083 - 1172
+

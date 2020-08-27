@@ -1,0 +1,14 @@
+* Organism:
+- Hymenobacter sp. MIMBbqt21
+* Protein length:
+- 2174
+* Adhesive domains:
+-PA14 (PF07691): pos. 826 - 959
+-PA14 (PF07691): pos. 1114 - 1213
+-PA14 (PF07691): pos. 1333 - 1465
+-PA14 (PF07691): pos. 1678 - 1810
+-PA14 (PF07691): pos. 1953 - 2059
+* Stalk domains:
+-PKD (PF00801): pos. 527 - 600
+-PKD_4 (PF18911): pos. 515 - 595
+

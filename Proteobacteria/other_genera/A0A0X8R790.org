@@ -1,0 +1,15 @@
+* Organism:
+- Sphingopyxis granuli
+* Protein length:
+- 710
+* Adhesive domains:
+-YadA_head (PF05658): pos. 61 - 87
+-YadA_head (PF05658): pos. 75 - 101
+-YadA_head (PF05658): pos. 89 - 115
+-YadA_head (PF05658): pos. 103 - 129
+-YadA_head (PF05658): pos. 117 - 143
+-YadA_head (PF05658): pos. 215 - 241
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 259 - 301
+-YadA_stalk (PF05662): pos. 442 - 484
+

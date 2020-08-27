@@ -1,0 +1,12 @@
+* Organism:
+- Micromonospora pisi
+* Protein length:
+- 771
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 20 - 208
+* Stalk domains:
+-DUF5979 (PF19407): pos. 273 - 345
+-DUF5979 (PF19407): pos. 405 - 499
+-DUF5979 (PF19407): pos. 530 - 608
+-DUF5979 (PF19407): pos. 652 - 728
+

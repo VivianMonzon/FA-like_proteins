@@ -1,0 +1,17 @@
+* Organism:
+- Blautia sp. YL58
+* Protein length:
+- 1511
+* Adhesive domains:
+-TED (PF08341): pos. 81 - 194
+* Stalk domains:
+-SpaA (PF17802): pos. 322 - 385
+-SpaA (PF17802): pos. 506 - 572
+-SpaA (PF17802): pos. 737 - 809
+-SpaA (PF17802): pos. 837 - 917
+-SpaA (PF17802): pos. 961 - 1041
+-SpaA (PF17802): pos. 1080 - 1157
+-SpaA (PF17802): pos. 1189 - 1262
+-SpaA (PF17802): pos. 1287 - 1363
+-SpaA (PF17802): pos. 1371 - 1457
+

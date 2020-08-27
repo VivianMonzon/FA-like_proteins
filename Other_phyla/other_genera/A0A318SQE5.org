@@ -1,0 +1,9 @@
+* Organism:
+- Deinococcus yavapaiensis KR-236
+* Protein length:
+- 749
+* Adhesive domains:
+-VWA (PF00092): pos. 23 - 195
+* Stalk domains:
+-DUF5979 (PF19407): pos. 290 - 355
+

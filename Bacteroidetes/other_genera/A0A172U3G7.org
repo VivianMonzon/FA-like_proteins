@@ -1,0 +1,9 @@
+* Organism:
+- Flavisolibacter tropicus
+* Protein length:
+- 624
+* Adhesive domains:
+-VWA (PF00092): pos. 250 - 416
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 12 - 102
+

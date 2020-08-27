@@ -1,0 +1,11 @@
+* Organism:
+- Flaviramulus basaltis
+* Protein length:
+- 1816
+* Adhesive domains:
+-PA14 (PF07691): pos. 1295 - 1437
+* Stalk domains:
+-PKD (PF00801): pos. 554 - 618
+-Big_5 (PF13205): pos. 431 - 538
+-PKD_4 (PF18911): pos. 538 - 617
+

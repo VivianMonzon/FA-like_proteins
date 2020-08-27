@@ -1,0 +1,12 @@
+* Organism:
+- Vagococcus elongatus
+* Protein length:
+- 789
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 42 - 271
+* Stalk domains:
+-SpaA (PF17802): pos. 298 - 370
+-SpaA (PF17802): pos. 411 - 481
+-SpaA (PF17802): pos. 517 - 584
+-SpaA (PF17802): pos. 627 - 711
+

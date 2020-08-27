@@ -1,0 +1,16 @@
+* Organism:
+- Leucothrix pacifica
+* Protein length:
+- 2451
+* Adhesive domains:
+-PA14 (PF07691): pos. 599 - 732
+* Stalk domains:
+-PKD (PF00801): pos. 835 - 906
+-He_PIG (PF05345): pos. 512 - 595
+-He_PIG (PF05345): pos. 744 - 829
+-Cadherin_5 (PF17892): pos. 2308 - 2394
+-Big_9 (PF17963): pos. 1731 - 1810
+-Big_9 (PF17963): pos. 2018 - 2097
+-Big_9 (PF17963): pos. 2301 - 2382
+-PKD_4 (PF18911): pos. 820 - 901
+

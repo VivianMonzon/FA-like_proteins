@@ -1,0 +1,11 @@
+* Organism:
+- Vagococcus penaei
+* Protein length:
+- 1037
+* Adhesive domains:
+-VWA (PF00092): pos. 314 - 559
+* Stalk domains:
+-Cna_B (PF05738): pos. 684 - 781
+-SpaA (PF17802): pos. 796 - 869
+-SpaA (PF17802): pos. 902 - 965
+

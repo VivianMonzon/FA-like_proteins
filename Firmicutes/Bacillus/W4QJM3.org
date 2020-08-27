@@ -1,0 +1,42 @@
+* Organism:
+- Bacillus hemicellulosilyticus JCM 9152
+* Protein length:
+- 3284
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 374 - 500
+-Collagen_bind (PF05737): pos. 513 - 645
+-Collagen_bind (PF05737): pos. 776 - 907
+-Collagen_bind (PF05737): pos. 917 - 1053
+* Stalk domains:
+-Cna_B (PF05738): pos. 1674 - 1765
+-Cna_B (PF05738): pos. 2059 - 2157
+-Cna_B (PF05738): pos. 2164 - 2257
+-Cna_B (PF05738): pos. 2264 - 2347
+-Cna_B (PF05738): pos. 2354 - 2435
+-Cna_B (PF05738): pos. 2442 - 2523
+-Cna_B (PF05738): pos. 2530 - 2611
+-Cna_B (PF05738): pos. 2618 - 2698
+-Cna_B (PF05738): pos. 2699 - 2780
+-Cna_B (PF05738): pos. 2787 - 2868
+-Cna_B (PF05738): pos. 2875 - 2956
+-Cna_B (PF05738): pos. 2963 - 3044
+-Cna_B (PF05738): pos. 3051 - 3132
+-Cna_B (PF05738): pos. 3139 - 3220
+-SpaA (PF17802): pos. 1086 - 1155
+-SpaA (PF17802): pos. 1179 - 1259
+-SpaA (PF17802): pos. 1284 - 1357
+-SpaA (PF17802): pos. 1384 - 1456
+-SpaA (PF17802): pos. 1483 - 1552
+-SpaA (PF17802): pos. 1580 - 1654
+-SpaA (PF17802): pos. 1779 - 1845
+-SpaA (PF17802): pos. 1872 - 1942
+-SpaA (PF17802): pos. 1968 - 2041
+-SpaA_2 (PF19403): pos. 1273 - 1363
+-SpaA_2 (PF19403): pos. 1371 - 1466
+-SpaA_2 (PF19403): pos. 1473 - 1557
+-SpaA_2 (PF19403): pos. 1574 - 1653
+-SpaA_2 (PF19403): pos. 1766 - 1857
+-SpaA_2 (PF19403): pos. 1861 - 1949
+-SpaA_2 (PF19403): pos. 1985 - 2045
+-SpaA_2 (PF19403): pos. 2392 - 2448
+

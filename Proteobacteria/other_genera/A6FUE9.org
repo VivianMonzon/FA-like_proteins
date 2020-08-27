@@ -1,0 +1,9 @@
+* Organism:
+- Roseobacter sp. AzwK-3b
+* Protein length:
+- 993
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 618 - 826
+* Stalk domains:
+-Big_6 (PF17936): pos. 507 - 590
+

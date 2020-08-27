@@ -1,0 +1,11 @@
+* Organism:
+- Bacillus sp. UMB0899
+* Protein length:
+- 1384
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 578 - 620
+-LRR_4 (PF12799): pos. 958 - 1000
+* Stalk domains:
+-fn3 (PF00041): pos. 438 - 514
+-fn3 (PF00041): pos. 1106 - 1188
+

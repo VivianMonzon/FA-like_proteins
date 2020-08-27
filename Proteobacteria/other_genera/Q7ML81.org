@@ -1,0 +1,24 @@
+* Organism:
+- Vibrio vulnificus (strain YJ016)
+* Protein length:
+- 2365
+* Adhesive domains:
+-VWA (PF00092): pos. 1865 - 1996
+* Stalk domains:
+-Cadherin_3 (PF16184): pos. 960 - 1070
+-Cadherin_4 (PF17803): pos. 670 - 732
+-Cadherin_4 (PF17803): pos. 766 - 836
+-Cadherin_4 (PF17803): pos. 865 - 935
+-Cadherin_4 (PF17803): pos. 1406 - 1485
+-Cadherin_5 (PF17892): pos. 667 - 773
+-Big_9 (PF17963): pos. 670 - 760
+-Big_9 (PF17963): pos. 765 - 863
+-Big_9 (PF17963): pos. 864 - 962
+-Big_9 (PF17963): pos. 1406 - 1506
+-Big_11 (PF18200): pos. 1443 - 1517
+-Big_13 (PF19077): pos. 153 - 237
+-Big_13 (PF19077): pos. 238 - 321
+-Big_13 (PF19077): pos. 322 - 405
+-Big_13 (PF19077): pos. 406 - 489
+-Big_13 (PF19077): pos. 490 - 573
+

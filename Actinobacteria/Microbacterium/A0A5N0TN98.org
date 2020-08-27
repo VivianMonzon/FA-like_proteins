@@ -1,0 +1,11 @@
+* Organism:
+- Microbacterium sp. L-033
+* Protein length:
+- 709
+* Adhesive domains:
+-TED (PF08341): pos. 123 - 215
+* Stalk domains:
+-DUF5979 (PF19407): pos. 360 - 445
+-DUF5979 (PF19407): pos. 459 - 546
+-DUF5979 (PF19407): pos. 560 - 647
+

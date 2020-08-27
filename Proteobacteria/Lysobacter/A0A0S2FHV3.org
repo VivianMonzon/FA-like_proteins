@@ -1,0 +1,9 @@
+* Organism:
+- Lysobacter antibioticus
+* Protein length:
+- 865
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 21 - 289
+* Stalk domains:
+-DUF11 (PF01345): pos. 763 - 865
+

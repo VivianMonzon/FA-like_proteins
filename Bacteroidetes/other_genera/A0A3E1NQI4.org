@@ -1,0 +1,10 @@
+* Organism:
+- Deminuibacter soli
+* Protein length:
+- 2272
+* Adhesive domains:
+-PA14 (PF07691): pos. 654 - 791
+-PA14 (PF07691): pos. 911 - 1029
+* Stalk domains:
+-He_PIG (PF05345): pos. 1606 - 1699
+

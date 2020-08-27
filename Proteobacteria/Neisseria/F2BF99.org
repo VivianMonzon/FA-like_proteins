@@ -1,0 +1,16 @@
+* Organism:
+- Neisseria bacilliformis ATCC BAA-1200
+* Protein length:
+- 2626
+* Adhesive domains:
+-YadA_head (PF05658): pos. 368 - 392
+-YadA_head (PF05658): pos. 423 - 449
+-YadA_head (PF05658): pos. 763 - 789
+-YadA_head (PF05658): pos. 1094 - 1119
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 997 - 1042
+-YadA_stalk (PF05662): pos. 1353 - 1398
+-YadA_stalk (PF05662): pos. 1588 - 1630
+-YadA_stalk (PF05662): pos. 1791 - 1819
+-YadA_stalk (PF05662): pos. 2504 - 2544
+

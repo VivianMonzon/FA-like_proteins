@@ -1,0 +1,10 @@
+* Organism:
+- Hathewaya proteolytica DSM 3090
+* Protein length:
+- 459
+* Adhesive domains:
+-VWA (PF00092): pos. 280 - 447
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 66 - 88
+-TSP3_bac (PF18884): pos. 89 - 110
+

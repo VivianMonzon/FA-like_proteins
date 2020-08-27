@@ -1,0 +1,11 @@
+* Organism:
+- Gynuella sunshinyii YC6258
+* Protein length:
+- 2819
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 389 - 611
+* Stalk domains:
+-He_PIG (PF05345): pos. 289 - 375
+-He_PIG (PF05345): pos. 896 - 980
+-He_PIG (PF05345): pos. 988 - 1072
+

@@ -1,0 +1,9 @@
+* Organism:
+- Tissierella creatinophila DSM 6911
+* Protein length:
+- 756
+* Adhesive domains:
+-VWA (PF00092): pos. 215 - 423
+* Stalk domains:
+-PKD_6 (PF19408): pos. 562 - 618
+

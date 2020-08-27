@@ -1,0 +1,9 @@
+* Organism:
+- Flavobacterium oncorhynchi
+* Protein length:
+- 707
+* Adhesive domains:
+-VWA (PF00092): pos. 345 - 516
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 25 - 98
+

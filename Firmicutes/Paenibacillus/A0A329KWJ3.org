@@ -1,0 +1,10 @@
+* Organism:
+- Paenibacillus sp. YN15
+* Protein length:
+- 2041
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 116 - 418
+* Stalk domains:
+-DUF11 (PF01345): pos. 1707 - 1820
+-Big_1 (PF02369): pos. 1212 - 1276
+

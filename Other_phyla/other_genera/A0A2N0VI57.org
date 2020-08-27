@@ -1,0 +1,9 @@
+* Organism:
+- Rhodohalobacter barkolensis
+* Protein length:
+- 361
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 155 - 358
+* Stalk domains:
+-Big_5 (PF13205): pos. 33 - 135
+

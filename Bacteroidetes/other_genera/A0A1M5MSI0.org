@@ -1,0 +1,10 @@
+* Organism:
+- Chryseolinea serpens
+* Protein length:
+- 572
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 472 - 517
+-LRR_4 (PF12799): pos. 495 - 535
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 43 - 112
+

@@ -1,0 +1,10 @@
+* Organism:
+- Paraburkholderia megapolitana
+* Protein length:
+- 255
+* Adhesive domains:
+-YadA_head (PF05658): pos. 50 - 76
+-YadA_head (PF05658): pos. 78 - 104
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 150 - 192
+

@@ -1,0 +1,10 @@
+* Organism:
+- Arcticibacter pallidicorallinus
+* Protein length:
+- 836
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 45 - 298
+* Stalk domains:
+-Big_9 (PF17963): pos. 294 - 398
+-Big_9 (PF17963): pos. 490 - 574
+

@@ -1,0 +1,13 @@
+* Organism:
+- Paenibacillus pectinilyticus
+* Protein length:
+- 1107
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 180 - 308
+-Collagen_bind (PF05737): pos. 318 - 457
+-Collagen_bind (PF05737): pos. 455 - 582
+-Collagen_bind (PF05737): pos. 596 - 728
+-Collagen_bind (PF05737): pos. 735 - 866
+* Stalk domains:
+-SpaA (PF17802): pos. 897 - 967
+

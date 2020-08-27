@@ -1,0 +1,11 @@
+* Organism:
+- Phocoenobacter uteri
+* Protein length:
+- 881
+* Adhesive domains:
+-YadA_head (PF05658): pos. 121 - 144
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 307 - 353
+-YadA_stalk (PF05662): pos. 598 - 623
+-YadA_stalk (PF05662): pos. 769 - 811
+

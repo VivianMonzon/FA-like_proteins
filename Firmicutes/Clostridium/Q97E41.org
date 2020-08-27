@@ -1,0 +1,13 @@
+* Organism:
+- Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787)
+* Protein length:
+- 1043
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 940 - 982
+* Stalk domains:
+-Big_2 (PF02368): pos. 174 - 251
+-Big_2 (PF02368): pos. 396 - 471
+-Big_2 (PF02368): pos. 616 - 694
+-Big_2 (PF02368): pos. 701 - 787
+-Big_2 (PF02368): pos. 795 - 869
+

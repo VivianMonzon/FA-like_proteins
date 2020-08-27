@@ -1,0 +1,14 @@
+* Organism:
+- Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288)
+* Protein length:
+- 1058
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 171 - 300
+* Stalk domains:
+-FctA (PF12892): pos. 322 - 424
+-FctA (PF12892): pos. 432 - 535
+-FctA (PF12892): pos. 543 - 645
+-FctA (PF12892): pos. 653 - 755
+-FctA (PF12892): pos. 766 - 868
+-FctA (PF12892): pos. 888 - 990
+

@@ -1,0 +1,12 @@
+* Organism:
+- Enterococcus hermanniensis
+* Protein length:
+- 1140
+* Adhesive domains:
+-VWA (PF00092): pos. 296 - 539
+* Stalk domains:
+-Cna_B (PF05738): pos. 675 - 777
+-SpaA (PF17802): pos. 791 - 859
+-SpaA (PF17802): pos. 890 - 957
+-SpaA (PF17802): pos. 1007 - 1071
+

@@ -1,0 +1,14 @@
+* Organism:
+- Lactobacillus dextrinicus DSM 20335
+* Protein length:
+- 962
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 203 - 330
+* Stalk domains:
+-Cna_B (PF05738): pos. 348 - 432
+-Cna_B (PF05738): pos. 440 - 524
+-Cna_B (PF05738): pos. 530 - 616
+-Cna_B (PF05738): pos. 622 - 704
+-Cna_B (PF05738): pos. 712 - 794
+-Cna_B (PF05738): pos. 802 - 889
+

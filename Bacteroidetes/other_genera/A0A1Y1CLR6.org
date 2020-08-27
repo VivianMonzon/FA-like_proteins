@@ -1,0 +1,10 @@
+* Organism:
+- Labilibaculum antarcticum
+* Protein length:
+- 463
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 258 - 461
+* Stalk domains:
+-Big_5 (PF13205): pos. 30 - 131
+-Big_5 (PF13205): pos. 136 - 238
+

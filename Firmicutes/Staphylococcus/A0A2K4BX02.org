@@ -1,0 +1,10 @@
+* Organism:
+- Staphylococcus auricularis
+* Protein length:
+- 474
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 1 - 146
+* Stalk domains:
+-Rib (PF08428): pos. 171 - 264
+-Rib (PF08428): pos. 266 - 360
+

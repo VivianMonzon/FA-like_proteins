@@ -1,0 +1,9 @@
+* Organism:
+- Bacillus sp. JCM 19045
+* Protein length:
+- 1002
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 401 - 636
+* Stalk domains:
+-DUF11 (PF01345): pos. 655 - 774
+

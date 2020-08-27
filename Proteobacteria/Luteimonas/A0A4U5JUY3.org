@@ -1,0 +1,9 @@
+* Organism:
+- Luteimonas sp. H23
+* Protein length:
+- 427
+* Adhesive domains:
+-YadA_head (PF05658): pos. 177 - 203
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 221 - 263
+

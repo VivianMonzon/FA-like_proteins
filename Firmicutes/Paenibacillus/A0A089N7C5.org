@@ -1,0 +1,12 @@
+* Organism:
+- Paenibacillus stellifer
+* Protein length:
+- 1171
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 181 - 310
+-Collagen_bind (PF05737): pos. 319 - 454
+-Collagen_bind (PF05737): pos. 596 - 727
+-Collagen_bind (PF05737): pos. 736 - 867
+* Stalk domains:
+-SpaA (PF17802): pos. 899 - 968
+

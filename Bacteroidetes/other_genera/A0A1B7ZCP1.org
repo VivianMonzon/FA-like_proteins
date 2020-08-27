@@ -1,0 +1,9 @@
+* Organism:
+- Maribacter sp. T28
+* Protein length:
+- 693
+* Adhesive domains:
+-VWA (PF00092): pos. 331 - 503
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 22 - 91
+

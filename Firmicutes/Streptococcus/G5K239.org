@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus ictaluri 707-05
+* Protein length:
+- 943
+* Adhesive domains:
+-VWA (PF00092): pos. 174 - 314
+* Stalk domains:
+-Fn_bind (PF02986): pos. 788 - 834
+-Fn_bind (PF02986): pos. 836 - 873
+

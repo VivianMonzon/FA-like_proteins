@@ -1,0 +1,12 @@
+* Organism:
+- [Clostridium] symbiosum WAL-14163
+* Protein length:
+- 465
+* Adhesive domains:
+-BclA_C (PF18573): pos. 338 - 465
+* Stalk domains:
+-Collagen (PF01391): pos. 45 - 108
+-Collagen (PF01391): pos. 75 - 150
+-Collagen (PF01391): pos. 166 - 226
+-Collagen (PF01391): pos. 273 - 335
+

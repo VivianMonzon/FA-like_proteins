@@ -1,0 +1,14 @@
+* Organism:
+- Streptococcus pseudoporcinus LQ 940-04
+* Protein length:
+- 1631
+* Adhesive domains:
+-GbpC (PF08363): pos. 370 - 435
+-GbpC (PF08363): pos. 433 - 630
+-Adhesin_P1_N (PF18652): pos. 90 - 195
+* Stalk domains:
+-Antigen_C (PF16364): pos. 1413 - 1571
+-AgI_II_C2 (PF17998): pos. 883 - 1051
+-AgI_II_C2 (PF17998): pos. 1060 - 1228
+-AgI_II_C2 (PF17998): pos. 1237 - 1405
+

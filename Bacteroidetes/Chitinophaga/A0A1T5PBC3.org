@@ -1,0 +1,13 @@
+* Organism:
+- Chitinophaga ginsengisegetis
+* Protein length:
+- 661
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 33 - 242
+* Stalk domains:
+-PKD (PF00801): pos. 249 - 315
+-PKD_4 (PF18911): pos. 239 - 311
+-PKD_4 (PF18911): pos. 319 - 394
+-PKD_4 (PF18911): pos. 400 - 476
+-PKD_6 (PF19408): pos. 333 - 406
+

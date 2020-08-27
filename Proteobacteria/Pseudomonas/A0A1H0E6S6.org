@@ -1,0 +1,37 @@
+* Organism:
+- Pseudomonas jinjuensis
+* Protein length:
+- 2581
+* Adhesive domains:
+-YadA_head (PF05658): pos. 101 - 127
+-YadA_head (PF05658): pos. 564 - 589
+-YadA_head (PF05658): pos. 711 - 737
+-YadA_head (PF05658): pos. 739 - 765
+-YadA_head (PF05658): pos. 796 - 822
+-YadA_head (PF05658): pos. 864 - 890
+-YadA_head (PF05658): pos. 2254 - 2280
+-YadA_head (PF05658): pos. 2384 - 2409
+-YadA_head (PF05658): pos. 2397 - 2423
+-YadA_head (PF05658): pos. 2411 - 2437
+-YadA_head (PF05658): pos. 2425 - 2450
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 204 - 246
+-YadA_stalk (PF05662): pos. 361 - 402
+-YadA_stalk (PF05662): pos. 653 - 695
+-YadA_stalk (PF05662): pos. 935 - 977
+-YadA_stalk (PF05662): pos. 1048 - 1085
+-YadA_stalk (PF05662): pos. 1142 - 1184
+-YadA_stalk (PF05662): pos. 1255 - 1297
+-YadA_stalk (PF05662): pos. 1357 - 1399
+-YadA_stalk (PF05662): pos. 1415 - 1456
+-YadA_stalk (PF05662): pos. 1514 - 1556
+-YadA_stalk (PF05662): pos. 1573 - 1614
+-YadA_stalk (PF05662): pos. 1672 - 1713
+-YadA_stalk (PF05662): pos. 1726 - 1768
+-YadA_stalk (PF05662): pos. 1839 - 1880
+-YadA_stalk (PF05662): pos. 1938 - 1979
+-YadA_stalk (PF05662): pos. 1992 - 2034
+-YadA_stalk (PF05662): pos. 2140 - 2185
+-YadA_stalk (PF05662): pos. 2312 - 2354
+-YadA_stalk (PF05662): pos. 2455 - 2497
+

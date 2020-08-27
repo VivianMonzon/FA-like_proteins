@@ -1,0 +1,11 @@
+* Organism:
+- Volucribacter psittacicida
+* Protein length:
+- 810
+* Adhesive domains:
+-YadA_head (PF05658): pos. 53 - 81
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 487 - 528
+-YadA_stalk (PF05662): pos. 583 - 628
+-YadA_stalk (PF05662): pos. 699 - 741
+

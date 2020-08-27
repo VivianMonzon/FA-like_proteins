@@ -1,0 +1,10 @@
+* Organism:
+- Flavobacterium sp. BFFFF2
+* Protein length:
+- 1264
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 687 - 729
+* Stalk domains:
+-Ig_7 (PF19081): pos. 427 - 498
+-Ig_7 (PF19081): pos. 753 - 823
+

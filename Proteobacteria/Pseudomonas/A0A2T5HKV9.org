@@ -1,0 +1,77 @@
+* Organism:
+- Pseudomonas sp. GV071
+* Protein length:
+- 3862
+* Adhesive domains:
+-PA14 (PF07691): pos. 2196 - 2298
+-PA14 (PF07691): pos. 2922 - 3028
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 258 - 325
+-Cadherin_4 (PF17803): pos. 360 - 432
+-Cadherin_4 (PF17803): pos. 465 - 541
+-Cadherin_4 (PF17803): pos. 570 - 654
+-Cadherin_4 (PF17803): pos. 898 - 967
+-Cadherin_4 (PF17803): pos. 996 - 1062
+-Cadherin_4 (PF17803): pos. 1381 - 1447
+-Cadherin_4 (PF17803): pos. 1473 - 1540
+-Cadherin_4 (PF17803): pos. 1566 - 1631
+-Cadherin_4 (PF17803): pos. 1657 - 1722
+-Cadherin_4 (PF17803): pos. 1748 - 1813
+-Cadherin_4 (PF17803): pos. 1839 - 1904
+-Cadherin_4 (PF17803): pos. 1930 - 1995
+-Cadherin_4 (PF17803): pos. 2021 - 2086
+-Cadherin_4 (PF17803): pos. 2282 - 2358
+-Cadherin_4 (PF17803): pos. 2384 - 2449
+-Cadherin_4 (PF17803): pos. 2475 - 2541
+-Cadherin_4 (PF17803): pos. 2567 - 2632
+-Cadherin_4 (PF17803): pos. 2658 - 2724
+-Cadherin_4 (PF17803): pos. 2750 - 2815
+-Cadherin_4 (PF17803): pos. 3014 - 3097
+-Cadherin_4 (PF17803): pos. 3115 - 3189
+-Cadherin_5 (PF17892): pos. 166 - 265
+-Cadherin_5 (PF17892): pos. 369 - 472
+-Cadherin_5 (PF17892): pos. 474 - 577
+-Cadherin_5 (PF17892): pos. 579 - 687
+-Cadherin_5 (PF17892): pos. 808 - 905
+-Cadherin_5 (PF17892): pos. 1389 - 1480
+-Cadherin_5 (PF17892): pos. 1482 - 1573
+-Cadherin_5 (PF17892): pos. 1575 - 1664
+-Cadherin_5 (PF17892): pos. 1666 - 1755
+-Cadherin_5 (PF17892): pos. 1757 - 1846
+-Cadherin_5 (PF17892): pos. 1848 - 1937
+-Cadherin_5 (PF17892): pos. 1939 - 2028
+-Cadherin_5 (PF17892): pos. 2030 - 2119
+-Cadherin_5 (PF17892): pos. 2300 - 2391
+-Cadherin_5 (PF17892): pos. 2393 - 2482
+-Cadherin_5 (PF17892): pos. 2484 - 2574
+-Cadherin_5 (PF17892): pos. 2576 - 2665
+-Cadherin_5 (PF17892): pos. 2667 - 2757
+-Cadherin_5 (PF17892): pos. 2759 - 2848
+-Cadherin_5 (PF17892): pos. 3027 - 3122
+-Cadherin_5 (PF17892): pos. 3124 - 3222
+-Big_9 (PF17963): pos. 161 - 253
+-Big_9 (PF17963): pos. 257 - 355
+-Big_9 (PF17963): pos. 359 - 460
+-Big_9 (PF17963): pos. 464 - 565
+-Big_9 (PF17963): pos. 569 - 676
+-Big_9 (PF17963): pos. 679 - 799
+-Big_9 (PF17963): pos. 800 - 893
+-Big_9 (PF17963): pos. 897 - 994
+-Big_9 (PF17963): pos. 995 - 1097
+-Big_9 (PF17963): pos. 1379 - 1468
+-Big_9 (PF17963): pos. 1472 - 1561
+-Big_9 (PF17963): pos. 1565 - 1652
+-Big_9 (PF17963): pos. 1656 - 1743
+-Big_9 (PF17963): pos. 1747 - 1834
+-Big_9 (PF17963): pos. 1838 - 1925
+-Big_9 (PF17963): pos. 1929 - 2016
+-Big_9 (PF17963): pos. 2020 - 2107
+-Big_9 (PF17963): pos. 2296 - 2379
+-Big_9 (PF17963): pos. 2383 - 2470
+-Big_9 (PF17963): pos. 2474 - 2562
+-Big_9 (PF17963): pos. 2566 - 2653
+-Big_9 (PF17963): pos. 2657 - 2745
+-Big_9 (PF17963): pos. 2750 - 2836
+-Big_9 (PF17963): pos. 3013 - 3110
+-Big_9 (PF17963): pos. 3114 - 3210
+

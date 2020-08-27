@@ -1,0 +1,9 @@
+* Organism:
+- Bacillus lehensis G1
+* Protein length:
+- 910
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 309 - 544
+* Stalk domains:
+-DUF11 (PF01345): pos. 562 - 681
+

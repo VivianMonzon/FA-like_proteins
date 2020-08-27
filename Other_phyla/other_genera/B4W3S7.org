@@ -1,0 +1,11 @@
+* Organism:
+- Coleofasciculus chthonoplastes PCC 7420
+* Protein length:
+- 1384
+* Adhesive domains:
+-PA14 (PF07691): pos. 973 - 1109
+-PA14 (PF07691): pos. 1125 - 1261
+* Stalk domains:
+-PKD (PF00801): pos. 708 - 776
+-PKD_4 (PF18911): pos. 682 - 771
+

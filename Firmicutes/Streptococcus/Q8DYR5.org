@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R)
+* Protein length:
+- 901
+* Adhesive domains:
+-VWA (PF00092): pos. 230 - 332
+* Stalk domains:
+-SpaA (PF17802): pos. 49 - 118
+-SpaA (PF17802): pos. 747 - 825
+

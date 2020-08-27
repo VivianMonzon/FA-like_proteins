@@ -1,0 +1,10 @@
+* Organism:
+- Vagococcus lutrae LBD1
+* Protein length:
+- 1132
+* Adhesive domains:
+-VWA (PF00092): pos. 356 - 622
+* Stalk domains:
+-SpaA (PF17802): pos. 893 - 961
+-SpaA (PF17802): pos. 993 - 1062
+

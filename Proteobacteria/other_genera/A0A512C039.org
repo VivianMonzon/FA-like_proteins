@@ -1,0 +1,17 @@
+* Organism:
+- Microvirga aerophila
+* Protein length:
+- 1105
+* Adhesive domains:
+-VWA (PF00092): pos. 820 - 1020
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 454 - 523
+-Cadherin_4 (PF17803): pos. 556 - 622
+-Cadherin_4 (PF17803): pos. 655 - 723
+-Cadherin_5 (PF17892): pos. 463 - 563
+-Cadherin_5 (PF17892): pos. 565 - 662
+-Cadherin_5 (PF17892): pos. 664 - 763
+-Big_9 (PF17963): pos. 453 - 551
+-Big_9 (PF17963): pos. 555 - 650
+-Big_9 (PF17963): pos. 654 - 751
+

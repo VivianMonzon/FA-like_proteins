@@ -1,0 +1,12 @@
+* Organism:
+- Chitinophaga pinensis (strain ATCC 43595 / DSM 2588 / NCIB 11800 / UQM 2034)
+* Protein length:
+- 2252
+* Adhesive domains:
+-PA14 (PF07691): pos. 630 - 768
+* Stalk domains:
+-DUF5977 (PF19404): pos. 1888 - 1950
+-DUF5977 (PF19404): pos. 1955 - 2016
+-DUF5977 (PF19404): pos. 2022 - 2080
+-DUF5977 (PF19404): pos. 2084 - 2146
+

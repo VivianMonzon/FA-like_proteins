@@ -1,0 +1,10 @@
+* Organism:
+- Clostridium puniceum
+* Protein length:
+- 328
+* Adhesive domains:
+-BclA_C (PF18573): pos. 199 - 328
+* Stalk domains:
+-Collagen (PF01391): pos. 96 - 159
+-Collagen (PF01391): pos. 134 - 196
+

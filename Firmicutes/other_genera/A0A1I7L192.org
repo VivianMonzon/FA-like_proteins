@@ -1,0 +1,9 @@
+* Organism:
+- Butyrivibrio sp. INlla21
+* Protein length:
+- 1095
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 650 - 813
+* Stalk domains:
+-SpaA (PF17802): pos. 814 - 881
+

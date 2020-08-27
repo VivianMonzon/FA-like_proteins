@@ -1,0 +1,18 @@
+* Organism:
+- Lactobacillus rossiae DSM 15814
+* Protein length:
+- 2686
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 424 - 558
+-Collagen_bind (PF05737): pos. 582 - 724
+* Stalk domains:
+-SpaA (PF17802): pos. 1534 - 1619
+-SpaA (PF17802): pos. 1670 - 1737
+-SpaA (PF17802): pos. 1766 - 1845
+-SpaA (PF17802): pos. 1882 - 1947
+-SpaA (PF17802): pos. 1977 - 2044
+-SpaA (PF17802): pos. 2071 - 2138
+-SpaA (PF17802): pos. 2169 - 2237
+-SpaA (PF17802): pos. 2322 - 2400
+-SpaA (PF17802): pos. 2426 - 2493
+

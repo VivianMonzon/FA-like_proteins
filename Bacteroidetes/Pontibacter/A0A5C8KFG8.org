@@ -1,0 +1,11 @@
+* Organism:
+- Pontibacter sp. GY10130
+* Protein length:
+- 1271
+* Adhesive domains:
+-PA14 (PF07691): pos. 847 - 998
+-PA14 (PF07691): pos. 1011 - 1161
+* Stalk domains:
+-PKD (PF00801): pos. 561 - 635
+-PKD_4 (PF18911): pos. 545 - 630
+

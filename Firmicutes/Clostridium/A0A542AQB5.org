@@ -1,0 +1,11 @@
+* Organism:
+- Clostridium sp. KNHs216
+* Protein length:
+- 1126
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 332 - 463
+-Collagen_bind (PF05737): pos. 638 - 765
+-Collagen_bind (PF05737): pos. 774 - 904
+* Stalk domains:
+-SpaA (PF17802): pos. 940 - 1005
+

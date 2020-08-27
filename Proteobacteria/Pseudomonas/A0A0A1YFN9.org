@@ -1,0 +1,14 @@
+* Organism:
+- Pseudomonas taeanensis MS-3
+* Protein length:
+- 2051
+* Adhesive domains:
+-VWA (PF00092): pos. 1557 - 1729
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 181 - 255
+-Cadherin_4 (PF17803): pos. 424 - 497
+-Cadherin_4 (PF17803): pos. 675 - 751
+-Big_9 (PF17963): pos. 180 - 286
+-Big_9 (PF17963): pos. 423 - 528
+-Big_9 (PF17963): pos. 674 - 782
+

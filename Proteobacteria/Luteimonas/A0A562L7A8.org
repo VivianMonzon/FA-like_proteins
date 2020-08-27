@@ -1,0 +1,17 @@
+* Organism:
+- Luteimonas cucumeris
+* Protein length:
+- 819
+* Adhesive domains:
+-YadA_head (PF05658): pos. 634 - 672
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 18 - 60
+-YadA_stalk (PF05662): pos. 74 - 116
+-YadA_stalk (PF05662): pos. 147 - 189
+-YadA_stalk (PF05662): pos. 203 - 246
+-YadA_stalk (PF05662): pos. 277 - 319
+-YadA_stalk (PF05662): pos. 333 - 375
+-YadA_stalk (PF05662): pos. 483 - 523
+-YadA_stalk (PF05662): pos. 537 - 582
+-YadA_stalk (PF05662): pos. 678 - 720
+

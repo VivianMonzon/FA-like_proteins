@@ -1,0 +1,19 @@
+* Organism:
+- Clostridium cellulovorans (strain ATCC 35296 / DSM 3052 / OCM 3 / 743B)
+* Protein length:
+- 1681
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 178 - 235
+-Collagen_bind (PF05737): pos. 441 - 568
+-Collagen_bind (PF05737): pos. 574 - 695
+-Collagen_bind (PF05737): pos. 708 - 837
+* Stalk domains:
+-SpaA (PF17802): pos. 867 - 935
+-SpaA (PF17802): pos. 961 - 1032
+-SpaA (PF17802): pos. 1058 - 1129
+-SpaA (PF17802): pos. 1155 - 1226
+-SpaA (PF17802): pos. 1252 - 1323
+-SpaA (PF17802): pos. 1349 - 1420
+-SpaA (PF17802): pos. 1446 - 1517
+-SpaA (PF17802): pos. 1540 - 1607
+

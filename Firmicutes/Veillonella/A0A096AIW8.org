@@ -1,0 +1,10 @@
+* Organism:
+- Veillonella montpellierensis DNF00314
+* Protein length:
+- 541
+* Adhesive domains:
+-YadA_head (PF05658): pos. 83 - 109
+-YadA_head (PF05658): pos. 147 - 172
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 340 - 385
+

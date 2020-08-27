@@ -1,0 +1,9 @@
+* Organism:
+- Corynebacterium sp. 13CS0277
+* Protein length:
+- 1814
+* Adhesive domains:
+-VWA (PF00092): pos. 120 - 254
+* Stalk domains:
+-SpaA (PF17802): pos. 1647 - 1738
+

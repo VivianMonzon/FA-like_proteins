@@ -1,0 +1,26 @@
+* Organism:
+- Thioploca ingrica
+* Protein length:
+- 1393
+* Adhesive domains:
+-VWA (PF00092): pos. 154 - 301
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 857 - 934
+-Cadherin_4 (PF17803): pos. 959 - 1030
+-Cadherin_4 (PF17803): pos. 1055 - 1126
+-Cadherin_4 (PF17803): pos. 1151 - 1221
+-Cadherin_5 (PF17892): pos. 872 - 966
+-Cadherin_5 (PF17892): pos. 968 - 1062
+-Cadherin_5 (PF17892): pos. 1064 - 1158
+-Cadherin_5 (PF17892): pos. 1160 - 1254
+-Big_9 (PF17963): pos. 857 - 955
+-Big_9 (PF17963): pos. 958 - 1051
+-Big_9 (PF17963): pos. 1054 - 1147
+-Big_9 (PF17963): pos. 1150 - 1242
+-Flg_new_2 (PF18998): pos. 385 - 466
+-Flg_new_2 (PF18998): pos. 467 - 548
+-Flg_new_2 (PF18998): pos. 549 - 630
+-Flg_new_2 (PF18998): pos. 631 - 712
+-Flg_new_2 (PF18998): pos. 713 - 794
+-Flg_new_2 (PF18998): pos. 795 - 876
+

@@ -1,0 +1,9 @@
+* Organism:
+- Mariniphaga sediminis
+* Protein length:
+- 608
+* Adhesive domains:
+-VWA (PF00092): pos. 245 - 416
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 22 - 94
+

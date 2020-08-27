@@ -1,0 +1,17 @@
+* Organism:
+- Variovorax sp. WDL1
+* Protein length:
+- 890
+* Adhesive domains:
+-YadA_head (PF05658): pos. 45 - 71
+-YadA_head (PF05658): pos. 274 - 300
+-YadA_head (PF05658): pos. 344 - 370
+-YadA_head (PF05658): pos. 372 - 398
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 170 - 215
+-YadA_stalk (PF05662): pos. 233 - 275
+-YadA_stalk (PF05662): pos. 501 - 542
+-YadA_stalk (PF05662): pos. 639 - 678
+-YadA_stalk (PF05662): pos. 729 - 772
+-YadA_stalk (PF05662): pos. 784 - 825
+

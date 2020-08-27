@@ -1,0 +1,9 @@
+* Organism:
+- Aureitalea sp. RR4-38
+* Protein length:
+- 4721
+* Adhesive domains:
+-VWA (PF00092): pos. 66 - 271
+* Stalk domains:
+-DUF11 (PF01345): pos. 698 - 813
+

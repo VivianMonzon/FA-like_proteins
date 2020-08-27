@@ -1,0 +1,11 @@
+* Organism:
+- Thiothrix caldifontis
+* Protein length:
+- 2966
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 697 - 939
+-CshA_NR2 (PF18651): pos. 2212 - 2472
+* Stalk domains:
+-SdrD_B (PF17210): pos. 2051 - 2139
+-SdrD_B (PF17210): pos. 2607 - 2718
+

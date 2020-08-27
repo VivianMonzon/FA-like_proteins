@@ -1,0 +1,17 @@
+* Organism:
+- Adhaeribacter sp. HMF7616
+* Protein length:
+- 2763
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 2019 - 2244
+* Stalk domains:
+-Cadherin (PF00028): pos. 585 - 681
+-Cadherin (PF00028): pos. 698 - 787
+-Cadherin (PF00028): pos. 922 - 1012
+-He_PIG (PF05345): pos. 1650 - 1743
+-He_PIG (PF05345): pos. 1747 - 1837
+-He_PIG (PF05345): pos. 1841 - 1932
+-Cadherin_3 (PF16184): pos. 777 - 892
+-Big_9 (PF17963): pos. 106 - 211
+-Big_9 (PF17963): pos. 1215 - 1318
+

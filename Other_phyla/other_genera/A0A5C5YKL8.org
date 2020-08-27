@@ -1,0 +1,13 @@
+* Organism:
+- Rhodopirellula solitaria
+* Protein length:
+- 1918
+* Adhesive domains:
+-DUF4465 (PF14717): pos. 283 - 465
+-DUF4465 (PF14717): pos. 838 - 1012
+-DUF4465 (PF14717): pos. 1161 - 1345
+* Stalk domains:
+-Calx-beta (PF03160): pos. 561 - 654
+-Calx-beta (PF03160): pos. 665 - 753
+-Calx-beta (PF03160): pos. 1339 - 1420
+

@@ -1,0 +1,12 @@
+* Organism:
+- Nostoc flagelliforme CCNUN1
+* Protein length:
+- 1152
+* Adhesive domains:
+-PA14 (PF07691): pos. 42 - 178
+-PA14 (PF07691): pos. 185 - 321
+-PA14 (PF07691): pos. 328 - 464
+* Stalk domains:
+-Calx-beta (PF03160): pos. 463 - 564
+-Calx-beta (PF03160): pos. 577 - 672
+

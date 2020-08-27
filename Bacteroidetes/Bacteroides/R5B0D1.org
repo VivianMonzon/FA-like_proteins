@@ -1,0 +1,10 @@
+* Organism:
+- Bacteroides sp. CAG:927
+* Protein length:
+- 1488
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 495 - 639
+-Cleaved_Adhesin (PF07675): pos. 1233 - 1349
+* Stalk domains:
+-CARDB (PF07705): pos. 1032 - 1134
+

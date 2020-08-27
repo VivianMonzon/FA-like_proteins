@@ -1,0 +1,10 @@
+* Organism:
+- Caulobacter mirabilis
+* Protein length:
+- 502
+* Adhesive domains:
+-YadA_head (PF05658): pos. 175 - 201
+-YadA_head (PF05658): pos. 274 - 299
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 317 - 359
+

@@ -1,0 +1,9 @@
+* Organism:
+- Thalassomonas sp. M1454
+* Protein length:
+- 607
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 322 - 364
+* Stalk domains:
+-Calx-beta (PF03160): pos. 427 - 524
+

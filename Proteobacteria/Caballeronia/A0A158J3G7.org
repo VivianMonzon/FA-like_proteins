@@ -1,0 +1,12 @@
+* Organism:
+- Caballeronia telluris
+* Protein length:
+- 533
+* Adhesive domains:
+-YadA_head (PF05658): pos. 373 - 399
+-YadA_head (PF05658): pos. 387 - 413
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 161 - 206
+-YadA_stalk (PF05662): pos. 282 - 327
+-YadA_stalk (PF05662): pos. 431 - 472
+

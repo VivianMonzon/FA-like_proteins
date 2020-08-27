@@ -1,0 +1,9 @@
+* Organism:
+- Bacillus loiseleuriae
+* Protein length:
+- 378
+* Adhesive domains:
+-BclA_C (PF18573): pos. 247 - 378
+* Stalk domains:
+-Collagen (PF01391): pos. 14 - 75
+

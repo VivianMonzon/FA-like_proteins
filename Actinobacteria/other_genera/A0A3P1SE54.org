@@ -1,0 +1,12 @@
+* Organism:
+- Schaalia canis
+* Protein length:
+- 1073
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 204 - 560
+* Stalk domains:
+-SpaA (PF17802): pos. 831 - 904
+-SpaA_2 (PF19403): pos. 701 - 813
+-SpaA_2 (PF19403): pos. 818 - 901
+-SpaA_2 (PF19403): pos. 948 - 1009
+

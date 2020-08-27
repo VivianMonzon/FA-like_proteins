@@ -1,0 +1,10 @@
+* Organism:
+- Psychroflexus salarius
+* Protein length:
+- 1446
+* Adhesive domains:
+-PA14 (PF07691): pos. 573 - 705
+* Stalk domains:
+-DUF11 (PF01345): pos. 416 - 529
+-CARDB (PF07705): pos. 414 - 527
+

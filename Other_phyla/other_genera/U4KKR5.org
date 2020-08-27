@@ -1,0 +1,15 @@
+* Organism:
+- Acholeplasma palmae (strain ATCC 49389 / J233)
+* Protein length:
+- 1752
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 39 - 248
+* Stalk domains:
+-DUF1542 (PF07564): pos. 678 - 750
+-DUF1542 (PF07564): pos. 758 - 830
+-DUF1542 (PF07564): pos. 841 - 915
+-DUF1542 (PF07564): pos. 917 - 992
+-Big_11 (PF18200): pos. 265 - 340
+-Big_11 (PF18200): pos. 355 - 429
+-Big_11 (PF18200): pos. 440 - 515
+

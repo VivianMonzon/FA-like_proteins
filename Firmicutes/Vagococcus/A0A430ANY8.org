@@ -1,0 +1,11 @@
+* Organism:
+- Vagococcus carniphilus
+* Protein length:
+- 1219
+* Adhesive domains:
+-VWA (PF00092): pos. 339 - 581
+* Stalk domains:
+-SpaA (PF17802): pos. 830 - 903
+-SpaA (PF17802): pos. 942 - 1014
+-SpaA (PF17802): pos. 1064 - 1140
+

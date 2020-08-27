@@ -1,0 +1,9 @@
+* Organism:
+- Lactobacillus kimchicus JCM 15530
+* Protein length:
+- 481
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 168 - 292
+* Stalk domains:
+-SpaA (PF17802): pos. 336 - 402
+

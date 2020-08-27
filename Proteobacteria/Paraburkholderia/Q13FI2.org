@@ -1,0 +1,11 @@
+* Organism:
+- Paraburkholderia xenovorans (strain LB400)
+* Protein length:
+- 651
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 394 - 647
+* Stalk domains:
+-Big_5 (PF13205): pos. 44 - 150
+-Big_5 (PF13205): pos. 155 - 262
+-Big_5 (PF13205): pos. 267 - 375
+

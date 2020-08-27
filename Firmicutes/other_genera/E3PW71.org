@@ -1,0 +1,9 @@
+* Organism:
+- Acetoanaerobium sticklandii (strain ATCC 12662 / DSM 519 / JCM 1433 / NCIMB 10654) (Clostridium sticklandii)
+* Protein length:
+- 873
+* Adhesive domains:
+-VWA (PF00092): pos. 401 - 599
+* Stalk domains:
+-DUF11 (PF01345): pos. 208 - 327
+

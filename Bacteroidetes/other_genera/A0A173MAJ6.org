@@ -1,0 +1,9 @@
+* Organism:
+- Filimonas lacunae
+* Protein length:
+- 654
+* Adhesive domains:
+-VWA (PF00092): pos. 279 - 450
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 24 - 100
+

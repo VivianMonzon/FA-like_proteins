@@ -1,0 +1,9 @@
+* Organism:
+- Enterococcus durans
+* Protein length:
+- 923
+* Adhesive domains:
+-VWA (PF00092): pos. 128 - 274
+* Stalk domains:
+-SpaA (PF17802): pos. 600 - 681
+

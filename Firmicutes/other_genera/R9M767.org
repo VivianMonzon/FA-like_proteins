@@ -1,0 +1,9 @@
+* Organism:
+- Oscillibacter sp. 1-3
+* Protein length:
+- 371
+* Adhesive domains:
+-BclA_C (PF18573): pos. 240 - 371
+* Stalk domains:
+-Collagen (PF01391): pos. 180 - 240
+

@@ -1,0 +1,14 @@
+* Organism:
+- Staphylococcus aureus (strain NCTC 8325)
+* Protein length:
+- 995
+* Adhesive domains:
+-SdrG_C_C (PF10425): pos. 336 - 485
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 513 - 587
+-CarboxypepD_reg (PF13620): pos. 624 - 702
+-SdrD_B (PF17210): pos. 497 - 602
+-SdrD_B (PF17210): pos. 608 - 719
+-SpaA (PF17802): pos. 515 - 574
+-SpaA (PF17802): pos. 626 - 677
+

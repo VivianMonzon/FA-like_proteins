@@ -1,0 +1,9 @@
+* Organism:
+- Clostridioides difficile (strain 630) (Peptoclostridium difficile)
+* Protein length:
+- 972
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 329 - 439
+* Stalk domains:
+-SpaA (PF17802): pos. 745 - 813
+

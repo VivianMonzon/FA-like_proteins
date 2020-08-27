@@ -1,0 +1,9 @@
+* Organism:
+- Corynebacterium matruchotii ATCC 14266
+* Protein length:
+- 844
+* Adhesive domains:
+-TED (PF08341): pos. 77 - 195
+* Stalk domains:
+-TQ (PF18202): pos. 326 - 449
+

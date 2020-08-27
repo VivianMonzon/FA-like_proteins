@@ -1,0 +1,12 @@
+* Organism:
+- Nostoc punctiforme (strain ATCC 29133 / PCC 73102)
+* Protein length:
+- 1162
+* Adhesive domains:
+-PA14 (PF07691): pos. 42 - 178
+-PA14 (PF07691): pos. 190 - 326
+-PA14 (PF07691): pos. 338 - 474
+* Stalk domains:
+-Calx-beta (PF03160): pos. 480 - 574
+-Calx-beta (PF03160): pos. 587 - 682
+

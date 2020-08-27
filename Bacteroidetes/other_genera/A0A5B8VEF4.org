@@ -1,0 +1,9 @@
+* Organism:
+- Panacibacter ginsenosidivorans
+* Protein length:
+- 663
+* Adhesive domains:
+-VWA (PF00092): pos. 290 - 462
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 23 - 94
+

@@ -1,0 +1,20 @@
+* Organism:
+- Neisseria arctica
+* Protein length:
+- 3371
+* Adhesive domains:
+-YadA_head (PF05658): pos. 77 - 103
+-YadA_head (PF05658): pos. 365 - 391
+-YadA_head (PF05658): pos. 546 - 571
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 453 - 495
+-YadA_stalk (PF05662): pos. 928 - 973
+-YadA_stalk (PF05662): pos. 1590 - 1635
+-YadA_stalk (PF05662): pos. 1804 - 1849
+-YadA_stalk (PF05662): pos. 2050 - 2092
+-YadA_stalk (PF05662): pos. 2225 - 2270
+-YadA_stalk (PF05662): pos. 2923 - 2964
+-YadA_stalk (PF05662): pos. 3029 - 3071
+-YadA_stalk (PF05662): pos. 3123 - 3166
+-YadA_stalk (PF05662): pos. 3260 - 3302
+

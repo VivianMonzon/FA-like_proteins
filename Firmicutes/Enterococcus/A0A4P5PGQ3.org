@@ -1,0 +1,25 @@
+* Organism:
+- Enterococcus florum
+* Protein length:
+- 2921
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 404 - 535
+-Collagen_bind (PF05737): pos. 541 - 670
+-Collagen_bind (PF05737): pos. 1037 - 1179
+* Stalk domains:
+-SpaA (PF17802): pos. 1214 - 1288
+-SpaA (PF17802): pos. 1430 - 1505
+-SpaA (PF17802): pos. 1540 - 1608
+-SpaA (PF17802): pos. 1651 - 1732
+-SpaA (PF17802): pos. 1762 - 1830
+-SpaA (PF17802): pos. 1861 - 1931
+-SpaA (PF17802): pos. 1962 - 2041
+-SpaA (PF17802): pos. 2073 - 2148
+-SpaA (PF17802): pos. 2174 - 2242
+-SpaA (PF17802): pos. 2273 - 2343
+-SpaA (PF17802): pos. 2370 - 2442
+-SpaA (PF17802): pos. 2483 - 2555
+-SpaA (PF17802): pos. 2585 - 2659
+-SpaA (PF17802): pos. 2684 - 2754
+-SpaA (PF17802): pos. 2780 - 2848
+

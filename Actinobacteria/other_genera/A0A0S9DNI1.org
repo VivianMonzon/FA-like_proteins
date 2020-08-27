@@ -1,0 +1,9 @@
+* Organism:
+- Agreia sp. Leaf244
+* Protein length:
+- 413
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 52 - 242
+* Stalk domains:
+-He_PIG (PF05345): pos. 239 - 342
+

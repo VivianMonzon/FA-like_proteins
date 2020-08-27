@@ -1,0 +1,14 @@
+* Organism:
+- Ferriphaselus amnicola
+* Protein length:
+- 1018
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 774 - 1014
+* Stalk domains:
+-Big_5 (PF13205): pos. 44 - 152
+-Big_5 (PF13205): pos. 157 - 274
+-Big_5 (PF13205): pos. 282 - 388
+-Big_5 (PF13205): pos. 393 - 510
+-Big_5 (PF13205): pos. 515 - 631
+-Big_5 (PF13205): pos. 634 - 752
+

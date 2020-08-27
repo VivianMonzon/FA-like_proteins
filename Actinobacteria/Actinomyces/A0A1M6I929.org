@@ -1,0 +1,13 @@
+* Organism:
+- Actinomyces denticolens
+* Protein length:
+- 970
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 61 - 430
+* Stalk domains:
+-SpaA (PF17802): pos. 744 - 790
+-SpaA (PF17802): pos. 830 - 914
+-SpaA_2 (PF19403): pos. 575 - 696
+-SpaA_2 (PF19403): pos. 713 - 808
+-SpaA_2 (PF19403): pos. 818 - 916
+

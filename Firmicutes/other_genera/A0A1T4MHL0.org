@@ -1,0 +1,13 @@
+* Organism:
+- Pilibacter termitis
+* Protein length:
+- 928
+* Adhesive domains:
+-TED (PF08341): pos. 126 - 256
+* Stalk domains:
+-Cna_B (PF05738): pos. 393 - 485
+-Cna_B (PF05738): pos. 493 - 585
+-Cna_B (PF05738): pos. 593 - 685
+-Cna_B (PF05738): pos. 693 - 785
+-Cna_B (PF05738): pos. 793 - 885
+

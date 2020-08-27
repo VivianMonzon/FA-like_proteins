@@ -1,0 +1,9 @@
+* Organism:
+- Corynebacterium canis
+* Protein length:
+- 536
+* Adhesive domains:
+-TED (PF08341): pos. 73 - 190
+* Stalk domains:
+-TQ (PF18202): pos. 320 - 434
+

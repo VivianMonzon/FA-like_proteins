@@ -1,0 +1,10 @@
+* Organism:
+- Janthinobacterium sp. CG23_2
+* Protein length:
+- 467
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 282 - 466
+* Stalk domains:
+-Big_2 (PF02368): pos. 44 - 126
+-Big_2 (PF02368): pos. 139 - 221
+

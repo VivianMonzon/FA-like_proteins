@@ -1,0 +1,22 @@
+* Organism:
+- Neisseria chenwenguii
+* Protein length:
+- 2619
+* Adhesive domains:
+-YadA_head (PF05658): pos. 199 - 224
+-YadA_head (PF05658): pos. 283 - 309
+-YadA_head (PF05658): pos. 620 - 646
+-YadA_head (PF05658): pos. 2293 - 2319
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 724 - 766
+-YadA_stalk (PF05662): pos. 853 - 892
+-YadA_stalk (PF05662): pos. 986 - 1030
+-YadA_stalk (PF05662): pos. 1273 - 1315
+-YadA_stalk (PF05662): pos. 1446 - 1491
+-YadA_stalk (PF05662): pos. 1707 - 1748
+-YadA_stalk (PF05662): pos. 1853 - 1898
+-YadA_stalk (PF05662): pos. 2001 - 2046
+-YadA_stalk (PF05662): pos. 2155 - 2200
+-YadA_stalk (PF05662): pos. 2429 - 2474
+-YadA_stalk (PF05662): pos. 2508 - 2550
+

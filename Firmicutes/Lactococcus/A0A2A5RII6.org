@@ -1,0 +1,17 @@
+* Organism:
+- Lactococcus fujiensis JCM 16395
+* Protein length:
+- 1776
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 349 - 491
+-Collagen_bind (PF05737): pos. 772 - 901
+-Collagen_bind (PF05737): pos. 909 - 1047
+* Stalk domains:
+-SpaA (PF17802): pos. 1076 - 1140
+-SpaA (PF17802): pos. 1176 - 1247
+-SpaA (PF17802): pos. 1271 - 1338
+-SpaA (PF17802): pos. 1365 - 1433
+-SpaA (PF17802): pos. 1459 - 1528
+-SpaA (PF17802): pos. 1554 - 1622
+-SpaA (PF17802): pos. 1648 - 1717
+

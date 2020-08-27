@@ -1,0 +1,55 @@
+* Organism:
+- Cellvibrio sp. PSBB023
+* Protein length:
+- 2208
+* Adhesive domains:
+-PA14 (PF07691): pos. 1562 - 1670
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 173 - 234
+-Cadherin_4 (PF17803): pos. 260 - 326
+-Cadherin_4 (PF17803): pos. 352 - 418
+-Cadherin_4 (PF17803): pos. 444 - 510
+-Cadherin_4 (PF17803): pos. 536 - 602
+-Cadherin_4 (PF17803): pos. 628 - 694
+-Cadherin_4 (PF17803): pos. 720 - 786
+-Cadherin_4 (PF17803): pos. 812 - 878
+-Cadherin_4 (PF17803): pos. 904 - 970
+-Cadherin_4 (PF17803): pos. 996 - 1062
+-Cadherin_4 (PF17803): pos. 1088 - 1154
+-Cadherin_4 (PF17803): pos. 1180 - 1249
+-Cadherin_4 (PF17803): pos. 1275 - 1354
+-Cadherin_4 (PF17803): pos. 1377 - 1446
+-Cadherin_4 (PF17803): pos. 1675 - 1732
+-Cadherin_4 (PF17803): pos. 1757 - 1825
+-Cadherin_5 (PF17892): pos. 168 - 267
+-Cadherin_5 (PF17892): pos. 269 - 359
+-Cadherin_5 (PF17892): pos. 361 - 451
+-Cadherin_5 (PF17892): pos. 453 - 543
+-Cadherin_5 (PF17892): pos. 545 - 635
+-Cadherin_5 (PF17892): pos. 637 - 727
+-Cadherin_5 (PF17892): pos. 729 - 819
+-Cadherin_5 (PF17892): pos. 821 - 911
+-Cadherin_5 (PF17892): pos. 913 - 1003
+-Cadherin_5 (PF17892): pos. 1005 - 1095
+-Cadherin_5 (PF17892): pos. 1096 - 1187
+-Cadherin_5 (PF17892): pos. 1189 - 1282
+-Cadherin_5 (PF17892): pos. 1386 - 1479
+-Cadherin_5 (PF17892): pos. 1663 - 1764
+-Cadherin_5 (PF17892): pos. 1766 - 1860
+-Big_9 (PF17963): pos. 168 - 255
+-Big_9 (PF17963): pos. 259 - 347
+-Big_9 (PF17963): pos. 351 - 439
+-Big_9 (PF17963): pos. 443 - 531
+-Big_9 (PF17963): pos. 535 - 623
+-Big_9 (PF17963): pos. 627 - 715
+-Big_9 (PF17963): pos. 719 - 807
+-Big_9 (PF17963): pos. 811 - 899
+-Big_9 (PF17963): pos. 903 - 991
+-Big_9 (PF17963): pos. 995 - 1083
+-Big_9 (PF17963): pos. 1087 - 1175
+-Big_9 (PF17963): pos. 1179 - 1270
+-Big_9 (PF17963): pos. 1274 - 1375
+-Big_9 (PF17963): pos. 1376 - 1467
+-Big_9 (PF17963): pos. 1678 - 1752
+-Big_9 (PF17963): pos. 1756 - 1848
+

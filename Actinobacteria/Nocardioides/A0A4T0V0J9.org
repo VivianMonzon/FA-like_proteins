@@ -1,0 +1,30 @@
+* Organism:
+- Nocardioides sp. GY 10113
+* Protein length:
+- 3357
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 29 - 304
+* Stalk domains:
+-DUF11 (PF01345): pos. 427 - 549
+-DUF11 (PF01345): pos. 558 - 682
+-DUF11 (PF01345): pos. 689 - 812
+-DUF11 (PF01345): pos. 821 - 939
+-DUF11 (PF01345): pos. 951 - 1073
+-DUF11 (PF01345): pos. 1082 - 1203
+-DUF11 (PF01345): pos. 1210 - 1332
+-DUF11 (PF01345): pos. 1340 - 1464
+-DUF11 (PF01345): pos. 1470 - 1593
+-DUF11 (PF01345): pos. 1602 - 1720
+-DUF11 (PF01345): pos. 1732 - 1852
+-DUF11 (PF01345): pos. 1863 - 1983
+-DUF11 (PF01345): pos. 1993 - 2112
+-DUF11 (PF01345): pos. 2122 - 2240
+-DUF11 (PF01345): pos. 2252 - 2374
+-DUF11 (PF01345): pos. 2380 - 2500
+-DUF11 (PF01345): pos. 2510 - 2630
+-DUF11 (PF01345): pos. 2640 - 2760
+-DUF11 (PF01345): pos. 2771 - 2891
+-DUF11 (PF01345): pos. 2898 - 3016
+-DUF11 (PF01345): pos. 3029 - 3140
+-DUF11 (PF01345): pos. 3177 - 3285
+

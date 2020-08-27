@@ -1,0 +1,11 @@
+* Organism:
+- Dialister sp. CAG:588
+* Protein length:
+- 878
+* Adhesive domains:
+-YadA_head (PF05658): pos. 362 - 388
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 132 - 174
+-YadA_stalk (PF05662): pos. 475 - 517
+-YadA_stalk (PF05662): pos. 582 - 623
+

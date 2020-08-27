@@ -1,0 +1,9 @@
+* Organism:
+- Nocardioides sp. (strain ATCC BAA-499 / JS614)
+* Protein length:
+- 521
+* Adhesive domains:
+-VWA (PF00092): pos. 68 - 254
+* Stalk domains:
+-HYR (PF02494): pos. 329 - 406
+

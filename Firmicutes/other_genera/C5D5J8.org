@@ -1,0 +1,9 @@
+* Organism:
+- Geobacillus sp. (strain WCH70)
+* Protein length:
+- 942
+* Adhesive domains:
+-VWA (PF00092): pos. 81 - 325
+* Stalk domains:
+-Big_2 (PF02368): pos. 751 - 827
+

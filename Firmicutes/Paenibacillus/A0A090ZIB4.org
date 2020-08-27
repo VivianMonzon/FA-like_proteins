@@ -1,0 +1,15 @@
+* Organism:
+- Paenibacillus macerans (Bacillus macerans)
+* Protein length:
+- 1339
+* Adhesive domains:
+-VWA (PF00092): pos. 71 - 195
+* Stalk domains:
+-MucBP (PF06458): pos. 522 - 584
+-MucBP (PF06458): pos. 589 - 650
+-MucBP (PF06458): pos. 655 - 717
+-MucBP (PF06458): pos. 722 - 785
+-MucBP (PF06458): pos. 794 - 869
+-MucBP (PF06458): pos. 946 - 1008
+-MucBP (PF06458): pos. 1016 - 1078
+

@@ -1,0 +1,9 @@
+* Organism:
+- Luteimonas aestuarii
+* Protein length:
+- 551
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 41 - 319
+* Stalk domains:
+-DUF11 (PF01345): pos. 450 - 551
+

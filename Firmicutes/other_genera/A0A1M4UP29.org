@@ -1,0 +1,12 @@
+* Organism:
+- Atopostipes suicloacalis DSM 15692
+* Protein length:
+- 897
+* Adhesive domains:
+-TED (PF08341): pos. 71 - 162
+* Stalk domains:
+-SpaA (PF17802): pos. 229 - 339
+-SpaA (PF17802): pos. 382 - 461
+-SpaA (PF17802): pos. 637 - 699
+-SpaA (PF17802): pos. 768 - 835
+

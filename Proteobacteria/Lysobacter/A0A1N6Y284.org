@@ -1,0 +1,14 @@
+* Organism:
+- Lysobacter tolerans
+* Protein length:
+- 950
+* Adhesive domains:
+-YadA_head (PF05658): pos. 230 - 256
+-YadA_head (PF05658): pos. 300 - 326
+-YadA_head (PF05658): pos. 328 - 354
+-YadA_head (PF05658): pos. 394 - 418
+* Stalk domains:
+-Collagen (PF01391): pos. 675 - 729
+-Collagen (PF01391): pos. 703 - 774
+-YadA_stalk (PF05662): pos. 574 - 614
+

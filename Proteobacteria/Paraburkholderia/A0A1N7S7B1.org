@@ -1,0 +1,44 @@
+* Organism:
+- Paraburkholderia piptadeniae
+* Protein length:
+- 3122
+* Adhesive domains:
+-YadA_head (PF05658): pos. 642 - 668
+-YadA_head (PF05658): pos. 865 - 890
+-YadA_head (PF05658): pos. 1120 - 1146
+-YadA_head (PF05658): pos. 1359 - 1385
+-YadA_head (PF05658): pos. 1633 - 1659
+-YadA_head (PF05658): pos. 1879 - 1905
+-YadA_head (PF05658): pos. 2118 - 2144
+-YadA_head (PF05658): pos. 2132 - 2158
+-YadA_head (PF05658): pos. 2967 - 2992
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 264 - 306
+-YadA_stalk (PF05662): pos. 372 - 408
+-YadA_stalk (PF05662): pos. 430 - 490
+-YadA_stalk (PF05662): pos. 550 - 595
+-YadA_stalk (PF05662): pos. 700 - 741
+-YadA_stalk (PF05662): pos. 908 - 949
+-YadA_stalk (PF05662): pos. 998 - 1040
+-YadA_stalk (PF05662): pos. 1054 - 1099
+-YadA_stalk (PF05662): pos. 1178 - 1220
+-YadA_stalk (PF05662): pos. 1237 - 1279
+-YadA_stalk (PF05662): pos. 1293 - 1338
+-YadA_stalk (PF05662): pos. 1417 - 1455
+-YadA_stalk (PF05662): pos. 1511 - 1553
+-YadA_stalk (PF05662): pos. 1567 - 1612
+-YadA_stalk (PF05662): pos. 1691 - 1733
+-YadA_stalk (PF05662): pos. 1750 - 1792
+-YadA_stalk (PF05662): pos. 1806 - 1851
+-YadA_stalk (PF05662): pos. 1937 - 1979
+-YadA_stalk (PF05662): pos. 1996 - 2038
+-YadA_stalk (PF05662): pos. 2052 - 2097
+-YadA_stalk (PF05662): pos. 2195 - 2230
+-YadA_stalk (PF05662): pos. 2254 - 2297
+-YadA_stalk (PF05662): pos. 2421 - 2451
+-YadA_stalk (PF05662): pos. 2630 - 2672
+-YadA_stalk (PF05662): pos. 2724 - 2769
+-YadA_stalk (PF05662): pos. 2826 - 2867
+-YadA_stalk (PF05662): pos. 2884 - 2915
+-YadA_stalk (PF05662): pos. 3010 - 3049
+

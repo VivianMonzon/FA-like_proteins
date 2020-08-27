@@ -1,0 +1,10 @@
+* Organism:
+- Psychroflexus halocasei
+* Protein length:
+- 1463
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 376 - 521
+* Stalk domains:
+-fn3 (PF00041): pos. 269 - 352
+-fn3 (PF00041): pos. 529 - 612
+

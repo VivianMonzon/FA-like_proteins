@@ -1,0 +1,9 @@
+* Organism:
+- Clostridium chromiireducens
+* Protein length:
+- 441
+* Adhesive domains:
+-BclA_C (PF18573): pos. 318 - 441
+* Stalk domains:
+-Collagen (PF01391): pos. 178 - 239
+

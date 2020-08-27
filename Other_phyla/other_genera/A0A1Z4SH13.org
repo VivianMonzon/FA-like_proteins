@@ -1,0 +1,11 @@
+* Organism:
+- Nostoc sp. NIES-4103
+* Protein length:
+- 1151
+* Adhesive domains:
+-PA14 (PF07691): pos. 48 - 184
+-PA14 (PF07691): pos. 320 - 455
+* Stalk domains:
+-Calx-beta (PF03160): pos. 460 - 558
+-Calx-beta (PF03160): pos. 571 - 666
+

@@ -1,0 +1,11 @@
+* Organism:
+- Chitinophaga sp. YR573
+* Protein length:
+- 2247
+* Adhesive domains:
+-PA14 (PF07691): pos. 640 - 777
+-PA14 (PF07691): pos. 909 - 1018
+* Stalk domains:
+-fn3 (PF00041): pos. 552 - 630
+-He_PIG (PF05345): pos. 1225 - 1313
+

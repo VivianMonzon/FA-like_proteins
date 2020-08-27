@@ -1,0 +1,17 @@
+* Organism:
+- Staphylococcus aureus (strain NCTC 8325)
+* Protein length:
+- 1627
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 151 - 396
+* Stalk domains:
+-G5 (PF07501): pos. 424 - 500
+-G5 (PF07501): pos. 553 - 628
+-G5 (PF07501): pos. 681 - 756
+-G5 (PF07501): pos. 809 - 884
+-G5 (PF07501): pos. 937 - 1012
+-G5 (PF07501): pos. 1065 - 1140
+-G5 (PF07501): pos. 1193 - 1268
+-G5 (PF07501): pos. 1321 - 1396
+-G5 (PF07501): pos. 1448 - 1524
+

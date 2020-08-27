@@ -1,0 +1,11 @@
+* Organism:
+- Moheibacter sediminis
+* Protein length:
+- 1445
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 84 - 201
+-Cleaved_Adhesin (PF07675): pos. 1219 - 1303
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 605 - 688
+-CarboxypepD_reg (PF13620): pos. 694 - 772
+

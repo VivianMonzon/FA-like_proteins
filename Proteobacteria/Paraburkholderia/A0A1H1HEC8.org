@@ -1,0 +1,15 @@
+* Organism:
+- Paraburkholderia fungorum
+* Protein length:
+- 946
+* Adhesive domains:
+-YadA_head (PF05658): pos. 242 - 267
+-YadA_head (PF05658): pos. 800 - 826
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 285 - 323
+-YadA_stalk (PF05662): pos. 377 - 422
+-YadA_stalk (PF05662): pos. 514 - 555
+-YadA_stalk (PF05662): pos. 623 - 668
+-YadA_stalk (PF05662): pos. 742 - 787
+-YadA_stalk (PF05662): pos. 844 - 885
+

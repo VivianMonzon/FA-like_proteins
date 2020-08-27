@@ -1,0 +1,23 @@
+* Organism:
+- Megasphaera sp. UPII 135-E
+* Protein length:
+- 3233
+* Adhesive domains:
+-YadA_head (PF05658): pos. 303 - 328
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 598 - 633
+-YadA_stalk (PF05662): pos. 3066 - 3107
+-Trp_ring (PF18669): pos. 802 - 850
+-Trp_ring (PF18669): pos. 963 - 1013
+-Trp_ring (PF18669): pos. 1120 - 1166
+-Trp_ring (PF18669): pos. 1275 - 1326
+-Trp_ring (PF18669): pos. 1435 - 1481
+-Trp_ring (PF18669): pos. 1592 - 1643
+-Trp_ring (PF18669): pos. 1752 - 1798
+-Trp_ring (PF18669): pos. 1910 - 1961
+-Trp_ring (PF18669): pos. 2081 - 2135
+-Trp_ring (PF18669): pos. 2285 - 2336
+-Trp_ring (PF18669): pos. 2447 - 2498
+-Trp_ring (PF18669): pos. 2627 - 2673
+-Trp_ring (PF18669): pos. 2784 - 2834
+

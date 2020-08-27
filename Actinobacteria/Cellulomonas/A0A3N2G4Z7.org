@@ -1,0 +1,11 @@
+* Organism:
+- Cellulomonas sp. PhB150
+* Protein length:
+- 726
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 40 - 264
+* Stalk domains:
+-DUF11 (PF01345): pos. 272 - 398
+-DUF11 (PF01345): pos. 405 - 527
+-DUF11 (PF01345): pos. 534 - 655
+

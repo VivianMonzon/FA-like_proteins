@@ -1,0 +1,15 @@
+* Organism:
+- Lysobacter dokdonensis DS-58
+* Protein length:
+- 822
+* Adhesive domains:
+-YadA_head (PF05658): pos. 192 - 218
+-YadA_head (PF05658): pos. 220 - 246
+-YadA_head (PF05658): pos. 380 - 404
+-YadA_head (PF05658): pos. 406 - 432
+-YadA_head (PF05658): pos. 462 - 487
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 492 - 516
+-YadA_stalk (PF05662): pos. 546 - 592
+-YadA_stalk (PF05662): pos. 681 - 722
+

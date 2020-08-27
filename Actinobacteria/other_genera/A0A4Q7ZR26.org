@@ -1,0 +1,10 @@
+* Organism:
+- Krasilnikovia cinnamomea
+* Protein length:
+- 871
+* Adhesive domains:
+-VWA (PF00092): pos. 426 - 607
+* Stalk domains:
+-PKD (PF00801): pos. 621 - 696
+-PKD_4 (PF18911): pos. 610 - 691
+

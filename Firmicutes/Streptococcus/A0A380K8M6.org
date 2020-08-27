@@ -1,0 +1,11 @@
+* Organism:
+- Streptococcus hyointestinalis
+* Protein length:
+- 800
+* Adhesive domains:
+-VWA (PF00092): pos. 74 - 298
+* Stalk domains:
+-Cna_B (PF05738): pos. 443 - 528
+-DUF5979 (PF19407): pos. 554 - 651
+-DUF5979 (PF19407): pos. 665 - 757
+

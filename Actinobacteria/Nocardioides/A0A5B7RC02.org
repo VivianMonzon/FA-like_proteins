@@ -1,0 +1,9 @@
+* Organism:
+- Nocardioides sp. S-1144
+* Protein length:
+- 1602
+* Adhesive domains:
+-PA14 (PF07691): pos. 62 - 204
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 1407 - 1496
+

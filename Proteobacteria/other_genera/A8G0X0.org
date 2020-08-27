@@ -1,0 +1,87 @@
+* Organism:
+- Shewanella sediminis (strain HAW-EB3)
+* Protein length:
+- 4122
+* Adhesive domains:
+-VWA (PF00092): pos. 3582 - 3724
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 142 - 214
+-Cadherin_4 (PF17803): pos. 237 - 315
+-Cadherin_4 (PF17803): pos. 338 - 416
+-Cadherin_4 (PF17803): pos. 439 - 517
+-Cadherin_4 (PF17803): pos. 540 - 618
+-Cadherin_4 (PF17803): pos. 641 - 719
+-Cadherin_4 (PF17803): pos. 742 - 831
+-Cadherin_4 (PF17803): pos. 858 - 948
+-Cadherin_4 (PF17803): pos. 975 - 1052
+-Cadherin_4 (PF17803): pos. 1078 - 1155
+-Cadherin_4 (PF17803): pos. 1181 - 1258
+-Cadherin_4 (PF17803): pos. 1284 - 1361
+-Cadherin_4 (PF17803): pos. 1387 - 1464
+-Cadherin_4 (PF17803): pos. 1490 - 1567
+-Cadherin_4 (PF17803): pos. 1593 - 1670
+-Cadherin_4 (PF17803): pos. 1696 - 1773
+-Cadherin_4 (PF17803): pos. 1799 - 1876
+-Cadherin_4 (PF17803): pos. 1902 - 1979
+-Cadherin_4 (PF17803): pos. 2005 - 2082
+-Cadherin_4 (PF17803): pos. 2108 - 2185
+-Cadherin_4 (PF17803): pos. 2211 - 2288
+-Cadherin_4 (PF17803): pos. 2314 - 2391
+-Cadherin_4 (PF17803): pos. 2417 - 2494
+-Cadherin_4 (PF17803): pos. 3449 - 3507
+-Cadherin_5 (PF17892): pos. 144 - 245
+-Cadherin_5 (PF17892): pos. 246 - 346
+-Cadherin_5 (PF17892): pos. 347 - 447
+-Cadherin_5 (PF17892): pos. 448 - 549
+-Cadherin_5 (PF17892): pos. 547 - 650
+-Cadherin_5 (PF17892): pos. 649 - 749
+-Cadherin_5 (PF17892): pos. 983 - 1085
+-Cadherin_5 (PF17892): pos. 1086 - 1188
+-Cadherin_5 (PF17892): pos. 1189 - 1291
+-Cadherin_5 (PF17892): pos. 1292 - 1394
+-Cadherin_5 (PF17892): pos. 1395 - 1497
+-Cadherin_5 (PF17892): pos. 1498 - 1600
+-Cadherin_5 (PF17892): pos. 1601 - 1703
+-Cadherin_5 (PF17892): pos. 1704 - 1806
+-Cadherin_5 (PF17892): pos. 1807 - 1909
+-Cadherin_5 (PF17892): pos. 1910 - 2012
+-Cadherin_5 (PF17892): pos. 2013 - 2115
+-Cadherin_5 (PF17892): pos. 2116 - 2218
+-Cadherin_5 (PF17892): pos. 2219 - 2321
+-Cadherin_5 (PF17892): pos. 2322 - 2424
+-Cadherin_5 (PF17892): pos. 2425 - 2527
+-Cadherin_5 (PF17892): pos. 2532 - 2637
+-Cadherin_5 (PF17892): pos. 3450 - 3540
+-Big_9 (PF17963): pos. 136 - 235
+-Big_9 (PF17963): pos. 236 - 336
+-Big_9 (PF17963): pos. 337 - 437
+-Big_9 (PF17963): pos. 438 - 538
+-Big_9 (PF17963): pos. 539 - 639
+-Big_9 (PF17963): pos. 640 - 740
+-Big_9 (PF17963): pos. 741 - 854
+-Big_9 (PF17963): pos. 857 - 971
+-Big_9 (PF17963): pos. 974 - 1073
+-Big_9 (PF17963): pos. 1077 - 1176
+-Big_9 (PF17963): pos. 1180 - 1279
+-Big_9 (PF17963): pos. 1283 - 1382
+-Big_9 (PF17963): pos. 1386 - 1485
+-Big_9 (PF17963): pos. 1489 - 1588
+-Big_9 (PF17963): pos. 1592 - 1691
+-Big_9 (PF17963): pos. 1695 - 1794
+-Big_9 (PF17963): pos. 1798 - 1897
+-Big_9 (PF17963): pos. 1901 - 2000
+-Big_9 (PF17963): pos. 2004 - 2103
+-Big_9 (PF17963): pos. 2107 - 2206
+-Big_9 (PF17963): pos. 2210 - 2309
+-Big_9 (PF17963): pos. 2313 - 2412
+-Big_9 (PF17963): pos. 2416 - 2515
+-Big_9 (PF17963): pos. 2519 - 2626
+-Big_9 (PF17963): pos. 3451 - 3528
+-Big_11 (PF18200): pos. 172 - 246
+-Big_11 (PF18200): pos. 273 - 347
+-Big_11 (PF18200): pos. 374 - 448
+-Big_11 (PF18200): pos. 475 - 549
+-Big_11 (PF18200): pos. 576 - 650
+-Big_11 (PF18200): pos. 677 - 751
+-Big_11 (PF18200): pos. 2557 - 2639
+

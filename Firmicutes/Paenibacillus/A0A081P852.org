@@ -1,0 +1,12 @@
+* Organism:
+- Paenibacillus tyrfis
+* Protein length:
+- 1488
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 45 - 269
+* Stalk domains:
+-fn3 (PF00041): pos. 545 - 618
+-DUF11 (PF01345): pos. 1157 - 1271
+-Big_2 (PF02368): pos. 630 - 709
+-Big_1 (PF02369): pos. 729 - 783
+

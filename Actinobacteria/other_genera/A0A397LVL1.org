@@ -1,0 +1,9 @@
+* Organism:
+- Promicromonospora thailandica
+* Protein length:
+- 1112
+* Adhesive domains:
+-PA14 (PF07691): pos. 50 - 190
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 1028 - 1112
+

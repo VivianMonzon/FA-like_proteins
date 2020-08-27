@@ -1,0 +1,12 @@
+* Organism:
+- Caviibacterium pharyngocola
+* Protein length:
+- 831
+* Adhesive domains:
+-YadA_head (PF05658): pos. 102 - 127
+-YadA_head (PF05658): pos. 129 - 154
+-YadA_head (PF05658): pos. 726 - 751
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 452 - 490
+-YadA_stalk (PF05662): pos. 800 - 831
+

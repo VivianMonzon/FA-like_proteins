@@ -1,0 +1,9 @@
+* Organism:
+- Longibacter salinarum
+* Protein length:
+- 629
+* Adhesive domains:
+-VWA (PF00092): pos. 262 - 433
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 21 - 98
+

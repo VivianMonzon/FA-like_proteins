@@ -1,0 +1,14 @@
+* Organism:
+- Enterococcus faecium (strain ATCC BAA-472 / TX0016 / DO)
+* Protein length:
+- 1129
+* Adhesive domains:
+-VWA (PF00092): pos. 292 - 528
+* Stalk domains:
+-SpaA (PF17802): pos. 776 - 846
+-SpaA (PF17802): pos. 886 - 957
+-SpaA (PF17802): pos. 993 - 1060
+-SpaA_2 (PF19403): pos. 765 - 864
+-SpaA_2 (PF19403): pos. 886 - 950
+-SpaA_2 (PF19403): pos. 982 - 1070
+

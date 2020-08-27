@@ -1,0 +1,11 @@
+* Organism:
+- Lactobacillus suantsaii
+* Protein length:
+- 837
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 311 - 364
+* Stalk domains:
+-MucBP (PF06458): pos. 503 - 570
+-MucBP (PF06458): pos. 578 - 640
+-MucBP (PF06458): pos. 655 - 717
+

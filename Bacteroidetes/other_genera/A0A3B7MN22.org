@@ -1,0 +1,9 @@
+* Organism:
+- Paraflavitalea soli
+* Protein length:
+- 1246
+* Adhesive domains:
+-PA14 (PF07691): pos. 635 - 775
+* Stalk domains:
+-PKD_4 (PF18911): pos. 961 - 1050
+

@@ -1,0 +1,9 @@
+* Organism:
+- Cuneatibacter caecimuris
+* Protein length:
+- 241
+* Adhesive domains:
+-BclA_C (PF18573): pos. 114 - 241
+* Stalk domains:
+-Collagen (PF01391): pos. 50 - 111
+

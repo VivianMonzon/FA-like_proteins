@@ -1,0 +1,17 @@
+* Organism:
+- Lactobacillus perolens DSM 12744
+* Protein length:
+- 1244
+* Adhesive domains:
+-TED (PF08341): pos. 43 - 128
+* Stalk domains:
+-SpaA (PF17802): pos. 246 - 312
+-SpaA (PF17802): pos. 343 - 409
+-SpaA (PF17802): pos. 444 - 511
+-SpaA (PF17802): pos. 549 - 616
+-SpaA (PF17802): pos. 642 - 722
+-SpaA (PF17802): pos. 767 - 847
+-SpaA (PF17802): pos. 888 - 966
+-SpaA (PF17802): pos. 1013 - 1078
+-SpaA (PF17802): pos. 1122 - 1189
+

@@ -1,0 +1,16 @@
+* Organism:
+- Burkholderia pseudomallei (strain K96243)
+* Protein length:
+- 1653
+* Adhesive domains:
+-YadA_head (PF05658): pos. 150 - 176
+-YadA_head (PF05658): pos. 178 - 204
+-YadA_head (PF05658): pos. 361 - 387
+-YadA_head (PF05658): pos. 1448 - 1474
+-YadA_head (PF05658): pos. 1462 - 1488
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 482 - 527
+-YadA_stalk (PF05662): pos. 798 - 840
+-YadA_stalk (PF05662): pos. 1303 - 1348
+-YadA_stalk (PF05662): pos. 1548 - 1590
+

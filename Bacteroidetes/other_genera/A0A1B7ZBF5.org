@@ -1,0 +1,12 @@
+* Organism:
+- Maribacter sp. T28
+* Protein length:
+- 1564
+* Adhesive domains:
+-PA14 (PF07691): pos. 817 - 942
+* Stalk domains:
+-Big_2 (PF02368): pos. 960 - 1038
+-Big_2 (PF02368): pos. 1046 - 1124
+-Big_2 (PF02368): pos. 1220 - 1298
+-Big_2 (PF02368): pos. 1397 - 1475
+

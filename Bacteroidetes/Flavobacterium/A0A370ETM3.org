@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium sp. AG291
+* Protein length:
+- 2614
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 45 - 193
+-Cleaved_Adhesin (PF07675): pos. 555 - 676
+-Cleaved_Adhesin (PF07675): pos. 1058 - 1195
+* Stalk domains:
+-Ig_7 (PF19081): pos. 1926 - 2005
+

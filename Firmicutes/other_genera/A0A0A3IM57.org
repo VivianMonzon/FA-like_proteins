@@ -1,0 +1,13 @@
+* Organism:
+- Lysinibacillus sinduriensis BLB-1 = JCM 15800
+* Protein length:
+- 1722
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 319 - 435
+-Collagen_bind (PF05737): pos. 442 - 576
+-Collagen_bind (PF05737): pos. 720 - 863
+-Collagen_bind (PF05737): pos. 879 - 1014
+* Stalk domains:
+-SpaA (PF17802): pos. 1051 - 1124
+-SpaA (PF17802): pos. 1328 - 1389
+

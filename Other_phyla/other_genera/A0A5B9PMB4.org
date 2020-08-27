@@ -1,0 +1,9 @@
+* Organism:
+- Mariniblastus fucicola
+* Protein length:
+- 983
+* Adhesive domains:
+-PA14 (PF07691): pos. 415 - 550
+* Stalk domains:
+-Calx-beta (PF03160): pos. 295 - 387
+

@@ -1,0 +1,11 @@
+* Organism:
+- Lactobacillus mucosae LM1
+* Protein length:
+- 897
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 139 - 404
+* Stalk domains:
+-MucBP (PF06458): pos. 411 - 481
+-MucBP_2 (PF17965): pos. 484 - 559
+-MucBP_2 (PF17965): pos. 695 - 761
+

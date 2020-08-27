@@ -1,0 +1,10 @@
+* Organism:
+- Paraliobacillus ryukyuensis
+* Protein length:
+- 435
+* Adhesive domains:
+-BclA_C (PF18573): pos. 304 - 431
+* Stalk domains:
+-Collagen (PF01391): pos. 159 - 217
+-Collagen (PF01391): pos. 241 - 302
+

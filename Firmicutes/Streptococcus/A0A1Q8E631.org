@@ -1,0 +1,17 @@
+* Organism:
+- Streptococcus cuniculi
+* Protein length:
+- 1183
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 190 - 317
+* Stalk domains:
+-Cna_B (PF05738): pos. 429 - 512
+-Cna_B (PF05738): pos. 519 - 603
+-Cna_B (PF05738): pos. 610 - 691
+-Cna_B (PF05738): pos. 698 - 781
+-Cna_B (PF05738): pos. 788 - 869
+-Cna_B (PF05738): pos. 876 - 959
+-Cna_B (PF05738): pos. 966 - 1049
+-Cna_B (PF05738): pos. 1056 - 1137
+-SpaA (PF17802): pos. 347 - 413
+

@@ -1,0 +1,9 @@
+* Organism:
+- Parapedobacter composti
+* Protein length:
+- 632
+* Adhesive domains:
+-VWA (PF00092): pos. 259 - 430
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 24 - 95
+

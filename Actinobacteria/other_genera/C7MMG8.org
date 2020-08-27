@@ -1,0 +1,9 @@
+* Organism:
+- Cryptobacterium curtum (strain ATCC 700683 / DSM 15641 / 12-3)
+* Protein length:
+- 607
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 299 - 432
+* Stalk domains:
+-SpaA (PF17802): pos. 460 - 528
+

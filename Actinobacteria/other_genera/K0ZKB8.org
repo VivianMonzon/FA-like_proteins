@@ -1,0 +1,9 @@
+* Organism:
+- Schaalia turicensis ACS-279-V-Col4
+* Protein length:
+- 552
+* Adhesive domains:
+-TED (PF08341): pos. 168 - 313
+* Stalk domains:
+-SpaA (PF17802): pos. 48 - 111
+

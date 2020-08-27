@@ -1,0 +1,9 @@
+* Organism:
+- Megasphaera micronuciformis F0359
+* Protein length:
+- 240
+* Adhesive domains:
+-YadA_head (PF05658): pos. 147 - 172
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 190 - 232
+

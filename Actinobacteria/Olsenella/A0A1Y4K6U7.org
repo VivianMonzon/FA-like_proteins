@@ -1,0 +1,16 @@
+* Organism:
+- Olsenella sp. An188
+* Protein length:
+- 1488
+* Adhesive domains:
+-TED (PF08341): pos. 64 - 161
+* Stalk domains:
+-SpaA (PF17802): pos. 213 - 284
+-SpaA (PF17802): pos. 451 - 533
+-SpaA (PF17802): pos. 566 - 649
+-SpaA (PF17802): pos. 681 - 762
+-SpaA (PF17802): pos. 807 - 889
+-TQ (PF18202): pos. 1055 - 1177
+-TQ (PF18202): pos. 1178 - 1307
+-TQ (PF18202): pos. 1308 - 1437
+

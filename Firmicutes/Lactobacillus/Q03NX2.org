@@ -1,0 +1,12 @@
+* Organism:
+- Lactobacillus brevis (strain ATCC 367 / JCM 1170)
+* Protein length:
+- 655
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 156 - 283
+* Stalk domains:
+-SpaA (PF17802): pos. 307 - 375
+-SpaA (PF17802): pos. 406 - 474
+-SpaA_2 (PF19403): pos. 295 - 379
+-SpaA_2 (PF19403): pos. 396 - 487
+

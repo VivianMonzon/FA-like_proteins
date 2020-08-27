@@ -1,0 +1,9 @@
+* Organism:
+- Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933
+* Protein length:
+- 1212
+* Adhesive domains:
+-VWA (PF00092): pos. 322 - 496
+* Stalk domains:
+-Calx-beta (PF03160): pos. 750 - 841
+

@@ -1,0 +1,9 @@
+* Organism:
+- Xenococcus sp. PCC 7305
+* Protein length:
+- 1218
+* Adhesive domains:
+-VWA (PF00092): pos. 457 - 636
+* Stalk domains:
+-Calx-beta (PF03160): pos. 838 - 935
+

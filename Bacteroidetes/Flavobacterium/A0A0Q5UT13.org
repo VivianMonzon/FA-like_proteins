@@ -1,0 +1,9 @@
+* Organism:
+- Flavobacterium sp. Leaf359
+* Protein length:
+- 755
+* Adhesive domains:
+-VWA (PF00092): pos. 397 - 567
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 22 - 92
+

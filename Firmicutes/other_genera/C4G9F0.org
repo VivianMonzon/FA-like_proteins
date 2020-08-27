@@ -1,0 +1,22 @@
+* Organism:
+- Shuttleworthia satelles DSM 14600
+* Protein length:
+- 1652
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 195 - 330
+* Stalk domains:
+-Cna_B (PF05738): pos. 440 - 523
+-Cna_B (PF05738): pos. 530 - 612
+-Cna_B (PF05738): pos. 619 - 702
+-Cna_B (PF05738): pos. 709 - 791
+-Cna_B (PF05738): pos. 798 - 881
+-Cna_B (PF05738): pos. 888 - 970
+-Cna_B (PF05738): pos. 977 - 1060
+-Cna_B (PF05738): pos. 1067 - 1149
+-Cna_B (PF05738): pos. 1156 - 1239
+-Cna_B (PF05738): pos. 1246 - 1328
+-Cna_B (PF05738): pos. 1335 - 1418
+-Cna_B (PF05738): pos. 1425 - 1507
+-Cna_B (PF05738): pos. 1514 - 1597
+-SpaA (PF17802): pos. 359 - 424
+

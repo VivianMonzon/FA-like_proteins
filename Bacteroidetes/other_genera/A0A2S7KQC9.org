@@ -1,0 +1,9 @@
+* Organism:
+- Aureitalea marina
+* Protein length:
+- 1460
+* Adhesive domains:
+-VWA (PF00092): pos. 50 - 159
+* Stalk domains:
+-Ig_7 (PF19081): pos. 490 - 572
+

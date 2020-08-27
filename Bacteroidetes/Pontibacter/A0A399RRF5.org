@@ -1,0 +1,9 @@
+* Organism:
+- Pontibacter oryzae
+* Protein length:
+- 616
+* Adhesive domains:
+-VWA (PF00092): pos. 252 - 423
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 26 - 98
+

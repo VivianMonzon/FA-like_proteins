@@ -1,0 +1,16 @@
+* Organism:
+- Pedobacter nyackensis
+* Protein length:
+- 657
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 448 - 655
+* Stalk domains:
+-Flg_new (PF09479): pos. 216 - 275
+-Flg_new (PF09479): pos. 284 - 353
+-Flg_new (PF09479): pos. 359 - 423
+-Big_5 (PF13205): pos. 29 - 130
+-Flg_new_2 (PF18998): pos. 134 - 204
+-Flg_new_2 (PF18998): pos. 210 - 280
+-Flg_new_2 (PF18998): pos. 286 - 358
+-Flg_new_2 (PF18998): pos. 359 - 429
+

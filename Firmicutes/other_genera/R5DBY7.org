@@ -1,0 +1,11 @@
+* Organism:
+- Dorea sp. CAG:105
+* Protein length:
+- 916
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 197 - 236
+* Stalk domains:
+-fn3 (PF00041): pos. 817 - 900
+-FIVAR (PF07554): pos. 474 - 537
+-FIVAR (PF07554): pos. 665 - 727
+

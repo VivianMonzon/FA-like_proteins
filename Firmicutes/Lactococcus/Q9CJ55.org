@@ -1,0 +1,28 @@
+* Organism:
+- Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcus lactis)
+* Protein length:
+- 1983
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 348 - 485
+-Collagen_bind (PF05737): pos. 493 - 624
+-Collagen_bind (PF05737): pos. 633 - 761
+-Collagen_bind (PF05737): pos. 779 - 908
+-Collagen_bind (PF05737): pos. 917 - 1055
+* Stalk domains:
+-SpaA (PF17802): pos. 1083 - 1158
+-SpaA (PF17802): pos. 1189 - 1259
+-SpaA (PF17802): pos. 1284 - 1352
+-SpaA (PF17802): pos. 1379 - 1447
+-SpaA (PF17802): pos. 1474 - 1542
+-SpaA (PF17802): pos. 1569 - 1637
+-SpaA (PF17802): pos. 1664 - 1732
+-SpaA (PF17802): pos. 1759 - 1827
+-SpaA (PF17802): pos. 1854 - 1923
+-SpaA_2 (PF19403): pos. 1178 - 1248
+-SpaA_2 (PF19403): pos. 1276 - 1343
+-SpaA_2 (PF19403): pos. 1372 - 1438
+-SpaA_2 (PF19403): pos. 1467 - 1532
+-SpaA_2 (PF19403): pos. 1562 - 1648
+-SpaA_2 (PF19403): pos. 1657 - 1742
+-SpaA_2 (PF19403): pos. 1846 - 1930
+

@@ -1,0 +1,16 @@
+* Organism:
+- Clostridium sp. CAG:417
+* Protein length:
+- 1093
+* Adhesive domains:
+-VWA (PF00092): pos. 88 - 254
+* Stalk domains:
+-DUF285 (PF03382): pos. 533 - 651
+-DUF285 (PF03382): pos. 611 - 729
+-DUF285 (PF03382): pos. 637 - 755
+-DUF285 (PF03382): pos. 663 - 781
+-DUF285 (PF03382): pos. 741 - 860
+-DUF285 (PF03382): pos. 768 - 887
+-DUF285 (PF03382): pos. 847 - 963
+-DUF285 (PF03382): pos. 951 - 1069
+

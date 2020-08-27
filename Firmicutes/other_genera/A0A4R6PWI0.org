@@ -1,0 +1,12 @@
+* Organism:
+- Aminicella lysinilytica
+* Protein length:
+- 1272
+* Adhesive domains:
+-VWA (PF00092): pos. 78 - 236
+* Stalk domains:
+-Cna_B (PF05738): pos. 992 - 1103
+-FctA (PF12892): pos. 608 - 731
+-FctA (PF12892): pos. 739 - 862
+-FctA (PF12892): pos. 871 - 987
+

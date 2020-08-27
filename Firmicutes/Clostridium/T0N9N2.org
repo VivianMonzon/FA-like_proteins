@@ -1,0 +1,18 @@
+* Organism:
+- Clostridium sp. BL8
+* Protein length:
+- 1154
+* Adhesive domains:
+-VWA (PF00092): pos. 69 - 237
+* Stalk domains:
+-TIG (PF01833): pos. 345 - 424
+-TIG (PF01833): pos. 428 - 509
+-TIG (PF01833): pos. 515 - 597
+-TIG (PF01833): pos. 606 - 688
+-TIG (PF01833): pos. 697 - 779
+-TIG (PF01833): pos. 788 - 870
+-TIG (PF01833): pos. 879 - 961
+-TIG (PF01833): pos. 966 - 1052
+-DUF5979 (PF19407): pos. 288 - 354
+-DUF5979 (PF19407): pos. 498 - 581
+

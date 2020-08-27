@@ -1,0 +1,13 @@
+* Organism:
+- Schaalia cardiffensis F0333
+* Protein length:
+- 961
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 66 - 438
+* Stalk domains:
+-SpaA (PF17802): pos. 709 - 783
+-SpaA (PF17802): pos. 816 - 906
+-SpaA_2 (PF19403): pos. 575 - 689
+-SpaA_2 (PF19403): pos. 724 - 800
+-SpaA_2 (PF19403): pos. 837 - 900
+

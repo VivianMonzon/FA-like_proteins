@@ -1,0 +1,19 @@
+* Organism:
+- Luteibacter rhizovicinus
+* Protein length:
+- 1283
+* Adhesive domains:
+-YadA_head (PF05658): pos. 244 - 269
+-YadA_head (PF05658): pos. 271 - 297
+-YadA_head (PF05658): pos. 285 - 310
+-YadA_head (PF05658): pos. 338 - 364
+-YadA_head (PF05658): pos. 426 - 452
+-YadA_head (PF05658): pos. 637 - 663
+-YadA_head (PF05658): pos. 1127 - 1152
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 533 - 578
+-YadA_stalk (PF05662): pos. 717 - 760
+-YadA_stalk (PF05662): pos. 861 - 903
+-YadA_stalk (PF05662): pos. 1029 - 1074
+-YadA_stalk (PF05662): pos. 1157 - 1198
+

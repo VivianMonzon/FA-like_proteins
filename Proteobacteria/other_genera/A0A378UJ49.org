@@ -1,0 +1,13 @@
+* Organism:
+- Bergeriella denitrificans (Neisseria denitrificans)
+* Protein length:
+- 2648
+* Adhesive domains:
+-YadA_head (PF05658): pos. 254 - 280
+-YadA_head (PF05658): pos. 478 - 504
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 334 - 379
+-YadA_stalk (PF05662): pos. 658 - 703
+-YadA_stalk (PF05662): pos. 2341 - 2382
+-YadA_stalk (PF05662): pos. 2537 - 2579
+

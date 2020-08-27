@@ -1,0 +1,9 @@
+* Organism:
+- Microbacterium sp. SLBN-146
+* Protein length:
+- 388
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 47 - 230
+* Stalk domains:
+-He_PIG (PF05345): pos. 236 - 327
+

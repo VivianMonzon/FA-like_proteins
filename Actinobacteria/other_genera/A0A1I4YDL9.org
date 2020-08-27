@@ -1,0 +1,9 @@
+* Organism:
+- Mycetocola miduiensis
+* Protein length:
+- 408
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 50 - 233
+* Stalk domains:
+-He_PIG (PF05345): pos. 248 - 332
+

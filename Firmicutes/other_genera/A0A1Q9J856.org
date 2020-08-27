@@ -1,0 +1,21 @@
+* Organism:
+- Roseburia sp. 831b
+* Protein length:
+- 1784
+* Adhesive domains:
+-TED (PF08341): pos. 63 - 171
+* Stalk domains:
+-SpaA (PF17802): pos. 306 - 375
+-SpaA (PF17802): pos. 409 - 490
+-SpaA (PF17802): pos. 519 - 601
+-SpaA (PF17802): pos. 638 - 720
+-SpaA (PF17802): pos. 753 - 840
+-SpaA (PF17802): pos. 869 - 950
+-SpaA (PF17802): pos. 1003 - 1091
+-SpaA (PF17802): pos. 1120 - 1201
+-SpaA (PF17802): pos. 1228 - 1295
+-SpaA (PF17802): pos. 1338 - 1419
+-SpaA (PF17802): pos. 1448 - 1529
+-SpaA (PF17802): pos. 1555 - 1621
+-SpaA (PF17802): pos. 1645 - 1724
+

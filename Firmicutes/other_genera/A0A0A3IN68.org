@@ -1,0 +1,13 @@
+* Organism:
+- Lysinibacillus odysseyi 34hs-1 = NBRC 100172
+* Protein length:
+- 1976
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 312 - 433
+-Collagen_bind (PF05737): pos. 445 - 577
+-Collagen_bind (PF05737): pos. 732 - 873
+-Collagen_bind (PF05737): pos. 892 - 1026
+* Stalk domains:
+-SpaA (PF17802): pos. 1062 - 1131
+-SpaA (PF17802): pos. 1343 - 1411
+

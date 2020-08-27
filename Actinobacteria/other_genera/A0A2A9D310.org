@@ -1,0 +1,9 @@
+* Organism:
+- Serinibacter salmoneus
+* Protein length:
+- 1138
+* Adhesive domains:
+-VWA (PF00092): pos. 334 - 523
+* Stalk domains:
+-SpaA (PF17802): pos. 979 - 1052
+

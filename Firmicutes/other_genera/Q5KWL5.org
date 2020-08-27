@@ -1,0 +1,9 @@
+* Organism:
+- Geobacillus kaustophilus (strain HTA426)
+* Protein length:
+- 960
+* Adhesive domains:
+-VWA (PF00092): pos. 82 - 214
+* Stalk domains:
+-Big_2 (PF02368): pos. 774 - 845
+

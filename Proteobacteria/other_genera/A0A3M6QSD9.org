@@ -1,0 +1,9 @@
+* Organism:
+- Corticibacter populi
+* Protein length:
+- 576
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 53 - 343
+* Stalk domains:
+-DUF11 (PF01345): pos. 474 - 575
+

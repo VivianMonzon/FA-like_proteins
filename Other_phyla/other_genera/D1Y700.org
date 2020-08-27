@@ -1,0 +1,16 @@
+* Organism:
+- Pyramidobacter piscolens W5455
+* Protein length:
+- 2481
+* Adhesive domains:
+-YadA_head (PF05658): pos. 450 - 475
+-YadA_head (PF05658): pos. 714 - 737
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 203 - 240
+-YadA_stalk (PF05662): pos. 797 - 839
+-YadA_stalk (PF05662): pos. 893 - 933
+-YadA_stalk (PF05662): pos. 1293 - 1338
+-YadA_stalk (PF05662): pos. 1450 - 1495
+-YadA_stalk (PF05662): pos. 1730 - 1771
+-YadA_stalk (PF05662): pos. 2227 - 2272
+

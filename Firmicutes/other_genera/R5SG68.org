@@ -1,0 +1,11 @@
+* Organism:
+- Dialister invisus CAG:218
+* Protein length:
+- 1530
+* Adhesive domains:
+-YadA_head (PF05658): pos. 1068 - 1093
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 851 - 893
+-YadA_stalk (PF05662): pos. 1166 - 1208
+-YadA_stalk (PF05662): pos. 1353 - 1398
+

@@ -1,0 +1,10 @@
+* Organism:
+- Cupriavidus pinatubonensis (strain JMP 134 / LMG 1197) (Cupriavidus necator (strain JMP 134))
+* Protein length:
+- 423
+* Adhesive domains:
+-YadA_head (PF05658): pos. 257 - 283
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 133 - 171
+-YadA_stalk (PF05662): pos. 301 - 342
+

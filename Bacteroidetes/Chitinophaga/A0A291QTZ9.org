@@ -1,0 +1,9 @@
+* Organism:
+- Chitinophaga caeni
+* Protein length:
+- 588
+* Adhesive domains:
+-VWA (PF00092): pos. 243 - 415
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 22 - 92
+

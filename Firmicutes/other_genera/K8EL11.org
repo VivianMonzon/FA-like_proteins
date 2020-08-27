@@ -1,0 +1,12 @@
+* Organism:
+- Carnobacterium maltaromaticum LMA28
+* Protein length:
+- 1253
+* Adhesive domains:
+-VWA (PF00092): pos. 358 - 503
+* Stalk domains:
+-Cna_B (PF05738): pos. 788 - 884
+-SpaA (PF17802): pos. 898 - 962
+-SpaA (PF17802): pos. 1007 - 1082
+-SpaA (PF17802): pos. 1106 - 1174
+

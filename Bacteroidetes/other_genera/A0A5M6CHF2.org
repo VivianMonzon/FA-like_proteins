@@ -1,0 +1,9 @@
+* Organism:
+- Taibaiella sp. KVB11
+* Protein length:
+- 949
+* Adhesive domains:
+-VWA (PF00092): pos. 591 - 764
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 166 - 237
+

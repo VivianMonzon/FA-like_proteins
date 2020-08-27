@@ -1,0 +1,13 @@
+* Organism:
+- Pseudooceanicola batsensis (strain ATCC BAA-863 / DSM 15984 / KCTC 12145 / HTCC2597) (Oceanicola batsensis)
+* Protein length:
+- 857
+* Adhesive domains:
+-TED (PF08341): pos. 695 - 814
+* Stalk domains:
+-Cadherin (PF00028): pos. 185 - 273
+-SdrD_B (PF17210): pos. 418 - 530
+-Cadherin_4 (PF17803): pos. 521 - 607
+-Cadherin_5 (PF17892): pos. 533 - 641
+-Big_9 (PF17963): pos. 519 - 630
+

@@ -1,0 +1,10 @@
+* Organism:
+- Aneurinibacillus sp. XH2
+* Protein length:
+- 964
+* Adhesive domains:
+-VWA (PF00092): pos. 323 - 508
+* Stalk domains:
+-Big_2 (PF02368): pos. 35 - 109
+-Big_2 (PF02368): pos. 629 - 705
+

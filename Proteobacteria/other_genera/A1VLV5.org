@@ -1,0 +1,11 @@
+* Organism:
+- Polaromonas naphthalenivorans (strain CJ2)
+* Protein length:
+- 648
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 422 - 646
+* Stalk domains:
+-Big_5 (PF13205): pos. 48 - 154
+-Big_5 (PF13205): pos. 159 - 278
+-Big_5 (PF13205): pos. 283 - 399
+

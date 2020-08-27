@@ -1,0 +1,12 @@
+* Organism:
+- Marinobacter antarcticus
+* Protein length:
+- 630
+* Adhesive domains:
+-PA14 (PF07691): pos. 26 - 182
+-PA14 (PF07691): pos. 337 - 466
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 275 - 296
+-TSP3_bac (PF18884): pos. 302 - 319
+-TSP3_bac (PF18884): pos. 487 - 504
+

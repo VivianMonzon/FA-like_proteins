@@ -1,0 +1,13 @@
+* Organism:
+- Granulicatella adiacens ATCC 49175
+* Protein length:
+- 1346
+* Adhesive domains:
+-GbpC (PF08363): pos. 350 - 678
+-Adhesin_P1_N (PF18652): pos. 77 - 182
+* Stalk domains:
+-Strep_SA_rep (PF06696): pos. 198 - 222
+-Strep_SA_rep (PF06696): pos. 248 - 272
+-Antigen_C (PF16364): pos. 1127 - 1286
+-AgI_II_C2 (PF17998): pos. 951 - 1119
+

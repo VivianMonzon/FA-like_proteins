@@ -1,0 +1,15 @@
+* Organism:
+- Streptococcus criceti HS-6
+* Protein length:
+- 810
+* Adhesive domains:
+-YadA_head (PF05658): pos. 152 - 178
+-YadA_head (PF05658): pos. 180 - 204
+-YadA_head (PF05658): pos. 259 - 284
+-YadA_head (PF05658): pos. 315 - 341
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 381 - 426
+-CFSR (PF19079): pos. 577 - 625
+-CFSR (PF19079): pos. 632 - 673
+-CFSR (PF19079): pos. 669 - 715
+

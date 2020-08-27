@@ -1,0 +1,9 @@
+* Organism:
+- Sphaerisporangium album
+* Protein length:
+- 720
+* Adhesive domains:
+-VWA (PF00092): pos. 62 - 239
+* Stalk domains:
+-Big_3_5 (PF16640): pos. 436 - 533
+

@@ -1,0 +1,18 @@
+* Organism:
+- Brochothrix campestris FSL F6-1037
+* Protein length:
+- 1837
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 388 - 516
+-Collagen_bind (PF05737): pos. 811 - 948
+-Collagen_bind (PF05737): pos. 960 - 1093
+* Stalk domains:
+-SpaA (PF17802): pos. 1124 - 1196
+-SpaA (PF17802): pos. 1218 - 1286
+-SpaA (PF17802): pos. 1311 - 1378
+-SpaA (PF17802): pos. 1404 - 1471
+-SpaA (PF17802): pos. 1497 - 1564
+-SpaA (PF17802): pos. 1590 - 1657
+-SpaA (PF17802): pos. 1683 - 1750
+-SpaA (PF17802): pos. 1776 - 1837
+

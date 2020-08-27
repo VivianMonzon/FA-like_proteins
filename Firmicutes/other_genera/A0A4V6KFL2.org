@@ -1,0 +1,22 @@
+* Organism:
+- Hathewaya histolytica (Clostridium histolyticum)
+* Protein length:
+- 1333
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 188 - 306
+* Stalk domains:
+-SpaA (PF17802): pos. 447 - 515
+-SpaA (PF17802): pos. 543 - 610
+-SpaA (PF17802): pos. 634 - 705
+-SpaA (PF17802): pos. 729 - 796
+-SpaA (PF17802): pos. 821 - 887
+-SpaA (PF17802): pos. 912 - 978
+-SpaA (PF17802): pos. 1004 - 1070
+-SpaA (PF17802): pos. 1096 - 1162
+-SpaA (PF17802): pos. 1187 - 1253
+-SpaA_2 (PF19403): pos. 812 - 897
+-SpaA_2 (PF19403): pos. 909 - 990
+-SpaA_2 (PF19403): pos. 994 - 1073
+-SpaA_2 (PF19403): pos. 1087 - 1155
+-SpaA_2 (PF19403): pos. 1187 - 1245
+

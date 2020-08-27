@@ -1,0 +1,15 @@
+* Organism:
+- Paenibacillus sp. HGF7
+* Protein length:
+- 1244
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 179 - 307
+-Collagen_bind (PF05737): pos. 316 - 450
+-Collagen_bind (PF05737): pos. 457 - 582
+-Collagen_bind (PF05737): pos. 597 - 724
+-Collagen_bind (PF05737): pos. 734 - 867
+* Stalk domains:
+-SpaA (PF17802): pos. 899 - 969
+-Cadherin_5 (PF17892): pos. 1130 - 1196
+-Big_9 (PF17963): pos. 1083 - 1183
+

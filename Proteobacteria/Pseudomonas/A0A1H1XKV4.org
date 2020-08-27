@@ -1,0 +1,10 @@
+* Organism:
+- Pseudomonas xinjiangensis
+* Protein length:
+- 513
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 306 - 511
+* Stalk domains:
+-Big_5 (PF13205): pos. 73 - 175
+-Big_5 (PF13205): pos. 180 - 283
+

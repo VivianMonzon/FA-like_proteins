@@ -1,0 +1,9 @@
+* Organism:
+- Nonomuraea zeae
+* Protein length:
+- 662
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 87 - 363
+* Stalk domains:
+-DUF11 (PF01345): pos. 487 - 594
+

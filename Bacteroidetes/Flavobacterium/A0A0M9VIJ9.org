@@ -1,0 +1,10 @@
+* Organism:
+- Flavobacterium akiainvivens
+* Protein length:
+- 2203
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 36 - 197
+* Stalk domains:
+-fn3 (PF00041): pos. 202 - 283
+-fn3 (PF00041): pos. 839 - 920
+

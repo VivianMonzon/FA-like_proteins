@@ -1,0 +1,9 @@
+* Organism:
+- Aquimarina amphilecti
+* Protein length:
+- 714
+* Adhesive domains:
+-VWA (PF00092): pos. 358 - 529
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 23 - 112
+

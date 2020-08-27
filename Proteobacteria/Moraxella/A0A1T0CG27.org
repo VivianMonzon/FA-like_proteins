@@ -1,0 +1,13 @@
+* Organism:
+- Moraxella pluranimalium
+* Protein length:
+- 2371
+* Adhesive domains:
+-YadA_head (PF05658): pos. 304 - 330
+-YadA_head (PF05658): pos. 335 - 361
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 435 - 479
+-YadA_stalk (PF05662): pos. 1924 - 1968
+-YadA_stalk (PF05662): pos. 2250 - 2295
+-Trp_ring (PF18669): pos. 971 - 1020
+

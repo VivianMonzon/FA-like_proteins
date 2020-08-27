@@ -1,0 +1,11 @@
+* Organism:
+- Saliterribacillus persicus
+* Protein length:
+- 676
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 124 - 163
+* Stalk domains:
+-DUF5011 (PF16403): pos. 358 - 426
+-DUF5011 (PF16403): pos. 438 - 508
+-DUF5011 (PF16403): pos. 570 - 625
+

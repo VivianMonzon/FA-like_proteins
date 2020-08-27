@@ -1,0 +1,11 @@
+* Organism:
+- Clostridium indicum
+* Protein length:
+- 922
+* Adhesive domains:
+-VWA (PF00092): pos. 232 - 428
+* Stalk domains:
+-FctA (PF12892): pos. 582 - 690
+-FctA (PF12892): pos. 698 - 803
+-FctA (PF12892): pos. 811 - 916
+

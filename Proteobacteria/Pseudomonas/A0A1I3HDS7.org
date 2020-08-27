@@ -1,0 +1,16 @@
+* Organism:
+- Pseudomonas guineae
+* Protein length:
+- 2952
+* Adhesive domains:
+-VWA (PF00092): pos. 1475 - 1657
+-VWA (PF00092): pos. 2264 - 2469
+* Stalk domains:
+-DUF5801 (PF19116): pos. 320 - 487
+-DUF5801 (PF19116): pos. 501 - 670
+-DUF5801 (PF19116): pos. 684 - 853
+-DUF5801 (PF19116): pos. 1165 - 1301
+-DUF5801 (PF19116): pos. 1313 - 1442
+-DUF5801 (PF19116): pos. 1922 - 2068
+-DUF5801 (PF19116): pos. 2080 - 2227
+

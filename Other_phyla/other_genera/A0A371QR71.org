@@ -1,0 +1,9 @@
+* Organism:
+- Rhodohalobacter sp. SW132
+* Protein length:
+- 342
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 136 - 339
+* Stalk domains:
+-Big_5 (PF13205): pos. 14 - 116
+

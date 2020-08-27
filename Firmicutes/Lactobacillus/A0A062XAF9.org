@@ -1,0 +1,16 @@
+* Organism:
+- Lactobacillus animalis
+* Protein length:
+- 1082
+* Adhesive domains:
+-VWA (PF00092): pos. 131 - 282
+* Stalk domains:
+-SpaA (PF17802): pos. 591 - 662
+-SpaA (PF17802): pos. 715 - 783
+-SpaA (PF17802): pos. 828 - 900
+-SpaA (PF17802): pos. 951 - 1017
+-SpaA_2 (PF19403): pos. 596 - 662
+-SpaA_2 (PF19403): pos. 704 - 788
+-SpaA_2 (PF19403): pos. 820 - 892
+-SpaA_2 (PF19403): pos. 939 - 1031
+

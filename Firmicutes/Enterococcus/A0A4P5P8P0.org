@@ -1,0 +1,11 @@
+* Organism:
+- Enterococcus florum
+* Protein length:
+- 922
+* Adhesive domains:
+-VWA (PF00092): pos. 159 - 307
+* Stalk domains:
+-Cna_B (PF05738): pos. 556 - 661
+-SpaA (PF17802): pos. 686 - 746
+-SpaA (PF17802): pos. 780 - 842
+

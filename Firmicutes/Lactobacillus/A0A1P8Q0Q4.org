@@ -1,0 +1,14 @@
+* Organism:
+- Lactobacillus allii
+* Protein length:
+- 797
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 172 - 303
+* Stalk domains:
+-SpaA (PF17802): pos. 329 - 396
+-SpaA (PF17802): pos. 434 - 502
+-SpaA (PF17802): pos. 529 - 597
+-SpaA_2 (PF19403): pos. 318 - 407
+-SpaA_2 (PF19403): pos. 426 - 511
+-SpaA_2 (PF19403): pos. 520 - 601
+

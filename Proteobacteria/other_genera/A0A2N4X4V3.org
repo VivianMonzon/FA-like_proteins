@@ -1,0 +1,9 @@
+* Organism:
+- Novosphingobium sp. TH158
+* Protein length:
+- 411
+* Adhesive domains:
+-YadA_head (PF05658): pos. 115 - 138
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 240 - 285
+

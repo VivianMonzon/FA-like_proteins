@@ -1,0 +1,17 @@
+* Organism:
+- Methylobacterium nodulans (strain LMG 21967 / CNCM I-2342 / ORS 2060)
+* Protein length:
+- 2157
+* Adhesive domains:
+-YadA_head (PF05658): pos. 1821 - 1847
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 557 - 602
+-YadA_stalk (PF05662): pos. 1079 - 1124
+-YadA_stalk (PF05662): pos. 1265 - 1309
+-YadA_stalk (PF05662): pos. 1433 - 1478
+-YadA_stalk (PF05662): pos. 1608 - 1652
+-YadA_stalk (PF05662): pos. 1664 - 1709
+-YadA_stalk (PF05662): pos. 1720 - 1765
+-YadA_stalk (PF05662): pos. 1913 - 1958
+-YadA_stalk (PF05662): pos. 1987 - 2028
+

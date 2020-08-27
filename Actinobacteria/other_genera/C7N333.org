@@ -1,0 +1,12 @@
+* Organism:
+- Slackia heliotrinireducens (strain ATCC 29202 / DSM 20476 / NCTC 11029 / RHS 1) (Peptococcus heliotrinreducens)
+* Protein length:
+- 883
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 284 - 414
+* Stalk domains:
+-Cna_B (PF05738): pos. 531 - 614
+-Cna_B (PF05738): pos. 621 - 705
+-Cna_B (PF05738): pos. 713 - 801
+-SpaA (PF17802): pos. 445 - 511
+

@@ -1,0 +1,13 @@
+* Organism:
+- Weissella ceti
+* Protein length:
+- 671
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 175 - 296
+* Stalk domains:
+-MucBP (PF06458): pos. 321 - 387
+-MucBP (PF06458): pos. 397 - 464
+-MucBP (PF06458): pos. 473 - 540
+-MucBP (PF06458): pos. 550 - 617
+-MucBP (PF06458): pos. 627 - 671
+

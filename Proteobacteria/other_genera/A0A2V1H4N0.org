@@ -1,0 +1,10 @@
+* Organism:
+- Serratia sp. S1B
+* Protein length:
+- 523
+* Adhesive domains:
+-YadA_head (PF05658): pos. 78 - 104
+-YadA_head (PF05658): pos. 106 - 132
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 150 - 192
+

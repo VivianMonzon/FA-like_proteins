@@ -1,0 +1,9 @@
+* Organism:
+- Mucilaginibacter pineti
+* Protein length:
+- 653
+* Adhesive domains:
+-VWA (PF00092): pos. 277 - 449
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 23 - 94
+

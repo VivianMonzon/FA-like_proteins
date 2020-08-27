@@ -1,0 +1,9 @@
+* Organism:
+- Alloactinosynnema album
+* Protein length:
+- 2141
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 677 - 779
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 500 - 577
+

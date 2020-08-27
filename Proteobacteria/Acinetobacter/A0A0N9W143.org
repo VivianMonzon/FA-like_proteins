@@ -1,0 +1,10 @@
+* Organism:
+- Acinetobacter equi
+* Protein length:
+- 1027
+* Adhesive domains:
+-YadA_head (PF05658): pos. 235 - 261
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 322 - 364
+-YadA_stalk (PF05662): pos. 853 - 893
+

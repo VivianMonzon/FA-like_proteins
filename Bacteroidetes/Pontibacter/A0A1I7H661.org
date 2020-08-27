@@ -1,0 +1,9 @@
+* Organism:
+- Pontibacter akesuensis
+* Protein length:
+- 833
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 37 - 273
+* Stalk domains:
+-Big_2 (PF02368): pos. 378 - 447
+

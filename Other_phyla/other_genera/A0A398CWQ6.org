@@ -1,0 +1,9 @@
+* Organism:
+- Candidatus Cryosericum terrychapinii
+* Protein length:
+- 967
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 44 - 247
+* Stalk domains:
+-DUF11 (PF01345): pos. 466 - 583
+

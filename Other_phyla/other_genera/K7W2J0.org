@@ -1,0 +1,10 @@
+* Organism:
+- Anabaena sp. 90
+* Protein length:
+- 3130
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 1181 - 1391
+* Stalk domains:
+-He_PIG (PF05345): pos. 1514 - 1597
+-Big_13 (PF19077): pos. 969 - 1059
+

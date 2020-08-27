@@ -1,0 +1,15 @@
+* Organism:
+- Candidatus Magnetoglobus multicellularis str. Araruama
+* Protein length:
+- 2198
+* Adhesive domains:
+-PA14 (PF07691): pos. 1487 - 1630
+-PA14 (PF07691): pos. 1742 - 1886
+-PA14 (PF07691): pos. 1993 - 2143
+* Stalk domains:
+-Cadherin (PF00028): pos. 1903 - 1993
+-He_PIG (PF05345): pos. 1303 - 1386
+-He_PIG (PF05345): pos. 1392 - 1479
+-Big_9 (PF17963): pos. 871 - 972
+-Big_9 (PF17963): pos. 1378 - 1467
+

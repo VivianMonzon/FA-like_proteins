@@ -1,0 +1,29 @@
+* Organism:
+- Halolactibacillus miurensis
+* Protein length:
+- 2419
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 342 - 477
+-Collagen_bind (PF05737): pos. 491 - 613
+-Collagen_bind (PF05737): pos. 754 - 887
+-Collagen_bind (PF05737): pos. 896 - 1027
+* Stalk domains:
+-Cna_B (PF05738): pos. 1650 - 1740
+-Cna_B (PF05738): pos. 1745 - 1831
+-Cna_B (PF05738): pos. 1838 - 1923
+-Cna_B (PF05738): pos. 1930 - 2011
+-Cna_B (PF05738): pos. 2018 - 2103
+-Cna_B (PF05738): pos. 2110 - 2191
+-Cna_B (PF05738): pos. 2198 - 2279
+-Cna_B (PF05738): pos. 2286 - 2367
+-SpaA (PF17802): pos. 1063 - 1130
+-SpaA (PF17802): pos. 1160 - 1228
+-SpaA (PF17802): pos. 1260 - 1330
+-SpaA (PF17802): pos. 1358 - 1433
+-SpaA (PF17802): pos. 1460 - 1530
+-SpaA (PF17802): pos. 1561 - 1632
+-SpaA_2 (PF19403): pos. 1050 - 1137
+-SpaA_2 (PF19403): pos. 1365 - 1439
+-SpaA_2 (PF19403): pos. 1450 - 1546
+-SpaA_2 (PF19403): pos. 1550 - 1628
+

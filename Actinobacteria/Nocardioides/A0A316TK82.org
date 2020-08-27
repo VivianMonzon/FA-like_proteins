@@ -1,0 +1,9 @@
+* Organism:
+- Nocardioides silvaticus
+* Protein length:
+- 922
+* Adhesive domains:
+-PA14 (PF07691): pos. 673 - 810
+* Stalk domains:
+-DUF5122 (PF17164): pos. 121 - 152
+

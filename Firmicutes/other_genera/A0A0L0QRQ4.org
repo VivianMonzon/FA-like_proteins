@@ -1,0 +1,28 @@
+* Organism:
+- Virgibacillus pantothenticus
+* Protein length:
+- 2001
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 364 - 495
+-Collagen_bind (PF05737): pos. 504 - 637
+-Collagen_bind (PF05737): pos. 775 - 910
+-Collagen_bind (PF05737): pos. 919 - 1047
+* Stalk domains:
+-SpaA (PF17802): pos. 1078 - 1145
+-SpaA (PF17802): pos. 1177 - 1247
+-SpaA (PF17802): pos. 1272 - 1340
+-SpaA (PF17802): pos. 1366 - 1434
+-SpaA (PF17802): pos. 1464 - 1532
+-SpaA (PF17802): pos. 1558 - 1626
+-SpaA (PF17802): pos. 1656 - 1724
+-SpaA (PF17802): pos. 1750 - 1818
+-SpaA (PF17802): pos. 1848 - 1916
+-SpaA_2 (PF19403): pos. 1066 - 1138
+-SpaA_2 (PF19403): pos. 1169 - 1248
+-SpaA_2 (PF19403): pos. 1355 - 1447
+-SpaA_2 (PF19403): pos. 1452 - 1540
+-SpaA_2 (PF19403): pos. 1546 - 1638
+-SpaA_2 (PF19403): pos. 1643 - 1717
+-SpaA_2 (PF19403): pos. 1738 - 1832
+-SpaA_2 (PF19403): pos. 1835 - 1921
+

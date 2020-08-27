@@ -1,0 +1,9 @@
+* Organism:
+- Leucobacter massiliensis
+* Protein length:
+- 499
+* Adhesive domains:
+-TED (PF08341): pos. 76 - 171
+* Stalk domains:
+-DUF5979 (PF19407): pos. 314 - 399
+

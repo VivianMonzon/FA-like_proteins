@@ -1,0 +1,11 @@
+* Organism:
+- Rhodovulum sp. ES.010
+* Protein length:
+- 1236
+* Adhesive domains:
+-TED (PF08341): pos. 1086 - 1190
+* Stalk domains:
+-SdrD_B (PF17210): pos. 566 - 680
+-SdrD_B (PF17210): pos. 685 - 801
+-SdrD_B (PF17210): pos. 807 - 917
+

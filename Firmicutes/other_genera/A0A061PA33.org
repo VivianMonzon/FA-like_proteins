@@ -1,0 +1,12 @@
+* Organism:
+- Geomicrobium sp. JCM 19039
+* Protein length:
+- 647
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 96 - 224
+-Collagen_bind (PF05737): pos. 234 - 365
+* Stalk domains:
+-SpaA (PF17802): pos. 397 - 466
+-SpaA (PF17802): pos. 488 - 559
+-SpaA (PF17802): pos. 584 - 637
+

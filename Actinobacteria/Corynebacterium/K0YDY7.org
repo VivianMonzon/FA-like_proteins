@@ -1,0 +1,9 @@
+* Organism:
+- Corynebacterium otitidis ATCC 51513
+* Protein length:
+- 560
+* Adhesive domains:
+-SdrG_C_C (PF10425): pos. 196 - 344
+* Stalk domains:
+-MucBP (PF06458): pos. 363 - 430
+

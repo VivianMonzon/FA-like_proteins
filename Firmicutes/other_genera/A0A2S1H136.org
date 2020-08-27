@@ -1,0 +1,9 @@
+* Organism:
+- Lysinibacillus sp. 2017
+* Protein length:
+- 582
+* Adhesive domains:
+-BclA_C (PF18573): pos. 448 - 582
+* Stalk domains:
+-Collagen (PF01391): pos. 307 - 370
+

@@ -1,0 +1,11 @@
+* Organism:
+- Fructobacillus sp. EFB-N1
+* Protein length:
+- 784
+* Adhesive domains:
+-TED (PF08341): pos. 79 - 200
+* Stalk domains:
+-SpaA (PF17802): pos. 338 - 408
+-SpaA (PF17802): pos. 439 - 529
+-SpaA (PF17802): pos. 569 - 635
+

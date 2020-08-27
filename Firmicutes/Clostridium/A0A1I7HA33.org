@@ -1,0 +1,15 @@
+* Organism:
+- Clostridium sp. DSM 8431
+* Protein length:
+- 1476
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 463 - 598
+-Collagen_bind (PF05737): pos. 606 - 746
+-Collagen_bind (PF05737): pos. 754 - 890
+* Stalk domains:
+-SpaA (PF17802): pos. 921 - 992
+-SpaA (PF17802): pos. 1018 - 1103
+-SpaA (PF17802): pos. 1133 - 1209
+-SpaA (PF17802): pos. 1240 - 1314
+-SpaA (PF17802): pos. 1344 - 1411
+

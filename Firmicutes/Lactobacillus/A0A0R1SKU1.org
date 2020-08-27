@@ -1,0 +1,26 @@
+* Organism:
+- Lactobacillus diolivorans DSM 14421
+* Protein length:
+- 1438
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 82 - 356
+* Stalk domains:
+-GA (PF01468): pos. 358 - 412
+-GA (PF01468): pos. 414 - 468
+-GA (PF01468): pos. 474 - 528
+-GA (PF01468): pos. 538 - 592
+-GA (PF01468): pos. 594 - 648
+-GA (PF01468): pos. 657 - 711
+-GA (PF01468): pos. 720 - 774
+-GA (PF01468): pos. 776 - 829
+-GA (PF01468): pos. 839 - 893
+-GA (PF01468): pos. 903 - 957
+-GA (PF01468): pos. 959 - 1013
+-GA (PF01468): pos. 1020 - 1074
+-GA (PF01468): pos. 1083 - 1137
+-GA (PF01468): pos. 1146 - 1200
+-GA (PF01468): pos. 1207 - 1261
+-GA (PF01468): pos. 1263 - 1317
+-GA (PF01468): pos. 1326 - 1380
+-GA (PF01468): pos. 1390 - 1437
+

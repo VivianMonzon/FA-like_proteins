@@ -1,0 +1,13 @@
+* Organism:
+- Kingella oralis ATCC 51147
+* Protein length:
+- 1066
+* Adhesive domains:
+-YadA_head (PF05658): pos. 240 - 266
+-YadA_head (PF05658): pos. 366 - 392
+-YadA_head (PF05658): pos. 422 - 448
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 530 - 575
+-YadA_stalk (PF05662): pos. 743 - 785
+-YadA_stalk (PF05662): pos. 944 - 986
+

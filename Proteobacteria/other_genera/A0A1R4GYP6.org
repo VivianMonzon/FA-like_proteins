@@ -1,0 +1,17 @@
+* Organism:
+- Psychrobacter piechaudii
+* Protein length:
+- 1610
+* Adhesive domains:
+-YadA_head (PF05658): pos. 218 - 243
+-YadA_head (PF05658): pos. 267 - 293
+-YadA_head (PF05658): pos. 295 - 321
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 379 - 421
+-YadA_stalk (PF05662): pos. 625 - 667
+-YadA_stalk (PF05662): pos. 915 - 955
+-YadA_stalk (PF05662): pos. 1148 - 1186
+-YadA_stalk (PF05662): pos. 1268 - 1311
+-YadA_stalk (PF05662): pos. 1360 - 1402
+-YadA_stalk (PF05662): pos. 1499 - 1541
+

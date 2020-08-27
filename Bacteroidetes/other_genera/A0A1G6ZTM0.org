@@ -1,0 +1,10 @@
+* Organism:
+- Riemerella columbipharyngis
+* Protein length:
+- 1485
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 740 - 891
+-Cleaved_Adhesin (PF07675): pos. 1111 - 1269
+* Stalk domains:
+-PKD_4 (PF18911): pos. 887 - 974
+

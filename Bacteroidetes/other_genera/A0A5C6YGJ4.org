@@ -1,0 +1,10 @@
+* Organism:
+- Polaribacter sp. IC066
+* Protein length:
+- 1415
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 67 - 267
+* Stalk domains:
+-PKD (PF00801): pos. 681 - 751
+-PKD_4 (PF18911): pos. 663 - 746
+

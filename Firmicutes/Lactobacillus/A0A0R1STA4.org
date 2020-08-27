@@ -1,0 +1,11 @@
+* Organism:
+- Lactobacillus diolivorans DSM 14421
+* Protein length:
+- 659
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 175 - 309
+* Stalk domains:
+-Cna_B (PF05738): pos. 342 - 436
+-Cna_B (PF05738): pos. 445 - 539
+-Cna_B (PF05738): pos. 550 - 639
+

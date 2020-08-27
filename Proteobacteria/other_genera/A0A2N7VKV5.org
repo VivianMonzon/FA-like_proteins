@@ -1,0 +1,23 @@
+* Organism:
+- Trinickia soli
+* Protein length:
+- 1942
+* Adhesive domains:
+-YadA_head (PF05658): pos. 287 - 313
+-YadA_head (PF05658): pos. 730 - 756
+-YadA_head (PF05658): pos. 758 - 784
+-YadA_head (PF05658): pos. 1212 - 1238
+-YadA_head (PF05658): pos. 1392 - 1413
+-YadA_head (PF05658): pos. 1624 - 1650
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 596 - 641
+-YadA_stalk (PF05662): pos. 671 - 716
+-YadA_stalk (PF05662): pos. 821 - 863
+-YadA_stalk (PF05662): pos. 879 - 924
+-YadA_stalk (PF05662): pos. 1067 - 1109
+-YadA_stalk (PF05662): pos. 1275 - 1317
+-YadA_stalk (PF05662): pos. 1333 - 1378
+-YadA_stalk (PF05662): pos. 1493 - 1535
+-YadA_stalk (PF05662): pos. 1695 - 1737
+-YadA_stalk (PF05662): pos. 1820 - 1862
+

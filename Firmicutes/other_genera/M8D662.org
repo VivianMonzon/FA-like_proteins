@@ -1,0 +1,16 @@
+* Organism:
+- Brevibacillus borstelensis AK1
+* Protein length:
+- 1657
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 316 - 440
+-Collagen_bind (PF05737): pos. 449 - 581
+-Collagen_bind (PF05737): pos. 721 - 849
+-Collagen_bind (PF05737): pos. 867 - 998
+* Stalk domains:
+-SpaA (PF17802): pos. 1033 - 1095
+-SpaA (PF17802): pos. 1127 - 1200
+-SpaA (PF17802): pos. 1226 - 1294
+-SpaA (PF17802): pos. 1320 - 1387
+-Big_9 (PF17963): pos. 1510 - 1594
+

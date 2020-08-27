@@ -1,0 +1,19 @@
+* Organism:
+- Enterococcus durans
+* Protein length:
+- 1787
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 417 - 552
+-Collagen_bind (PF05737): pos. 562 - 694
+-Collagen_bind (PF05737): pos. 1048 - 1198
+* Stalk domains:
+-SpaA (PF17802): pos. 1231 - 1300
+-SpaA (PF17802): pos. 1331 - 1404
+-SpaA (PF17802): pos. 1438 - 1512
+-SpaA (PF17802): pos. 1542 - 1610
+-SpaA (PF17802): pos. 1637 - 1705
+-SpaA_2 (PF19403): pos. 1341 - 1394
+-SpaA_2 (PF19403): pos. 1430 - 1504
+-SpaA_2 (PF19403): pos. 1535 - 1627
+-SpaA_2 (PF19403): pos. 1623 - 1721
+

@@ -1,0 +1,23 @@
+* Organism:
+- Xenophilus sp. AP218F
+* Protein length:
+- 1282
+* Adhesive domains:
+-YadA_head (PF05658): pos. 79 - 104
+-YadA_head (PF05658): pos. 148 - 174
+-YadA_head (PF05658): pos. 301 - 327
+-YadA_head (PF05658): pos. 385 - 411
+-YadA_head (PF05658): pos. 413 - 439
+-YadA_head (PF05658): pos. 469 - 495
+-YadA_head (PF05658): pos. 483 - 509
+-YadA_head (PF05658): pos. 539 - 565
+-YadA_head (PF05658): pos. 1116 - 1142
+-YadA_head (PF05658): pos. 1130 - 1155
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 602 - 643
+-YadA_stalk (PF05662): pos. 741 - 786
+-YadA_stalk (PF05662): pos. 883 - 925
+-YadA_stalk (PF05662): pos. 940 - 982
+-YadA_stalk (PF05662): pos. 996 - 1037
+-YadA_stalk (PF05662): pos. 1160 - 1201
+

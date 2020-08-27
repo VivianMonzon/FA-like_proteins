@@ -1,0 +1,14 @@
+* Organism:
+- Chitinophaga cymbidii
+* Protein length:
+- 2248
+* Adhesive domains:
+-PA14 (PF07691): pos. 632 - 770
+-PA14 (PF07691): pos. 872 - 1012
+* Stalk domains:
+-fn3 (PF00041): pos. 788 - 869
+-fn3 (PF00041): pos. 1859 - 1940
+-He_PIG (PF05345): pos. 1219 - 1308
+-He_PIG (PF05345): pos. 1587 - 1676
+-Big_9 (PF17963): pos. 1114 - 1203
+

@@ -1,0 +1,9 @@
+* Organism:
+- Meiothermus silvanus (strain ATCC 700542 / DSM 9946 / VI-R2) (Thermus silvanus)
+* Protein length:
+- 900
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 26 - 282
+* Stalk domains:
+-DUF11 (PF01345): pos. 290 - 414
+

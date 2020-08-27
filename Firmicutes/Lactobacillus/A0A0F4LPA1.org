@@ -1,0 +1,23 @@
+* Organism:
+- Lactobacillus apis
+* Protein length:
+- 1745
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 335 - 475
+-Collagen_bind (PF05737): pos. 482 - 610
+-Collagen_bind (PF05737): pos. 630 - 757
+-Collagen_bind (PF05737): pos. 777 - 906
+-Collagen_bind (PF05737): pos. 914 - 1052
+* Stalk domains:
+-SpaA (PF17802): pos. 1081 - 1146
+-SpaA (PF17802): pos. 1185 - 1255
+-SpaA (PF17802): pos. 1285 - 1353
+-SpaA (PF17802): pos. 1380 - 1448
+-SpaA (PF17802): pos. 1473 - 1541
+-SpaA (PF17802): pos. 1566 - 1634
+-SpaA_2 (PF19403): pos. 1168 - 1245
+-SpaA_2 (PF19403): pos. 1277 - 1360
+-SpaA_2 (PF19403): pos. 1372 - 1457
+-SpaA_2 (PF19403): pos. 1464 - 1552
+-SpaA_2 (PF19403): pos. 1558 - 1627
+

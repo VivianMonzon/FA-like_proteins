@@ -1,0 +1,19 @@
+* Organism:
+- Parolsenella catena
+* Protein length:
+- 2467
+* Adhesive domains:
+-VWA (PF00092): pos. 106 - 346
+* Stalk domains:
+-FctA (PF12892): pos. 805 - 945
+-FctA (PF12892): pos. 954 - 1083
+-FctA (PF12892): pos. 1093 - 1221
+-FctA (PF12892): pos. 1231 - 1376
+-FctA (PF12892): pos. 1387 - 1509
+-FctA (PF12892): pos. 1520 - 1642
+-FctA (PF12892): pos. 1653 - 1792
+-FctA (PF12892): pos. 1800 - 1925
+-FctA (PF12892): pos. 2033 - 2186
+-FctA (PF12892): pos. 2198 - 2305
+-FctA (PF12892): pos. 2313 - 2417
+

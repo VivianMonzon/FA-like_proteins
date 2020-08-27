@@ -1,0 +1,9 @@
+* Organism:
+- Domibacillus enclensis
+* Protein length:
+- 960
+* Adhesive domains:
+-VWA (PF00092): pos. 77 - 208
+* Stalk domains:
+-Big_2 (PF02368): pos. 764 - 840
+

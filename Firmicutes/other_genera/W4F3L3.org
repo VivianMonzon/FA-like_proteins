@@ -1,0 +1,15 @@
+* Organism:
+- Viridibacillus arenosi FSL R5-213
+* Protein length:
+- 1593
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 344 - 473
+-Collagen_bind (PF05737): pos. 482 - 607
+-Collagen_bind (PF05737): pos. 760 - 890
+-Collagen_bind (PF05737): pos. 901 - 1031
+* Stalk domains:
+-SpaA (PF17802): pos. 1063 - 1132
+-SpaA (PF17802): pos. 1154 - 1225
+-SpaA (PF17802): pos. 1251 - 1318
+-SpaA (PF17802): pos. 1343 - 1418
+

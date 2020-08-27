@@ -1,0 +1,15 @@
+* Organism:
+- Geobacillus sp. (strain Y412MC10)
+* Protein length:
+- 968
+* Adhesive domains:
+-VWA (PF00092): pos. 72 - 255
+* Stalk domains:
+-TIG (PF01833): pos. 364 - 445
+-TIG (PF01833): pos. 447 - 529
+-TIG (PF01833): pos. 537 - 620
+-TIG (PF01833): pos. 626 - 708
+-TIG (PF01833): pos. 715 - 796
+-TIG (PF01833): pos. 801 - 881
+-TIG (PF01833): pos. 889 - 967
+

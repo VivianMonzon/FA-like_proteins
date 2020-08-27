@@ -1,0 +1,11 @@
+* Organism:
+- Polaromonas sp. CG9_12
+* Protein length:
+- 650
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 424 - 648
+* Stalk domains:
+-Big_5 (PF13205): pos. 49 - 156
+-Big_5 (PF13205): pos. 161 - 280
+-Big_5 (PF13205): pos. 283 - 401
+

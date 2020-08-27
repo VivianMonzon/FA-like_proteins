@@ -1,0 +1,9 @@
+* Organism:
+- Paenibacillus rigui
+* Protein length:
+- 1433
+* Adhesive domains:
+-PA14 (PF07691): pos. 61 - 203
+* Stalk domains:
+-FIVAR (PF07554): pos. 1296 - 1366
+

@@ -1,0 +1,10 @@
+* Organism:
+- Weissella oryzae (strain DSM 25784 / JCM 18191 / SG25)
+* Protein length:
+- 628
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 44 - 345
+* Stalk domains:
+-Cna_B (PF05738): pos. 353 - 449
+-Cna_B (PF05738): pos. 459 - 550
+

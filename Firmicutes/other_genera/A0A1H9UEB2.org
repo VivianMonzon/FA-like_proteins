@@ -1,0 +1,13 @@
+* Organism:
+- Salipaludibacillus aurantiacus
+* Protein length:
+- 1296
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 418 - 542
+-Collagen_bind (PF05737): pos. 553 - 678
+-Collagen_bind (PF05737): pos. 824 - 952
+-Collagen_bind (PF05737): pos. 963 - 1099
+* Stalk domains:
+-SpaA (PF17802): pos. 1130 - 1199
+-SpaA (PF17802): pos. 1221 - 1272
+

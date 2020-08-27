@@ -1,0 +1,21 @@
+* Organism:
+- Sphingomonas sp. Leaf42
+* Protein length:
+- 1413
+* Adhesive domains:
+-YadA_head (PF05658): pos. 157 - 183
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 218 - 259
+-YadA_stalk (PF05662): pos. 273 - 316
+-YadA_stalk (PF05662): pos. 352 - 396
+-YadA_stalk (PF05662): pos. 481 - 525
+-YadA_stalk (PF05662): pos. 582 - 626
+-YadA_stalk (PF05662): pos. 710 - 755
+-YadA_stalk (PF05662): pos. 790 - 835
+-YadA_stalk (PF05662): pos. 869 - 912
+-YadA_stalk (PF05662): pos. 945 - 990
+-YadA_stalk (PF05662): pos. 1089 - 1132
+-YadA_stalk (PF05662): pos. 1171 - 1214
+-YadA_stalk (PF05662): pos. 1229 - 1273
+-YadA_stalk (PF05662): pos. 1288 - 1327
+

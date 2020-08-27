@@ -1,0 +1,10 @@
+* Organism:
+- Prevotella sp. 885
+* Protein length:
+- 1000
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 24 - 66
+-Cleaved_Adhesin (PF07675): pos. 734 - 859
+* Stalk domains:
+-CARDB (PF07705): pos. 547 - 647
+

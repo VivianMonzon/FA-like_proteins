@@ -1,0 +1,19 @@
+* Organism:
+- Pseudomonas hussainii
+* Protein length:
+- 3553
+* Adhesive domains:
+-VWA (PF00092): pos. 2070 - 2251
+-VWA (PF00092): pos. 2770 - 2966
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 2488 - 2557
+-Big_9 (PF17963): pos. 2487 - 2588
+-DUF5801 (PF19116): pos. 311 - 472
+-DUF5801 (PF19116): pos. 485 - 693
+-DUF5801 (PF19116): pos. 706 - 879
+-DUF5801 (PF19116): pos. 892 - 1080
+-DUF5801 (PF19116): pos. 1092 - 1268
+-DUF5801 (PF19116): pos. 1280 - 1444
+-DUF5801 (PF19116): pos. 1756 - 1894
+-DUF5801 (PF19116): pos. 1906 - 2037
+

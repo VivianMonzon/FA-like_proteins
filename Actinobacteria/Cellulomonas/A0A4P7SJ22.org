@@ -1,0 +1,10 @@
+* Organism:
+- Cellulomonas shaoxiangyii
+* Protein length:
+- 485
+* Adhesive domains:
+-TED (PF08341): pos. 96 - 190
+* Stalk domains:
+-DUF5979 (PF19407): pos. 206 - 286
+-DUF5979 (PF19407): pos. 335 - 426
+

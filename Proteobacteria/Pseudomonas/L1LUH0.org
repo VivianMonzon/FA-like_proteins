@@ -1,0 +1,24 @@
+* Organism:
+- Pseudomonas putida CSV86
+* Protein length:
+- 3093
+* Adhesive domains:
+-VWA (PF00092): pos. 2285 - 2467
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 297 - 369
+-Cadherin_4 (PF17803): pos. 542 - 614
+-Cadherin_4 (PF17803): pos. 787 - 859
+-Cadherin_4 (PF17803): pos. 1032 - 1104
+-Cadherin_4 (PF17803): pos. 1277 - 1349
+-Cadherin_4 (PF17803): pos. 1522 - 1594
+-Cadherin_4 (PF17803): pos. 1767 - 1839
+-Cadherin_4 (PF17803): pos. 2012 - 2098
+-Big_9 (PF17963): pos. 296 - 400
+-Big_9 (PF17963): pos. 541 - 645
+-Big_9 (PF17963): pos. 786 - 890
+-Big_9 (PF17963): pos. 1031 - 1135
+-Big_9 (PF17963): pos. 1276 - 1380
+-Big_9 (PF17963): pos. 1521 - 1625
+-Big_9 (PF17963): pos. 1766 - 1870
+-Big_9 (PF17963): pos. 2011 - 2123
+

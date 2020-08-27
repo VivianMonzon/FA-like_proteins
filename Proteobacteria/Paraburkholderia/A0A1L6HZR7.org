@@ -1,0 +1,16 @@
+* Organism:
+- Paraburkholderia sp. SOS3
+* Protein length:
+- 851
+* Adhesive domains:
+-YadA_head (PF05658): pos. 520 - 546
+-YadA_head (PF05658): pos. 676 - 714
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 159 - 203
+-YadA_stalk (PF05662): pos. 281 - 323
+-YadA_stalk (PF05662): pos. 338 - 383
+-YadA_stalk (PF05662): pos. 411 - 456
+-YadA_stalk (PF05662): pos. 564 - 607
+-YadA_stalk (PF05662): pos. 625 - 667
+-YadA_stalk (PF05662): pos. 720 - 753
+

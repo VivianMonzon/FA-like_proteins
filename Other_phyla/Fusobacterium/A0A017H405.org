@@ -1,0 +1,15 @@
+* Organism:
+- Fusobacterium necrophorum subsp. funduliforme B35
+* Protein length:
+- 1833
+* Adhesive domains:
+-YadA_head (PF05658): pos. 256 - 282
+-YadA_head (PF05658): pos. 462 - 487
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 611 - 656
+-YadA_stalk (PF05662): pos. 821 - 861
+-YadA_stalk (PF05662): pos. 938 - 980
+-YadA_stalk (PF05662): pos. 1196 - 1240
+-YadA_stalk (PF05662): pos. 1324 - 1365
+-YadA_stalk (PF05662): pos. 1713 - 1753
+

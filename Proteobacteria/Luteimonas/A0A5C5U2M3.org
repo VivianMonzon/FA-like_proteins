@@ -1,0 +1,26 @@
+* Organism:
+- Luteimonas marina
+* Protein length:
+- 1988
+* Adhesive domains:
+-YadA_head (PF05658): pos. 111 - 137
+-YadA_head (PF05658): pos. 167 - 193
+-YadA_head (PF05658): pos. 386 - 410
+-YadA_head (PF05658): pos. 434 - 460
+-YadA_head (PF05658): pos. 694 - 720
+-YadA_head (PF05658): pos. 729 - 755
+-YadA_head (PF05658): pos. 757 - 783
+-YadA_head (PF05658): pos. 1061 - 1087
+-YadA_head (PF05658): pos. 1089 - 1126
+-YadA_head (PF05658): pos. 1307 - 1333
+-YadA_head (PF05658): pos. 1363 - 1389
+-YadA_head (PF05658): pos. 1612 - 1650
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 234 - 270
+-YadA_stalk (PF05662): pos. 492 - 532
+-YadA_stalk (PF05662): pos. 801 - 841
+-YadA_stalk (PF05662): pos. 1133 - 1173
+-YadA_stalk (PF05662): pos. 1457 - 1496
+-YadA_stalk (PF05662): pos. 1656 - 1698
+-YadA_stalk (PF05662): pos. 1851 - 1891
+

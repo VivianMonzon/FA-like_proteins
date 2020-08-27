@@ -1,0 +1,14 @@
+* Organism:
+- Rubritalea squalenifaciens DSM 18772
+* Protein length:
+- 1217
+* Adhesive domains:
+-PA14 (PF07691): pos. 535 - 672
+* Stalk domains:
+-Cadherin_4 (PF17803): pos. 677 - 754
+-Cadherin_4 (PF17803): pos. 765 - 831
+-Cadherin_5 (PF17892): pos. 681 - 772
+-Cadherin_5 (PF17892): pos. 773 - 863
+-Big_9 (PF17963): pos. 676 - 761
+-Big_9 (PF17963): pos. 764 - 852
+

@@ -1,0 +1,9 @@
+* Organism:
+- Weissella sp. 26KH-42
+* Protein length:
+- 699
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 228 - 271
+* Stalk domains:
+-Big_6 (PF17936): pos. 534 - 612
+

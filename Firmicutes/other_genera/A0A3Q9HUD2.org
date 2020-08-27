@@ -1,0 +1,12 @@
+* Organism:
+- Anoxybacter fermentans
+* Protein length:
+- 516
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 302 - 344
+-LRR_4 (PF12799): pos. 346 - 388
+-LRR_4 (PF12799): pos. 412 - 454
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 40 - 114
+-SpaA (PF17802): pos. 45 - 105
+

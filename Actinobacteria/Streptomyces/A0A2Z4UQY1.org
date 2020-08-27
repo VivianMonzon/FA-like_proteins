@@ -1,0 +1,9 @@
+* Organism:
+- Streptomyces sp. ICC1
+* Protein length:
+- 613
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 60 - 249
+* Stalk domains:
+-Collagen (PF01391): pos. 253 - 315
+

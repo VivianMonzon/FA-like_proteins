@@ -1,0 +1,15 @@
+* Organism:
+- Paenibacillus curdlanolyticus YK9
+* Protein length:
+- 966
+* Adhesive domains:
+-VWA (PF00092): pos. 71 - 253
+* Stalk domains:
+-TIG (PF01833): pos. 361 - 441
+-TIG (PF01833): pos. 444 - 527
+-TIG (PF01833): pos. 534 - 615
+-TIG (PF01833): pos. 623 - 704
+-TIG (PF01833): pos. 711 - 792
+-TIG (PF01833): pos. 797 - 876
+-TIG (PF01833): pos. 885 - 965
+

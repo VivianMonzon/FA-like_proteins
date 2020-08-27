@@ -1,0 +1,15 @@
+* Organism:
+- Cellulomonas sp. PhB143
+* Protein length:
+- 1381
+* Adhesive domains:
+-VWA (PF00092): pos. 197 - 388
+* Stalk domains:
+-DUF11 (PF01345): pos. 1160 - 1277
+-SpaA_2 (PF19403): pos. 396 - 507
+-SpaA_2 (PF19403): pos. 633 - 748
+-SpaA_2 (PF19403): pos. 750 - 852
+-SpaA_2 (PF19403): pos. 856 - 950
+-SpaA_2 (PF19403): pos. 954 - 1057
+-SpaA_2 (PF19403): pos. 1062 - 1152
+

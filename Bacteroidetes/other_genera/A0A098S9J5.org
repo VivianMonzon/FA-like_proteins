@@ -1,0 +1,21 @@
+* Organism:
+- Phaeodactylibacter xiamenensis
+* Protein length:
+- 2154
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 17 - 220
+* Stalk domains:
+-PKD_6 (PF19408): pos. 221 - 303
+-PKD_6 (PF19408): pos. 305 - 386
+-PKD_6 (PF19408): pos. 393 - 469
+-PKD_6 (PF19408): pos. 471 - 553
+-PKD_6 (PF19408): pos. 837 - 891
+-PKD_6 (PF19408): pos. 893 - 974
+-PKD_6 (PF19408): pos. 1143 - 1226
+-PKD_6 (PF19408): pos. 1230 - 1308
+-PKD_6 (PF19408): pos. 1402 - 1471
+-PKD_6 (PF19408): pos. 1478 - 1557
+-PKD_6 (PF19408): pos. 1643 - 1725
+-PKD_6 (PF19408): pos. 1738 - 1808
+-PKD_6 (PF19408): pos. 1838 - 1892
+

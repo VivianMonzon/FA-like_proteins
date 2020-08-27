@@ -1,0 +1,9 @@
+* Organism:
+- Deminuibacter soli
+* Protein length:
+- 653
+* Adhesive domains:
+-VWA (PF00092): pos. 275 - 444
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 25 - 103
+

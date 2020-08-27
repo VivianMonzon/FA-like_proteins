@@ -1,0 +1,27 @@
+* Organism:
+- Bibersteinia trehalosi USDA-ARS-USMARC-192
+* Protein length:
+- 3960
+* Adhesive domains:
+-YadA_head (PF05658): pos. 207 - 232
+-YadA_head (PF05658): pos. 312 - 335
+-YadA_head (PF05658): pos. 443 - 468
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 510 - 555
+-YadA_stalk (PF05662): pos. 703 - 745
+-YadA_stalk (PF05662): pos. 918 - 960
+-YadA_stalk (PF05662): pos. 1030 - 1070
+-YadA_stalk (PF05662): pos. 1255 - 1297
+-YadA_stalk (PF05662): pos. 1471 - 1513
+-YadA_stalk (PF05662): pos. 1583 - 1623
+-YadA_stalk (PF05662): pos. 1811 - 1853
+-YadA_stalk (PF05662): pos. 2064 - 2106
+-YadA_stalk (PF05662): pos. 2316 - 2356
+-YadA_stalk (PF05662): pos. 2573 - 2615
+-YadA_stalk (PF05662): pos. 2824 - 2866
+-YadA_stalk (PF05662): pos. 3076 - 3116
+-YadA_stalk (PF05662): pos. 3323 - 3363
+-YadA_stalk (PF05662): pos. 3437 - 3481
+-YadA_stalk (PF05662): pos. 3564 - 3606
+-YadA_stalk (PF05662): pos. 3849 - 3891
+

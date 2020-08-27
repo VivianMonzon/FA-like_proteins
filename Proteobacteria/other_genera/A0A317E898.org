@@ -1,0 +1,10 @@
+* Organism:
+- Zavarzinia sp. HR-AS
+* Protein length:
+- 657
+* Adhesive domains:
+-VWA (PF00092): pos. 36 - 212
+* Stalk domains:
+-PKD_6 (PF19408): pos. 412 - 482
+-PKD_6 (PF19408): pos. 610 - 656
+

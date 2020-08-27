@@ -1,0 +1,14 @@
+* Organism:
+- Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)
+* Protein length:
+- 548
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 142 - 183
+-LRR_4 (PF12799): pos. 164 - 206
+-LRR_4 (PF12799): pos. 208 - 250
+* Stalk domains:
+-Flg_new (PF09479): pos. 345 - 409
+-Flg_new (PF09479): pos. 415 - 479
+-Flg_new_2 (PF18998): pos. 334 - 414
+-Flg_new_2 (PF18998): pos. 415 - 484
+

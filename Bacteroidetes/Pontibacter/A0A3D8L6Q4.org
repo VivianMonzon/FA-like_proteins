@@ -1,0 +1,20 @@
+* Organism:
+- Pontibacter diazotrophicus
+* Protein length:
+- 1380
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 38 - 223
+* Stalk domains:
+-DUF11 (PF01345): pos. 227 - 343
+-PKD_6 (PF19408): pos. 345 - 425
+-PKD_6 (PF19408): pos. 428 - 512
+-PKD_6 (PF19408): pos. 515 - 598
+-PKD_6 (PF19408): pos. 601 - 685
+-PKD_6 (PF19408): pos. 688 - 772
+-PKD_6 (PF19408): pos. 775 - 859
+-PKD_6 (PF19408): pos. 860 - 944
+-PKD_6 (PF19408): pos. 947 - 1032
+-PKD_6 (PF19408): pos. 1034 - 1117
+-PKD_6 (PF19408): pos. 1120 - 1203
+-PKD_6 (PF19408): pos. 1204 - 1287
+

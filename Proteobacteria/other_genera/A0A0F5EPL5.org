@@ -1,0 +1,11 @@
+* Organism:
+- Avibacterium paragallinarum (Haemophilus gallinarum)
+* Protein length:
+- 1178
+* Adhesive domains:
+-YadA_head (PF05658): pos. 95 - 120
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 193 - 238
+-YadA_stalk (PF05662): pos. 721 - 753
+-YadA_stalk (PF05662): pos. 1060 - 1102
+

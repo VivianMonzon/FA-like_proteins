@@ -1,0 +1,19 @@
+* Organism:
+- Halanaerobium praevalens (strain ATCC 33744 / DSM 2228 / GSL)
+* Protein length:
+- 2607
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 1138 - 1183
+* Stalk domains:
+-DUF11 (PF01345): pos. 2017 - 2132
+-DUF11 (PF01345): pos. 2372 - 2497
+-DUF285 (PF03382): pos. 512 - 630
+-DUF285 (PF03382): pos. 536 - 656
+-DUF285 (PF03382): pos. 627 - 721
+-DUF285 (PF03382): pos. 701 - 806
+-DUF285 (PF03382): pos. 777 - 886
+-Big_5 (PF13205): pos. 308 - 420
+-Big_5 (PF13205): pos. 928 - 1039
+-Big_5 (PF13205): pos. 1568 - 1680
+-SdrD_B (PF17210): pos. 2508 - 2567
+

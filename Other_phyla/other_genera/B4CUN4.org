@@ -1,0 +1,11 @@
+* Organism:
+- Chthoniobacter flavus Ellin428
+* Protein length:
+- 2069
+* Adhesive domains:
+-PA14 (PF07691): pos. 397 - 489
+-PA14 (PF07691): pos. 538 - 653
+* Stalk domains:
+-Calx-beta (PF03160): pos. 293 - 379
+-Big_9 (PF17963): pos. 1284 - 1373
+

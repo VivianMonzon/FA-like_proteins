@@ -1,0 +1,21 @@
+* Organism:
+- Streptococcus pantholopis
+* Protein length:
+- 2173
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 217 - 584
+* Stalk domains:
+-CshA_repeat (PF19076): pos. 726 - 811
+-CshA_repeat (PF19076): pos. 816 - 912
+-CshA_repeat (PF19076): pos. 917 - 1022
+-CshA_repeat (PF19076): pos. 1027 - 1123
+-CshA_repeat (PF19076): pos. 1128 - 1233
+-CshA_repeat (PF19076): pos. 1238 - 1334
+-CshA_repeat (PF19076): pos. 1339 - 1435
+-CshA_repeat (PF19076): pos. 1440 - 1545
+-CshA_repeat (PF19076): pos. 1550 - 1655
+-CshA_repeat (PF19076): pos. 1660 - 1756
+-CshA_repeat (PF19076): pos. 1761 - 1857
+-CshA_repeat (PF19076): pos. 1862 - 1958
+-CshA_repeat (PF19076): pos. 1963 - 2068
+

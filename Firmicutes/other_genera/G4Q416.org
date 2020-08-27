@@ -1,0 +1,15 @@
+* Organism:
+- Acidaminococcus intestini (strain RyC-MR95)
+* Protein length:
+- 1791
+* Adhesive domains:
+-YadA_head (PF05658): pos. 103 - 129
+-YadA_head (PF05658): pos. 657 - 682
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 543 - 585
+-YadA_stalk (PF05662): pos. 607 - 651
+-YadA_stalk (PF05662): pos. 1016 - 1061
+-YadA_stalk (PF05662): pos. 1155 - 1197
+-YadA_stalk (PF05662): pos. 1372 - 1417
+-YadA_stalk (PF05662): pos. 1509 - 1554
+

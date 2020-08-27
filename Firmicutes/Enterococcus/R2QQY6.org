@@ -1,0 +1,11 @@
+* Organism:
+- Enterococcus pallens ATCC BAA-351
+* Protein length:
+- 790
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 243 - 287
+* Stalk domains:
+-Big_3 (PF07523): pos. 472 - 547
+-Big_3 (PF07523): pos. 631 - 713
+-DUF5011 (PF16403): pos. 472 - 547
+

@@ -1,0 +1,9 @@
+* Organism:
+- Ulvibacter sp. LPB0005
+* Protein length:
+- 622
+* Adhesive domains:
+-VWA (PF00092): pos. 266 - 438
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 23 - 100
+

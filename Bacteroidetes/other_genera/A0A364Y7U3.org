@@ -1,0 +1,9 @@
+* Organism:
+- Chryseolinea flava
+* Protein length:
+- 623
+* Adhesive domains:
+-VWA (PF00092): pos. 260 - 432
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 24 - 95
+

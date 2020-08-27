@@ -1,0 +1,12 @@
+* Organism:
+- Hydromonas duriensis
+* Protein length:
+- 241
+* Adhesive domains:
+-YadA_head (PF05658): pos. 50 - 76
+-YadA_head (PF05658): pos. 64 - 90
+-YadA_head (PF05658): pos. 78 - 104
+-YadA_head (PF05658): pos. 92 - 118
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 136 - 178
+

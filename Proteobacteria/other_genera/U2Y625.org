@@ -1,0 +1,10 @@
+* Organism:
+- Novosphingobium tardaugens NBRC 16725
+* Protein length:
+- 465
+* Adhesive domains:
+-YadA_head (PF05658): pos. 236 - 260
+-YadA_head (PF05658): pos. 292 - 318
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 336 - 375
+

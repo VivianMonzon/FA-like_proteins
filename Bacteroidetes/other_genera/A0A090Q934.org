@@ -1,0 +1,12 @@
+* Organism:
+- Nonlabens sediminis
+* Protein length:
+- 1947
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 977 - 1130
+-Cleaved_Adhesin (PF07675): pos. 1230 - 1383
+* Stalk domains:
+-fn3 (PF00041): pos. 607 - 687
+-fn3 (PF00041): pos. 883 - 963
+-fn3 (PF00041): pos. 1390 - 1471
+

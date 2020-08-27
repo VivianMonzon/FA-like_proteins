@@ -1,0 +1,15 @@
+* Organism:
+- Caballeronia mineralivorans PML1(12)
+* Protein length:
+- 775
+* Adhesive domains:
+-YadA_head (PF05658): pos. 131 - 157
+-YadA_head (PF05658): pos. 159 - 185
+-YadA_head (PF05658): pos. 335 - 361
+-YadA_head (PF05658): pos. 514 - 540
+-YadA_head (PF05658): pos. 612 - 638
+-YadA_head (PF05658): pos. 626 - 652
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 443 - 488
+-YadA_stalk (PF05662): pos. 670 - 712
+

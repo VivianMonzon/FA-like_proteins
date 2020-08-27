@@ -1,0 +1,28 @@
+* Organism:
+- Enterococcus sulfureus ATCC 49903
+* Protein length:
+- 3271
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 398 - 524
+-Collagen_bind (PF05737): pos. 535 - 660
+-Collagen_bind (PF05737): pos. 668 - 778
+-Collagen_bind (PF05737): pos. 938 - 1069
+-Collagen_bind (PF05737): pos. 1080 - 1201
+* Stalk domains:
+-Cna_B (PF05738): pos. 1324 - 1421
+-Cna_B (PF05738): pos. 1429 - 1511
+-Cna_B (PF05738): pos. 1519 - 1601
+-Cna_B (PF05738): pos. 1609 - 1701
+-Cna_B (PF05738): pos. 1709 - 1791
+-Cna_B (PF05738): pos. 1799 - 1883
+-Cna_B (PF05738): pos. 1891 - 1974
+-Cna_B (PF05738): pos. 1982 - 2064
+-Cna_B (PF05738): pos. 2072 - 2154
+-Cna_B (PF05738): pos. 2162 - 2244
+-Cna_B (PF05738): pos. 2252 - 2334
+-Cna_B (PF05738): pos. 2342 - 2424
+-SdrD_B (PF17210): pos. 2430 - 2551
+-SdrD_B (PF17210): pos. 2784 - 2905
+-SdrD_B (PF17210): pos. 3000 - 3121
+-SpaA (PF17802): pos. 1238 - 1303
+

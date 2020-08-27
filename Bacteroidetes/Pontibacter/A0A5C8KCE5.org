@@ -1,0 +1,9 @@
+* Organism:
+- Pontibacter sp. GY10130
+* Protein length:
+- 635
+* Adhesive domains:
+-VWA (PF00092): pos. 268 - 439
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 30 - 103
+

@@ -1,0 +1,60 @@
+* Organism:
+- Paraburkholderia xenovorans (strain LB400)
+* Protein length:
+- 4726
+* Adhesive domains:
+-YadA_head (PF05658): pos. 411 - 437
+-YadA_head (PF05658): pos. 757 - 783
+-YadA_head (PF05658): pos. 892 - 918
+-YadA_head (PF05658): pos. 1244 - 1270
+-YadA_head (PF05658): pos. 1517 - 1542
+-YadA_head (PF05658): pos. 1906 - 1932
+-YadA_head (PF05658): pos. 2099 - 2125
+-YadA_head (PF05658): pos. 2240 - 2266
+-YadA_head (PF05658): pos. 2383 - 2409
+-YadA_head (PF05658): pos. 2526 - 2552
+-YadA_head (PF05658): pos. 2669 - 2695
+-YadA_head (PF05658): pos. 2812 - 2838
+-YadA_head (PF05658): pos. 3006 - 3032
+-YadA_head (PF05658): pos. 3149 - 3175
+-YadA_head (PF05658): pos. 3292 - 3318
+-YadA_head (PF05658): pos. 3567 - 3593
+-YadA_head (PF05658): pos. 3710 - 3736
+-YadA_head (PF05658): pos. 3985 - 4011
+-YadA_head (PF05658): pos. 4128 - 4154
+-YadA_head (PF05658): pos. 4396 - 4422
+-YadA_head (PF05658): pos. 4552 - 4578
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 142 - 187
+-YadA_stalk (PF05662): pos. 341 - 383
+-YadA_stalk (PF05662): pos. 561 - 603
+-YadA_stalk (PF05662): pos. 822 - 875
+-YadA_stalk (PF05662): pos. 957 - 999
+-YadA_stalk (PF05662): pos. 1167 - 1209
+-YadA_stalk (PF05662): pos. 1307 - 1349
+-YadA_stalk (PF05662): pos. 1357 - 1402
+-YadA_stalk (PF05662): pos. 1581 - 1623
+-YadA_stalk (PF05662): pos. 1828 - 1870
+-YadA_stalk (PF05662): pos. 1969 - 2011
+-YadA_stalk (PF05662): pos. 2019 - 2064
+-YadA_stalk (PF05662): pos. 2162 - 2204
+-YadA_stalk (PF05662): pos. 2305 - 2347
+-YadA_stalk (PF05662): pos. 2448 - 2511
+-YadA_stalk (PF05662): pos. 2591 - 2633
+-YadA_stalk (PF05662): pos. 2734 - 2776
+-YadA_stalk (PF05662): pos. 2875 - 2917
+-YadA_stalk (PF05662): pos. 2925 - 2970
+-YadA_stalk (PF05662): pos. 3071 - 3113
+-YadA_stalk (PF05662): pos. 3214 - 3256
+-YadA_stalk (PF05662): pos. 3357 - 3399
+-YadA_stalk (PF05662): pos. 3486 - 3531
+-YadA_stalk (PF05662): pos. 3632 - 3674
+-YadA_stalk (PF05662): pos. 3775 - 3817
+-YadA_stalk (PF05662): pos. 3904 - 3949
+-YadA_stalk (PF05662): pos. 4050 - 4092
+-YadA_stalk (PF05662): pos. 4207 - 4252
+-YadA_stalk (PF05662): pos. 4288 - 4333
+-YadA_stalk (PF05662): pos. 4440 - 4481
+-YadA_stalk (PF05662): pos. 4501 - 4542
+-YadA_stalk (PF05662): pos. 4596 - 4637
+

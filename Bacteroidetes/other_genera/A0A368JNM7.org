@@ -1,0 +1,9 @@
+* Organism:
+- Larkinella sp. ZZJ9
+* Protein length:
+- 622
+* Adhesive domains:
+-VWA (PF00092): pos. 250 - 422
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 23 - 100
+

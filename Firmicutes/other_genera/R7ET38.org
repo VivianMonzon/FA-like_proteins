@@ -1,0 +1,17 @@
+* Organism:
+- Anaerotruncus sp. CAG:390
+* Protein length:
+- 1667
+* Adhesive domains:
+-TED (PF08341): pos. 99 - 216
+* Stalk domains:
+-SpaA (PF17802): pos. 424 - 493
+-SpaA (PF17802): pos. 613 - 680
+-SpaA (PF17802): pos. 713 - 787
+-SpaA (PF17802): pos. 813 - 894
+-SpaA (PF17802): pos. 943 - 1020
+-SpaA (PF17802): pos. 1170 - 1243
+-TQ (PF18202): pos. 1256 - 1375
+-TQ (PF18202): pos. 1378 - 1497
+-TQ (PF18202): pos. 1500 - 1619
+

@@ -1,0 +1,14 @@
+* Organism:
+- Streptococcus sp. DD10
+* Protein length:
+- 1709
+* Adhesive domains:
+-GbpC (PF08363): pos. 388 - 662
+-Adhesin_P1_N (PF18652): pos. 66 - 171
+* Stalk domains:
+-MucBP (PF06458): pos. 939 - 1011
+-MucBP (PF06458): pos. 1022 - 1093
+-Antigen_C (PF16364): pos. 1486 - 1643
+-AgI_II_C2 (PF17998): pos. 1132 - 1301
+-AgI_II_C2 (PF17998): pos. 1310 - 1478
+

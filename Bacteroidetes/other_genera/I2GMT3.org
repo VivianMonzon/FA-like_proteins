@@ -1,0 +1,9 @@
+* Organism:
+- Fibrisoma limi BUZ 3
+* Protein length:
+- 601
+* Adhesive domains:
+-VWA (PF00092): pos. 282 - 461
+* Stalk domains:
+-CarboxypepD_reg (PF13620): pos. 22 - 127
+

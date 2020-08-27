@@ -1,0 +1,10 @@
+* Organism:
+- Chryseolinea serpens
+* Protein length:
+- 2227
+* Adhesive domains:
+-PA14 (PF07691): pos. 632 - 756
+-PA14 (PF07691): pos. 865 - 993
+* Stalk domains:
+-He_PIG (PF05345): pos. 1567 - 1656
+

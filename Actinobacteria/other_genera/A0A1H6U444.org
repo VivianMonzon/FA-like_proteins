@@ -1,0 +1,34 @@
+* Organism:
+- Lysinimicrobium mangrovi
+* Protein length:
+- 4176
+* Adhesive domains:
+-CshA_NR2 (PF18651): pos. 58 - 330
+* Stalk domains:
+-DUF11 (PF01345): pos. 452 - 575
+-DUF11 (PF01345): pos. 584 - 700
+-DUF11 (PF01345): pos. 715 - 840
+-DUF11 (PF01345): pos. 846 - 964
+-DUF11 (PF01345): pos. 976 - 1095
+-DUF11 (PF01345): pos. 1234 - 1355
+-DUF11 (PF01345): pos. 1368 - 1487
+-DUF11 (PF01345): pos. 1499 - 1622
+-DUF11 (PF01345): pos. 1630 - 1753
+-DUF11 (PF01345): pos. 1764 - 1883
+-DUF11 (PF01345): pos. 1895 - 2013
+-DUF11 (PF01345): pos. 2025 - 2141
+-DUF11 (PF01345): pos. 2153 - 2271
+-DUF11 (PF01345): pos. 2283 - 2401
+-DUF11 (PF01345): pos. 2412 - 2536
+-DUF11 (PF01345): pos. 2544 - 2663
+-DUF11 (PF01345): pos. 2675 - 2793
+-DUF11 (PF01345): pos. 2805 - 2921
+-DUF11 (PF01345): pos. 2935 - 3044
+-DUF11 (PF01345): pos. 3063 - 3179
+-DUF11 (PF01345): pos. 3193 - 3312
+-DUF11 (PF01345): pos. 3324 - 3440
+-DUF11 (PF01345): pos. 3453 - 3568
+-DUF11 (PF01345): pos. 3580 - 3703
+-DUF11 (PF01345): pos. 3713 - 3820
+-DUF11 (PF01345): pos. 3852 - 3963
+

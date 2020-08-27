@@ -1,0 +1,28 @@
+* Organism:
+- Virgibacillus sp. SK37
+* Protein length:
+- 2585
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 389 - 516
+-Collagen_bind (PF05737): pos. 524 - 651
+-Collagen_bind (PF05737): pos. 663 - 771
+-Collagen_bind (PF05737): pos. 794 - 920
+-Collagen_bind (PF05737): pos. 931 - 1057
+* Stalk domains:
+-Cna_B (PF05738): pos. 1461 - 1542
+-Cna_B (PF05738): pos. 1547 - 1628
+-Cna_B (PF05738): pos. 1635 - 1725
+-Cna_B (PF05738): pos. 1732 - 1813
+-Cna_B (PF05738): pos. 1820 - 1901
+-Cna_B (PF05738): pos. 1908 - 1990
+-Cna_B (PF05738): pos. 1997 - 2079
+-Cna_B (PF05738): pos. 2085 - 2167
+-Cna_B (PF05738): pos. 2173 - 2255
+-Cna_B (PF05738): pos. 2261 - 2342
+-Cna_B (PF05738): pos. 2348 - 2429
+-Cna_B (PF05738): pos. 2436 - 2517
+-SpaA (PF17802): pos. 1092 - 1160
+-SpaA (PF17802): pos. 1189 - 1257
+-SpaA (PF17802): pos. 1281 - 1353
+-SpaA (PF17802): pos. 1378 - 1446
+

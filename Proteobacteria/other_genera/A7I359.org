@@ -1,0 +1,13 @@
+* Organism:
+- Campylobacter hominis (strain ATCC BAA-381 / LMG 19568 / NCTC 13146 / CH001A)
+* Protein length:
+- 1405
+* Adhesive domains:
+-YadA_head (PF05658): pos. 405 - 431
+-YadA_head (PF05658): pos. 419 - 445
+-YadA_head (PF05658): pos. 447 - 473
+-YadA_head (PF05658): pos. 503 - 529
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 356 - 399
+-YadA_stalk (PF05662): pos. 574 - 618
+

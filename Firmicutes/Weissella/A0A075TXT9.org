@@ -1,0 +1,11 @@
+* Organism:
+- Weissella ceti
+* Protein length:
+- 567
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 175 - 296
+* Stalk domains:
+-QPE (PF18874): pos. 333 - 377
+-QPE (PF18874): pos. 378 - 422
+-QPE (PF18874): pos. 423 - 467
+

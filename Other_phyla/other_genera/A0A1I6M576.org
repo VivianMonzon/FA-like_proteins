@@ -1,0 +1,15 @@
+* Organism:
+- Granulicella pectinivorans
+* Protein length:
+- 1041
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 796 - 1037
+* Stalk domains:
+-Big_5 (PF13205): pos. 32 - 138
+-Big_5 (PF13205): pos. 141 - 240
+-Big_5 (PF13205): pos. 242 - 343
+-Big_5 (PF13205): pos. 344 - 446
+-Big_5 (PF13205): pos. 449 - 553
+-Big_5 (PF13205): pos. 558 - 663
+-Big_5 (PF13205): pos. 668 - 777
+

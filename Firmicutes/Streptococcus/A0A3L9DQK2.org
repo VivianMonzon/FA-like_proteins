@@ -1,0 +1,18 @@
+* Organism:
+- Streptococcus sp. 28462
+* Protein length:
+- 1837
+* Adhesive domains:
+-TED (PF08341): pos. 73 - 219
+* Stalk domains:
+-SpaA (PF17802): pos. 470 - 541
+-SpaA (PF17802): pos. 580 - 645
+-SpaA (PF17802): pos. 802 - 877
+-SpaA (PF17802): pos. 911 - 983
+-SpaA (PF17802): pos. 1017 - 1085
+-SpaA (PF17802): pos. 1134 - 1206
+-SpaA (PF17802): pos. 1240 - 1308
+-SpaA (PF17802): pos. 1356 - 1419
+-SpaA (PF17802): pos. 1461 - 1534
+-SpaA (PF17802): pos. 1578 - 1641
+

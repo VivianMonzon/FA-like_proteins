@@ -1,0 +1,10 @@
+* Organism:
+- Epulopiscium sp. Nele67-Bin005
+* Protein length:
+- 412
+* Adhesive domains:
+-LRR_4 (PF12799): pos. 175 - 217
+-LRR_4 (PF12799): pos. 219 - 261
+* Stalk domains:
+-DUF5011 (PF16403): pos. 333 - 411
+

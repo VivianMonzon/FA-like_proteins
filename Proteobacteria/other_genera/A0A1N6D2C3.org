@@ -1,0 +1,25 @@
+* Organism:
+- Parasphingorhabdus marina DSM 22363
+* Protein length:
+- 1225
+* Adhesive domains:
+-YadA_head (PF05658): pos. 74 - 100
+-YadA_head (PF05658): pos. 129 - 155
+-YadA_head (PF05658): pos. 213 - 238
+-YadA_head (PF05658): pos. 249 - 275
+-YadA_head (PF05658): pos. 289 - 312
+-YadA_head (PF05658): pos. 353 - 379
+-YadA_head (PF05658): pos. 437 - 463
+-YadA_head (PF05658): pos. 465 - 490
+-YadA_head (PF05658): pos. 504 - 530
+-YadA_head (PF05658): pos. 663 - 689
+-YadA_head (PF05658): pos. 677 - 703
+-YadA_head (PF05658): pos. 705 - 731
+-YadA_head (PF05658): pos. 769 - 795
+-YadA_head (PF05658): pos. 958 - 984
+-YadA_head (PF05658): pos. 1014 - 1040
+-YadA_head (PF05658): pos. 1042 - 1068
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 548 - 588
+-YadA_stalk (PF05662): pos. 813 - 855
+

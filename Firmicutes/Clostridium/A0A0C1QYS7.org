@@ -1,0 +1,19 @@
+* Organism:
+- Clostridium argentinense CDC 2741
+* Protein length:
+- 1751
+* Adhesive domains:
+-Collagen_bind (PF05737): pos. 359 - 481
+-Collagen_bind (PF05737): pos. 488 - 605
+-Collagen_bind (PF05737): pos. 613 - 741
+-Collagen_bind (PF05737): pos. 748 - 864
+-Collagen_bind (PF05737): pos. 878 - 1006
+* Stalk domains:
+-SpaA (PF17802): pos. 1036 - 1105
+-SpaA (PF17802): pos. 1130 - 1201
+-SpaA (PF17802): pos. 1227 - 1298
+-SpaA (PF17802): pos. 1342 - 1413
+-SpaA (PF17802): pos. 1439 - 1510
+-SpaA (PF17802): pos. 1534 - 1601
+-SpaA (PF17802): pos. 1624 - 1691
+

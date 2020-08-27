@@ -1,0 +1,19 @@
+* Organism:
+- Listeria kieliensis
+* Protein length:
+- 1594
+* Adhesive domains:
+-TED (PF08341): pos. 80 - 184
+* Stalk domains:
+-SpaA (PF17802): pos. 312 - 380
+-SpaA (PF17802): pos. 411 - 477
+-SpaA (PF17802): pos. 517 - 585
+-SpaA (PF17802): pos. 611 - 691
+-SpaA (PF17802): pos. 737 - 817
+-SpaA (PF17802): pos. 850 - 931
+-SpaA (PF17802): pos. 1058 - 1124
+-SpaA (PF17802): pos. 1147 - 1215
+-SpaA (PF17802): pos. 1243 - 1311
+-SpaA (PF17802): pos. 1344 - 1410
+-SpaA (PF17802): pos. 1443 - 1509
+

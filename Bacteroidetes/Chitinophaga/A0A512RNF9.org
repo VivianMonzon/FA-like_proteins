@@ -1,0 +1,14 @@
+* Organism:
+- Chitinophaga cymbidii
+* Protein length:
+- 651
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 21 - 231
+* Stalk domains:
+-PKD (PF00801): pos. 236 - 305
+-PKD (PF00801): pos. 324 - 389
+-PKD (PF00801): pos. 402 - 470
+-PKD_4 (PF18911): pos. 228 - 300
+-PKD_4 (PF18911): pos. 306 - 384
+-PKD_4 (PF18911): pos. 390 - 466
+

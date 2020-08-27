@@ -1,0 +1,14 @@
+* Organism:
+- Lentimicrobium saccharophilum
+* Protein length:
+- 973
+* Adhesive domains:
+-Cleaved_Adhesin (PF07675): pos. 107 - 231
+* Stalk domains:
+-PKD (PF00801): pos. 497 - 551
+-PKD (PF00801): pos. 825 - 879
+-CarboxypepD_reg (PF13620): pos. 240 - 301
+-CarboxypepD_reg (PF13620): pos. 568 - 672
+-PKD_4 (PF18911): pos. 494 - 546
+-PKD_4 (PF18911): pos. 823 - 874
+

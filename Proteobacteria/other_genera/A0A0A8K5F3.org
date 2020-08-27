@@ -1,0 +1,9 @@
+* Organism:
+- Methyloceanibacter caenitepidi
+* Protein length:
+- 456
+* Adhesive domains:
+-YadA_head (PF05658): pos. 256 - 282
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 200 - 245
+

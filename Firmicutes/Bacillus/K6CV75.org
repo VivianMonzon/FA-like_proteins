@@ -1,0 +1,13 @@
+* Organism:
+- Bacillus azotoformans LMG 9581
+* Protein length:
+- 1070
+* Adhesive domains:
+-VWA (PF00092): pos. 456 - 618
+* Stalk domains:
+-TSP3_bac (PF18884): pos. 147 - 166
+-TSP3_bac (PF18884): pos. 169 - 191
+-TSP3_bac (PF18884): pos. 249 - 268
+-TSP3_bac (PF18884): pos. 660 - 674
+-TSP3_bac (PF18884): pos. 695 - 716
+

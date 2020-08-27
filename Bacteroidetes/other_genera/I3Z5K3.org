@@ -1,0 +1,10 @@
+* Organism:
+- Belliella baltica (strain DSM 15883 / CIP 108006 / LMG 21964 / BA134)
+* Protein length:
+- 782
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 35 - 295
+* Stalk domains:
+-PKD (PF00801): pos. 617 - 682
+-PKD_4 (PF18911): pos. 622 - 676
+

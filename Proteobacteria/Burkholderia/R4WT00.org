@@ -1,0 +1,9 @@
+* Organism:
+- Burkholderia insecticola
+* Protein length:
+- 85
+* Adhesive domains:
+-YadA_head (PF05658): pos. 2 - 24
+* Stalk domains:
+-YadA_stalk (PF05662): pos. 63 - 85
+

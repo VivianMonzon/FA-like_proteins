@@ -1,0 +1,9 @@
+* Organism:
+- Chthonomonas calidirosea (strain DSM 23976 / ICMP 18418 / T49)
+* Protein length:
+- 1110
+* Adhesive domains:
+-Bact_lectin (PF18483): pos. 905 - 1107
+* Stalk domains:
+-fn3 (PF00041): pos. 554 - 631
+

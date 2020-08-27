@@ -1,0 +1,11 @@
+* Organism:
+- Pontibacter diazotrophicus
+* Protein length:
+- 565
+* Adhesive domains:
+-Ice_binding (PF11999): pos. 358 - 562
+* Stalk domains:
+-Big_5 (PF13205): pos. 21 - 122
+-Big_5 (PF13205): pos. 126 - 226
+-Big_5 (PF13205): pos. 228 - 330
+
