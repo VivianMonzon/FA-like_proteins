@@ -3,8 +3,8 @@
 * Protein length:
 - 629
 * Adhesive domains:
--Adhesin_P1_N (PF18652): pos. 53 - 146
+- Adhesin_P1_N (PF18652): pos. 53 - 146
 * Stalk domains:
--SHIRT (PF18655): pos. 385 - 471
--SHIRT (PF18655): pos. 473 - 556
+- SHIRT (PF18655): pos. 385 - 471
+- SHIRT (PF18655): pos. 473 - 556
 

@@ -3,11 +3,11 @@
 * Protein length:
 - 936
 * Adhesive domains:
--CshA_NR2 (PF18651): pos. 43 - 410
+- CshA_NR2 (PF18651): pos. 43 - 410
 * Stalk domains:
--SpaA (PF17802): pos. 681 - 758
--SpaA (PF17802): pos. 796 - 880
--SpaA_2 (PF19403): pos. 552 - 664
--SpaA_2 (PF19403): pos. 669 - 771
--SpaA_2 (PF19403): pos. 790 - 882
+- SpaA (PF17802): pos. 681 - 758
+- SpaA (PF17802): pos. 796 - 880
+- SpaA_2 (PF19403): pos. 552 - 664
+- SpaA_2 (PF19403): pos. 669 - 771
+- SpaA_2 (PF19403): pos. 790 - 882
 

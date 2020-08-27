@@ -3,8 +3,8 @@
 * Protein length:
 - 506
 * Adhesive domains:
--LRR_4 (PF12799): pos. 96 - 139
+- LRR_4 (PF12799): pos. 96 - 139
 * Stalk domains:
--Cadherin_5 (PF17892): pos. 312 - 421
--CshA_repeat (PF19076): pos. 297 - 396
+- Cadherin_5 (PF17892): pos. 312 - 421
+- CshA_repeat (PF19076): pos. 297 - 396
 

@@ -3,9 +3,9 @@
 * Protein length:
 - 996
 * Adhesive domains:
--TED (PF08341): pos. 87 - 201
+- TED (PF08341): pos. 87 - 201
 * Stalk domains:
--TQ (PF18202): pos. 265 - 409
--TQ (PF18202): pos. 515 - 638
--TQ (PF18202): pos. 780 - 898
+- TQ (PF18202): pos. 265 - 409
+- TQ (PF18202): pos. 515 - 638
+- TQ (PF18202): pos. 780 - 898
 

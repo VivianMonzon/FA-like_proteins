@@ -3,7 +3,7 @@
 * Protein length:
 - 589
 * Adhesive domains:
--Collagen_bind (PF05737): pos. 182 - 317
+- Collagen_bind (PF05737): pos. 182 - 317
 * Stalk domains:
--DUF5979 (PF19407): pos. 470 - 537
+- DUF5979 (PF19407): pos. 470 - 537
 

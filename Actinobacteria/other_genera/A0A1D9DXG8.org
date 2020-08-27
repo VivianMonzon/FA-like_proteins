@@ -3,9 +3,9 @@
 * Protein length:
 - 1410
 * Adhesive domains:
--Bact_lectin (PF18483): pos. 53 - 266
+- Bact_lectin (PF18483): pos. 53 - 266
 * Stalk domains:
--fn3 (PF00041): pos. 740 - 826
--He_PIG (PF05345): pos. 376 - 461
--He_PIG (PF05345): pos. 933 - 1017
+- fn3 (PF00041): pos. 740 - 826
+- He_PIG (PF05345): pos. 376 - 461
+- He_PIG (PF05345): pos. 933 - 1017
 

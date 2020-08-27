@@ -3,9 +3,9 @@
 * Protein length:
 - 2464
 * Adhesive domains:
--PA14 (PF07691): pos. 555 - 689
--PA14 (PF07691): pos. 685 - 820
--PA14 (PF07691): pos. 816 - 947
+- PA14 (PF07691): pos. 555 - 689
+- PA14 (PF07691): pos. 685 - 820
+- PA14 (PF07691): pos. 816 - 947
 * Stalk domains:
--Big_5 (PF13205): pos. 1324 - 1432
+- Big_5 (PF13205): pos. 1324 - 1432
 

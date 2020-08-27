@@ -3,15 +3,15 @@
 * Protein length:
 - 1632
 * Adhesive domains:
--TED (PF08341): pos. 223 - 371
+- TED (PF08341): pos. 223 - 371
 * Stalk domains:
--FctA (PF12892): pos. 426 - 552
--FctA (PF12892): pos. 559 - 687
--FctA (PF12892): pos. 696 - 820
--FctA (PF12892): pos. 829 - 953
--FctA (PF12892): pos. 962 - 1094
--FctA (PF12892): pos. 1100 - 1220
--FctA (PF12892): pos. 1285 - 1415
--FctA (PF12892): pos. 1420 - 1588
--SpaA (PF17802): pos. 79 - 159
+- FctA (PF12892): pos. 426 - 552
+- FctA (PF12892): pos. 559 - 687
+- FctA (PF12892): pos. 696 - 820
+- FctA (PF12892): pos. 829 - 953
+- FctA (PF12892): pos. 962 - 1094
+- FctA (PF12892): pos. 1100 - 1220
+- FctA (PF12892): pos. 1285 - 1415
+- FctA (PF12892): pos. 1420 - 1588
+- SpaA (PF17802): pos. 79 - 159
 

@@ -3,8 +3,8 @@
 * Protein length:
 - 1454
 * Adhesive domains:
--Bact_lectin (PF18483): pos. 52 - 383
+- Bact_lectin (PF18483): pos. 52 - 383
 * Stalk domains:
--DUF11 (PF01345): pos. 1110 - 1223
--DUF11 (PF01345): pos. 1231 - 1349
+- DUF11 (PF01345): pos. 1110 - 1223
+- DUF11 (PF01345): pos. 1231 - 1349
 

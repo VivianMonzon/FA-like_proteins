@@ -3,10 +3,10 @@
 * Protein length:
 - 803
 * Adhesive domains:
--TED (PF08341): pos. 120 - 215
+- TED (PF08341): pos. 120 - 215
 * Stalk domains:
--DUF5979 (PF19407): pos. 360 - 445
--DUF5979 (PF19407): pos. 459 - 546
--DUF5979 (PF19407): pos. 560 - 647
--DUF5979 (PF19407): pos. 661 - 748
+- DUF5979 (PF19407): pos. 360 - 445
+- DUF5979 (PF19407): pos. 459 - 546
+- DUF5979 (PF19407): pos. 560 - 647
+- DUF5979 (PF19407): pos. 661 - 748
 

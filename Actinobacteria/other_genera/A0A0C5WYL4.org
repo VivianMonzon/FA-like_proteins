@@ -3,31 +3,31 @@
 * Protein length:
 - 2075
 * Adhesive domains:
--CshA_NR2 (PF18651): pos. 46 - 324
+- CshA_NR2 (PF18651): pos. 46 - 324
 * Stalk domains:
--Big_9 (PF17963): pos. 445 - 542
--Big_9 (PF17963): pos. 546 - 641
--Big_9 (PF17963): pos. 643 - 745
--Big_9 (PF17963): pos. 746 - 845
--Big_9 (PF17963): pos. 952 - 1055
--Big_9 (PF17963): pos. 1057 - 1160
--Big_9 (PF17963): pos. 1162 - 1265
--Big_9 (PF17963): pos. 1269 - 1365
--Big_9 (PF17963): pos. 1472 - 1575
--Big_9 (PF17963): pos. 1577 - 1680
--Big_9 (PF17963): pos. 1682 - 1780
--CshA_repeat (PF19076): pos. 440 - 528
--CshA_repeat (PF19076): pos. 533 - 627
--CshA_repeat (PF19076): pos. 632 - 731
--CshA_repeat (PF19076): pos. 736 - 831
--CshA_repeat (PF19076): pos. 836 - 936
--CshA_repeat (PF19076): pos. 941 - 1041
--CshA_repeat (PF19076): pos. 1046 - 1146
--CshA_repeat (PF19076): pos. 1151 - 1251
--CshA_repeat (PF19076): pos. 1256 - 1351
--CshA_repeat (PF19076): pos. 1356 - 1456
--CshA_repeat (PF19076): pos. 1461 - 1561
--CshA_repeat (PF19076): pos. 1566 - 1666
--CshA_repeat (PF19076): pos. 1671 - 1766
--CshA_repeat (PF19076): pos. 1771 - 1871
+- Big_9 (PF17963): pos. 445 - 542
+- Big_9 (PF17963): pos. 546 - 641
+- Big_9 (PF17963): pos. 643 - 745
+- Big_9 (PF17963): pos. 746 - 845
+- Big_9 (PF17963): pos. 952 - 1055
+- Big_9 (PF17963): pos. 1057 - 1160
+- Big_9 (PF17963): pos. 1162 - 1265
+- Big_9 (PF17963): pos. 1269 - 1365
+- Big_9 (PF17963): pos. 1472 - 1575
+- Big_9 (PF17963): pos. 1577 - 1680
+- Big_9 (PF17963): pos. 1682 - 1780
+- CshA_repeat (PF19076): pos. 440 - 528
+- CshA_repeat (PF19076): pos. 533 - 627
+- CshA_repeat (PF19076): pos. 632 - 731
+- CshA_repeat (PF19076): pos. 736 - 831
+- CshA_repeat (PF19076): pos. 836 - 936
+- CshA_repeat (PF19076): pos. 941 - 1041
+- CshA_repeat (PF19076): pos. 1046 - 1146
+- CshA_repeat (PF19076): pos. 1151 - 1251
+- CshA_repeat (PF19076): pos. 1256 - 1351
+- CshA_repeat (PF19076): pos. 1356 - 1456
+- CshA_repeat (PF19076): pos. 1461 - 1561
+- CshA_repeat (PF19076): pos. 1566 - 1666
+- CshA_repeat (PF19076): pos. 1671 - 1766
+- CshA_repeat (PF19076): pos. 1771 - 1871
 
