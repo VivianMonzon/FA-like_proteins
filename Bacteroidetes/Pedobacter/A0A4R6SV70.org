@@ -3,15 +3,15 @@
 * Protein length:
 - 697
 * Adhesive domains:
--Ice_binding (PF11999): pos. 488 - 695
+- Ice_binding (PF11999): pos. 488 - 695
 * Stalk domains:
--Flg_new (PF09479): pos. 182 - 242
--Flg_new (PF09479): pos. 259 - 318
--Flg_new (PF09479): pos. 335 - 396
--Flg_new (PF09479): pos. 402 - 471
--Big_5 (PF13205): pos. 71 - 173
--Flg_new_2 (PF18998): pos. 177 - 247
--Flg_new_2 (PF18998): pos. 253 - 323
--Flg_new_2 (PF18998): pos. 329 - 401
--Flg_new_2 (PF18998): pos. 402 - 471
+- Flg_new (PF09479): pos. 182 - 242
+- Flg_new (PF09479): pos. 259 - 318
+- Flg_new (PF09479): pos. 335 - 396
+- Flg_new (PF09479): pos. 402 - 471
+- Big_5 (PF13205): pos. 71 - 173
+- Flg_new_2 (PF18998): pos. 177 - 247
+- Flg_new_2 (PF18998): pos. 253 - 323
+- Flg_new_2 (PF18998): pos. 329 - 401
+- Flg_new_2 (PF18998): pos. 402 - 471
 

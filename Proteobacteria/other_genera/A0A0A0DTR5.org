@@ -3,8 +3,8 @@
 * Protein length:
 - 1044
 * Adhesive domains:
--VWA (PF00092): pos. 545 - 738
+- VWA (PF00092): pos. 545 - 738
 * Stalk domains:
--Calx-beta (PF03160): pos. 141 - 224
--Calx-beta (PF03160): pos. 452 - 502
+- Calx-beta (PF03160): pos. 141 - 224
+- Calx-beta (PF03160): pos. 452 - 502
 

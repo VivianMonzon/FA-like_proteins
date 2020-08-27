@@ -3,8 +3,8 @@
 * Protein length:
 - 1778
 * Adhesive domains:
--SdrG_C_C (PF10425): pos. 1407 - 1566
+- SdrG_C_C (PF10425): pos. 1407 - 1566
 * Stalk domains:
--SpaA (PF17802): pos. 897 - 964
--SpaA (PF17802): pos. 1025 - 1094
+- SpaA (PF17802): pos. 897 - 964
+- SpaA (PF17802): pos. 1025 - 1094
 

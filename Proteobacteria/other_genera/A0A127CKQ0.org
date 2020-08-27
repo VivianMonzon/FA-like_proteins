@@ -3,16 +3,16 @@
 * Protein length:
 - 1636
 * Adhesive domains:
--VWA (PF00092): pos. 1225 - 1413
+- VWA (PF00092): pos. 1225 - 1413
 * Stalk domains:
--Big_12 (PF19078): pos. 237 - 338
--Big_12 (PF19078): pos. 337 - 428
--Big_12 (PF19078): pos. 429 - 530
--Big_12 (PF19078): pos. 529 - 620
--Big_12 (PF19078): pos. 621 - 722
--Big_12 (PF19078): pos. 721 - 812
--Big_12 (PF19078): pos. 813 - 914
--Big_12 (PF19078): pos. 913 - 1004
--Big_12 (PF19078): pos. 1005 - 1106
--Big_12 (PF19078): pos. 1105 - 1199
+- Big_12 (PF19078): pos. 237 - 338
+- Big_12 (PF19078): pos. 337 - 428
+- Big_12 (PF19078): pos. 429 - 530
+- Big_12 (PF19078): pos. 529 - 620
+- Big_12 (PF19078): pos. 621 - 722
+- Big_12 (PF19078): pos. 721 - 812
+- Big_12 (PF19078): pos. 813 - 914
+- Big_12 (PF19078): pos. 913 - 1004
+- Big_12 (PF19078): pos. 1005 - 1106
+- Big_12 (PF19078): pos. 1105 - 1199
 

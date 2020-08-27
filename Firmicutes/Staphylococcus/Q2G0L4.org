@@ -3,19 +3,19 @@
 * Protein length:
 - 1349
 * Adhesive domains:
--SdrG_C_C (PF10425): pos. 397 - 559
+- SdrG_C_C (PF10425): pos. 397 - 559
 * Stalk domains:
--CarboxypepD_reg (PF13620): pos. 696 - 774
--CarboxypepD_reg (PF13620): pos. 809 - 885
--CarboxypepD_reg (PF13620): pos. 917 - 993
--CarboxypepD_reg (PF13620): pos. 1030 - 1107
--SdrD_B (PF17210): pos. 570 - 677
--SdrD_B (PF17210): pos. 682 - 787
--SdrD_B (PF17210): pos. 793 - 898
--SdrD_B (PF17210): pos. 903 - 1008
--SdrD_B (PF17210): pos. 1014 - 1125
--SpaA (PF17802): pos. 588 - 648
--SpaA (PF17802): pos. 700 - 766
--SpaA (PF17802): pos. 811 - 867
--SpaA (PF17802): pos. 921 - 979
+- CarboxypepD_reg (PF13620): pos. 696 - 774
+- CarboxypepD_reg (PF13620): pos. 809 - 885
+- CarboxypepD_reg (PF13620): pos. 917 - 993
+- CarboxypepD_reg (PF13620): pos. 1030 - 1107
+- SdrD_B (PF17210): pos. 570 - 677
+- SdrD_B (PF17210): pos. 682 - 787
+- SdrD_B (PF17210): pos. 793 - 898
+- SdrD_B (PF17210): pos. 903 - 1008
+- SdrD_B (PF17210): pos. 1014 - 1125
+- SpaA (PF17802): pos. 588 - 648
+- SpaA (PF17802): pos. 700 - 766
+- SpaA (PF17802): pos. 811 - 867
+- SpaA (PF17802): pos. 921 - 979
 

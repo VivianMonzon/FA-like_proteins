@@ -3,20 +3,20 @@
 * Protein length:
 - 5170
 * Adhesive domains:
--SdrG_C_C (PF10425): pos. 4508 - 4661
+- SdrG_C_C (PF10425): pos. 4508 - 4661
 * Stalk domains:
--SpaA (PF17802): pos. 1378 - 1443
--SpaA (PF17802): pos. 1680 - 1751
--SpaA (PF17802): pos. 2192 - 2259
--SpaA (PF17802): pos. 2299 - 2371
--SpaA (PF17802): pos. 2632 - 2704
--SpaA (PF17802): pos. 3575 - 3659
--SpaA (PF17802): pos. 4003 - 4075
--SpaA (PF17802): pos. 4249 - 4326
--SpaA (PF17802): pos. 4734 - 4806
--SpaA (PF17802): pos. 4853 - 4940
--Flg_new_2 (PF18998): pos. 2985 - 3066
--Flg_new_2 (PF18998): pos. 3068 - 3144
--Flg_new_2 (PF18998): pos. 3297 - 3374
--Flg_new_2 (PF18998): pos. 3465 - 3540
+- SpaA (PF17802): pos. 1378 - 1443
+- SpaA (PF17802): pos. 1680 - 1751
+- SpaA (PF17802): pos. 2192 - 2259
+- SpaA (PF17802): pos. 2299 - 2371
+- SpaA (PF17802): pos. 2632 - 2704
+- SpaA (PF17802): pos. 3575 - 3659
+- SpaA (PF17802): pos. 4003 - 4075
+- SpaA (PF17802): pos. 4249 - 4326
+- SpaA (PF17802): pos. 4734 - 4806
+- SpaA (PF17802): pos. 4853 - 4940
+- Flg_new_2 (PF18998): pos. 2985 - 3066
+- Flg_new_2 (PF18998): pos. 3068 - 3144
+- Flg_new_2 (PF18998): pos. 3297 - 3374
+- Flg_new_2 (PF18998): pos. 3465 - 3540
 

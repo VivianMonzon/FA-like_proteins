@@ -3,21 +3,21 @@
 * Protein length:
 - 2219
 * Adhesive domains:
--VWA (PF00092): pos. 1324 - 1526
+- VWA (PF00092): pos. 1324 - 1526
 * Stalk domains:
--Calx-beta (PF03160): pos. 696 - 796
--Calx-beta (PF03160): pos. 809 - 922
--Calx-beta (PF03160): pos. 935 - 1047
--Calx-beta (PF03160): pos. 1060 - 1172
--Cadherin_4 (PF17803): pos. 160 - 233
--Cadherin_4 (PF17803): pos. 259 - 329
--Cadherin_4 (PF17803): pos. 362 - 436
--Cadherin_4 (PF17803): pos. 469 - 543
--Cadherin_4 (PF17803): pos. 576 - 645
--Cadherin_5 (PF17892): pos. 164 - 266
--Big_9 (PF17963): pos. 159 - 254
--Big_9 (PF17963): pos. 258 - 360
--Big_9 (PF17963): pos. 361 - 467
--Big_9 (PF17963): pos. 468 - 574
--Big_9 (PF17963): pos. 575 - 676
+- Calx-beta (PF03160): pos. 696 - 796
+- Calx-beta (PF03160): pos. 809 - 922
+- Calx-beta (PF03160): pos. 935 - 1047
+- Calx-beta (PF03160): pos. 1060 - 1172
+- Cadherin_4 (PF17803): pos. 160 - 233
+- Cadherin_4 (PF17803): pos. 259 - 329
+- Cadherin_4 (PF17803): pos. 362 - 436
+- Cadherin_4 (PF17803): pos. 469 - 543
+- Cadherin_4 (PF17803): pos. 576 - 645
+- Cadherin_5 (PF17892): pos. 164 - 266
+- Big_9 (PF17963): pos. 159 - 254
+- Big_9 (PF17963): pos. 258 - 360
+- Big_9 (PF17963): pos. 361 - 467
+- Big_9 (PF17963): pos. 468 - 574
+- Big_9 (PF17963): pos. 575 - 676
 

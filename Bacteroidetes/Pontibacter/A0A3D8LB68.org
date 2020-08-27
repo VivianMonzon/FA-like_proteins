@@ -3,9 +3,9 @@
 * Protein length:
 - 684
 * Adhesive domains:
--Bact_lectin (PF18483): pos. 33 - 250
+- Bact_lectin (PF18483): pos. 33 - 250
 * Stalk domains:
--Cadherin_4 (PF17803): pos. 242 - 308
--Big_9 (PF17963): pos. 242 - 329
--Ig_7 (PF19081): pos. 431 - 516
+- Cadherin_4 (PF17803): pos. 242 - 308
+- Big_9 (PF17963): pos. 242 - 329
+- Ig_7 (PF19081): pos. 431 - 516
 

@@ -3,16 +3,16 @@
 * Protein length:
 - 1541
 * Adhesive domains:
--PA14 (PF07691): pos. 484 - 628
+- PA14 (PF07691): pos. 484 - 628
 * Stalk domains:
--SHIRT (PF18655): pos. 620 - 703
--SHIRT (PF18655): pos. 705 - 789
--SHIRT (PF18655): pos. 791 - 872
--SHIRT (PF18655): pos. 875 - 957
--SHIRT (PF18655): pos. 959 - 1043
--SHIRT (PF18655): pos. 1045 - 1127
--SHIRT (PF18655): pos. 1129 - 1212
--SHIRT (PF18655): pos. 1214 - 1298
--SHIRT (PF18655): pos. 1300 - 1382
--SHIRT (PF18655): pos. 1384 - 1466
+- SHIRT (PF18655): pos. 620 - 703
+- SHIRT (PF18655): pos. 705 - 789
+- SHIRT (PF18655): pos. 791 - 872
+- SHIRT (PF18655): pos. 875 - 957
+- SHIRT (PF18655): pos. 959 - 1043
+- SHIRT (PF18655): pos. 1045 - 1127
+- SHIRT (PF18655): pos. 1129 - 1212
+- SHIRT (PF18655): pos. 1214 - 1298
+- SHIRT (PF18655): pos. 1300 - 1382
+- SHIRT (PF18655): pos. 1384 - 1466
 

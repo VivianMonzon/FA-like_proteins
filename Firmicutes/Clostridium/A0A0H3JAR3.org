@@ -3,12 +3,12 @@
 * Protein length:
 - 464
 * Adhesive domains:
--LRR_4 (PF12799): pos. 189 - 234
--LRR_4 (PF12799): pos. 211 - 253
--LRR_4 (PF12799): pos. 277 - 319
--LRR_4 (PF12799): pos. 299 - 341
--LRR_4 (PF12799): pos. 343 - 386
--LRR_4 (PF12799): pos. 410 - 454
+- LRR_4 (PF12799): pos. 189 - 234
+- LRR_4 (PF12799): pos. 211 - 253
+- LRR_4 (PF12799): pos. 277 - 319
+- LRR_4 (PF12799): pos. 299 - 341
+- LRR_4 (PF12799): pos. 343 - 386
+- LRR_4 (PF12799): pos. 410 - 454
 * Stalk domains:
--Big_2 (PF02368): pos. 49 - 127
+- Big_2 (PF02368): pos. 49 - 127
 

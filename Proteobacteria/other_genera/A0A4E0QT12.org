@@ -3,12 +3,12 @@
 * Protein length:
 - 1956
 * Adhesive domains:
--LRR_4 (PF12799): pos. 198 - 244
--LRR_4 (PF12799): pos. 246 - 292
--LRR_4 (PF12799): pos. 795 - 842
--LRR_4 (PF12799): pos. 1229 - 1278
+- LRR_4 (PF12799): pos. 198 - 244
+- LRR_4 (PF12799): pos. 246 - 292
+- LRR_4 (PF12799): pos. 795 - 842
+- LRR_4 (PF12799): pos. 1229 - 1278
 * Stalk domains:
--Calx-beta (PF03160): pos. 361 - 455
--Calx-beta (PF03160): pos. 899 - 996
--Calx-beta (PF03160): pos. 1401 - 1498
+- Calx-beta (PF03160): pos. 361 - 455
+- Calx-beta (PF03160): pos. 899 - 996
+- Calx-beta (PF03160): pos. 1401 - 1498
 

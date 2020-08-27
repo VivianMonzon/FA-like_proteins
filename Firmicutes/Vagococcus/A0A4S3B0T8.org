@@ -3,18 +3,18 @@
 * Protein length:
 - 1263
 * Adhesive domains:
--Bact_lectin (PF18483): pos. 45 - 289
+- Bact_lectin (PF18483): pos. 45 - 289
 * Stalk domains:
--SpaA (PF17802): pos. 456 - 522
--SpaA (PF17802): pos. 549 - 613
--SpaA (PF17802): pos. 644 - 714
--SpaA (PF17802): pos. 738 - 808
--SpaA (PF17802): pos. 835 - 905
--SpaA (PF17802): pos. 929 - 1001
--SpaA (PF17802): pos. 1025 - 1096
--SpaA_2 (PF19403): pos. 634 - 723
--SpaA_2 (PF19403): pos. 725 - 815
--SpaA_2 (PF19403): pos. 823 - 915
--SpaA_2 (PF19403): pos. 916 - 1003
--SpaA_2 (PF19403): pos. 1014 - 1103
+- SpaA (PF17802): pos. 456 - 522
+- SpaA (PF17802): pos. 549 - 613
+- SpaA (PF17802): pos. 644 - 714
+- SpaA (PF17802): pos. 738 - 808
+- SpaA (PF17802): pos. 835 - 905
+- SpaA (PF17802): pos. 929 - 1001
+- SpaA (PF17802): pos. 1025 - 1096
+- SpaA_2 (PF19403): pos. 634 - 723
+- SpaA_2 (PF19403): pos. 725 - 815
+- SpaA_2 (PF19403): pos. 823 - 915
+- SpaA_2 (PF19403): pos. 916 - 1003
+- SpaA_2 (PF19403): pos. 1014 - 1103
 

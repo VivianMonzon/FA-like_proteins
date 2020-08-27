@@ -3,7 +3,7 @@
 * Protein length:
 - 729
 * Adhesive domains:
--SdrG_C_C (PF10425): pos. 235 - 397
+- SdrG_C_C (PF10425): pos. 235 - 397
 * Stalk domains:
--SdrD_B (PF17210): pos. 415 - 520
+- SdrD_B (PF17210): pos. 415 - 520
 

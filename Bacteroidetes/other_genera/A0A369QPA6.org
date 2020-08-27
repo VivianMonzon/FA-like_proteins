@@ -3,12 +3,12 @@
 * Protein length:
 - 1004
 * Adhesive domains:
--Ice_binding (PF11999): pos. 36 - 253
+- Ice_binding (PF11999): pos. 36 - 253
 * Stalk domains:
--DUF11 (PF01345): pos. 261 - 388
--DUF11 (PF01345): pos. 396 - 525
--DUF11 (PF01345): pos. 534 - 652
--PKD_6 (PF19408): pos. 653 - 740
--PKD_6 (PF19408): pos. 742 - 826
--PKD_6 (PF19408): pos. 828 - 910
+- DUF11 (PF01345): pos. 261 - 388
+- DUF11 (PF01345): pos. 396 - 525
+- DUF11 (PF01345): pos. 534 - 652
+- PKD_6 (PF19408): pos. 653 - 740
+- PKD_6 (PF19408): pos. 742 - 826
+- PKD_6 (PF19408): pos. 828 - 910
 

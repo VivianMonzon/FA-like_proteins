@@ -3,15 +3,15 @@
 * Protein length:
 - 4201
 * Adhesive domains:
--Bact_lectin (PF18483): pos. 51 - 307
+- Bact_lectin (PF18483): pos. 51 - 307
 * Stalk domains:
--DUF11 (PF01345): pos. 3789 - 3895
--Cadherin_5 (PF17892): pos. 4009 - 4112
--Big_9 (PF17963): pos. 4012 - 4098
--PKD_5 (PF19406): pos. 543 - 628
--PKD_5 (PF19406): pos. 766 - 814
--PKD_5 (PF19406): pos. 3345 - 3431
--PKD_5 (PF19406): pos. 3549 - 3609
--PKD_5 (PF19406): pos. 3568 - 3647
--PKD_5 (PF19406): pos. 3698 - 3797
+- DUF11 (PF01345): pos. 3789 - 3895
+- Cadherin_5 (PF17892): pos. 4009 - 4112
+- Big_9 (PF17963): pos. 4012 - 4098
+- PKD_5 (PF19406): pos. 543 - 628
+- PKD_5 (PF19406): pos. 766 - 814
+- PKD_5 (PF19406): pos. 3345 - 3431
+- PKD_5 (PF19406): pos. 3549 - 3609
+- PKD_5 (PF19406): pos. 3568 - 3647
+- PKD_5 (PF19406): pos. 3698 - 3797
 

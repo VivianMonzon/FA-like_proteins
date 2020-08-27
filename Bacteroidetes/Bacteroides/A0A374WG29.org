@@ -3,8 +3,8 @@
 * Protein length:
 - 1445
 * Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 25 - 192
+- Cleaved_Adhesin (PF07675): pos. 25 - 192
 * Stalk domains:
--CarboxypepD_reg (PF13620): pos. 581 - 658
--CarboxypepD_reg (PF13620): pos. 664 - 743
+- CarboxypepD_reg (PF13620): pos. 581 - 658
+- CarboxypepD_reg (PF13620): pos. 664 - 743
 

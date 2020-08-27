@@ -3,7 +3,7 @@
 * Protein length:
 - 756
 * Adhesive domains:
--Adhesin_P1_N (PF18652): pos. 85 - 193
+- Adhesin_P1_N (PF18652): pos. 85 - 193
 * Stalk domains:
--MucBP (PF06458): pos. 541 - 602
+- MucBP (PF06458): pos. 541 - 602
 

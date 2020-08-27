@@ -3,21 +3,21 @@
 * Protein length:
 - 3629
 * Adhesive domains:
--PA14 (PF07691): pos. 2741 - 2854
+- PA14 (PF07691): pos. 2741 - 2854
 * Stalk domains:
--CarboxypepD_reg (PF13620): pos. 1464 - 1561
--SdrD_B (PF17210): pos. 607 - 708
--SdrD_B (PF17210): pos. 1099 - 1213
--SdrD_B (PF17210): pos. 1215 - 1341
--SdrD_B (PF17210): pos. 1447 - 1563
--SdrD_B (PF17210): pos. 1794 - 1920
--SdrD_B (PF17210): pos. 2047 - 2138
--SdrD_B (PF17210): pos. 2155 - 2261
--SdrD_B (PF17210): pos. 2268 - 2374
--SdrD_B (PF17210): pos. 2381 - 2481
--SdrD_B (PF17210): pos. 2952 - 3041
--SdrD_B (PF17210): pos. 3086 - 3162
--SdrD_B (PF17210): pos. 3192 - 3322
--SdrD_B (PF17210): pos. 3358 - 3448
--SpaA (PF17802): pos. 2292 - 2339
+- CarboxypepD_reg (PF13620): pos. 1464 - 1561
+- SdrD_B (PF17210): pos. 607 - 708
+- SdrD_B (PF17210): pos. 1099 - 1213
+- SdrD_B (PF17210): pos. 1215 - 1341
+- SdrD_B (PF17210): pos. 1447 - 1563
+- SdrD_B (PF17210): pos. 1794 - 1920
+- SdrD_B (PF17210): pos. 2047 - 2138
+- SdrD_B (PF17210): pos. 2155 - 2261
+- SdrD_B (PF17210): pos. 2268 - 2374
+- SdrD_B (PF17210): pos. 2381 - 2481
+- SdrD_B (PF17210): pos. 2952 - 3041
+- SdrD_B (PF17210): pos. 3086 - 3162
+- SdrD_B (PF17210): pos. 3192 - 3322
+- SdrD_B (PF17210): pos. 3358 - 3448
+- SpaA (PF17802): pos. 2292 - 2339
 

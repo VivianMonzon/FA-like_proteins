@@ -3,9 +3,9 @@
 * Protein length:
 - 591
 * Adhesive domains:
--Bact_lectin (PF18483): pos. 48 - 265
+- Bact_lectin (PF18483): pos. 48 - 265
 * Stalk domains:
--MucBP (PF06458): pos. 273 - 336
--MucBP (PF06458): pos. 341 - 423
--MucBP_2 (PF17965): pos. 340 - 411
+- MucBP (PF06458): pos. 273 - 336
+- MucBP (PF06458): pos. 341 - 423
+- MucBP_2 (PF17965): pos. 340 - 411
 

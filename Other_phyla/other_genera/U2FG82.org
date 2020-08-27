@@ -3,18 +3,18 @@
 * Protein length:
 - 1678
 * Adhesive domains:
--LRR_4 (PF12799): pos. 1332 - 1374
--LRR_4 (PF12799): pos. 1376 - 1419
--LRR_4 (PF12799): pos. 1465 - 1510
+- LRR_4 (PF12799): pos. 1332 - 1374
+- LRR_4 (PF12799): pos. 1376 - 1419
+- LRR_4 (PF12799): pos. 1465 - 1510
 * Stalk domains:
--HYR (PF02494): pos. 182 - 262
--HYR (PF02494): pos. 506 - 586
--DUF5011 (PF16403): pos. 187 - 262
--DUF5011 (PF16403): pos. 268 - 343
--DUF5011 (PF16403): pos. 431 - 505
--DUF5011 (PF16403): pos. 513 - 586
--DUF5011 (PF16403): pos. 754 - 829
--DUF5011 (PF16403): pos. 835 - 909
--DUF5011 (PF16403): pos. 1161 - 1232
--InlK_D3 (PF18981): pos. 511 - 586
+- HYR (PF02494): pos. 182 - 262
+- HYR (PF02494): pos. 506 - 586
+- DUF5011 (PF16403): pos. 187 - 262
+- DUF5011 (PF16403): pos. 268 - 343
+- DUF5011 (PF16403): pos. 431 - 505
+- DUF5011 (PF16403): pos. 513 - 586
+- DUF5011 (PF16403): pos. 754 - 829
+- DUF5011 (PF16403): pos. 835 - 909
+- DUF5011 (PF16403): pos. 1161 - 1232
+- InlK_D3 (PF18981): pos. 511 - 586
 

@@ -3,14 +3,14 @@
 * Protein length:
 - 2078
 * Adhesive domains:
--PA14 (PF07691): pos. 1367 - 1510
--PA14 (PF07691): pos. 1621 - 1766
--PA14 (PF07691): pos. 1879 - 2023
+- PA14 (PF07691): pos. 1367 - 1510
+- PA14 (PF07691): pos. 1621 - 1766
+- PA14 (PF07691): pos. 1879 - 2023
 * Stalk domains:
--Cadherin (PF00028): pos. 1784 - 1873
--He_PIG (PF05345): pos. 1271 - 1359
--Cadherin_5 (PF17892): pos. 772 - 866
--Big_9 (PF17963): pos. 769 - 854
--Big_9 (PF17963): pos. 1258 - 1347
--Flg_new_2 (PF18998): pos. 1106 - 1174
+- Cadherin (PF00028): pos. 1784 - 1873
+- He_PIG (PF05345): pos. 1271 - 1359
+- Cadherin_5 (PF17892): pos. 772 - 866
+- Big_9 (PF17963): pos. 769 - 854
+- Big_9 (PF17963): pos. 1258 - 1347
+- Flg_new_2 (PF18998): pos. 1106 - 1174
 

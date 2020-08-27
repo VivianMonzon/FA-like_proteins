@@ -3,14 +3,14 @@
 * Protein length:
 - 1632
 * Adhesive domains:
--TED (PF08341): pos. 97 - 215
+- TED (PF08341): pos. 97 - 215
 * Stalk domains:
--SpaA (PF17802): pos. 332 - 407
--SpaA (PF17802): pos. 435 - 499
--SpaA (PF17802): pos. 550 - 611
--SpaA (PF17802): pos. 650 - 730
--SpaA (PF17802): pos. 769 - 849
--SpaA (PF17802): pos. 1006 - 1079
--SpaA (PF17802): pos. 1119 - 1192
--SpaA (PF17802): pos. 1226 - 1290
+- SpaA (PF17802): pos. 332 - 407
+- SpaA (PF17802): pos. 435 - 499
+- SpaA (PF17802): pos. 550 - 611
+- SpaA (PF17802): pos. 650 - 730
+- SpaA (PF17802): pos. 769 - 849
+- SpaA (PF17802): pos. 1006 - 1079
+- SpaA (PF17802): pos. 1119 - 1192
+- SpaA (PF17802): pos. 1226 - 1290
 

@@ -3,13 +3,13 @@
 * Protein length:
 - 963
 * Adhesive domains:
--VWA (PF00092): pos. 69 - 247
+- VWA (PF00092): pos. 69 - 247
 * Stalk domains:
--TIG (PF01833): pos. 355 - 436
--TIG (PF01833): pos. 438 - 520
--TIG (PF01833): pos. 528 - 610
--TIG (PF01833): pos. 617 - 699
--TIG (PF01833): pos. 706 - 789
--TIG (PF01833): pos. 794 - 874
--TIG (PF01833): pos. 883 - 962
+- TIG (PF01833): pos. 355 - 436
+- TIG (PF01833): pos. 438 - 520
+- TIG (PF01833): pos. 528 - 610
+- TIG (PF01833): pos. 617 - 699
+- TIG (PF01833): pos. 706 - 789
+- TIG (PF01833): pos. 794 - 874
+- TIG (PF01833): pos. 883 - 962
 

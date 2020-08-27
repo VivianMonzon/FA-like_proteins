@@ -3,21 +3,21 @@
 * Protein length:
 - 1329
 * Adhesive domains:
--VWA (PF00092): pos. 818 - 978
+- VWA (PF00092): pos. 818 - 978
 * Stalk domains:
--Cadherin_4 (PF17803): pos. 166 - 248
--Cadherin_4 (PF17803): pos. 271 - 339
--Cadherin_4 (PF17803): pos. 368 - 436
--Cadherin_4 (PF17803): pos. 465 - 533
--Cadherin_4 (PF17803): pos. 562 - 644
--Cadherin_5 (PF17892): pos. 174 - 279
--Big_9 (PF17963): pos. 164 - 270
--Big_9 (PF17963): pos. 270 - 367
--Big_9 (PF17963): pos. 367 - 464
--Big_9 (PF17963): pos. 464 - 561
--Big_9 (PF17963): pos. 561 - 666
--Big_9 (PF17963): pos. 666 - 768
--Big_11 (PF18200): pos. 202 - 280
--Big_11 (PF18200): pos. 598 - 676
--Big_11 (PF18200): pos. 703 - 781
+- Cadherin_4 (PF17803): pos. 166 - 248
+- Cadherin_4 (PF17803): pos. 271 - 339
+- Cadherin_4 (PF17803): pos. 368 - 436
+- Cadherin_4 (PF17803): pos. 465 - 533
+- Cadherin_4 (PF17803): pos. 562 - 644
+- Cadherin_5 (PF17892): pos. 174 - 279
+- Big_9 (PF17963): pos. 164 - 270
+- Big_9 (PF17963): pos. 270 - 367
+- Big_9 (PF17963): pos. 367 - 464
+- Big_9 (PF17963): pos. 464 - 561
+- Big_9 (PF17963): pos. 561 - 666
+- Big_9 (PF17963): pos. 666 - 768
+- Big_11 (PF18200): pos. 202 - 280
+- Big_11 (PF18200): pos. 598 - 676
+- Big_11 (PF18200): pos. 703 - 781
 

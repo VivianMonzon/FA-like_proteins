@@ -3,7 +3,7 @@
 * Protein length:
 - 498
 * Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 19 - 177
+- Cleaved_Adhesin (PF07675): pos. 19 - 177
 * Stalk domains:
--fn3 (PF00041): pos. 184 - 259
+- fn3 (PF00041): pos. 184 - 259
 

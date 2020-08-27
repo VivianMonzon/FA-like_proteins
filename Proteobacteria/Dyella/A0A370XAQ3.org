@@ -3,36 +3,36 @@
 * Protein length:
 - 2598
 * Adhesive domains:
--YadA_head (PF05658): pos. 121 - 147
--YadA_head (PF05658): pos. 149 - 175
--YadA_head (PF05658): pos. 324 - 350
--YadA_head (PF05658): pos. 338 - 364
--YadA_head (PF05658): pos. 602 - 628
--YadA_head (PF05658): pos. 630 - 656
--YadA_head (PF05658): pos. 658 - 684
--YadA_head (PF05658): pos. 819 - 845
--YadA_head (PF05658): pos. 833 - 859
--YadA_head (PF05658): pos. 847 - 873
--YadA_head (PF05658): pos. 1125 - 1151
--YadA_head (PF05658): pos. 1139 - 1165
--YadA_head (PF05658): pos. 1153 - 1179
--YadA_head (PF05658): pos. 1270 - 1296
--YadA_head (PF05658): pos. 1416 - 1442
--YadA_head (PF05658): pos. 1880 - 1906
--YadA_head (PF05658): pos. 2009 - 2035
--YadA_head (PF05658): pos. 2142 - 2168
+- YadA_head (PF05658): pos. 121 - 147
+- YadA_head (PF05658): pos. 149 - 175
+- YadA_head (PF05658): pos. 324 - 350
+- YadA_head (PF05658): pos. 338 - 364
+- YadA_head (PF05658): pos. 602 - 628
+- YadA_head (PF05658): pos. 630 - 656
+- YadA_head (PF05658): pos. 658 - 684
+- YadA_head (PF05658): pos. 819 - 845
+- YadA_head (PF05658): pos. 833 - 859
+- YadA_head (PF05658): pos. 847 - 873
+- YadA_head (PF05658): pos. 1125 - 1151
+- YadA_head (PF05658): pos. 1139 - 1165
+- YadA_head (PF05658): pos. 1153 - 1179
+- YadA_head (PF05658): pos. 1270 - 1296
+- YadA_head (PF05658): pos. 1416 - 1442
+- YadA_head (PF05658): pos. 1880 - 1906
+- YadA_head (PF05658): pos. 2009 - 2035
+- YadA_head (PF05658): pos. 2142 - 2168
 * Stalk domains:
--YadA_stalk (PF05662): pos. 193 - 235
--YadA_stalk (PF05662): pos. 382 - 424
--YadA_stalk (PF05662): pos. 499 - 541
--YadA_stalk (PF05662): pos. 702 - 744
--YadA_stalk (PF05662): pos. 891 - 933
--YadA_stalk (PF05662): pos. 1008 - 1050
--YadA_stalk (PF05662): pos. 1197 - 1239
--YadA_stalk (PF05662): pos. 1490 - 1532
--YadA_stalk (PF05662): pos. 1807 - 1849
--YadA_stalk (PF05662): pos. 2067 - 2108
--YadA_stalk (PF05662): pos. 2200 - 2241
--YadA_stalk (PF05662): pos. 2255 - 2292
--YadA_stalk (PF05662): pos. 2442 - 2484
+- YadA_stalk (PF05662): pos. 193 - 235
+- YadA_stalk (PF05662): pos. 382 - 424
+- YadA_stalk (PF05662): pos. 499 - 541
+- YadA_stalk (PF05662): pos. 702 - 744
+- YadA_stalk (PF05662): pos. 891 - 933
+- YadA_stalk (PF05662): pos. 1008 - 1050
+- YadA_stalk (PF05662): pos. 1197 - 1239
+- YadA_stalk (PF05662): pos. 1490 - 1532
+- YadA_stalk (PF05662): pos. 1807 - 1849
+- YadA_stalk (PF05662): pos. 2067 - 2108
+- YadA_stalk (PF05662): pos. 2200 - 2241
+- YadA_stalk (PF05662): pos. 2255 - 2292
+- YadA_stalk (PF05662): pos. 2442 - 2484
 

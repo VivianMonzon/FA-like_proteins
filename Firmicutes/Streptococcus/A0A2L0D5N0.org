@@ -3,8 +3,8 @@
 * Protein length:
 - 886
 * Adhesive domains:
--Adhesin_P1_N (PF18652): pos. 55 - 163
+- Adhesin_P1_N (PF18652): pos. 55 - 163
 * Stalk domains:
--Antigen_C (PF16364): pos. 671 - 826
--AgI_II_C2 (PF17998): pos. 495 - 663
+- Antigen_C (PF16364): pos. 671 - 826
+- AgI_II_C2 (PF17998): pos. 495 - 663
 

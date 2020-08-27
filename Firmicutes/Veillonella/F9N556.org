@@ -3,7 +3,7 @@
 * Protein length:
 - 232
 * Adhesive domains:
--HiaBD2 (PF15403): pos. 23 - 67
+- HiaBD2 (PF15403): pos. 23 - 67
 * Stalk domains:
--Trp_ring (PF18669): pos. 79 - 133
+- Trp_ring (PF18669): pos. 79 - 133
 

@@ -3,11 +3,11 @@
 * Protein length:
 - 1661
 * Adhesive domains:
--TED (PF08341): pos. 55 - 161
--TED (PF08341): pos. 375 - 481
+- TED (PF08341): pos. 55 - 161
+- TED (PF08341): pos. 375 - 481
 * Stalk domains:
--CarboxypepD_reg (PF13620): pos. 663 - 763
--SdrD_B (PF17210): pos. 210 - 324
--SdrD_B (PF17210): pos. 530 - 644
--SdrD_B (PF17210): pos. 648 - 766
+- CarboxypepD_reg (PF13620): pos. 663 - 763
+- SdrD_B (PF17210): pos. 210 - 324
+- SdrD_B (PF17210): pos. 530 - 644
+- SdrD_B (PF17210): pos. 648 - 766
 

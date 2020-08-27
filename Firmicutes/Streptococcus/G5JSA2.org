@@ -3,26 +3,26 @@
 * Protein length:
 - 1871
 * Adhesive domains:
--YadA_head (PF05658): pos. 561 - 587
--YadA_head (PF05658): pos. 575 - 601
+- YadA_head (PF05658): pos. 561 - 587
+- YadA_head (PF05658): pos. 575 - 601
 * Stalk domains:
--CFSR (PF19079): pos. 947 - 987
--CFSR (PF19079): pos. 984 - 1028
--CFSR (PF19079): pos. 1024 - 1064
--CFSR (PF19079): pos. 1061 - 1109
--CFSR (PF19079): pos. 1110 - 1151
--CFSR (PF19079): pos. 1150 - 1198
--CFSR (PF19079): pos. 1196 - 1236
--CFSR (PF19079): pos. 1233 - 1281
--CFSR (PF19079): pos. 1282 - 1325
--CFSR (PF19079): pos. 1322 - 1368
--CFSR (PF19079): pos. 1365 - 1405
--CFSR (PF19079): pos. 1402 - 1450
--CFSR (PF19079): pos. 1448 - 1496
--CFSR (PF19079): pos. 1497 - 1537
--CFSR (PF19079): pos. 1534 - 1574
--CFSR (PF19079): pos. 1571 - 1614
--CFSR (PF19079): pos. 1611 - 1658
--CFSR (PF19079): pos. 1654 - 1702
--CFSR (PF19079): pos. 1700 - 1749
+- CFSR (PF19079): pos. 947 - 987
+- CFSR (PF19079): pos. 984 - 1028
+- CFSR (PF19079): pos. 1024 - 1064
+- CFSR (PF19079): pos. 1061 - 1109
+- CFSR (PF19079): pos. 1110 - 1151
+- CFSR (PF19079): pos. 1150 - 1198
+- CFSR (PF19079): pos. 1196 - 1236
+- CFSR (PF19079): pos. 1233 - 1281
+- CFSR (PF19079): pos. 1282 - 1325
+- CFSR (PF19079): pos. 1322 - 1368
+- CFSR (PF19079): pos. 1365 - 1405
+- CFSR (PF19079): pos. 1402 - 1450
+- CFSR (PF19079): pos. 1448 - 1496
+- CFSR (PF19079): pos. 1497 - 1537
+- CFSR (PF19079): pos. 1534 - 1574
+- CFSR (PF19079): pos. 1571 - 1614
+- CFSR (PF19079): pos. 1611 - 1658
+- CFSR (PF19079): pos. 1654 - 1702
+- CFSR (PF19079): pos. 1700 - 1749
 

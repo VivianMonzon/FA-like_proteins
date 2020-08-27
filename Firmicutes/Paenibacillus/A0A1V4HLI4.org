@@ -3,7 +3,7 @@
 * Protein length:
 - 1413
 * Adhesive domains:
--PA14 (PF07691): pos. 41 - 183
+- PA14 (PF07691): pos. 41 - 183
 * Stalk domains:
--FIVAR (PF07554): pos. 1276 - 1347
+- FIVAR (PF07554): pos. 1276 - 1347
 

@@ -3,7 +3,7 @@
 * Protein length:
 - 1064
 * Adhesive domains:
--LRR_4 (PF12799): pos. 114 - 158
+- LRR_4 (PF12799): pos. 114 - 158
 * Stalk domains:
--fn3 (PF00041): pos. 369 - 449
+- fn3 (PF00041): pos. 369 - 449
 

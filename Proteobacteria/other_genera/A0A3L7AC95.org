@@ -3,9 +3,9 @@
 * Protein length:
 - 1637
 * Adhesive domains:
--VWA (PF00092): pos. 890 - 1050
+- VWA (PF00092): pos. 890 - 1050
 * Stalk domains:
--DUF11 (PF01345): pos. 591 - 725
--DUF11 (PF01345): pos. 733 - 868
--DUF11 (PF01345): pos. 1069 - 1200
+- DUF11 (PF01345): pos. 591 - 725
+- DUF11 (PF01345): pos. 733 - 868
+- DUF11 (PF01345): pos. 1069 - 1200
 

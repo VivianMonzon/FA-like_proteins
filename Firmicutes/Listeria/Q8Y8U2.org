@@ -3,8 +3,8 @@
 * Protein length:
 - 646
 * Adhesive domains:
--LRR_4 (PF12799): pos. 191 - 234
+- LRR_4 (PF12799): pos. 191 - 234
 * Stalk domains:
--InlK_D3 (PF18981): pos. 397 - 470
--InlK_D3 (PF18981): pos. 478 - 551
+- InlK_D3 (PF18981): pos. 397 - 470
+- InlK_D3 (PF18981): pos. 478 - 551
 

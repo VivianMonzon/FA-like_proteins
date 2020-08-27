@@ -3,13 +3,13 @@
 * Protein length:
 - 1280
 * Adhesive domains:
--DUF4465 (PF14717): pos. 180 - 353
+- DUF4465 (PF14717): pos. 180 - 353
 * Stalk domains:
--Big_3_5 (PF16640): pos. 52 - 148
--Big_3_5 (PF16640): pos. 366 - 454
--Big_3_5 (PF16640): pos. 461 - 549
--Big_3_5 (PF16640): pos. 557 - 645
--Big_3_5 (PF16640): pos. 652 - 740
--Big_3_5 (PF16640): pos. 748 - 836
--Big_3_5 (PF16640): pos. 844 - 932
+- Big_3_5 (PF16640): pos. 52 - 148
+- Big_3_5 (PF16640): pos. 366 - 454
+- Big_3_5 (PF16640): pos. 461 - 549
+- Big_3_5 (PF16640): pos. 557 - 645
+- Big_3_5 (PF16640): pos. 652 - 740
+- Big_3_5 (PF16640): pos. 748 - 836
+- Big_3_5 (PF16640): pos. 844 - 932
 

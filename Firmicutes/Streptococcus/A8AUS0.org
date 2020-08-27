@@ -3,14 +3,14 @@
 * Protein length:
 - 1575
 * Adhesive domains:
--GbpC (PF08363): pos. 491 - 813
--Adhesin_P1_N (PF18652): pos. 79 - 184
+- GbpC (PF08363): pos. 491 - 813
+- Adhesin_P1_N (PF18652): pos. 79 - 184
 * Stalk domains:
--Strep_SA_rep (PF06696): pos. 200 - 224
--Strep_SA_rep (PF06696): pos. 226 - 249
--Strep_SA_rep (PF06696): pos. 307 - 331
--Strep_SA_rep (PF06696): pos. 389 - 413
--Strep_SA_rep (PF06696): pos. 446 - 470
--Antigen_C (PF16364): pos. 1328 - 1486
--AgI_II_C2 (PF17998): pos. 1152 - 1320
+- Strep_SA_rep (PF06696): pos. 200 - 224
+- Strep_SA_rep (PF06696): pos. 226 - 249
+- Strep_SA_rep (PF06696): pos. 307 - 331
+- Strep_SA_rep (PF06696): pos. 389 - 413
+- Strep_SA_rep (PF06696): pos. 446 - 470
+- Antigen_C (PF16364): pos. 1328 - 1486
+- AgI_II_C2 (PF17998): pos. 1152 - 1320
 

@@ -3,43 +3,43 @@
 * Protein length:
 - 2866
 * Adhesive domains:
--VWA (PF00092): pos. 2305 - 2493
+- VWA (PF00092): pos. 2305 - 2493
 * Stalk domains:
--Cadherin_4 (PF17803): pos. 164 - 237
--Cadherin_4 (PF17803): pos. 263 - 341
--Cadherin_4 (PF17803): pos. 366 - 468
--Cadherin_4 (PF17803): pos. 481 - 567
--Cadherin_4 (PF17803): pos. 977 - 1052
--Cadherin_4 (PF17803): pos. 1085 - 1161
--Cadherin_4 (PF17803): pos. 1191 - 1270
--Cadherin_4 (PF17803): pos. 1300 - 1379
--Cadherin_4 (PF17803): pos. 1413 - 1489
--Cadherin_4 (PF17803): pos. 1519 - 1598
--Cadherin_4 (PF17803): pos. 1634 - 1705
--Cadherin_4 (PF17803): pos. 1741 - 1820
--Cadherin_4 (PF17803): pos. 1850 - 1928
--Cadherin_4 (PF17803): pos. 1953 - 2030
--Cadherin_5 (PF17892): pos. 166 - 270
--Cadherin_5 (PF17892): pos. 272 - 373
--Cadherin_5 (PF17892): pos. 375 - 488
--Cadherin_5 (PF17892): pos. 979 - 1092
--Cadherin_5 (PF17892): pos. 1859 - 1960
--Cadherin_5 (PF17892): pos. 1974 - 2063
--Big_9 (PF17963): pos. 162 - 259
--Big_9 (PF17963): pos. 262 - 362
--Big_9 (PF17963): pos. 365 - 477
--Big_9 (PF17963): pos. 480 - 586
--Big_9 (PF17963): pos. 971 - 1080
--Big_9 (PF17963): pos. 1084 - 1191
--Big_9 (PF17963): pos. 1190 - 1298
--Big_9 (PF17963): pos. 1299 - 1408
--Big_9 (PF17963): pos. 1412 - 1518
--Big_9 (PF17963): pos. 1518 - 1629
--Big_9 (PF17963): pos. 1633 - 1736
--Big_9 (PF17963): pos. 1740 - 1849
--Big_9 (PF17963): pos. 1849 - 1949
--Big_9 (PF17963): pos. 1952 - 2051
--Big_9 (PF17963): pos. 2055 - 2138
--Big_9 (PF17963): pos. 2142 - 2250
--Big_11 (PF18200): pos. 193 - 272
+- Cadherin_4 (PF17803): pos. 164 - 237
+- Cadherin_4 (PF17803): pos. 263 - 341
+- Cadherin_4 (PF17803): pos. 366 - 468
+- Cadherin_4 (PF17803): pos. 481 - 567
+- Cadherin_4 (PF17803): pos. 977 - 1052
+- Cadherin_4 (PF17803): pos. 1085 - 1161
+- Cadherin_4 (PF17803): pos. 1191 - 1270
+- Cadherin_4 (PF17803): pos. 1300 - 1379
+- Cadherin_4 (PF17803): pos. 1413 - 1489
+- Cadherin_4 (PF17803): pos. 1519 - 1598
+- Cadherin_4 (PF17803): pos. 1634 - 1705
+- Cadherin_4 (PF17803): pos. 1741 - 1820
+- Cadherin_4 (PF17803): pos. 1850 - 1928
+- Cadherin_4 (PF17803): pos. 1953 - 2030
+- Cadherin_5 (PF17892): pos. 166 - 270
+- Cadherin_5 (PF17892): pos. 272 - 373
+- Cadherin_5 (PF17892): pos. 375 - 488
+- Cadherin_5 (PF17892): pos. 979 - 1092
+- Cadherin_5 (PF17892): pos. 1859 - 1960
+- Cadherin_5 (PF17892): pos. 1974 - 2063
+- Big_9 (PF17963): pos. 162 - 259
+- Big_9 (PF17963): pos. 262 - 362
+- Big_9 (PF17963): pos. 365 - 477
+- Big_9 (PF17963): pos. 480 - 586
+- Big_9 (PF17963): pos. 971 - 1080
+- Big_9 (PF17963): pos. 1084 - 1191
+- Big_9 (PF17963): pos. 1190 - 1298
+- Big_9 (PF17963): pos. 1299 - 1408
+- Big_9 (PF17963): pos. 1412 - 1518
+- Big_9 (PF17963): pos. 1518 - 1629
+- Big_9 (PF17963): pos. 1633 - 1736
+- Big_9 (PF17963): pos. 1740 - 1849
+- Big_9 (PF17963): pos. 1849 - 1949
+- Big_9 (PF17963): pos. 1952 - 2051
+- Big_9 (PF17963): pos. 2055 - 2138
+- Big_9 (PF17963): pos. 2142 - 2250
+- Big_11 (PF18200): pos. 193 - 272
 

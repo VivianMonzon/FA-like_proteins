@@ -3,37 +3,37 @@
 * Protein length:
 - 4465
 * Adhesive domains:
--PA14 (PF07691): pos. 1013 - 1154
+- PA14 (PF07691): pos. 1013 - 1154
 * Stalk domains:
--He_PIG (PF05345): pos. 420 - 515
--He_PIG (PF05345): pos. 789 - 885
--He_PIG (PF05345): pos. 890 - 987
--He_PIG (PF05345): pos. 1276 - 1373
--He_PIG (PF05345): pos. 1378 - 1473
--He_PIG (PF05345): pos. 1478 - 1574
--He_PIG (PF05345): pos. 1579 - 1675
--He_PIG (PF05345): pos. 1680 - 1777
--He_PIG (PF05345): pos. 1782 - 1879
--He_PIG (PF05345): pos. 1884 - 1981
--He_PIG (PF05345): pos. 1986 - 2083
--He_PIG (PF05345): pos. 2088 - 2185
--He_PIG (PF05345): pos. 2190 - 2287
--He_PIG (PF05345): pos. 2292 - 2389
--He_PIG (PF05345): pos. 2394 - 2491
--He_PIG (PF05345): pos. 2496 - 2593
--He_PIG (PF05345): pos. 2598 - 2695
--He_PIG (PF05345): pos. 2700 - 2797
--He_PIG (PF05345): pos. 2802 - 2899
--He_PIG (PF05345): pos. 2904 - 3001
--He_PIG (PF05345): pos. 3006 - 3103
--He_PIG (PF05345): pos. 3108 - 3205
--He_PIG (PF05345): pos. 3210 - 3307
--He_PIG (PF05345): pos. 3312 - 3409
--He_PIG (PF05345): pos. 3414 - 3511
--He_PIG (PF05345): pos. 3516 - 3613
--He_PIG (PF05345): pos. 3618 - 3715
--He_PIG (PF05345): pos. 3720 - 3817
--He_PIG (PF05345): pos. 3822 - 3919
--He_PIG (PF05345): pos. 3924 - 4021
--Big_9 (PF17963): pos. 1566 - 1662
+- He_PIG (PF05345): pos. 420 - 515
+- He_PIG (PF05345): pos. 789 - 885
+- He_PIG (PF05345): pos. 890 - 987
+- He_PIG (PF05345): pos. 1276 - 1373
+- He_PIG (PF05345): pos. 1378 - 1473
+- He_PIG (PF05345): pos. 1478 - 1574
+- He_PIG (PF05345): pos. 1579 - 1675
+- He_PIG (PF05345): pos. 1680 - 1777
+- He_PIG (PF05345): pos. 1782 - 1879
+- He_PIG (PF05345): pos. 1884 - 1981
+- He_PIG (PF05345): pos. 1986 - 2083
+- He_PIG (PF05345): pos. 2088 - 2185
+- He_PIG (PF05345): pos. 2190 - 2287
+- He_PIG (PF05345): pos. 2292 - 2389
+- He_PIG (PF05345): pos. 2394 - 2491
+- He_PIG (PF05345): pos. 2496 - 2593
+- He_PIG (PF05345): pos. 2598 - 2695
+- He_PIG (PF05345): pos. 2700 - 2797
+- He_PIG (PF05345): pos. 2802 - 2899
+- He_PIG (PF05345): pos. 2904 - 3001
+- He_PIG (PF05345): pos. 3006 - 3103
+- He_PIG (PF05345): pos. 3108 - 3205
+- He_PIG (PF05345): pos. 3210 - 3307
+- He_PIG (PF05345): pos. 3312 - 3409
+- He_PIG (PF05345): pos. 3414 - 3511
+- He_PIG (PF05345): pos. 3516 - 3613
+- He_PIG (PF05345): pos. 3618 - 3715
+- He_PIG (PF05345): pos. 3720 - 3817
+- He_PIG (PF05345): pos. 3822 - 3919
+- He_PIG (PF05345): pos. 3924 - 4021
+- Big_9 (PF17963): pos. 1566 - 1662
 

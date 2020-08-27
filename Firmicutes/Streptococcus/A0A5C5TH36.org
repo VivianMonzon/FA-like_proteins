@@ -3,11 +3,11 @@
 * Protein length:
 - 1346
 * Adhesive domains:
--CshA_NR2 (PF18651): pos. 135 - 485
+- CshA_NR2 (PF18651): pos. 135 - 485
 * Stalk domains:
--MucBP_2 (PF17965): pos. 1090 - 1164
--CshA_repeat (PF19076): pos. 613 - 731
--CshA_repeat (PF19076): pos. 765 - 853
--CshA_repeat (PF19076): pos. 862 - 962
--CshA_repeat (PF19076): pos. 967 - 1061
+- MucBP_2 (PF17965): pos. 1090 - 1164
+- CshA_repeat (PF19076): pos. 613 - 731
+- CshA_repeat (PF19076): pos. 765 - 853
+- CshA_repeat (PF19076): pos. 862 - 962
+- CshA_repeat (PF19076): pos. 967 - 1061
 

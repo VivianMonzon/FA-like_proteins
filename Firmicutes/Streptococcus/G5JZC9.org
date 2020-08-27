@@ -3,8 +3,8 @@
 * Protein length:
 - 416
 * Adhesive domains:
--TED (PF08341): pos. 66 - 195
+- TED (PF08341): pos. 66 - 195
 * Stalk domains:
--Collagen (PF01391): pos. 234 - 296
--Collagen (PF01391): pos. 279 - 339
+- Collagen (PF01391): pos. 234 - 296
+- Collagen (PF01391): pos. 279 - 339
 

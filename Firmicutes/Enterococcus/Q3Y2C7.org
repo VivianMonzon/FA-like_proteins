@@ -3,9 +3,9 @@
 * Protein length:
 - 1345
 * Adhesive domains:
--VWA (PF00092): pos. 224 - 374
+- VWA (PF00092): pos. 224 - 374
 * Stalk domains:
--SpaA (PF17802): pos. 699 - 780
--SpaA (PF17802): pos. 1024 - 1121
--SpaA (PF17802): pos. 1169 - 1243
+- SpaA (PF17802): pos. 699 - 780
+- SpaA (PF17802): pos. 1024 - 1121
+- SpaA (PF17802): pos. 1169 - 1243
 

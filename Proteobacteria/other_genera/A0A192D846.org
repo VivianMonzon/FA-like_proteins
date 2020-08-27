@@ -3,7 +3,7 @@
 * Protein length:
 - 624
 * Adhesive domains:
--CshA_NR2 (PF18651): pos. 47 - 240
+- CshA_NR2 (PF18651): pos. 47 - 240
 * Stalk domains:
--DUF11 (PF01345): pos. 492 - 613
+- DUF11 (PF01345): pos. 492 - 613
 

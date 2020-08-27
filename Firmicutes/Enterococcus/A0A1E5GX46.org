@@ -3,16 +3,16 @@
 * Protein length:
 - 1075
 * Adhesive domains:
--PA14 (PF07691): pos. 930 - 1067
+- PA14 (PF07691): pos. 930 - 1067
 * Stalk domains:
--Big_2 (PF02368): pos. 256 - 333
--Big_2 (PF02368): pos. 340 - 416
--Big_2 (PF02368): pos. 426 - 503
--Big_2 (PF02368): pos. 509 - 588
--Big_2 (PF02368): pos. 594 - 673
--Big_2 (PF02368): pos. 679 - 758
--Big_2 (PF02368): pos. 764 - 843
--Big_2 (PF02368): pos. 849 - 927
--SdrD_B (PF17210): pos. 39 - 132
--SdrD_B (PF17210): pos. 147 - 262
+- Big_2 (PF02368): pos. 256 - 333
+- Big_2 (PF02368): pos. 340 - 416
+- Big_2 (PF02368): pos. 426 - 503
+- Big_2 (PF02368): pos. 509 - 588
+- Big_2 (PF02368): pos. 594 - 673
+- Big_2 (PF02368): pos. 679 - 758
+- Big_2 (PF02368): pos. 764 - 843
+- Big_2 (PF02368): pos. 849 - 927
+- SdrD_B (PF17210): pos. 39 - 132
+- SdrD_B (PF17210): pos. 147 - 262
 

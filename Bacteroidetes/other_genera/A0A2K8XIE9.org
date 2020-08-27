@@ -3,9 +3,9 @@
 * Protein length:
 - 741
 * Adhesive domains:
--Ice_binding (PF11999): pos. 40 - 242
--Ice_binding (PF11999): pos. 278 - 468
+- Ice_binding (PF11999): pos. 40 - 242
+- Ice_binding (PF11999): pos. 278 - 468
 * Stalk domains:
--TSP3_bac (PF18884): pos. 495 - 515
--TSP3_bac (PF18884): pos. 578 - 598
+- TSP3_bac (PF18884): pos. 495 - 515
+- TSP3_bac (PF18884): pos. 578 - 598
 

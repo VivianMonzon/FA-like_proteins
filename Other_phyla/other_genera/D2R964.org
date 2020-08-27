@@ -3,8 +3,8 @@
 * Protein length:
 - 1622
 * Adhesive domains:
--Ice_binding (PF11999): pos. 55 - 245
+- Ice_binding (PF11999): pos. 55 - 245
 * Stalk domains:
--SpaA (PF17802): pos. 259 - 333
--SpaA (PF17802): pos. 844 - 920
+- SpaA (PF17802): pos. 259 - 333
+- SpaA (PF17802): pos. 844 - 920
 

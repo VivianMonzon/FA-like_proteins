@@ -3,7 +3,7 @@
 * Protein length:
 - 582
 * Adhesive domains:
--TED (PF08341): pos. 65 - 194
+- TED (PF08341): pos. 65 - 194
 * Stalk domains:
--Cna_B (PF05738): pos. 353 - 453
+- Cna_B (PF05738): pos. 353 - 453
 

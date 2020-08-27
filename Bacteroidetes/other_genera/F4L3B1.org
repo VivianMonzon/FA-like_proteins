@@ -3,7 +3,7 @@
 * Protein length:
 - 630
 * Adhesive domains:
--VWA (PF00092): pos. 261 - 431
+- VWA (PF00092): pos. 261 - 431
 * Stalk domains:
--CarboxypepD_reg (PF13620): pos. 28 - 101
+- CarboxypepD_reg (PF13620): pos. 28 - 101
 

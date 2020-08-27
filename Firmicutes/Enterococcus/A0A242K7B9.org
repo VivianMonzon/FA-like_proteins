@@ -3,34 +3,34 @@
 * Protein length:
 - 2435
 * Adhesive domains:
--Collagen_bind (PF05737): pos. 358 - 488
--Collagen_bind (PF05737): pos. 501 - 620
--Collagen_bind (PF05737): pos. 797 - 930
--Collagen_bind (PF05737): pos. 939 - 1079
+- Collagen_bind (PF05737): pos. 358 - 488
+- Collagen_bind (PF05737): pos. 501 - 620
+- Collagen_bind (PF05737): pos. 797 - 930
+- Collagen_bind (PF05737): pos. 939 - 1079
 * Stalk domains:
--SpaA (PF17802): pos. 1109 - 1177
--SpaA (PF17802): pos. 1204 - 1277
--SpaA (PF17802): pos. 1302 - 1371
--SpaA (PF17802): pos. 1397 - 1466
--SpaA (PF17802): pos. 1492 - 1560
--SpaA (PF17802): pos. 1586 - 1655
--SpaA (PF17802): pos. 1681 - 1748
--SpaA (PF17802): pos. 1775 - 1844
--SpaA (PF17802): pos. 1870 - 1943
--SpaA (PF17802): pos. 1969 - 2040
--SpaA (PF17802): pos. 2070 - 2153
--SpaA (PF17802): pos. 2180 - 2256
--SpaA (PF17802): pos. 2287 - 2354
--SpaA_2 (PF19403): pos. 49 - 119
--SpaA_2 (PF19403): pos. 407 - 473
--SpaA_2 (PF19403): pos. 1194 - 1288
--SpaA_2 (PF19403): pos. 1293 - 1386
--SpaA_2 (PF19403): pos. 1389 - 1481
--SpaA_2 (PF19403): pos. 1484 - 1563
--SpaA_2 (PF19403): pos. 1580 - 1670
--SpaA_2 (PF19403): pos. 1674 - 1762
--SpaA_2 (PF19403): pos. 1768 - 1859
--SpaA_2 (PF19403): pos. 2075 - 2150
--SpaA_2 (PF19403): pos. 2191 - 2267
--SpaA_2 (PF19403): pos. 2279 - 2369
+- SpaA (PF17802): pos. 1109 - 1177
+- SpaA (PF17802): pos. 1204 - 1277
+- SpaA (PF17802): pos. 1302 - 1371
+- SpaA (PF17802): pos. 1397 - 1466
+- SpaA (PF17802): pos. 1492 - 1560
+- SpaA (PF17802): pos. 1586 - 1655
+- SpaA (PF17802): pos. 1681 - 1748
+- SpaA (PF17802): pos. 1775 - 1844
+- SpaA (PF17802): pos. 1870 - 1943
+- SpaA (PF17802): pos. 1969 - 2040
+- SpaA (PF17802): pos. 2070 - 2153
+- SpaA (PF17802): pos. 2180 - 2256
+- SpaA (PF17802): pos. 2287 - 2354
+- SpaA_2 (PF19403): pos. 49 - 119
+- SpaA_2 (PF19403): pos. 407 - 473
+- SpaA_2 (PF19403): pos. 1194 - 1288
+- SpaA_2 (PF19403): pos. 1293 - 1386
+- SpaA_2 (PF19403): pos. 1389 - 1481
+- SpaA_2 (PF19403): pos. 1484 - 1563
+- SpaA_2 (PF19403): pos. 1580 - 1670
+- SpaA_2 (PF19403): pos. 1674 - 1762
+- SpaA_2 (PF19403): pos. 1768 - 1859
+- SpaA_2 (PF19403): pos. 2075 - 2150
+- SpaA_2 (PF19403): pos. 2191 - 2267
+- SpaA_2 (PF19403): pos. 2279 - 2369
 

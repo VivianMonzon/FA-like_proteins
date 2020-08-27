@@ -3,7 +3,7 @@
 * Protein length:
 - 468
 * Adhesive domains:
--GbpC (PF08363): pos. 1 - 117
+- GbpC (PF08363): pos. 1 - 117
 * Stalk domains:
--AgI_II_C2 (PF17998): pos. 377 - 466
+- AgI_II_C2 (PF17998): pos. 377 - 466
 

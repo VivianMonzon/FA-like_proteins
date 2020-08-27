@@ -3,55 +3,55 @@
 * Protein length:
 - 8791
 * Adhesive domains:
--PA14 (PF07691): pos. 1886 - 2018
--PA14 (PF07691): pos. 2106 - 2240
+- PA14 (PF07691): pos. 1886 - 2018
+- PA14 (PF07691): pos. 2106 - 2240
 * Stalk domains:
--He_PIG (PF05345): pos. 399 - 484
--He_PIG (PF05345): pos. 487 - 574
--He_PIG (PF05345): pos. 575 - 661
--He_PIG (PF05345): pos. 1418 - 1504
--He_PIG (PF05345): pos. 1506 - 1593
--He_PIG (PF05345): pos. 1595 - 1681
--He_PIG (PF05345): pos. 1683 - 1771
--He_PIG (PF05345): pos. 1773 - 1857
--He_PIG (PF05345): pos. 1972 - 2078
--He_PIG (PF05345): pos. 2195 - 2299
--He_PIG (PF05345): pos. 2301 - 2385
--He_PIG (PF05345): pos. 3072 - 3160
--He_PIG (PF05345): pos. 3371 - 3456
--He_PIG (PF05345): pos. 3458 - 3545
--He_PIG (PF05345): pos. 3547 - 3634
--He_PIG (PF05345): pos. 3636 - 3722
--He_PIG (PF05345): pos. 3724 - 3809
--He_PIG (PF05345): pos. 3812 - 3897
--He_PIG (PF05345): pos. 3899 - 3984
--He_PIG (PF05345): pos. 3986 - 4071
--He_PIG (PF05345): pos. 5409 - 5495
--He_PIG (PF05345): pos. 5497 - 5582
--He_PIG (PF05345): pos. 5582 - 5670
--He_PIG (PF05345): pos. 5673 - 5759
--He_PIG (PF05345): pos. 5761 - 5846
--He_PIG (PF05345): pos. 5848 - 5935
--He_PIG (PF05345): pos. 5937 - 6022
--He_PIG (PF05345): pos. 6024 - 6109
--SdrD_B (PF17210): pos. 2388 - 2517
--SdrD_B (PF17210): pos. 2795 - 2901
--SdrD_B (PF17210): pos. 2937 - 3068
--SdrD_B (PF17210): pos. 4073 - 4188
--SdrD_B (PF17210): pos. 4426 - 4548
--SdrD_B (PF17210): pos. 4569 - 4685
--SdrD_B (PF17210): pos. 4714 - 4822
--SdrD_B (PF17210): pos. 5117 - 5250
--SdrD_B (PF17210): pos. 5265 - 5404
--SdrD_B (PF17210): pos. 6111 - 6226
--SdrD_B (PF17210): pos. 6258 - 6393
--SdrD_B (PF17210): pos. 6728 - 6854
--SdrD_B (PF17210): pos. 6895 - 7026
--SdrD_B (PF17210): pos. 7050 - 7132
--SdrD_B (PF17210): pos. 7373 - 7494
--SdrD_B (PF17210): pos. 7530 - 7627
--SdrD_B (PF17210): pos. 7684 - 7761
--SdrD_B (PF17210): pos. 8008 - 8089
--SdrD_B (PF17210): pos. 8186 - 8261
--SpaA (PF17802): pos. 7547 - 7596
+- He_PIG (PF05345): pos. 399 - 484
+- He_PIG (PF05345): pos. 487 - 574
+- He_PIG (PF05345): pos. 575 - 661
+- He_PIG (PF05345): pos. 1418 - 1504
+- He_PIG (PF05345): pos. 1506 - 1593
+- He_PIG (PF05345): pos. 1595 - 1681
+- He_PIG (PF05345): pos. 1683 - 1771
+- He_PIG (PF05345): pos. 1773 - 1857
+- He_PIG (PF05345): pos. 1972 - 2078
+- He_PIG (PF05345): pos. 2195 - 2299
+- He_PIG (PF05345): pos. 2301 - 2385
+- He_PIG (PF05345): pos. 3072 - 3160
+- He_PIG (PF05345): pos. 3371 - 3456
+- He_PIG (PF05345): pos. 3458 - 3545
+- He_PIG (PF05345): pos. 3547 - 3634
+- He_PIG (PF05345): pos. 3636 - 3722
+- He_PIG (PF05345): pos. 3724 - 3809
+- He_PIG (PF05345): pos. 3812 - 3897
+- He_PIG (PF05345): pos. 3899 - 3984
+- He_PIG (PF05345): pos. 3986 - 4071
+- He_PIG (PF05345): pos. 5409 - 5495
+- He_PIG (PF05345): pos. 5497 - 5582
+- He_PIG (PF05345): pos. 5582 - 5670
+- He_PIG (PF05345): pos. 5673 - 5759
+- He_PIG (PF05345): pos. 5761 - 5846
+- He_PIG (PF05345): pos. 5848 - 5935
+- He_PIG (PF05345): pos. 5937 - 6022
+- He_PIG (PF05345): pos. 6024 - 6109
+- SdrD_B (PF17210): pos. 2388 - 2517
+- SdrD_B (PF17210): pos. 2795 - 2901
+- SdrD_B (PF17210): pos. 2937 - 3068
+- SdrD_B (PF17210): pos. 4073 - 4188
+- SdrD_B (PF17210): pos. 4426 - 4548
+- SdrD_B (PF17210): pos. 4569 - 4685
+- SdrD_B (PF17210): pos. 4714 - 4822
+- SdrD_B (PF17210): pos. 5117 - 5250
+- SdrD_B (PF17210): pos. 5265 - 5404
+- SdrD_B (PF17210): pos. 6111 - 6226
+- SdrD_B (PF17210): pos. 6258 - 6393
+- SdrD_B (PF17210): pos. 6728 - 6854
+- SdrD_B (PF17210): pos. 6895 - 7026
+- SdrD_B (PF17210): pos. 7050 - 7132
+- SdrD_B (PF17210): pos. 7373 - 7494
+- SdrD_B (PF17210): pos. 7530 - 7627
+- SdrD_B (PF17210): pos. 7684 - 7761
+- SdrD_B (PF17210): pos. 8008 - 8089
+- SdrD_B (PF17210): pos. 8186 - 8261
+- SpaA (PF17802): pos. 7547 - 7596
 

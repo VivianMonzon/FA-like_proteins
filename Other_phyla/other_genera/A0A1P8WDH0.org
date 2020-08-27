@@ -3,7 +3,7 @@
 * Protein length:
 - 1043
 * Adhesive domains:
--Bact_lectin (PF18483): pos. 402 - 608
+- Bact_lectin (PF18483): pos. 402 - 608
 * Stalk domains:
--Calx-beta (PF03160): pos. 277 - 371
+- Calx-beta (PF03160): pos. 277 - 371
 

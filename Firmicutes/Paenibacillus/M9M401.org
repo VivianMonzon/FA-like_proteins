@@ -3,9 +3,9 @@
 * Protein length:
 - 1091
 * Adhesive domains:
--VWA (PF00092): pos. 77 - 202
+- VWA (PF00092): pos. 77 - 202
 * Stalk domains:
--MucBP (PF06458): pos. 441 - 518
--MucBP (PF06458): pos. 531 - 609
--MucBP (PF06458): pos. 776 - 846
+- MucBP (PF06458): pos. 441 - 518
+- MucBP (PF06458): pos. 531 - 609
+- MucBP (PF06458): pos. 776 - 846
 

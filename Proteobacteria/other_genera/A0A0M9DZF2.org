@@ -3,7 +3,7 @@
 * Protein length:
 - 3277
 * Adhesive domains:
--LRR_4 (PF12799): pos. 1398 - 1442
+- LRR_4 (PF12799): pos. 1398 - 1442
 * Stalk domains:
--CarboxypepD_reg (PF13620): pos. 2947 - 3027
+- CarboxypepD_reg (PF13620): pos. 2947 - 3027
 

@@ -3,7 +3,7 @@
 * Protein length:
 - 1430
 * Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 1177 - 1287
+- Cleaved_Adhesin (PF07675): pos. 1177 - 1287
 * Stalk domains:
--CARDB (PF07705): pos. 968 - 1068
+- CARDB (PF07705): pos. 968 - 1068
 

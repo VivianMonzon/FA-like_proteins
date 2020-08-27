@@ -3,8 +3,8 @@
 * Protein length:
 - 486
 * Adhesive domains:
--Ice_binding (PF11999): pos. 271 - 480
+- Ice_binding (PF11999): pos. 271 - 480
 * Stalk domains:
--Big_5 (PF13205): pos. 36 - 141
--Big_5 (PF13205): pos. 146 - 250
+- Big_5 (PF13205): pos. 36 - 141
+- Big_5 (PF13205): pos. 146 - 250
 

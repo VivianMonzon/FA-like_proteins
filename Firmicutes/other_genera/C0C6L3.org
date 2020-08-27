@@ -3,10 +3,10 @@
 * Protein length:
 - 1144
 * Adhesive domains:
--Collagen_bind (PF05737): pos. 351 - 469
--Collagen_bind (PF05737): pos. 625 - 744
--Collagen_bind (PF05737): pos. 755 - 889
+- Collagen_bind (PF05737): pos. 351 - 469
+- Collagen_bind (PF05737): pos. 625 - 744
+- Collagen_bind (PF05737): pos. 755 - 889
 * Stalk domains:
--SpaA (PF17802): pos. 919 - 985
--SpaA (PF17802): pos. 1009 - 1076
+- SpaA (PF17802): pos. 919 - 985
+- SpaA (PF17802): pos. 1009 - 1076
 

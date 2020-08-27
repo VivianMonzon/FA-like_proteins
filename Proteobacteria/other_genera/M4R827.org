@@ -3,20 +3,20 @@
 * Protein length:
 - 2986
 * Adhesive domains:
--YadA_head (PF05658): pos. 180 - 204
--YadA_head (PF05658): pos. 366 - 391
--YadA_head (PF05658): pos. 403 - 429
+- YadA_head (PF05658): pos. 180 - 204
+- YadA_head (PF05658): pos. 366 - 391
+- YadA_head (PF05658): pos. 403 - 429
 * Stalk domains:
--YadA_stalk (PF05662): pos. 733 - 774
--YadA_stalk (PF05662): pos. 949 - 991
--YadA_stalk (PF05662): pos. 1061 - 1101
--YadA_stalk (PF05662): pos. 1286 - 1328
--YadA_stalk (PF05662): pos. 1502 - 1544
--YadA_stalk (PF05662): pos. 1614 - 1654
--YadA_stalk (PF05662): pos. 1842 - 1882
--YadA_stalk (PF05662): pos. 2092 - 2132
--YadA_stalk (PF05662): pos. 2344 - 2384
--YadA_stalk (PF05662): pos. 2458 - 2502
--YadA_stalk (PF05662): pos. 2585 - 2627
--YadA_stalk (PF05662): pos. 2875 - 2917
+- YadA_stalk (PF05662): pos. 733 - 774
+- YadA_stalk (PF05662): pos. 949 - 991
+- YadA_stalk (PF05662): pos. 1061 - 1101
+- YadA_stalk (PF05662): pos. 1286 - 1328
+- YadA_stalk (PF05662): pos. 1502 - 1544
+- YadA_stalk (PF05662): pos. 1614 - 1654
+- YadA_stalk (PF05662): pos. 1842 - 1882
+- YadA_stalk (PF05662): pos. 2092 - 2132
+- YadA_stalk (PF05662): pos. 2344 - 2384
+- YadA_stalk (PF05662): pos. 2458 - 2502
+- YadA_stalk (PF05662): pos. 2585 - 2627
+- YadA_stalk (PF05662): pos. 2875 - 2917
 

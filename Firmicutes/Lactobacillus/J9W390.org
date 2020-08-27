@@ -3,9 +3,9 @@
 * Protein length:
 - 713
 * Adhesive domains:
--LRR_4 (PF12799): pos. 168 - 210
+- LRR_4 (PF12799): pos. 168 - 210
 * Stalk domains:
--MucBP (PF06458): pos. 375 - 441
--DUF5776 (PF19087): pos. 569 - 635
--DUF5776 (PF19087): pos. 639 - 708
+- MucBP (PF06458): pos. 375 - 441
+- DUF5776 (PF19087): pos. 569 - 635
+- DUF5776 (PF19087): pos. 639 - 708
 

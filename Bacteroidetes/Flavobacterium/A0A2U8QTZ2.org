@@ -3,7 +3,7 @@
 * Protein length:
 - 1411
 * Adhesive domains:
--Cleaved_Adhesin (PF07675): pos. 498 - 664
+- Cleaved_Adhesin (PF07675): pos. 498 - 664
 * Stalk domains:
--Calx-beta (PF03160): pos. 366 - 464
+- Calx-beta (PF03160): pos. 366 - 464
 

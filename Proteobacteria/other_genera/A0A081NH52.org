@@ -3,25 +3,25 @@
 * Protein length:
 - 4265
 * Adhesive domains:
--PA14 (PF07691): pos. 3764 - 3866
+- PA14 (PF07691): pos. 3764 - 3866
 * Stalk domains:
--Cadherin (PF00028): pos. 837 - 926
--Cadherin (PF00028): pos. 1250 - 1338
--Cadherin (PF00028): pos. 3087 - 3175
--He_PIG (PF05345): pos. 931 - 1026
--He_PIG (PF05345): pos. 2040 - 2135
--He_PIG (PF05345): pos. 2312 - 2404
--Cadherin_3 (PF16184): pos. 1327 - 1437
--Cadherin_3 (PF16184): pos. 3163 - 3272
--Cadherin_4 (PF17803): pos. 1331 - 1396
--Cadherin_4 (PF17803): pos. 1447 - 1517
--Cadherin_4 (PF17803): pos. 1814 - 1884
--Cadherin_4 (PF17803): pos. 2399 - 2479
--Cadherin_5 (PF17892): pos. 1455 - 1550
--Cadherin_5 (PF17892): pos. 2775 - 2854
--Big_9 (PF17963): pos. 1330 - 1439
--Big_9 (PF17963): pos. 1446 - 1539
--Big_9 (PF17963): pos. 1813 - 1915
--Big_9 (PF17963): pos. 2398 - 2516
--Big_9 (PF17963): pos. 2748 - 2842
+- Cadherin (PF00028): pos. 837 - 926
+- Cadherin (PF00028): pos. 1250 - 1338
+- Cadherin (PF00028): pos. 3087 - 3175
+- He_PIG (PF05345): pos. 931 - 1026
+- He_PIG (PF05345): pos. 2040 - 2135
+- He_PIG (PF05345): pos. 2312 - 2404
+- Cadherin_3 (PF16184): pos. 1327 - 1437
+- Cadherin_3 (PF16184): pos. 3163 - 3272
+- Cadherin_4 (PF17803): pos. 1331 - 1396
+- Cadherin_4 (PF17803): pos. 1447 - 1517
+- Cadherin_4 (PF17803): pos. 1814 - 1884
+- Cadherin_4 (PF17803): pos. 2399 - 2479
+- Cadherin_5 (PF17892): pos. 1455 - 1550
+- Cadherin_5 (PF17892): pos. 2775 - 2854
+- Big_9 (PF17963): pos. 1330 - 1439
+- Big_9 (PF17963): pos. 1446 - 1539
+- Big_9 (PF17963): pos. 1813 - 1915
+- Big_9 (PF17963): pos. 2398 - 2516
+- Big_9 (PF17963): pos. 2748 - 2842
 

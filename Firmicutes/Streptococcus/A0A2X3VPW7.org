@@ -3,7 +3,7 @@
 * Protein length:
 - 222
 * Adhesive domains:
--Adhesin_P1_N (PF18652): pos. 80 - 185
+- Adhesin_P1_N (PF18652): pos. 80 - 185
 * Stalk domains:
--Strep_SA_rep (PF06696): pos. 201 - 222
+- Strep_SA_rep (PF06696): pos. 201 - 222
 

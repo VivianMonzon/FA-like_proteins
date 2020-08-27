@@ -3,9 +3,9 @@
 * Protein length:
 - 408
 * Adhesive domains:
--YadA_head (PF05658): pos. 110 - 134
--YadA_head (PF05658): pos. 122 - 148
--YadA_head (PF05658): pos. 163 - 189
+- YadA_head (PF05658): pos. 110 - 134
+- YadA_head (PF05658): pos. 122 - 148
+- YadA_head (PF05658): pos. 163 - 189
 * Stalk domains:
--YadA_stalk (PF05662): pos. 299 - 342
+- YadA_stalk (PF05662): pos. 299 - 342
 

@@ -3,8 +3,8 @@
 * Protein length:
 - 996
 * Adhesive domains:
--VWA (PF00092): pos. 332 - 522
+- VWA (PF00092): pos. 332 - 522
 * Stalk domains:
--Big_2 (PF02368): pos. 36 - 113
--Big_2 (PF02368): pos. 660 - 723
+- Big_2 (PF02368): pos. 36 - 113
+- Big_2 (PF02368): pos. 660 - 723
 

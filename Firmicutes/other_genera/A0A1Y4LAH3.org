@@ -3,20 +3,20 @@
 * Protein length:
 - 2513
 * Adhesive domains:
--VWA (PF00092): pos. 81 - 158
+- VWA (PF00092): pos. 81 - 158
 * Stalk domains:
--Cna_B (PF05738): pos. 610 - 716
--Cna_B (PF05738): pos. 757 - 853
--Cna_B (PF05738): pos. 864 - 979
--Cna_B (PF05738): pos. 987 - 1090
--Cna_B (PF05738): pos. 1098 - 1195
--Cna_B (PF05738): pos. 1229 - 1313
--Cna_B (PF05738): pos. 1331 - 1435
--Cna_B (PF05738): pos. 1451 - 1552
--Cna_B (PF05738): pos. 1656 - 1760
--Cna_B (PF05738): pos. 1768 - 1866
--Cna_B (PF05738): pos. 1873 - 1971
--Cna_B (PF05738): pos. 2002 - 2086
--Flg_new (PF09479): pos. 1558 - 1638
--Flg_new (PF09479): pos. 2099 - 2163
+- Cna_B (PF05738): pos. 610 - 716
+- Cna_B (PF05738): pos. 757 - 853
+- Cna_B (PF05738): pos. 864 - 979
+- Cna_B (PF05738): pos. 987 - 1090
+- Cna_B (PF05738): pos. 1098 - 1195
+- Cna_B (PF05738): pos. 1229 - 1313
+- Cna_B (PF05738): pos. 1331 - 1435
+- Cna_B (PF05738): pos. 1451 - 1552
+- Cna_B (PF05738): pos. 1656 - 1760
+- Cna_B (PF05738): pos. 1768 - 1866
+- Cna_B (PF05738): pos. 1873 - 1971
+- Cna_B (PF05738): pos. 2002 - 2086
+- Flg_new (PF09479): pos. 1558 - 1638
+- Flg_new (PF09479): pos. 2099 - 2163
 

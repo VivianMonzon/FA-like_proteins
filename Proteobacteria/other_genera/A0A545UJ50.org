@@ -3,14 +3,14 @@
 * Protein length:
 - 2810
 * Adhesive domains:
--PA14 (PF07691): pos. 64 - 187
+- PA14 (PF07691): pos. 64 - 187
 * Stalk domains:
--Calx-beta (PF03160): pos. 2201 - 2292
--Calx-beta (PF03160): pos. 2308 - 2410
--Calx-beta (PF03160): pos. 2423 - 2525
--Calx-beta (PF03160): pos. 2538 - 2640
--Calx-beta (PF03160): pos. 2654 - 2756
--DUF5122 (PF17164): pos. 1751 - 1786
--DUF5122 (PF17164): pos. 1857 - 1888
--DUF5122 (PF17164): pos. 1913 - 1944
+- Calx-beta (PF03160): pos. 2201 - 2292
+- Calx-beta (PF03160): pos. 2308 - 2410
+- Calx-beta (PF03160): pos. 2423 - 2525
+- Calx-beta (PF03160): pos. 2538 - 2640
+- Calx-beta (PF03160): pos. 2654 - 2756
+- DUF5122 (PF17164): pos. 1751 - 1786
+- DUF5122 (PF17164): pos. 1857 - 1888
+- DUF5122 (PF17164): pos. 1913 - 1944
 

@@ -3,24 +3,24 @@
 * Protein length:
 - 5595
 * Adhesive domains:
--VWA (PF00092): pos. 4585 - 4784
--VWA (PF00092): pos. 5066 - 5258
+- VWA (PF00092): pos. 4585 - 4784
+- VWA (PF00092): pos. 5066 - 5258
 * Stalk domains:
--Calx-beta (PF03160): pos. 148 - 239
--Calx-beta (PF03160): pos. 396 - 498
--Calx-beta (PF03160): pos. 656 - 758
--Calx-beta (PF03160): pos. 914 - 1017
--Calx-beta (PF03160): pos. 1173 - 1276
--Calx-beta (PF03160): pos. 1432 - 1535
--Calx-beta (PF03160): pos. 1691 - 1794
--Calx-beta (PF03160): pos. 1950 - 2053
--Calx-beta (PF03160): pos. 2209 - 2312
--Calx-beta (PF03160): pos. 2468 - 2571
--Calx-beta (PF03160): pos. 2727 - 2830
--Calx-beta (PF03160): pos. 2986 - 3089
--Calx-beta (PF03160): pos. 3245 - 3348
--Calx-beta (PF03160): pos. 3504 - 3607
--Calx-beta (PF03160): pos. 3763 - 3866
--Calx-beta (PF03160): pos. 4022 - 4125
--Calx-beta (PF03160): pos. 4151 - 4260
+- Calx-beta (PF03160): pos. 148 - 239
+- Calx-beta (PF03160): pos. 396 - 498
+- Calx-beta (PF03160): pos. 656 - 758
+- Calx-beta (PF03160): pos. 914 - 1017
+- Calx-beta (PF03160): pos. 1173 - 1276
+- Calx-beta (PF03160): pos. 1432 - 1535
+- Calx-beta (PF03160): pos. 1691 - 1794
+- Calx-beta (PF03160): pos. 1950 - 2053
+- Calx-beta (PF03160): pos. 2209 - 2312
+- Calx-beta (PF03160): pos. 2468 - 2571
+- Calx-beta (PF03160): pos. 2727 - 2830
+- Calx-beta (PF03160): pos. 2986 - 3089
+- Calx-beta (PF03160): pos. 3245 - 3348
+- Calx-beta (PF03160): pos. 3504 - 3607
+- Calx-beta (PF03160): pos. 3763 - 3866
+- Calx-beta (PF03160): pos. 4022 - 4125
+- Calx-beta (PF03160): pos. 4151 - 4260
 

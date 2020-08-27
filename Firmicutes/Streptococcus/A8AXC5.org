@@ -3,21 +3,21 @@
 * Protein length:
 - 2292
 * Adhesive domains:
--CshA_NR2 (PF18651): pos. 207 - 516
+- CshA_NR2 (PF18651): pos. 207 - 516
 * Stalk domains:
--CshA_repeat (PF19076): pos. 655 - 747
--CshA_repeat (PF19076): pos. 775 - 877
--CshA_repeat (PF19076): pos. 882 - 978
--CshA_repeat (PF19076): pos. 983 - 1079
--CshA_repeat (PF19076): pos. 1084 - 1180
--CshA_repeat (PF19076): pos. 1185 - 1281
--CshA_repeat (PF19076): pos. 1286 - 1382
--CshA_repeat (PF19076): pos. 1387 - 1483
--CshA_repeat (PF19076): pos. 1488 - 1584
--CshA_repeat (PF19076): pos. 1589 - 1685
--CshA_repeat (PF19076): pos. 1690 - 1786
--CshA_repeat (PF19076): pos. 1791 - 1887
--CshA_repeat (PF19076): pos. 1892 - 1988
--CshA_repeat (PF19076): pos. 1993 - 2083
--CshA_repeat (PF19076): pos. 2088 - 2178
+- CshA_repeat (PF19076): pos. 655 - 747
+- CshA_repeat (PF19076): pos. 775 - 877
+- CshA_repeat (PF19076): pos. 882 - 978
+- CshA_repeat (PF19076): pos. 983 - 1079
+- CshA_repeat (PF19076): pos. 1084 - 1180
+- CshA_repeat (PF19076): pos. 1185 - 1281
+- CshA_repeat (PF19076): pos. 1286 - 1382
+- CshA_repeat (PF19076): pos. 1387 - 1483
+- CshA_repeat (PF19076): pos. 1488 - 1584
+- CshA_repeat (PF19076): pos. 1589 - 1685
+- CshA_repeat (PF19076): pos. 1690 - 1786
+- CshA_repeat (PF19076): pos. 1791 - 1887
+- CshA_repeat (PF19076): pos. 1892 - 1988
+- CshA_repeat (PF19076): pos. 1993 - 2083
+- CshA_repeat (PF19076): pos. 2088 - 2178
 

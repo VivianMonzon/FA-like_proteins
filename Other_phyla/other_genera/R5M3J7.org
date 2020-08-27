@@ -3,13 +3,13 @@
 * Protein length:
 - 1264
 * Adhesive domains:
--VWA (PF00092): pos. 82 - 308
+- VWA (PF00092): pos. 82 - 308
 * Stalk domains:
--Cna_B (PF05738): pos. 560 - 648
--Cna_B (PF05738): pos. 657 - 744
--Cna_B (PF05738): pos. 752 - 840
--Cna_B (PF05738): pos. 848 - 935
--Cna_B (PF05738): pos. 943 - 1031
--Cna_B (PF05738): pos. 1039 - 1131
--Cna_B (PF05738): pos. 1139 - 1220
+- Cna_B (PF05738): pos. 560 - 648
+- Cna_B (PF05738): pos. 657 - 744
+- Cna_B (PF05738): pos. 752 - 840
+- Cna_B (PF05738): pos. 848 - 935
+- Cna_B (PF05738): pos. 943 - 1031
+- Cna_B (PF05738): pos. 1039 - 1131
+- Cna_B (PF05738): pos. 1139 - 1220
 

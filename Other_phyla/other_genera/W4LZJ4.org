@@ -3,12 +3,12 @@
 * Protein length:
 - 1243
 * Adhesive domains:
--VWA (PF00092): pos. 413 - 595
+- VWA (PF00092): pos. 413 - 595
 * Stalk domains:
--CarboxypepD_reg (PF13620): pos. 38 - 122
--TSP3_bac (PF18884): pos. 765 - 786
--TSP3_bac (PF18884): pos. 787 - 809
--TSP3_bac (PF18884): pos. 810 - 831
--TSP3_bac (PF18884): pos. 837 - 854
--TSP3_bac (PF18884): pos. 859 - 881
+- CarboxypepD_reg (PF13620): pos. 38 - 122
+- TSP3_bac (PF18884): pos. 765 - 786
+- TSP3_bac (PF18884): pos. 787 - 809
+- TSP3_bac (PF18884): pos. 810 - 831
+- TSP3_bac (PF18884): pos. 837 - 854
+- TSP3_bac (PF18884): pos. 859 - 881
 

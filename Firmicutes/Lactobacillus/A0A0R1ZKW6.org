@@ -3,22 +3,22 @@
 * Protein length:
 - 2571
 * Adhesive domains:
--Collagen_bind (PF05737): pos. 527 - 668
+- Collagen_bind (PF05737): pos. 527 - 668
 * Stalk domains:
--Cna_B (PF05738): pos. 1133 - 1218
--Cna_B (PF05738): pos. 1224 - 1309
--Cna_B (PF05738): pos. 1317 - 1399
--Cna_B (PF05738): pos. 1407 - 1489
--Cna_B (PF05738): pos. 1497 - 1579
--Cna_B (PF05738): pos. 1587 - 1669
--Cna_B (PF05738): pos. 1677 - 1759
--Cna_B (PF05738): pos. 1767 - 1849
--Cna_B (PF05738): pos. 1857 - 1939
--Cna_B (PF05738): pos. 1947 - 2029
--Cna_B (PF05738): pos. 2037 - 2119
--Cna_B (PF05738): pos. 2127 - 2209
--Cna_B (PF05738): pos. 2217 - 2299
--Cna_B (PF05738): pos. 2307 - 2389
--Cna_B (PF05738): pos. 2397 - 2479
--SpaA (PF17802): pos. 1046 - 1113
+- Cna_B (PF05738): pos. 1133 - 1218
+- Cna_B (PF05738): pos. 1224 - 1309
+- Cna_B (PF05738): pos. 1317 - 1399
+- Cna_B (PF05738): pos. 1407 - 1489
+- Cna_B (PF05738): pos. 1497 - 1579
+- Cna_B (PF05738): pos. 1587 - 1669
+- Cna_B (PF05738): pos. 1677 - 1759
+- Cna_B (PF05738): pos. 1767 - 1849
+- Cna_B (PF05738): pos. 1857 - 1939
+- Cna_B (PF05738): pos. 1947 - 2029
+- Cna_B (PF05738): pos. 2037 - 2119
+- Cna_B (PF05738): pos. 2127 - 2209
+- Cna_B (PF05738): pos. 2217 - 2299
+- Cna_B (PF05738): pos. 2307 - 2389
+- Cna_B (PF05738): pos. 2397 - 2479
+- SpaA (PF17802): pos. 1046 - 1113
 

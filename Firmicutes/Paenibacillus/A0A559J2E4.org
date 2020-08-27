@@ -3,7 +3,7 @@
 * Protein length:
 - 396
 * Adhesive domains:
--BclA_C (PF18573): pos. 264 - 390
+- BclA_C (PF18573): pos. 264 - 390
 * Stalk domains:
--Collagen (PF01391): pos. 202 - 261
+- Collagen (PF01391): pos. 202 - 261
 

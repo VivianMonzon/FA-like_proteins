@@ -3,9 +3,9 @@
 * Protein length:
 - 1313
 * Adhesive domains:
--PA14 (PF07691): pos. 29 - 177
--PA14 (PF07691): pos. 580 - 720
+- PA14 (PF07691): pos. 29 - 177
+- PA14 (PF07691): pos. 580 - 720
 * Stalk domains:
--TSP3_bac (PF18884): pos. 764 - 785
--TSP3_bac (PF18884): pos. 786 - 808
+- TSP3_bac (PF18884): pos. 764 - 785
+- TSP3_bac (PF18884): pos. 786 - 808
 

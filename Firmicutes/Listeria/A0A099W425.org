@@ -3,10 +3,10 @@
 * Protein length:
 - 722
 * Adhesive domains:
--LRR_4 (PF12799): pos. 181 - 221
+- LRR_4 (PF12799): pos. 181 - 221
 * Stalk domains:
--MucBP (PF06458): pos. 351 - 413
--MucBP (PF06458): pos. 422 - 484
--MucBP (PF06458): pos. 494 - 556
--MucBP (PF06458): pos. 565 - 627
+- MucBP (PF06458): pos. 351 - 413
+- MucBP (PF06458): pos. 422 - 484
+- MucBP (PF06458): pos. 494 - 556
+- MucBP (PF06458): pos. 565 - 627
 

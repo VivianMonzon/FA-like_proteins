@@ -3,9 +3,9 @@
 * Protein length:
 - 1377
 * Adhesive domains:
--PA14 (PF07691): pos. 1025 - 1174
+- PA14 (PF07691): pos. 1025 - 1174
 * Stalk domains:
--DUF11 (PF01345): pos. 626 - 750
--DUF11 (PF01345): pos. 762 - 880
--DUF11 (PF01345): pos. 887 - 1012
+- DUF11 (PF01345): pos. 626 - 750
+- DUF11 (PF01345): pos. 762 - 880
+- DUF11 (PF01345): pos. 887 - 1012
 

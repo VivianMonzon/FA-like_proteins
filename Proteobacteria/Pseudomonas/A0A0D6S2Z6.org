@@ -3,36 +3,36 @@
 * Protein length:
 - 4959
 * Adhesive domains:
--VWA (PF00092): pos. 3105 - 3287
--VWA (PF00092): pos. 4053 - 4233
+- VWA (PF00092): pos. 3105 - 3287
+- VWA (PF00092): pos. 4053 - 4233
 * Stalk domains:
--Cadherin_3 (PF16184): pos. 3510 - 3628
--Cadherin_3 (PF16184): pos. 3631 - 3749
--Cadherin_4 (PF17803): pos. 3393 - 3466
--Cadherin_4 (PF17803): pos. 3514 - 3591
--Cadherin_4 (PF17803): pos. 3635 - 3751
--Cadherin_4 (PF17803): pos. 3756 - 3854
--Cadherin_4 (PF17803): pos. 4611 - 4738
--Cadherin_5 (PF17892): pos. 3765 - 3884
--Big_9 (PF17963): pos. 3392 - 3509
--Big_9 (PF17963): pos. 3513 - 3630
--Big_9 (PF17963): pos. 3634 - 3751
--Big_9 (PF17963): pos. 3755 - 3872
--Big_9 (PF17963): pos. 4351 - 4459
--Big_9 (PF17963): pos. 4610 - 4735
--DUF5801 (PF19116): pos. 291 - 465
--DUF5801 (PF19116): pos. 477 - 666
--DUF5801 (PF19116): pos. 678 - 865
--DUF5801 (PF19116): pos. 877 - 1062
--DUF5801 (PF19116): pos. 1374 - 1510
--DUF5801 (PF19116): pos. 1522 - 1668
--DUF5801 (PF19116): pos. 1680 - 1826
--DUF5801 (PF19116): pos. 1838 - 1984
--DUF5801 (PF19116): pos. 1996 - 2142
--DUF5801 (PF19116): pos. 2154 - 2300
--DUF5801 (PF19116): pos. 2312 - 2458
--DUF5801 (PF19116): pos. 2470 - 2616
--DUF5801 (PF19116): pos. 2628 - 2774
--DUF5801 (PF19116): pos. 2786 - 2932
--DUF5801 (PF19116): pos. 2944 - 3072
+- Cadherin_3 (PF16184): pos. 3510 - 3628
+- Cadherin_3 (PF16184): pos. 3631 - 3749
+- Cadherin_4 (PF17803): pos. 3393 - 3466
+- Cadherin_4 (PF17803): pos. 3514 - 3591
+- Cadherin_4 (PF17803): pos. 3635 - 3751
+- Cadherin_4 (PF17803): pos. 3756 - 3854
+- Cadherin_4 (PF17803): pos. 4611 - 4738
+- Cadherin_5 (PF17892): pos. 3765 - 3884
+- Big_9 (PF17963): pos. 3392 - 3509
+- Big_9 (PF17963): pos. 3513 - 3630
+- Big_9 (PF17963): pos. 3634 - 3751
+- Big_9 (PF17963): pos. 3755 - 3872
+- Big_9 (PF17963): pos. 4351 - 4459
+- Big_9 (PF17963): pos. 4610 - 4735
+- DUF5801 (PF19116): pos. 291 - 465
+- DUF5801 (PF19116): pos. 477 - 666
+- DUF5801 (PF19116): pos. 678 - 865
+- DUF5801 (PF19116): pos. 877 - 1062
+- DUF5801 (PF19116): pos. 1374 - 1510
+- DUF5801 (PF19116): pos. 1522 - 1668
+- DUF5801 (PF19116): pos. 1680 - 1826
+- DUF5801 (PF19116): pos. 1838 - 1984
+- DUF5801 (PF19116): pos. 1996 - 2142
+- DUF5801 (PF19116): pos. 2154 - 2300
+- DUF5801 (PF19116): pos. 2312 - 2458
+- DUF5801 (PF19116): pos. 2470 - 2616
+- DUF5801 (PF19116): pos. 2628 - 2774
+- DUF5801 (PF19116): pos. 2786 - 2932
+- DUF5801 (PF19116): pos. 2944 - 3072
 

@@ -3,19 +3,19 @@
 * Protein length:
 - 4267
 * Adhesive domains:
--PA14 (PF07691): pos. 768 - 921
+- PA14 (PF07691): pos. 768 - 921
 * Stalk domains:
--Calx-beta (PF03160): pos. 545 - 637
--Calx-beta (PF03160): pos. 649 - 746
--Calx-beta (PF03160): pos. 926 - 1024
--Calx-beta (PF03160): pos. 1039 - 1139
--Calx-beta (PF03160): pos. 1153 - 1254
--Calx-beta (PF03160): pos. 1268 - 1360
--Calx-beta (PF03160): pos. 1370 - 1463
--Calx-beta (PF03160): pos. 3460 - 3524
--Calx-beta (PF03160): pos. 3542 - 3649
--Calx-beta (PF03160): pos. 3664 - 3764
--Calx-beta (PF03160): pos. 3777 - 3895
--Calx-beta (PF03160): pos. 3909 - 4012
--CARDB (PF07705): pos. 1590 - 1704
+- Calx-beta (PF03160): pos. 545 - 637
+- Calx-beta (PF03160): pos. 649 - 746
+- Calx-beta (PF03160): pos. 926 - 1024
+- Calx-beta (PF03160): pos. 1039 - 1139
+- Calx-beta (PF03160): pos. 1153 - 1254
+- Calx-beta (PF03160): pos. 1268 - 1360
+- Calx-beta (PF03160): pos. 1370 - 1463
+- Calx-beta (PF03160): pos. 3460 - 3524
+- Calx-beta (PF03160): pos. 3542 - 3649
+- Calx-beta (PF03160): pos. 3664 - 3764
+- Calx-beta (PF03160): pos. 3777 - 3895
+- Calx-beta (PF03160): pos. 3909 - 4012
+- CARDB (PF07705): pos. 1590 - 1704
 

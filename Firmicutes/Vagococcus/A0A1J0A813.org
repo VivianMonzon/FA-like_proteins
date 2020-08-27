@@ -3,18 +3,18 @@
 * Protein length:
 - 1515
 * Adhesive domains:
--TED (PF08341): pos. 81 - 215
+- TED (PF08341): pos. 81 - 215
 * Stalk domains:
--Cna_B (PF05738): pos. 342 - 432
--Cna_B (PF05738): pos. 440 - 524
--Cna_B (PF05738): pos. 532 - 628
--Cna_B (PF05738): pos. 636 - 718
--Cna_B (PF05738): pos. 726 - 808
--Cna_B (PF05738): pos. 816 - 901
--Cna_B (PF05738): pos. 908 - 990
--Cna_B (PF05738): pos. 998 - 1087
--Cna_B (PF05738): pos. 1095 - 1177
--Cna_B (PF05738): pos. 1185 - 1274
--Cna_B (PF05738): pos. 1282 - 1364
--Cna_B (PF05738): pos. 1372 - 1461
+- Cna_B (PF05738): pos. 342 - 432
+- Cna_B (PF05738): pos. 440 - 524
+- Cna_B (PF05738): pos. 532 - 628
+- Cna_B (PF05738): pos. 636 - 718
+- Cna_B (PF05738): pos. 726 - 808
+- Cna_B (PF05738): pos. 816 - 901
+- Cna_B (PF05738): pos. 908 - 990
+- Cna_B (PF05738): pos. 998 - 1087
+- Cna_B (PF05738): pos. 1095 - 1177
+- Cna_B (PF05738): pos. 1185 - 1274
+- Cna_B (PF05738): pos. 1282 - 1364
+- Cna_B (PF05738): pos. 1372 - 1461
 

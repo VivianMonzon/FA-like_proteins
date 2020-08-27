@@ -3,11 +3,11 @@
 * Protein length:
 - 842
 * Adhesive domains:
--PA14 (PF07691): pos. 49 - 184
--PA14 (PF07691): pos. 212 - 347
+- PA14 (PF07691): pos. 49 - 184
+- PA14 (PF07691): pos. 212 - 347
 * Stalk domains:
--Big_6 (PF17936): pos. 568 - 646
--Endotoxin_C2 (PF18449): pos. 366 - 427
--Endotoxin_C2 (PF18449): pos. 433 - 496
--Endotoxin_C2 (PF18449): pos. 502 - 565
+- Big_6 (PF17936): pos. 568 - 646
+- Endotoxin_C2 (PF18449): pos. 366 - 427
+- Endotoxin_C2 (PF18449): pos. 433 - 496
+- Endotoxin_C2 (PF18449): pos. 502 - 565
 

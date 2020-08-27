@@ -3,10 +3,10 @@
 * Protein length:
 - 1695
 * Adhesive domains:
--LRR_4 (PF12799): pos. 179 - 220
+- LRR_4 (PF12799): pos. 179 - 220
 * Stalk domains:
--Ig_7 (PF19081): pos. 701 - 782
--Ig_7 (PF19081): pos. 784 - 870
--Ig_7 (PF19081): pos. 872 - 953
--Ig_7 (PF19081): pos. 955 - 1036
+- Ig_7 (PF19081): pos. 701 - 782
+- Ig_7 (PF19081): pos. 784 - 870
+- Ig_7 (PF19081): pos. 872 - 953
+- Ig_7 (PF19081): pos. 955 - 1036
 

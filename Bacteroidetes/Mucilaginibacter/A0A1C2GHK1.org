@@ -3,14 +3,14 @@
 * Protein length:
 - 1382
 * Adhesive domains:
--CshA_NR2 (PF18651): pos. 39 - 321
+- CshA_NR2 (PF18651): pos. 39 - 321
 * Stalk domains:
--Cadherin_4 (PF17803): pos. 1186 - 1254
--Cadherin_5 (PF17892): pos. 1194 - 1286
--Big_9 (PF17963): pos. 591 - 695
--Big_9 (PF17963): pos. 700 - 782
--Big_9 (PF17963): pos. 785 - 868
--Big_9 (PF17963): pos. 870 - 955
--Big_9 (PF17963): pos. 1185 - 1275
--CshA_repeat (PF19076): pos. 581 - 681
+- Cadherin_4 (PF17803): pos. 1186 - 1254
+- Cadherin_5 (PF17892): pos. 1194 - 1286
+- Big_9 (PF17963): pos. 591 - 695
+- Big_9 (PF17963): pos. 700 - 782
+- Big_9 (PF17963): pos. 785 - 868
+- Big_9 (PF17963): pos. 870 - 955
+- Big_9 (PF17963): pos. 1185 - 1275
+- CshA_repeat (PF19076): pos. 581 - 681
 

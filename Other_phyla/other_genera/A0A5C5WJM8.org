@@ -3,9 +3,9 @@
 * Protein length:
 - 1753
 * Adhesive domains:
--PA14 (PF07691): pos. 45 - 179
--PA14 (PF07691): pos. 187 - 338
+- PA14 (PF07691): pos. 45 - 179
+- PA14 (PF07691): pos. 187 - 338
 * Stalk domains:
--Calx-beta (PF03160): pos. 348 - 437
--Big_9 (PF17963): pos. 1173 - 1259
+- Calx-beta (PF03160): pos. 348 - 437
+- Big_9 (PF17963): pos. 1173 - 1259
 
