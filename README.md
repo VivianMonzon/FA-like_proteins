@@ -4,4 +4,5 @@ Fibrillar adhesins are a class of proteins that mediate the bacterial binding ac
 Based on known adhesive and stalk domains, we could identify 3,388 Fibrillar Adhesin-like (FA-like) proteins in the UniProt reference proteomes. The UniProt identifier and information about these proteins are given here, whereby they are split into the phyla and genera with the most detected FA-like proteins for a better overview. 
 
 [1]: DOI: [10.1074/jbc.RA119.011719](https://www.jbc.org/content/295/19/6689)
+
 [2]: DOI: [10.1021/bi981773r](https://pubs.acs.org/doi/10.1021/bi981773r)
