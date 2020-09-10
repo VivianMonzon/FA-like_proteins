@@ -5,4 +5,5 @@
 * Adhesive domains:
 - VWA (PF00092): pos. 267 - 448
 * Stalk domains:
+- Big_9 (PF17963): pos. 715 - 811
 
