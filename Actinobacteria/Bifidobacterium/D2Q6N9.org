@@ -6,5 +6,4 @@
 - TED (PF08341): pos. 152 - 281
 * Stalk domains:
 - SpaA (PF17802): pos. 53 - 121
-- SpaA_2 (PF19403): pos. 45 - 122
 

@@ -7,5 +7,4 @@
 * Stalk domains:
 - Big_3 (PF07523): pos. 472 - 547
 - Big_3 (PF07523): pos. 631 - 713
-- DUF5011 (PF16403): pos. 472 - 547
 

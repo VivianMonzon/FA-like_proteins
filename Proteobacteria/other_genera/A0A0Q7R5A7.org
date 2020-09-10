@@ -6,13 +6,6 @@
 - PA14 (PF07691): pos. 1490 - 1592
 * Stalk domains:
 - He_PIG (PF05345): pos. 2435 - 2528
-- Cadherin_4 (PF17803): pos. 1809 - 1887
-- Cadherin_4 (PF17803): pos. 1913 - 1991
-- Cadherin_4 (PF17803): pos. 2017 - 2110
-- Cadherin_4 (PF17803): pos. 2336 - 2390
-- Cadherin_5 (PF17892): pos. 1818 - 1920
-- Cadherin_5 (PF17892): pos. 1922 - 2024
-- Cadherin_5 (PF17892): pos. 2336 - 2430
 - Big_9 (PF17963): pos. 142 - 251
 - Big_9 (PF17963): pos. 1808 - 1908
 - Big_9 (PF17963): pos. 1912 - 2012

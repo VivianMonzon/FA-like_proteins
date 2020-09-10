@@ -11,6 +11,4 @@
 - CshA_repeat (PF19076): pos. 1006 - 1117
 - CshA_repeat (PF19076): pos. 1130 - 1237
 - PKD_6 (PF19408): pos. 598 - 628
-- PKD_6 (PF19408): pos. 866 - 918
-- PKD_6 (PF19408): pos. 1208 - 1275
 

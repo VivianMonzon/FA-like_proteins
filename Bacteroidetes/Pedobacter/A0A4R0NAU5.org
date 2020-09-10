@@ -5,9 +5,6 @@
 * Adhesive domains:
 - Ice_binding (PF11999): pos. 471 - 700
 * Stalk domains:
-- Flg_new (PF09479): pos. 162 - 224
-- Flg_new (PF09479): pos. 317 - 378
-- Flg_new (PF09479): pos. 384 - 453
 - Big_5 (PF13205): pos. 54 - 155
 - Flg_new_2 (PF18998): pos. 159 - 229
 - Flg_new_2 (PF18998): pos. 235 - 305

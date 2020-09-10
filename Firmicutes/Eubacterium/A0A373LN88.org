@@ -9,6 +9,4 @@
 - MucBP (PF06458): pos. 936 - 994
 - Flg_new (PF09479): pos. 714 - 784
 - Flg_new (PF09479): pos. 856 - 927
-- Flg_new_2 (PF18998): pos. 713 - 787
-- Flg_new_2 (PF18998): pos. 856 - 932
 

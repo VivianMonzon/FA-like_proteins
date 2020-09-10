@@ -10,8 +10,4 @@
 - Flg_new (PF09479): pos. 530 - 594
 - Flg_new (PF09479): pos. 600 - 664
 - Flg_new (PF09479): pos. 670 - 734
-- Flg_new_2 (PF18998): pos. 461 - 529
-- Flg_new_2 (PF18998): pos. 538 - 599
-- Flg_new_2 (PF18998): pos. 623 - 669
-- Flg_new_2 (PF18998): pos. 694 - 739
 

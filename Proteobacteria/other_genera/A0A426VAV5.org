@@ -5,30 +5,6 @@
 * Adhesive domains:
 - VWA (PF00092): pos. 1889 - 2071
 * Stalk domains:
-- Cadherin_4 (PF17803): pos. 169 - 246
-- Cadherin_4 (PF17803): pos. 272 - 356
-- Cadherin_4 (PF17803): pos. 382 - 460
-- Cadherin_4 (PF17803): pos. 486 - 564
-- Cadherin_4 (PF17803): pos. 590 - 669
-- Cadherin_4 (PF17803): pos. 931 - 1055
-- Cadherin_4 (PF17803): pos. 1081 - 1165
-- Cadherin_4 (PF17803): pos. 1191 - 1269
-- Cadherin_4 (PF17803): pos. 1295 - 1373
-- Cadherin_4 (PF17803): pos. 1399 - 1483
-- Cadherin_4 (PF17803): pos. 1509 - 1587
-- Cadherin_4 (PF17803): pos. 1613 - 1690
-- Cadherin_5 (PF17892): pos. 191 - 279
-- Cadherin_5 (PF17892): pos. 294 - 389
-- Cadherin_5 (PF17892): pos. 401 - 493
-- Cadherin_5 (PF17892): pos. 505 - 597
-- Cadherin_5 (PF17892): pos. 599 - 702
-- Cadherin_5 (PF17892): pos. 1002 - 1088
-- Cadherin_5 (PF17892): pos. 1110 - 1198
-- Cadherin_5 (PF17892): pos. 1212 - 1302
-- Cadherin_5 (PF17892): pos. 1316 - 1406
-- Cadherin_5 (PF17892): pos. 1435 - 1516
-- Cadherin_5 (PF17892): pos. 1531 - 1620
-- Cadherin_5 (PF17892): pos. 1622 - 1723
 - Big_9 (PF17963): pos. 164 - 267
 - Big_9 (PF17963): pos. 271 - 377
 - Big_9 (PF17963): pos. 381 - 481
@@ -41,5 +17,4 @@
 - Big_9 (PF17963): pos. 1398 - 1504
 - Big_9 (PF17963): pos. 1508 - 1608
 - Big_9 (PF17963): pos. 1612 - 1711
-- CshA_repeat (PF19076): pos. 1599 - 1698
 

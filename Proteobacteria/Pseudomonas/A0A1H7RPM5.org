@@ -6,7 +6,6 @@
 - VWA (PF00092): pos. 2070 - 2251
 - VWA (PF00092): pos. 2770 - 2966
 * Stalk domains:
-- Cadherin_4 (PF17803): pos. 2488 - 2557
 - Big_9 (PF17963): pos. 2487 - 2588
 - DUF5801 (PF19116): pos. 311 - 472
 - DUF5801 (PF19116): pos. 485 - 693

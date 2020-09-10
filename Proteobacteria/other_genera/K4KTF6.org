@@ -6,8 +6,6 @@
 - VWA (PF00092): pos. 575 - 766
 * Stalk domains:
 - Calx-beta (PF03160): pos. 1 - 73
-- Cadherin_4 (PF17803): pos. 92 - 160
-- Cadherin_5 (PF17892): pos. 101 - 193
 - Big_9 (PF17963): pos. 92 - 181
 - Big_9 (PF17963): pos. 321 - 428
 

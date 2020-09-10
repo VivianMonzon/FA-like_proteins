@@ -7,8 +7,6 @@
 - Collagen_bind (PF05737): pos. 316 - 434
 - Collagen_bind (PF05737): pos. 571 - 697
 * Stalk domains:
-- SdrD_B (PF17210): pos. 1086 - 1200
-- SdrD_B (PF17210): pos. 1290 - 1384
 - SpaA (PF17802): pos. 728 - 792
 - SpaA (PF17802): pos. 824 - 895
 - SpaA (PF17802): pos. 925 - 992

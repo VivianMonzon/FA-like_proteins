@@ -10,6 +10,5 @@
 - Collagen_bind (PF05737): pos. 743 - 876
 * Stalk domains:
 - SpaA (PF17802): pos. 910 - 979
-- Cadherin_5 (PF17892): pos. 1068 - 1125
 - Big_9 (PF17963): pos. 1026 - 1113
 

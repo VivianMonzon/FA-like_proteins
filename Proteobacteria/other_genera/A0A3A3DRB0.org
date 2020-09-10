@@ -5,11 +5,8 @@
 * Adhesive domains:
 - TED (PF08341): pos. 902 - 1006
 * Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 406 - 504
-- CarboxypepD_reg (PF13620): pos. 646 - 741
 - SdrD_B (PF17210): pos. 397 - 508
 - SdrD_B (PF17210): pos. 514 - 625
 - SdrD_B (PF17210): pos. 631 - 741
-- Cadherin_4 (PF17803): pos. 733 - 879
 - Cadherin_5 (PF17892): pos. 744 - 851
 

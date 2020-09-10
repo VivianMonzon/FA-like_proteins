@@ -11,6 +11,5 @@
 - PA14 (PF07691): pos. 837 - 944
 - PA14 (PF07691): pos. 1000 - 1097
 * Stalk domains:
-- Cadherin_5 (PF17892): pos. 1126 - 1221
 - Big_9 (PF17963): pos. 1122 - 1209
 

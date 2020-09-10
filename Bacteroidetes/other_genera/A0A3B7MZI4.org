@@ -5,8 +5,6 @@
 * Adhesive domains:
 - Bact_lectin (PF18483): pos. 17 - 227
 * Stalk domains:
-- PKD (PF00801): pos. 233 - 301
 - PKD_4 (PF18911): pos. 235 - 296
 - PKD_4 (PF18911): pos. 397 - 465
-- PKD_5 (PF19406): pos. 282 - 319
 

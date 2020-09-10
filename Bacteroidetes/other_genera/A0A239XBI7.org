@@ -8,5 +8,4 @@
 * Stalk domains:
 - PKD (PF00801): pos. 984 - 1059
 - PKD_6 (PF19408): pos. 909 - 973
-- PKD_6 (PF19408): pos. 1001 - 1061
 

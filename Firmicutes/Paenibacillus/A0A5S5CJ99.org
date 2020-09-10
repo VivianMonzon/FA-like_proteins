@@ -7,6 +7,5 @@
 * Stalk domains:
 - fn3 (PF00041): pos. 544 - 621
 - fn3 (PF00041): pos. 706 - 783
-- PKD (PF00801): pos. 455 - 526
 - PKD_4 (PF18911): pos. 444 - 521
 

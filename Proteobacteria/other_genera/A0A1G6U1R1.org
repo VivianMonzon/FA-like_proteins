@@ -8,8 +8,4 @@
 - Cadherin_4 (PF17803): pos. 111 - 178
 - Cadherin_4 (PF17803): pos. 202 - 268
 - Cadherin_4 (PF17803): pos. 601 - 673
-- Cadherin_5 (PF17892): pos. 211 - 310
-- Big_9 (PF17963): pos. 110 - 198
-- Big_9 (PF17963): pos. 201 - 298
-- Big_9 (PF17963): pos. 600 - 705
 

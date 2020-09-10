@@ -9,7 +9,4 @@
 - SpaA (PF17802): pos. 604 - 675
 - SpaA (PF17802): pos. 728 - 796
 - SpaA_2 (PF19403): pos. 23 - 76
-- SpaA_2 (PF19403): pos. 514 - 600
-- SpaA_2 (PF19403): pos. 593 - 675
-- SpaA_2 (PF19403): pos. 716 - 809
 

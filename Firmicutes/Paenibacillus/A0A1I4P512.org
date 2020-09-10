@@ -11,5 +11,4 @@
 * Stalk domains:
 - SpaA (PF17802): pos. 905 - 975
 - Cadherin_5 (PF17892): pos. 1065 - 1122
-- Big_9 (PF17963): pos. 974 - 1110
 

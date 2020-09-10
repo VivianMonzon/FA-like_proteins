@@ -6,6 +6,5 @@
 - Ice_binding (PF11999): pos. 37 - 222
 * Stalk domains:
 - DUF11 (PF01345): pos. 427 - 534
-- CarboxypepD_reg (PF13620): pos. 339 - 426
 - SdrD_B (PF17210): pos. 325 - 419
 

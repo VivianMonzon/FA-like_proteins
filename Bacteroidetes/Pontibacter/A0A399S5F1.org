@@ -7,7 +7,6 @@
 * Stalk domains:
 - DUF11 (PF01345): pos. 231 - 347
 - DUF11 (PF01345): pos. 355 - 467
-- CARDB (PF07705): pos. 353 - 465
 - PKD_6 (PF19408): pos. 469 - 551
 - PKD_6 (PF19408): pos. 552 - 636
 - PKD_6 (PF19408): pos. 639 - 723

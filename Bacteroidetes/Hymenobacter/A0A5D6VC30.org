@@ -7,7 +7,6 @@
 - PA14 (PF07691): pos. 1540 - 1699
 * Stalk domains:
 - He_PIG (PF05345): pos. 818 - 917
-- He_PIG (PF05345): pos. 921 - 1011
 - Big_9 (PF17963): pos. 1002 - 1104
 - Big_9 (PF17963): pos. 1303 - 1404
 - Big_9 (PF17963): pos. 1410 - 1511

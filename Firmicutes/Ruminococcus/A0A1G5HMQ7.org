@@ -5,7 +5,6 @@
 * Adhesive domains:
 - TED (PF08341): pos. 84 - 196
 * Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 320 - 396
 - SpaA (PF17802): pos. 308 - 388
 - SpaA (PF17802): pos. 508 - 574
 - SpaA (PF17802): pos. 607 - 681

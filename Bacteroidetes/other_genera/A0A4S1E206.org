@@ -5,6 +5,5 @@
 * Adhesive domains:
 - Cleaved_Adhesin (PF07675): pos. 389 - 491
 * Stalk domains:
-- PKD (PF00801): pos. 314 - 374
 - PKD_4 (PF18911): pos. 299 - 372
 

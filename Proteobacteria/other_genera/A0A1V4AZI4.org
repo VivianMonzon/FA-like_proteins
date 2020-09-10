@@ -12,5 +12,4 @@
 - YadA_stalk (PF05662): pos. 691 - 733
 - YadA_stalk (PF05662): pos. 1128 - 1173
 - YadA_stalk (PF05662): pos. 1513 - 1555
-- CFSR (PF19079): pos. 1001 - 1047
 

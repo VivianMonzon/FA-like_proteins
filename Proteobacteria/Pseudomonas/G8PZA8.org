@@ -7,5 +7,4 @@
 * Stalk domains:
 - Calx-beta (PF03160): pos. 4170 - 4262
 - Cadherin_3 (PF16184): pos. 4421 - 4526
-- Big_9 (PF17963): pos. 4424 - 4534
 

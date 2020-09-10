@@ -5,12 +5,7 @@
 * Adhesive domains:
 - PA14 (PF07691): pos. 241 - 368
 * Stalk domains:
-- He_PIG (PF05345): pos. 1649 - 1739
 - Big_5 (PF13205): pos. 1834 - 1953
-- Cadherin_4 (PF17803): pos. 1443 - 1514
-- Cadherin_4 (PF17803): pos. 1540 - 1611
-- Cadherin_5 (PF17892): pos. 1452 - 1547
-- Cadherin_5 (PF17892): pos. 1549 - 1644
 - Big_9 (PF17963): pos. 1442 - 1535
 - Big_9 (PF17963): pos. 1539 - 1632
 - PKD_4 (PF18911): pos. 1732 - 1818

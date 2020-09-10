@@ -5,11 +5,6 @@
 * Adhesive domains:
 - PA14 (PF07691): pos. 534 - 677
 * Stalk domains:
-- Cadherin_4 (PF17803): pos. 879 - 968
-- Cadherin_4 (PF17803): pos. 995 - 1076
-- Cadherin_5 (PF17892): pos. 888 - 1002
-- Cadherin_5 (PF17892): pos. 1011 - 1109
 - Big_9 (PF17963): pos. 878 - 990
 - Big_9 (PF17963): pos. 994 - 1097
-- CshA_repeat (PF19076): pos. 981 - 1084
 

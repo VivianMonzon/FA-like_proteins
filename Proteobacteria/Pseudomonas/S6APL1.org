@@ -6,8 +6,6 @@
 - VWA (PF00092): pos. 2712 - 2895
 - VWA (PF00092): pos. 3419 - 3602
 * Stalk domains:
-- Cadherin_3 (PF16184): pos. 2998 - 3115
-- Cadherin_3 (PF16184): pos. 3714 - 3824
 - Cadherin_4 (PF17803): pos. 178 - 255
 - Cadherin_4 (PF17803): pos. 427 - 512
 - Cadherin_4 (PF17803): pos. 684 - 769
@@ -18,14 +16,6 @@
 - Cadherin_4 (PF17803): pos. 3122 - 3196
 - Cadherin_4 (PF17803): pos. 3718 - 3785
 - Cadherin_4 (PF17803): pos. 3996 - 4079
-- Big_9 (PF17963): pos. 426 - 543
-- Big_9 (PF17963): pos. 683 - 800
-- Big_9 (PF17963): pos. 940 - 1057
-- Big_9 (PF17963): pos. 1197 - 1318
-- Big_9 (PF17963): pos. 3000 - 3117
-- Big_9 (PF17963): pos. 3121 - 3237
-- Big_9 (PF17963): pos. 3717 - 3826
-- Big_9 (PF17963): pos. 3995 - 4101
 - DUF5801 (PF19116): pos. 1444 - 1592
 - DUF5801 (PF19116): pos. 1604 - 1734
 - DUF5801 (PF19116): pos. 1997 - 2127

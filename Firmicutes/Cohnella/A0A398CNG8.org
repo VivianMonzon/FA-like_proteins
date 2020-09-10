@@ -5,11 +5,6 @@
 * Adhesive domains:
 - Bact_lectin (PF18483): pos. 56 - 346
 * Stalk domains:
-- Big_6 (PF17936): pos. 893 - 977
-- Big_6 (PF17936): pos. 1081 - 1165
-- Big_6 (PF17936): pos. 1268 - 1353
-- Big_6 (PF17936): pos. 1457 - 1541
-- Big_6 (PF17936): pos. 1645 - 1729
 - Big_13 (PF19077): pos. 892 - 978
 - Big_13 (PF19077): pos. 981 - 1072
 - Big_13 (PF19077): pos. 1080 - 1166

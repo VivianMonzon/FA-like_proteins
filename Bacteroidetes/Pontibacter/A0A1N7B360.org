@@ -6,6 +6,5 @@
 - PA14 (PF07691): pos. 855 - 1007
 - PA14 (PF07691): pos. 1025 - 1170
 * Stalk domains:
-- PKD (PF00801): pos. 568 - 642
 - PKD_4 (PF18911): pos. 557 - 637
 

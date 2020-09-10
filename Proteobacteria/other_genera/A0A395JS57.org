@@ -5,7 +5,6 @@
 * Adhesive domains:
 - PA14 (PF07691): pos. 2741 - 2854
 * Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 1464 - 1561
 - SdrD_B (PF17210): pos. 607 - 708
 - SdrD_B (PF17210): pos. 1099 - 1213
 - SdrD_B (PF17210): pos. 1215 - 1341
@@ -19,5 +18,4 @@
 - SdrD_B (PF17210): pos. 3086 - 3162
 - SdrD_B (PF17210): pos. 3192 - 3322
 - SdrD_B (PF17210): pos. 3358 - 3448
-- SpaA (PF17802): pos. 2292 - 2339
 

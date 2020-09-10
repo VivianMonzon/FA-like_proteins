@@ -5,6 +5,5 @@
 * Adhesive domains:
 - VWA (PF00092): pos. 185 - 288
 * Stalk domains:
-- PKD (PF00801): pos. 467 - 548
 - PKD_4 (PF18911): pos. 452 - 543
 

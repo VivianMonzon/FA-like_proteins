@@ -5,12 +5,7 @@
 * Adhesive domains:
 - VWA (PF00092): pos. 3055 - 3236
 * Stalk domains:
-- Cadherin_4 (PF17803): pos. 546 - 619
-- Cadherin_4 (PF17803): pos. 1002 - 1099
-- Cadherin_4 (PF17803): pos. 1276 - 1347
 - Cadherin_4 (PF17803): pos. 2592 - 2687
-- Cadherin_5 (PF17892): pos. 555 - 652
-- Cadherin_5 (PF17892): pos. 1285 - 1380
 - Big_9 (PF17963): pos. 545 - 640
 - Big_9 (PF17963): pos. 1002 - 1130
 - Big_9 (PF17963): pos. 1275 - 1368

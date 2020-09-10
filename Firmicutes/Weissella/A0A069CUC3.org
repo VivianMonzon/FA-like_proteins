@@ -7,5 +7,4 @@
 * Stalk domains:
 - MucBP (PF06458): pos. 269 - 331
 - MucBP (PF06458): pos. 336 - 405
-- MucBP_2 (PF17965): pos. 335 - 406
 

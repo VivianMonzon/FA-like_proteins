@@ -5,16 +5,6 @@
 * Adhesive domains:
 - Bact_lectin (PF18483): pos. 7 - 230
 * Stalk domains:
-- Cadherin_4 (PF17803): pos. 336 - 401
-- Cadherin_4 (PF17803): pos. 575 - 637
-- Cadherin_4 (PF17803): pos. 663 - 729
-- Cadherin_4 (PF17803): pos. 753 - 821
-- Cadherin_4 (PF17803): pos. 845 - 913
-- Cadherin_5 (PF17892): pos. 337 - 434
-- Cadherin_5 (PF17892): pos. 602 - 670
-- Cadherin_5 (PF17892): pos. 674 - 762
-- Cadherin_5 (PF17892): pos. 766 - 854
-- Cadherin_5 (PF17892): pos. 857 - 946
 - Big_9 (PF17963): pos. 336 - 422
 - Big_9 (PF17963): pos. 574 - 658
 - Big_9 (PF17963): pos. 662 - 750

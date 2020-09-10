@@ -8,6 +8,5 @@
 - PA14 (PF07691): pos. 609 - 760
 * Stalk domains:
 - He_PIG (PF05345): pos. 221 - 310
-- PKD_6 (PF19408): pos. 254 - 305
 - PKD_6 (PF19408): pos. 516 - 588
 

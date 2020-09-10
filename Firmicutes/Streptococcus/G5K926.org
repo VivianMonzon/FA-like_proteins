@@ -5,7 +5,6 @@
 * Adhesive domains:
 - SdrG_C_C (PF10425): pos. 396 - 549
 * Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 893 - 978
 - SdrD_B (PF17210): pos. 567 - 672
 - SdrD_B (PF17210): pos. 878 - 981
 

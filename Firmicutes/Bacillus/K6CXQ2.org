@@ -6,5 +6,4 @@
 - VWA (PF00092): pos. 87 - 348
 * Stalk domains:
 - Big_2 (PF02368): pos. 496 - 546
-- PKD_6 (PF19408): pos. 492 - 548
 

@@ -6,5 +6,4 @@
 - Bact_lectin (PF18483): pos. 35 - 295
 * Stalk domains:
 - PKD (PF00801): pos. 617 - 682
-- PKD_4 (PF18911): pos. 622 - 676
 

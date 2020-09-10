@@ -5,7 +5,6 @@
 * Adhesive domains:
 - GbpC (PF08363): pos. 185 - 386
 - GbpC (PF08363): pos. 491 - 603
-- Adhesin_P1_N (PF18652): pos. 87 - 186
 * Stalk domains:
 - MucBP_2 (PF17965): pos. 805 - 886
 

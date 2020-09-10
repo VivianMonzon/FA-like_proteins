@@ -11,7 +11,6 @@
 - He_PIG (PF05345): pos. 1650 - 1743
 - He_PIG (PF05345): pos. 1747 - 1837
 - He_PIG (PF05345): pos. 1841 - 1932
-- Cadherin_3 (PF16184): pos. 777 - 892
 - Big_9 (PF17963): pos. 106 - 211
 - Big_9 (PF17963): pos. 1215 - 1318
 

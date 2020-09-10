@@ -8,5 +8,4 @@
 * Stalk domains:
 - PKD (PF00801): pos. 456 - 522
 - He_PIG (PF05345): pos. 359 - 446
-- PKD_4 (PF18911): pos. 440 - 518
 

@@ -9,7 +9,5 @@
 - Flg_new (PF09479): pos. 748 - 813
 - Flg_new (PF09479): pos. 824 - 894
 - SHIRT (PF18655): pos. 1241 - 1321
-- Flg_new_2 (PF18998): pos. 600 - 673
-- Flg_new_2 (PF18998): pos. 747 - 822
 - Flg_new_2 (PF18998): pos. 1088 - 1149
 

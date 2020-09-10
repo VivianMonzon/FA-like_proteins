@@ -5,10 +5,6 @@
 * Adhesive domains:
 - CshA_NR2 (PF18651): pos. 41 - 317
 * Stalk domains:
-- Cadherin_4 (PF17803): pos. 2154 - 2223
-- Cadherin_5 (PF17892): pos. 2100 - 2163
-- Cadherin_5 (PF17892): pos. 2163 - 2257
 - Big_9 (PF17963): pos. 2154 - 2244
 - CshA_repeat (PF19076): pos. 2039 - 2137
-- CshA_repeat (PF19076): pos. 2141 - 2231
 

@@ -37,7 +37,6 @@
 - He_PIG (PF05345): pos. 6360 - 6445
 - He_PIG (PF05345): pos. 6447 - 6532
 - He_PIG (PF05345): pos. 6861 - 6954
-- He_PIG (PF05345): pos. 6956 - 7043
 - He_PIG (PF05345): pos. 8376 - 8462
 - He_PIG (PF05345): pos. 8464 - 8549
 - He_PIG (PF05345): pos. 8551 - 8638

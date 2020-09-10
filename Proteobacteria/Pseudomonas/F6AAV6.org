@@ -25,8 +25,6 @@
 - Calx-beta (PF03160): pos. 4109 - 4224
 - Cadherin_5 (PF17892): pos. 2311 - 2405
 - Cadherin_5 (PF17892): pos. 4434 - 4525
-- Big_9 (PF17963): pos. 2311 - 2393
-- Big_9 (PF17963): pos. 4437 - 4513
 - Big_13 (PF19077): pos. 289 - 375
 - Big_13 (PF19077): pos. 703 - 789
 - Big_13 (PF19077): pos. 795 - 881

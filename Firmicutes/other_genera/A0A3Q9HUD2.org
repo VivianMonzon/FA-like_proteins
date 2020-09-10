@@ -8,5 +8,4 @@
 - LRR_4 (PF12799): pos. 412 - 454
 * Stalk domains:
 - CarboxypepD_reg (PF13620): pos. 40 - 114
-- SpaA (PF17802): pos. 45 - 105
 

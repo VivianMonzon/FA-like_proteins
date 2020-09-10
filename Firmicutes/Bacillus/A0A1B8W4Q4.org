@@ -11,6 +11,4 @@
 * Stalk domains:
 - SpaA (PF17802): pos. 928 - 998
 - SpaA (PF17802): pos. 1021 - 1089
-- SpaA_2 (PF19403): pos. 917 - 1005
-- SpaA_2 (PF19403): pos. 1007 - 1084
 

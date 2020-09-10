@@ -5,6 +5,5 @@
 * Adhesive domains:
 - PA14 (PF07691): pos. 700 - 823
 * Stalk domains:
-- PKD (PF00801): pos. 431 - 502
 - PKD_4 (PF18911): pos. 418 - 497
 
