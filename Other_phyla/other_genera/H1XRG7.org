@@ -1,9 +1,0 @@
-* Organism:
-- Caldithrix abyssi DSM 13497
-* Protein length:
-- 661
-* Adhesive domains:
-- VWA (PF00092): pos. 285 - 454
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 23 - 99
-

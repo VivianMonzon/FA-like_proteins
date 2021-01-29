@@ -1,9 +1,0 @@
-* Organism:
-- Parachlamydia acanthamoebae (strain UV7)
-* Protein length:
-- 836
-* Adhesive domains:
-- BclA_C (PF18573): pos. 710 - 836
-* Stalk domains:
-- Collagen (PF01391): pos. 385 - 448
-

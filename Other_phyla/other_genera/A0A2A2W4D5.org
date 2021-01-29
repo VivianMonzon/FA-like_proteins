@@ -1,9 +1,0 @@
-* Organism:
-- Rhodopirellula sp. SM50
-* Protein length:
-- 1264
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 620 - 830
-* Stalk domains:
-- Calx-beta (PF03160): pos. 495 - 592
-

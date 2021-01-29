@@ -1,9 +1,0 @@
-* Organism:
-- Balneola sp.
-* Protein length:
-- 1259
-* Adhesive domains:
-- PA14 (PF07691): pos. 1023 - 1152
-* Stalk domains:
-- PKD_4 (PF18911): pos. 678 - 759
-

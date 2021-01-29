@@ -1,9 +1,0 @@
-* Organism:
-- Sneathia amnii
-* Protein length:
-- 567
-* Adhesive domains:
-- YadA_head (PF05658): pos. 246 - 272
-* Stalk domains:
-- YadA_stalk (PF05662): pos. 322 - 364
-

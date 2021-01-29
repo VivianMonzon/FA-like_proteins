@@ -1,9 +1,0 @@
-* Organism:
-- Rubripirellula reticaptiva
-* Protein length:
-- 1218
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 576 - 854
-* Stalk domains:
-- Calx-beta (PF03160): pos. 458 - 549
-

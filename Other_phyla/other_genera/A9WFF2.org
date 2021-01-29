@@ -1,9 +1,0 @@
-* Organism:
-- Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)
-* Protein length:
-- 1134
-* Adhesive domains:
-- PA14 (PF07691): pos. 497 - 586
-* Stalk domains:
-- fn3 (PF00041): pos. 588 - 667
-

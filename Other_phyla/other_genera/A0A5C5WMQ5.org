@@ -1,9 +1,0 @@
-* Organism:
-- Rubripirellula amarantea
-* Protein length:
-- 1210
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 568 - 774
-* Stalk domains:
-- Calx-beta (PF03160): pos. 445 - 539
-

@@ -1,9 +1,0 @@
-* Organism:
-- Thermobaculum terrenum (strain ATCC BAA-798 / YNP1)
-* Protein length:
-- 978
-* Adhesive domains:
-- PA14 (PF07691): pos. 838 - 974
-* Stalk domains:
-- Big_5 (PF13205): pos. 727 - 833
-

@@ -1,9 +1,0 @@
-* Organism:
-- Ardenticatena maritima
-* Protein length:
-- 749
-* Adhesive domains:
-- VWA (PF00092): pos. 396 - 626
-* Stalk domains:
-- SdrD_B (PF17210): pos. 625 - 711
-
