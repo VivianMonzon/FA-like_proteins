@@ -1,0 +1,9 @@
+* Organism:
+- Bifidobacterium breve DSM 20213 = JCM 1192
+* Protein length:
+- 1238.0
+* Adhesive domains:
+- VWA (PF00092): pos. 507 - 639
+* Stalk domains:
+- Cna_B (PF05738): pos. 928 - 1011
+

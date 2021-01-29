@@ -1,0 +1,9 @@
+* Organism:
+- Flavonifractor sp. An100
+* Protein length:
+- 1236.0
+* Adhesive domains:
+- VWA (PF00092): pos. 629 - 850
+* Stalk domains:
+- Big_2 (PF02368): pos. 32 - 103
+

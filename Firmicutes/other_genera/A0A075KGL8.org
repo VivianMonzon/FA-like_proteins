@@ -1,0 +1,11 @@
+* Organism:
+- Pelosinus sp. UFO1
+* Protein length:
+- 631.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 16 - 202
+* Stalk domains:
+- DUF11 (PF01345): pos. 210 - 334
+- DUF11 (PF01345): pos. 348 - 465
+- DUF11 (PF01345): pos. 497 - 615
+

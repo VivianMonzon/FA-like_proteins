@@ -1,0 +1,11 @@
+* Organism:
+- Hymenobacter gelipurpurascens
+* Protein length:
+- 963.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 46 - 202
+- PA14 (PF07691): pos. 330 - 478
+- PA14 (PF07691): pos. 646 - 758
+* Stalk domains:
+- He_PIG (PF05345): pos. 220 - 311
+

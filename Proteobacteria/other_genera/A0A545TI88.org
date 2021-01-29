@@ -1,0 +1,17 @@
+* Organism:
+- Aliikangiella marina
+* Protein length:
+- 1685.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1554 - 1683
+* Stalk domains:
+- PKD_4 (PF18911): pos. 505 - 603
+- PKD_4 (PF18911): pos. 609 - 698
+- PKD_4 (PF18911): pos. 704 - 794
+- PKD_4 (PF18911): pos. 800 - 887
+- PKD_4 (PF18911): pos. 892 - 981
+- PKD_4 (PF18911): pos. 987 - 1076
+- PKD_4 (PF18911): pos. 1082 - 1170
+- PKD_4 (PF18911): pos. 1176 - 1263
+- PKD_4 (PF18911): pos. 1269 - 1357
+

@@ -1,0 +1,26 @@
+* Organism:
+- Pseudomonas resinovorans NBRC 106553
+* Protein length:
+- 4343.0
+* Adhesive domains:
+- VWA (PF00092): pos. 2712 - 2895
+- VWA (PF00092): pos. 3419 - 3602
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 178 - 255
+- Cadherin_4 (PF17803): pos. 427 - 512
+- Cadherin_4 (PF17803): pos. 684 - 769
+- Cadherin_4 (PF17803): pos. 941 - 1026
+- Cadherin_4 (PF17803): pos. 1198 - 1293
+- Cadherin_4 (PF17803): pos. 1736 - 1821
+- Cadherin_4 (PF17803): pos. 3001 - 3075
+- Cadherin_4 (PF17803): pos. 3122 - 3196
+- Cadherin_4 (PF17803): pos. 3718 - 3785
+- Cadherin_4 (PF17803): pos. 3996 - 4079
+- DUF5801 (PF19116): pos. 1444 - 1592
+- DUF5801 (PF19116): pos. 1604 - 1734
+- DUF5801 (PF19116): pos. 1997 - 2127
+- DUF5801 (PF19116): pos. 2135 - 2265
+- DUF5801 (PF19116): pos. 2273 - 2403
+- DUF5801 (PF19116): pos. 2411 - 2541
+- DUF5801 (PF19116): pos. 2549 - 2679
+

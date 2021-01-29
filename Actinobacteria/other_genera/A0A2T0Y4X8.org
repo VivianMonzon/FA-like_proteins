@@ -1,0 +1,9 @@
+* Organism:
+- Isoptericola sp. CG 20/1183
+* Protein length:
+- 1213.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 54 - 195
+* Stalk domains:
+- Big_3_5 (PF16640): pos. 1129 - 1213
+

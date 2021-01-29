@@ -1,0 +1,10 @@
+* Organism:
+- Opitutus sp. GAS368
+* Protein length:
+- 985.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 37 - 245
+* Stalk domains:
+- PATR (PF12951): pos. 341 - 368
+- PATR (PF12951): pos. 406 - 435
+

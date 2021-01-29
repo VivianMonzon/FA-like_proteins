@@ -1,0 +1,11 @@
+* Organism:
+- Cesiribacter andamanensis AMV16
+* Protein length:
+- 2294.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 614 - 754
+* Stalk domains:
+- fn3 (PF00041): pos. 525 - 606
+- fn3 (PF00041): pos. 766 - 848
+- fn3 (PF00041): pos. 1918 - 1999
+

@@ -1,0 +1,17 @@
+* Organism:
+- Kingella denitrificans ATCC 33394
+* Protein length:
+- 970.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 207 - 233
+- YadA_head (PF05658): pos. 277 - 303
+- YadA_head (PF05658): pos. 348 - 374
+- YadA_head (PF05658): pos. 362 - 387
+- YadA_head (PF05658): pos. 466 - 492
+- YadA_head (PF05658): pos. 691 - 717
+- YadA_head (PF05658): pos. 848 - 874
+- YadA_head (PF05658): pos. 918 - 942
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 540 - 581
+- YadA_stalk (PF05662): pos. 793 - 835
+

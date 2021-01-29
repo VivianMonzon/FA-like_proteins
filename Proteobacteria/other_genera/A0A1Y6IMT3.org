@@ -1,0 +1,35 @@
+* Organism:
+- Vibrio mangrovi
+* Protein length:
+- 3718.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 3328 - 3454
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 255 - 321
+- Cadherin_4 (PF17803): pos. 353 - 419
+- Cadherin_4 (PF17803): pos. 451 - 517
+- Cadherin_4 (PF17803): pos. 549 - 615
+- Cadherin_4 (PF17803): pos. 647 - 713
+- Cadherin_4 (PF17803): pos. 745 - 811
+- Cadherin_4 (PF17803): pos. 843 - 909
+- Cadherin_4 (PF17803): pos. 941 - 1007
+- Cadherin_4 (PF17803): pos. 1039 - 1105
+- Cadherin_4 (PF17803): pos. 1137 - 1203
+- Cadherin_4 (PF17803): pos. 1235 - 1301
+- Cadherin_4 (PF17803): pos. 1333 - 1399
+- Cadherin_4 (PF17803): pos. 1431 - 1497
+- Cadherin_4 (PF17803): pos. 1529 - 1595
+- Cadherin_4 (PF17803): pos. 1627 - 1693
+- Cadherin_4 (PF17803): pos. 1725 - 1791
+- Cadherin_4 (PF17803): pos. 1823 - 1889
+- Cadherin_4 (PF17803): pos. 1921 - 1987
+- Cadherin_4 (PF17803): pos. 2019 - 2085
+- Cadherin_4 (PF17803): pos. 2117 - 2183
+- Cadherin_4 (PF17803): pos. 2215 - 2281
+- Cadherin_4 (PF17803): pos. 2313 - 2385
+- Cadherin_4 (PF17803): pos. 2513 - 2579
+- Cadherin_4 (PF17803): pos. 2611 - 2677
+- Cadherin_4 (PF17803): pos. 2709 - 2781
+- Big_9 (PF17963): pos. 2414 - 2508
+- Big_9 (PF17963): pos. 3149 - 3255
+

@@ -1,0 +1,9 @@
+* Organism:
+- Streptomyces curacoi
+* Protein length:
+- 573.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 38 - 171
+* Stalk domains:
+- Big_3_2 (PF12245): pos. 217 - 265
+

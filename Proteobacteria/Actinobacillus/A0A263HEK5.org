@@ -1,0 +1,17 @@
+* Organism:
+- Actinobacillus seminis
+* Protein length:
+- 2088.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 174 - 200
+- YadA_head (PF05658): pos. 297 - 323
+- YadA_head (PF05658): pos. 457 - 483
+- YadA_head (PF05658): pos. 485 - 511
+- YadA_head (PF05658): pos. 1848 - 1874
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 608 - 633
+- YadA_stalk (PF05662): pos. 685 - 725
+- YadA_stalk (PF05662): pos. 922 - 947
+- YadA_stalk (PF05662): pos. 1200 - 1245
+- YadA_stalk (PF05662): pos. 1622 - 1665
+

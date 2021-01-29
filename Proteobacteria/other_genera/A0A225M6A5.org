@@ -1,0 +1,16 @@
+* Organism:
+- Candidimonas nitroreducens
+* Protein length:
+- 2477.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 574 - 599
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 147 - 192
+- YadA_stalk (PF05662): pos. 271 - 314
+- YadA_stalk (PF05662): pos. 649 - 690
+- YadA_stalk (PF05662): pos. 748 - 790
+- YadA_stalk (PF05662): pos. 1121 - 1166
+- YadA_stalk (PF05662): pos. 1284 - 1326
+- YadA_stalk (PF05662): pos. 1391 - 1433
+- YadA_stalk (PF05662): pos. 2359 - 2400
+

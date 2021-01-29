@@ -1,0 +1,14 @@
+* Organism:
+- Syntrophomonas wolfei subsp. wolfei (strain DSM 2245B / Goettingen)
+* Protein length:
+- 1351.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 729 - 773
+- LRR_4 (PF12799): pos. 751 - 793
+- LRR_4 (PF12799): pos. 773 - 819
+- LRR_4 (PF12799): pos. 901 - 942
+- LRR_4 (PF12799): pos. 923 - 965
+* Stalk domains:
+- Big_5 (PF13205): pos. 976 - 1078
+- CarboxypepD_reg (PF13620): pos. 38 - 134
+

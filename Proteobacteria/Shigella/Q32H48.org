@@ -1,0 +1,11 @@
+* Organism:
+- Shigella dysenteriae serotype 1 (strain Sd197)
+* Protein length:
+- 864.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 405 - 524
+* Stalk domains:
+- AIDA (PF16168): pos. 104 - 166
+- AIDA (PF16168): pos. 168 - 221
+- AIDA (PF16168): pos. 234 - 294
+

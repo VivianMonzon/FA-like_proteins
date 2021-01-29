@@ -1,0 +1,11 @@
+* Organism:
+- Enterococcus sp. 10A9_DIV0425
+* Protein length:
+- 1178.0
+* Adhesive domains:
+- VWA (PF00092): pos. 343 - 579
+* Stalk domains:
+- SpaA (PF17802): pos. 826 - 896
+- SpaA (PF17802): pos. 935 - 1006
+- SpaA (PF17802): pos. 1041 - 1108
+

@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus massiliensis
+* Protein length:
+- 686.0
+* Adhesive domains:
+- Sgo0707_N1 (PF18873): pos. 29 - 294
+* Stalk domains:
+- DUF11 (PF01345): pos. 534 - 644
+- SHIRT (PF18655): pos. 438 - 520
+

@@ -1,0 +1,14 @@
+* Organism:
+- Burkholderia sp. SRS-W-2-2016
+* Protein length:
+- 445.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 267 - 293
+- YadA_head (PF05658): pos. 281 - 307
+- YadA_head (PF05658): pos. 295 - 321
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 23 - 65
+- YadA_stalk (PF05662): pos. 154 - 195
+- YadA_stalk (PF05662): pos. 206 - 251
+- YadA_stalk (PF05662): pos. 339 - 380
+

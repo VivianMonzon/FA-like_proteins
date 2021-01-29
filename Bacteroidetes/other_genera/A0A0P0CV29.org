@@ -1,0 +1,24 @@
+* Organism:
+- Rufibacter tibetensis
+* Protein length:
+- 1692.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 3 - 173
+* Stalk domains:
+- DUF11 (PF01345): pos. 182 - 295
+- PKD_6 (PF19408): pos. 296 - 381
+- PKD_6 (PF19408): pos. 384 - 468
+- PKD_6 (PF19408): pos. 471 - 555
+- PKD_6 (PF19408): pos. 558 - 640
+- PKD_6 (PF19408): pos. 643 - 727
+- PKD_6 (PF19408): pos. 730 - 813
+- PKD_6 (PF19408): pos. 816 - 900
+- PKD_6 (PF19408): pos. 903 - 987
+- PKD_6 (PF19408): pos. 990 - 1075
+- PKD_6 (PF19408): pos. 1076 - 1160
+- PKD_6 (PF19408): pos. 1163 - 1247
+- PKD_6 (PF19408): pos. 1250 - 1337
+- PKD_6 (PF19408): pos. 1340 - 1423
+- PKD_6 (PF19408): pos. 1426 - 1510
+- PKD_6 (PF19408): pos. 1514 - 1599
+

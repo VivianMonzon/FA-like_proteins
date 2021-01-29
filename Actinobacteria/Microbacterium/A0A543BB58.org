@@ -1,0 +1,9 @@
+* Organism:
+- Microbacterium saperdae
+* Protein length:
+- 498.0
+* Adhesive domains:
+- TED (PF08341): pos. 70 - 179
+* Stalk domains:
+- TQ (PF18202): pos. 322 - 439
+

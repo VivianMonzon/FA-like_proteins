@@ -1,0 +1,12 @@
+* Organism:
+- Kineococcus xinjiangensis
+* Protein length:
+- 1146.0
+* Adhesive domains:
+- VWA (PF00092): pos. 508 - 670
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 243 - 258
+- TSP3_bac (PF18884): pos. 325 - 344
+- TSP3_bac (PF18884): pos. 712 - 724
+- TSP3_bac (PF18884): pos. 797 - 811
+

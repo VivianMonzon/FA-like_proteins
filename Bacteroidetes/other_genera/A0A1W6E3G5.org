@@ -1,0 +1,12 @@
+* Organism:
+- Fibrella sp. ES10-3-2-2
+* Protein length:
+- 1391.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 839 - 973
+- PA14 (PF07691): pos. 1036 - 1133
+- PA14 (PF07691): pos. 1153 - 1290
+* Stalk domains:
+- Beta_helix (PF13229): pos. 261 - 439
+- Beta_helix (PF13229): pos. 332 - 526
+

@@ -1,0 +1,9 @@
+* Organism:
+- Bifidobacterium bifidum BGN4
+* Protein length:
+- 1156.0
+* Adhesive domains:
+- VWA (PF00092): pos. 613 - 741
+* Stalk domains:
+- Cna_B (PF05738): pos. 999 - 1084
+

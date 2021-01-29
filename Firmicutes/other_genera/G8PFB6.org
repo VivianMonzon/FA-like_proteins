@@ -1,0 +1,19 @@
+* Organism:
+- Pediococcus claussenii (strain ATCC BAA-344 / DSM 14800 / JCM 18046 / KCTC 3811 / P06)
+* Protein length:
+- 1375.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 251 - 492
+* Stalk domains:
+- MucBP (PF06458): pos. 499 - 569
+- MucBP (PF06458): pos. 577 - 639
+- MucBP (PF06458): pos. 647 - 709
+- MucBP (PF06458): pos. 717 - 779
+- MucBP (PF06458): pos. 787 - 849
+- MucBP (PF06458): pos. 857 - 919
+- MucBP (PF06458): pos. 927 - 989
+- MucBP (PF06458): pos. 997 - 1059
+- MucBP (PF06458): pos. 1067 - 1129
+- MucBP (PF06458): pos. 1137 - 1199
+- MucBP (PF06458): pos. 1207 - 1269
+

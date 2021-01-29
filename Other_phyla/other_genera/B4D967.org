@@ -1,0 +1,17 @@
+* Organism:
+- Chthoniobacter flavus Ellin428
+* Protein length:
+- 1497.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 281 - 402
+- PA14 (PF07691): pos. 1079 - 1236
+* Stalk domains:
+- PATR (PF12951): pos. 184 - 213
+- PATR (PF12951): pos. 455 - 484
+- PATR (PF12951): pos. 523 - 551
+- PATR (PF12951): pos. 590 - 619
+- PATR (PF12951): pos. 859 - 888
+- PATR (PF12951): pos. 954 - 983
+- PATR (PF12951): pos. 1022 - 1051
+- PATR (PF12951): pos. 1287 - 1316
+

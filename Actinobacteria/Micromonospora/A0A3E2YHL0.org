@@ -1,0 +1,9 @@
+* Organism:
+- Micromonospora sp. MW-13
+* Protein length:
+- 1235.0
+* Adhesive domains:
+- VWA (PF00092): pos. 512 - 685
+* Stalk domains:
+- HYR (PF02494): pos. 793 - 870
+

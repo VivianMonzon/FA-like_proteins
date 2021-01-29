@@ -1,0 +1,13 @@
+* Organism:
+- Pedobacter metabolipauper
+* Protein length:
+- 697.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 488 - 695
+* Stalk domains:
+- Big_5 (PF13205): pos. 71 - 173
+- Flg_new_2 (PF18998): pos. 177 - 247
+- Flg_new_2 (PF18998): pos. 253 - 323
+- Flg_new_2 (PF18998): pos. 329 - 401
+- Flg_new_2 (PF18998): pos. 402 - 471
+

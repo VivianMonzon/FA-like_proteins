@@ -1,0 +1,17 @@
+* Organism:
+- Drancourtella sp. An177
+* Protein length:
+- 1409.0
+* Adhesive domains:
+- TED (PF08341): pos. 86 - 197
+* Stalk domains:
+- SpaA (PF17802): pos. 325 - 388
+- SpaA (PF17802): pos. 509 - 575
+- SpaA (PF17802): pos. 609 - 683
+- SpaA (PF17802): pos. 709 - 789
+- SpaA (PF17802): pos. 851 - 929
+- SpaA (PF17802): pos. 966 - 1045
+- SpaA (PF17802): pos. 1077 - 1150
+- SpaA (PF17802): pos. 1175 - 1251
+- SpaA (PF17802): pos. 1281 - 1347
+

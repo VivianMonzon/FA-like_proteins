@@ -1,0 +1,18 @@
+* Organism:
+- Parvimonas micra
+* Protein length:
+- 1781.0
+* Adhesive domains:
+- GbpC (PF08363): pos. 187 - 410
+- Adhesin_P1_N (PF18652): pos. 28 - 139
+* Stalk domains:
+- DUF11 (PF01345): pos. 605 - 720
+- DUF11 (PF01345): pos. 732 - 845
+- DUF11 (PF01345): pos. 867 - 980
+- DUF11 (PF01345): pos. 991 - 1105
+- DUF11 (PF01345): pos. 1117 - 1230
+- DUF11 (PF01345): pos. 1242 - 1355
+- DUF11 (PF01345): pos. 1367 - 1480
+- DUF11 (PF01345): pos. 1492 - 1605
+- DUF11 (PF01345): pos. 1627 - 1738
+

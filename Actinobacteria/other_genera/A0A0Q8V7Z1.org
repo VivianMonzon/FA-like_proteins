@@ -1,0 +1,9 @@
+* Organism:
+- Leifsonia sp. Root227
+* Protein length:
+- 415.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 56 - 244
+* Stalk domains:
+- He_PIG (PF05345): pos. 255 - 344
+

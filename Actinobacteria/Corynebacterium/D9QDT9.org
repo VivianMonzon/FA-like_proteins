@@ -1,0 +1,9 @@
+* Organism:
+- Corynebacterium pseudotuberculosis (strain C231)
+* Protein length:
+- 518.0
+* Adhesive domains:
+- TED (PF08341): pos. 75 - 202
+* Stalk domains:
+- TQ (PF18202): pos. 282 - 398
+

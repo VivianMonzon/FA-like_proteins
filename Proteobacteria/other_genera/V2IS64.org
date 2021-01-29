@@ -1,0 +1,27 @@
+* Organism:
+- Cupriavidus sp. HPC(L)
+* Protein length:
+- 2416.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 205 - 231
+- YadA_head (PF05658): pos. 580 - 606
+- YadA_head (PF05658): pos. 773 - 798
+- YadA_head (PF05658): pos. 787 - 813
+- YadA_head (PF05658): pos. 864 - 890
+- YadA_head (PF05658): pos. 1217 - 1243
+- YadA_head (PF05658): pos. 1439 - 1465
+- YadA_head (PF05658): pos. 1570 - 1596
+- YadA_head (PF05658): pos. 1701 - 1727
+- YadA_head (PF05658): pos. 1839 - 1865
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 687 - 731
+- YadA_stalk (PF05662): pos. 1131 - 1176
+- YadA_stalk (PF05662): pos. 1380 - 1425
+- YadA_stalk (PF05662): pos. 1504 - 1549
+- YadA_stalk (PF05662): pos. 1635 - 1680
+- YadA_stalk (PF05662): pos. 1766 - 1811
+- YadA_stalk (PF05662): pos. 1924 - 1966
+- YadA_stalk (PF05662): pos. 2087 - 2129
+- YadA_stalk (PF05662): pos. 2228 - 2273
+- YadA_stalk (PF05662): pos. 2298 - 2337
+

@@ -1,0 +1,19 @@
+* Organism:
+- Moraxella osloensis
+* Protein length:
+- 2904.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 202 - 225
+- YadA_head (PF05658): pos. 703 - 729
+- YadA_head (PF05658): pos. 1194 - 1220
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 625 - 681
+- YadA_stalk (PF05662): pos. 1399 - 1444
+- YadA_stalk (PF05662): pos. 1666 - 1707
+- YadA_stalk (PF05662): pos. 1857 - 1899
+- YadA_stalk (PF05662): pos. 2023 - 2061
+- YadA_stalk (PF05662): pos. 2214 - 2256
+- YadA_stalk (PF05662): pos. 2471 - 2513
+- YadA_stalk (PF05662): pos. 2586 - 2630
+- YadA_stalk (PF05662): pos. 2793 - 2835
+

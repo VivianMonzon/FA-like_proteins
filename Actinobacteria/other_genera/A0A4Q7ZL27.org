@@ -1,0 +1,10 @@
+* Organism:
+- Krasilnikovia cinnamomea
+* Protein length:
+- 672.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 50 - 310
+* Stalk domains:
+- CshA_repeat (PF19076): pos. 410 - 505
+- CshA_repeat (PF19076): pos. 510 - 603
+

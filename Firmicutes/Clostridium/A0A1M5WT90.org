@@ -1,0 +1,12 @@
+* Organism:
+- Clostridium collagenovorans DSM 3089
+* Protein length:
+- 777.0
+* Adhesive domains:
+- TED (PF08341): pos. 60 - 178
+* Stalk domains:
+- SpaA (PF17802): pos. 330 - 398
+- SpaA (PF17802): pos. 423 - 488
+- SpaA (PF17802): pos. 516 - 584
+- SpaA (PF17802): pos. 609 - 696
+

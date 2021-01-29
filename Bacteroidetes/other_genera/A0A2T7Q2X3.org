@@ -1,0 +1,10 @@
+* Organism:
+- Terrimonas sp. NS-102
+* Protein length:
+- 668.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 38 - 248
+* Stalk domains:
+- PKD_4 (PF18911): pos. 249 - 317
+- PKD_4 (PF18911): pos. 409 - 480
+

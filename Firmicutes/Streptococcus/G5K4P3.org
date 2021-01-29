@@ -1,0 +1,9 @@
+* Organism:
+- Streptococcus ictaluri 707-05
+* Protein length:
+- 443.0
+* Adhesive domains:
+- SdrG_C_C (PF10425): pos. 124 - 268
+* Stalk domains:
+- SpaA (PF17802): pos. 317 - 390
+

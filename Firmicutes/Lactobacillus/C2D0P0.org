@@ -1,0 +1,10 @@
+* Organism:
+- Lactobacillus brevis subsp. gravesensis ATCC 27305
+* Protein length:
+- 718.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 167 - 214
+* Stalk domains:
+- DUF5776 (PF19087): pos. 573 - 639
+- DUF5776 (PF19087): pos. 643 - 714
+

@@ -1,0 +1,13 @@
+* Organism:
+- Clostridium sp. CT7
+* Protein length:
+- 836.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 557 - 599
+- LRR_4 (PF12799): pos. 601 - 650
+- LRR_4 (PF12799): pos. 690 - 732
+- LRR_4 (PF12799): pos. 734 - 776
+* Stalk domains:
+- Big_2 (PF02368): pos. 174 - 251
+- Big_2 (PF02368): pos. 393 - 471
+

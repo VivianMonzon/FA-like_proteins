@@ -1,0 +1,9 @@
+* Organism:
+- Chitinophaga ginsengisegetis
+* Protein length:
+- 2039.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 640 - 777
+* Stalk domains:
+- He_PIG (PF05345): pos. 1649 - 1738
+

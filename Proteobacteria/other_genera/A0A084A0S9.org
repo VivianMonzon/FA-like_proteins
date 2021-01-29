@@ -1,0 +1,11 @@
+* Organism:
+- Serratia sp. DD3
+* Protein length:
+- 892.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 438 - 561
+* Stalk domains:
+- PATR (PF12951): pos. 50 - 79
+- PATR (PF12951): pos. 258 - 287
+- PATR (PF12951): pos. 355 - 384
+

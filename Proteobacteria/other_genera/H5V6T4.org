@@ -1,0 +1,14 @@
+* Organism:
+- Atlantibacter hermannii NBRC 105704
+* Protein length:
+- 1801.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1351 - 1470
+* Stalk domains:
+- PATR (PF12951): pos. 440 - 469
+- PATR (PF12951): pos. 530 - 557
+- PATR (PF12951): pos. 800 - 828
+- PATR (PF12951): pos. 894 - 923
+- PATR (PF12951): pos. 1167 - 1196
+- PATR (PF12951): pos. 1261 - 1290
+

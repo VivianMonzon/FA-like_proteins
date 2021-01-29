@@ -1,0 +1,11 @@
+* Organism:
+- Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcus lactis)
+* Protein length:
+- 1450.0
+* Adhesive domains:
+- VWA (PF00092): pos. 327 - 476
+* Stalk domains:
+- Cna_B (PF05738): pos. 688 - 779
+- SpaA (PF17802): pos. 792 - 857
+- SpaA (PF17802): pos. 908 - 973
+

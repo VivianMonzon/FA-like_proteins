@@ -1,0 +1,12 @@
+* Organism:
+- Ereboglobus luteus
+* Protein length:
+- 3404.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 863 - 960
+* Stalk domains:
+- Flg_new (PF09479): pos. 982 - 1051
+- Flg_new (PF09479): pos. 1065 - 1132
+- Flg_new (PF09479): pos. 1811 - 1882
+- Flg_new (PF09479): pos. 1899 - 1967
+

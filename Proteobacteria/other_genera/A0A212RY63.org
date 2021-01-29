@@ -1,0 +1,11 @@
+* Organism:
+- Arboricoccus pini
+* Protein length:
+- 1011.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 527 - 644
+* Stalk domains:
+- PATR (PF12951): pos. 268 - 301
+- PATR (PF12951): pos. 362 - 395
+- PATR (PF12951): pos. 456 - 485
+

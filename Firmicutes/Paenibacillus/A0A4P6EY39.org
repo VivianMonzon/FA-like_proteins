@@ -1,0 +1,10 @@
+* Organism:
+- Paenibacillus protaetiae
+* Protein length:
+- 453.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 322 - 450
+* Stalk domains:
+- Collagen (PF01391): pos. 40 - 89
+- Collagen (PF01391): pos. 262 - 324
+

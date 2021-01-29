@@ -1,0 +1,16 @@
+* Organism:
+- Hephaestia caeni
+* Protein length:
+- 1076.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 52 - 78
+- YadA_head (PF05658): pos. 332 - 358
+- YadA_head (PF05658): pos. 346 - 370
+- YadA_head (PF05658): pos. 388 - 414
+- YadA_head (PF05658): pos. 821 - 847
+- YadA_head (PF05658): pos. 877 - 903
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 291 - 333
+- YadA_stalk (PF05662): pos. 529 - 574
+- YadA_stalk (PF05662): pos. 652 - 697
+

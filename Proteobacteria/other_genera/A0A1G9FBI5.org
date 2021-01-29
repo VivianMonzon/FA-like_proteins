@@ -1,0 +1,24 @@
+* Organism:
+- Halomonas muralis
+* Protein length:
+- 2866.0
+* Adhesive domains:
+- VWA (PF00092): pos. 2305 - 2493
+* Stalk domains:
+- Big_9 (PF17963): pos. 162 - 259
+- Big_9 (PF17963): pos. 262 - 362
+- Big_9 (PF17963): pos. 365 - 477
+- Big_9 (PF17963): pos. 480 - 586
+- Big_9 (PF17963): pos. 971 - 1080
+- Big_9 (PF17963): pos. 1084 - 1191
+- Big_9 (PF17963): pos. 1190 - 1298
+- Big_9 (PF17963): pos. 1299 - 1408
+- Big_9 (PF17963): pos. 1412 - 1518
+- Big_9 (PF17963): pos. 1518 - 1629
+- Big_9 (PF17963): pos. 1633 - 1736
+- Big_9 (PF17963): pos. 1740 - 1849
+- Big_9 (PF17963): pos. 1849 - 1949
+- Big_9 (PF17963): pos. 1952 - 2051
+- Big_9 (PF17963): pos. 2055 - 2138
+- Big_9 (PF17963): pos. 2142 - 2250
+

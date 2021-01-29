@@ -1,0 +1,12 @@
+* Organism:
+- Haemophilus haemoglobinophilus
+* Protein length:
+- 1680.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 147 - 169
+- TAA-Trp-ring (PF15401): pos. 1234 - 1301
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 451 - 488
+- YadA_stalk (PF05662): pos. 1562 - 1604
+- Trp_ring (PF18669): pos. 1177 - 1225
+

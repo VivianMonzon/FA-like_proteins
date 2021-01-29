@@ -1,0 +1,9 @@
+* Organism:
+- Lysobacter sp. Root96
+* Protein length:
+- 487.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 293 - 319
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 53 - 89
+

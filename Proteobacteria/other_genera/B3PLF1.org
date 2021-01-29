@@ -1,0 +1,12 @@
+* Organism:
+- Cellvibrio japonicus (strain Ueda107) (Pseudomonas fluorescens subsp. cellulosa)
+* Protein length:
+- 2103.0
+* Adhesive domains:
+- VWA (PF00092): pos. 876 - 1054
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 290 - 369
+- CarboxypepD_reg (PF13620): pos. 385 - 461
+- CarboxypepD_reg (PF13620): pos. 562 - 642
+- CarboxypepD_reg (PF13620): pos. 652 - 734
+

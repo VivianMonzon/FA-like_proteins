@@ -1,0 +1,11 @@
+* Organism:
+- Faecalicatena orotica
+* Protein length:
+- 1929.0
+* Adhesive domains:
+- VWA (PF00092): pos. 623 - 765
+- VWA (PF00092): pos. 1133 - 1348
+* Stalk domains:
+- SpaA (PF17802): pos. 994 - 1062
+- SpaA (PF17802): pos. 1778 - 1854
+

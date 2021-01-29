@@ -1,0 +1,9 @@
+* Organism:
+- Flavihumibacter sp. ZG627
+* Protein length:
+- 645.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 18 - 229
+* Stalk domains:
+- PKD_4 (PF18911): pos. 221 - 297
+

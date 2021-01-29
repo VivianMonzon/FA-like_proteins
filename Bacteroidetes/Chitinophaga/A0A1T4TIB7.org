@@ -1,0 +1,12 @@
+* Organism:
+- Chitinophaga eiseniae
+* Protein length:
+- 2256.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 639 - 771
+* Stalk domains:
+- DUF5977 (PF19404): pos. 1875 - 1943
+- DUF5977 (PF19404): pos. 1938 - 1997
+- DUF5977 (PF19404): pos. 2002 - 2058
+- DUF5977 (PF19404): pos. 2062 - 2128
+

@@ -1,0 +1,11 @@
+* Organism:
+- Desulfobulbus oralis
+* Protein length:
+- 1495.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 371 - 594
+* Stalk domains:
+- Big_9 (PF17963): pos. 589 - 699
+- Big_9 (PF17963): pos. 1068 - 1178
+- Big_9 (PF17963): pos. 1182 - 1273
+

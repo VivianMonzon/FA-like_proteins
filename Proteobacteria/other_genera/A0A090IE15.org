@@ -1,0 +1,10 @@
+* Organism:
+- Moritella viscosa
+* Protein length:
+- 1595.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 226 - 383
+- PA14 (PF07691): pos. 677 - 820
+* Stalk domains:
+- Big_9 (PF17963): pos. 1249 - 1330
+

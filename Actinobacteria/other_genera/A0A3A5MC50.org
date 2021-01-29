@@ -1,0 +1,11 @@
+* Organism:
+- Cryobacterium sp. Hh39
+* Protein length:
+- 899.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 4 - 212
+* Stalk domains:
+- Big_13 (PF19077): pos. 286 - 369
+- Big_13 (PF19077): pos. 373 - 458
+- Big_13 (PF19077): pos. 464 - 547
+

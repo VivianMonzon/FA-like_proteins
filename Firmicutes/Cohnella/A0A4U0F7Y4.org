@@ -1,0 +1,9 @@
+* Organism:
+- Cohnella sp. CAU 1483
+* Protein length:
+- 939.0
+* Adhesive domains:
+- VWA (PF00092): pos. 82 - 293
+* Stalk domains:
+- PKD_4 (PF18911): pos. 576 - 657
+

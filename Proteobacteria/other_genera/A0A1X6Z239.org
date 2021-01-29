@@ -1,0 +1,9 @@
+* Organism:
+- Roseovarius halotolerans
+* Protein length:
+- 1189.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 129 - 253
+* Stalk domains:
+- Big_9 (PF17963): pos. 1090 - 1175
+

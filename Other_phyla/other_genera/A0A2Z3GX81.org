@@ -1,0 +1,10 @@
+* Organism:
+- Gemmata obscuriglobus
+* Protein length:
+- 2050.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 29 - 159
+* Stalk domains:
+- Calx-beta (PF03160): pos. 269 - 355
+- PKD_4 (PF18911): pos. 1709 - 1792
+

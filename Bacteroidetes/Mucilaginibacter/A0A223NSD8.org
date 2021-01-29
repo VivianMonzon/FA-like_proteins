@@ -1,0 +1,9 @@
+* Organism:
+- Mucilaginibacter xinganensis
+* Protein length:
+- 732.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 608 - 730
+* Stalk domains:
+- Beta_helix (PF13229): pos. 33 - 285
+

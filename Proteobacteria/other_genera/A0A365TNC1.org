@@ -1,0 +1,10 @@
+* Organism:
+- Roseovarius sp. TE539
+* Protein length:
+- 1426.0
+* Adhesive domains:
+- VWA (PF00092): pos. 501 - 667
+* Stalk domains:
+- Calx-beta (PF03160): pos. 863 - 966
+- Calx-beta (PF03160): pos. 982 - 1086
+

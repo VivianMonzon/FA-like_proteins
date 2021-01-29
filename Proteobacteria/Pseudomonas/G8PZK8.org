@@ -1,0 +1,14 @@
+* Organism:
+- Pseudomonas fluorescens (strain F113)
+* Protein length:
+- 2364.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1564 - 1746
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 1054 - 1137
+- Big_9 (PF17963): pos. 313 - 422
+- Big_9 (PF17963): pos. 563 - 668
+- Big_9 (PF17963): pos. 809 - 922
+- Big_9 (PF17963): pos. 1293 - 1402
+- Big_9 (PF17963): pos. 1860 - 1949
+

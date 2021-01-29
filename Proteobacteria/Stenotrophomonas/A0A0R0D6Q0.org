@@ -1,0 +1,32 @@
+* Organism:
+- Stenotrophomonas chelatiphaga
+* Protein length:
+- 2352.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 325 - 351
+- YadA_head (PF05658): pos. 393 - 419
+- YadA_head (PF05658): pos. 407 - 433
+- YadA_head (PF05658): pos. 421 - 447
+- YadA_head (PF05658): pos. 644 - 670
+- YadA_head (PF05658): pos. 706 - 732
+- YadA_head (PF05658): pos. 930 - 956
+- YadA_head (PF05658): pos. 986 - 1012
+- YadA_head (PF05658): pos. 1056 - 1081
+- YadA_head (PF05658): pos. 1265 - 1289
+- YadA_head (PF05658): pos. 1333 - 1371
+- YadA_head (PF05658): pos. 1536 - 1562
+- YadA_head (PF05658): pos. 1857 - 1883
+- YadA_head (PF05658): pos. 1927 - 1953
+- YadA_head (PF05658): pos. 2189 - 2213
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 1 - 39
+- YadA_stalk (PF05662): pos. 146 - 188
+- YadA_stalk (PF05662): pos. 465 - 507
+- YadA_stalk (PF05662): pos. 764 - 799
+- YadA_stalk (PF05662): pos. 1086 - 1127
+- YadA_stalk (PF05662): pos. 1377 - 1418
+- YadA_stalk (PF05662): pos. 1712 - 1753
+- YadA_stalk (PF05662): pos. 1976 - 2019
+- YadA_stalk (PF05662): pos. 2050 - 2090
+- YadA_stalk (PF05662): pos. 2219 - 2259
+

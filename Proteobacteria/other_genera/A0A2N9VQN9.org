@@ -1,0 +1,16 @@
+* Organism:
+- Phyllobacterium zundukense
+* Protein length:
+- 1288.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 82 - 108
+- YadA_head (PF05658): pos. 96 - 121
+- YadA_head (PF05658): pos. 281 - 307
+- YadA_head (PF05658): pos. 970 - 995
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 619 - 664
+- YadA_stalk (PF05662): pos. 757 - 802
+- YadA_stalk (PF05662): pos. 894 - 932
+- YadA_stalk (PF05662): pos. 1077 - 1122
+- YadA_stalk (PF05662): pos. 1147 - 1189
+

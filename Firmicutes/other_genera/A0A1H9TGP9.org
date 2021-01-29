@@ -1,0 +1,10 @@
+* Organism:
+- Isobaculum melis
+* Protein length:
+- 657.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 215 - 257
+- LRR_4 (PF12799): pos. 237 - 282
+* Stalk domains:
+- Big_3 (PF07523): pos. 537 - 604
+

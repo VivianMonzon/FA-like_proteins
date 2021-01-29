@@ -1,0 +1,15 @@
+* Organism:
+- Rhodoplanes elegans
+* Protein length:
+- 795.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 109 - 135
+- YadA_head (PF05658): pos. 221 - 247
+- YadA_head (PF05658): pos. 291 - 317
+- YadA_head (PF05658): pos. 319 - 345
+- YadA_head (PF05658): pos. 333 - 359
+- YadA_head (PF05658): pos. 565 - 591
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 377 - 422
+- YadA_stalk (PF05662): pos. 676 - 716
+

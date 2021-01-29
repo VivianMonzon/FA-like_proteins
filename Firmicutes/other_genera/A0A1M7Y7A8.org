@@ -1,0 +1,15 @@
+* Organism:
+- Anaerocolumna xylanovorans DSM 12503
+* Protein length:
+- 1594.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 190 - 315
+- Collagen_bind (PF05737): pos. 332 - 460
+- Collagen_bind (PF05737): pos. 475 - 598
+- Collagen_bind (PF05737): pos. 780 - 913
+- Collagen_bind (PF05737): pos. 931 - 1068
+* Stalk domains:
+- SpaA (PF17802): pos. 1095 - 1160
+- SpaA (PF17802): pos. 1194 - 1261
+- SpaA (PF17802): pos. 1286 - 1352
+

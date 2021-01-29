@@ -1,0 +1,9 @@
+* Organism:
+- Streptococcus sp. 28462
+* Protein length:
+- 621.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 182 - 318
+* Stalk domains:
+- FctA (PF12892): pos. 343 - 448
+

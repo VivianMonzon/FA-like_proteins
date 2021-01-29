@@ -1,0 +1,10 @@
+* Organism:
+- Granulicatella balaenopterae
+* Protein length:
+- 718.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 192 - 334
+* Stalk domains:
+- Cna_B (PF05738): pos. 460 - 543
+- SpaA (PF17802): pos. 367 - 443
+

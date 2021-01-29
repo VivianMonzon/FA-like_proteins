@@ -1,0 +1,24 @@
+* Organism:
+- Weissella ceti
+* Protein length:
+- 1607.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 55 - 291
+* Stalk domains:
+- DUF5978 (PF19405): pos. 293 - 363
+- DUF5978 (PF19405): pos. 367 - 438
+- DUF5978 (PF19405): pos. 445 - 516
+- DUF5978 (PF19405): pos. 523 - 593
+- DUF5978 (PF19405): pos. 600 - 671
+- DUF5978 (PF19405): pos. 678 - 748
+- DUF5978 (PF19405): pos. 755 - 827
+- DUF5978 (PF19405): pos. 831 - 906
+- DUF5978 (PF19405): pos. 910 - 985
+- DUF5978 (PF19405): pos. 989 - 1064
+- DUF5978 (PF19405): pos. 1068 - 1143
+- DUF5978 (PF19405): pos. 1147 - 1222
+- DUF5978 (PF19405): pos. 1226 - 1301
+- DUF5978 (PF19405): pos. 1305 - 1377
+- DUF5978 (PF19405): pos. 1381 - 1453
+- DUF5978 (PF19405): pos. 1457 - 1529
+

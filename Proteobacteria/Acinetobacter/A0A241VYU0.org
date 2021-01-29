@@ -1,0 +1,15 @@
+* Organism:
+- Acinetobacter sp. ANC 4558
+* Protein length:
+- 755.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 155 - 181
+- YadA_head (PF05658): pos. 236 - 262
+- YadA_head (PF05658): pos. 264 - 290
+- YadA_head (PF05658): pos. 292 - 318
+- YadA_head (PF05658): pos. 376 - 402
+- YadA_head (PF05658): pos. 404 - 430
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 473 - 518
+- YadA_stalk (PF05662): pos. 600 - 644
+

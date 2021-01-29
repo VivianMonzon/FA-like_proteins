@@ -1,0 +1,11 @@
+* Organism:
+- Paenibacillus antri
+* Protein length:
+- 1246.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 794 - 924
+- PA14 (PF07691): pos. 952 - 1080
+- PA14 (PF07691): pos. 1123 - 1237
+* Stalk domains:
+- Beta_helix (PF13229): pos. 497 - 643
+

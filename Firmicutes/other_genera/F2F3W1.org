@@ -1,0 +1,9 @@
+* Organism:
+- Solibacillus silvestris (strain StLB046) (Bacillus silvestris)
+* Protein length:
+- 961.0
+* Adhesive domains:
+- VWA (PF00092): pos. 47 - 217
+* Stalk domains:
+- Big_2 (PF02368): pos. 706 - 790
+

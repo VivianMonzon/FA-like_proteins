@@ -1,0 +1,10 @@
+* Organism:
+- Chitinophaga rupis
+* Protein length:
+- 2217.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 616 - 757
+* Stalk domains:
+- DUF5977 (PF19404): pos. 1883 - 1939
+- DUF5977 (PF19404): pos. 2057 - 2119
+

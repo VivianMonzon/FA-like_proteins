@@ -1,0 +1,35 @@
+* Organism:
+- Bordetella ansorpii
+* Protein length:
+- 3592.0
+* Adhesive domains:
+- VWA (PF00092): pos. 2921 - 3133
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 2755 - 2820
+- Big_9 (PF17963): pos. 14 - 115
+- Big_9 (PF17963): pos. 119 - 224
+- Big_9 (PF17963): pos. 224 - 326
+- Big_9 (PF17963): pos. 330 - 436
+- Big_9 (PF17963): pos. 436 - 537
+- Big_9 (PF17963): pos. 541 - 646
+- Big_9 (PF17963): pos. 646 - 748
+- Big_9 (PF17963): pos. 752 - 856
+- Big_9 (PF17963): pos. 856 - 958
+- Big_9 (PF17963): pos. 962 - 1067
+- Big_9 (PF17963): pos. 1067 - 1169
+- Big_9 (PF17963): pos. 1173 - 1278
+- Big_9 (PF17963): pos. 1278 - 1380
+- Big_9 (PF17963): pos. 1384 - 1490
+- Big_9 (PF17963): pos. 1490 - 1591
+- Big_9 (PF17963): pos. 1595 - 1699
+- Big_9 (PF17963): pos. 1699 - 1800
+- Big_9 (PF17963): pos. 1804 - 1910
+- Big_9 (PF17963): pos. 1910 - 2012
+- Big_9 (PF17963): pos. 2016 - 2122
+- Big_9 (PF17963): pos. 2122 - 2224
+- Big_9 (PF17963): pos. 2228 - 2334
+- Big_9 (PF17963): pos. 2334 - 2436
+- Big_9 (PF17963): pos. 2440 - 2546
+- Big_9 (PF17963): pos. 2546 - 2647
+- Big_9 (PF17963): pos. 2651 - 2753
+

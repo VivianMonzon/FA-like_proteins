@@ -1,0 +1,12 @@
+* Organism:
+- Weissella cryptocerci
+* Protein length:
+- 897.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 230 - 468
+* Stalk domains:
+- MucBP (PF06458): pos. 477 - 547
+- MucBP (PF06458): pos. 552 - 633
+- MucBP (PF06458): pos. 637 - 699
+- MucBP (PF06458): pos. 703 - 765
+

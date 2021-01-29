@@ -1,0 +1,9 @@
+* Organism:
+- Paenibacillus sp. 598K
+* Protein length:
+- 798.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 670 - 798
+* Stalk domains:
+- Collagen (PF01391): pos. 308 - 370
+

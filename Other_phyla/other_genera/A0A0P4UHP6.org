@@ -1,0 +1,12 @@
+* Organism:
+- Leptolyngbya sp. NIES-2104
+* Protein length:
+- 1350.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 205 - 340
+- PA14 (PF07691): pos. 356 - 492
+- PA14 (PF07691): pos. 509 - 644
+* Stalk domains:
+- Calx-beta (PF03160): pos. 652 - 743
+- Calx-beta (PF03160): pos. 756 - 855
+

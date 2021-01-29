@@ -1,0 +1,12 @@
+* Organism:
+- Flavobacterium kingsejongi
+* Protein length:
+- 2032.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 17 - 150
+- Cleaved_Adhesin (PF07675): pos. 513 - 663
+- Cleaved_Adhesin (PF07675): pos. 768 - 906
+* Stalk domains:
+- fn3 (PF00041): pos. 194 - 272
+- fn3 (PF00041): pos. 932 - 1012
+

@@ -1,0 +1,10 @@
+* Organism:
+- Massilia namucuonensis
+* Protein length:
+- 523.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 338 - 522
+* Stalk domains:
+- Big_2 (PF02368): pos. 44 - 126
+- Big_2 (PF02368): pos. 136 - 218
+

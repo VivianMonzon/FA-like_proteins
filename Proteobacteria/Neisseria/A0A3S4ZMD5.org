@@ -1,0 +1,20 @@
+* Organism:
+- Neisseria weaveri
+* Protein length:
+- 3209.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 133 - 159
+- YadA_head (PF05658): pos. 148 - 172
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 331 - 373
+- YadA_stalk (PF05662): pos. 432 - 472
+- YadA_stalk (PF05662): pos. 704 - 749
+- YadA_stalk (PF05662): pos. 863 - 905
+- YadA_stalk (PF05662): pos. 1166 - 1211
+- YadA_stalk (PF05662): pos. 1329 - 1370
+- YadA_stalk (PF05662): pos. 1854 - 1895
+- YadA_stalk (PF05662): pos. 2101 - 2146
+- YadA_stalk (PF05662): pos. 2280 - 2325
+- YadA_stalk (PF05662): pos. 3098 - 3140
+- Trp_ring (PF18669): pos. 2595 - 2643
+

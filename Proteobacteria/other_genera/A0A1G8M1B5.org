@@ -1,0 +1,10 @@
+* Organism:
+- Lutimaribacter saemankumensis
+* Protein length:
+- 1329.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 91 - 214
+- PA14 (PF07691): pos. 289 - 413
+* Stalk domains:
+- Big_9 (PF17963): pos. 1229 - 1315
+

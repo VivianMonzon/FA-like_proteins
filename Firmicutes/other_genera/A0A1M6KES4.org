@@ -1,0 +1,10 @@
+* Organism:
+- Paramaledivibacter caminithermalis DSM 15212
+* Protein length:
+- 374.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 259 - 301
+- LRR_4 (PF12799): pos. 303 - 345
+* Stalk domains:
+- Big_5 (PF13205): pos. 19 - 119
+

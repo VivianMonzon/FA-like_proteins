@@ -1,0 +1,13 @@
+* Organism:
+- Enterococcus durans
+* Protein length:
+- 969.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 207 - 349
+* Stalk domains:
+- FctA (PF12892): pos. 480 - 582
+- FctA (PF12892): pos. 590 - 693
+- FctA (PF12892): pos. 701 - 804
+- FctA (PF12892): pos. 812 - 915
+- SpaA (PF17802): pos. 387 - 460
+

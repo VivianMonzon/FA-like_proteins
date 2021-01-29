@@ -1,0 +1,13 @@
+* Organism:
+- Spirosoma oryzae
+* Protein length:
+- 1401.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 852 - 986
+- PA14 (PF07691): pos. 1161 - 1300
+* Stalk domains:
+- Beta_helix (PF13229): pos. 247 - 383
+- Beta_helix (PF13229): pos. 275 - 451
+- Beta_helix (PF13229): pos. 353 - 539
+- Beta_helix (PF13229): pos. 438 - 571
+

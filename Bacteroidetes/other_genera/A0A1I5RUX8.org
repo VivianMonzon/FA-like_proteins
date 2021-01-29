@@ -1,0 +1,11 @@
+* Organism:
+- Parafilimonas terrae
+* Protein length:
+- 650.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 22 - 231
+* Stalk domains:
+- PKD_4 (PF18911): pos. 224 - 300
+- PKD_4 (PF18911): pos. 307 - 385
+- PKD_4 (PF18911): pos. 392 - 468
+

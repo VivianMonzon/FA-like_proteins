@@ -1,0 +1,35 @@
+* Organism:
+- Achromobacter piechaudii ATCC 43553
+* Protein length:
+- 5077.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 127 - 153
+- YadA_head (PF05658): pos. 4498 - 4524
+- YadA_head (PF05658): pos. 4818 - 4844
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 679 - 738
+- YadA_stalk (PF05662): pos. 852 - 894
+- YadA_stalk (PF05662): pos. 1049 - 1091
+- YadA_stalk (PF05662): pos. 1239 - 1280
+- YadA_stalk (PF05662): pos. 1429 - 1471
+- YadA_stalk (PF05662): pos. 1619 - 1661
+- YadA_stalk (PF05662): pos. 1816 - 1858
+- YadA_stalk (PF05662): pos. 2013 - 2055
+- YadA_stalk (PF05662): pos. 2210 - 2252
+- YadA_stalk (PF05662): pos. 2407 - 2449
+- YadA_stalk (PF05662): pos. 2604 - 2646
+- YadA_stalk (PF05662): pos. 2801 - 2843
+- YadA_stalk (PF05662): pos. 2998 - 3040
+- YadA_stalk (PF05662): pos. 3195 - 3237
+- YadA_stalk (PF05662): pos. 3392 - 3432
+- YadA_stalk (PF05662): pos. 3589 - 3631
+- YadA_stalk (PF05662): pos. 3786 - 3828
+- YadA_stalk (PF05662): pos. 3983 - 4025
+- YadA_stalk (PF05662): pos. 4180 - 4221
+- YadA_stalk (PF05662): pos. 4370 - 4404
+- YadA_stalk (PF05662): pos. 4429 - 4474
+- YadA_stalk (PF05662): pos. 4564 - 4606
+- YadA_stalk (PF05662): pos. 4742 - 4784
+- YadA_stalk (PF05662): pos. 4863 - 4905
+- YadA_stalk (PF05662): pos. 4916 - 4956
+

@@ -1,0 +1,16 @@
+* Organism:
+- Clostridium sp. JN-9
+* Protein length:
+- 1400.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 318 - 437
+- Collagen_bind (PF05737): pos. 447 - 563
+- Collagen_bind (PF05737): pos. 573 - 697
+- Collagen_bind (PF05737): pos. 708 - 836
+* Stalk domains:
+- SpaA (PF17802): pos. 866 - 935
+- SpaA (PF17802): pos. 961 - 1028
+- SpaA (PF17802): pos. 1051 - 1122
+- SpaA (PF17802): pos. 1160 - 1227
+- SpaA (PF17802): pos. 1251 - 1318
+

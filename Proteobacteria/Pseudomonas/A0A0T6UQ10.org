@@ -1,0 +1,10 @@
+* Organism:
+- Pseudomonas sp. TTU2014-080ASC
+* Protein length:
+- 1242.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 772 - 904
+* Stalk domains:
+- PATR (PF12951): pos. 509 - 546
+- PATR (PF12951): pos. 613 - 642
+

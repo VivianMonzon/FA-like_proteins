@@ -1,0 +1,9 @@
+* Organism:
+- Shigella flexneri
+* Protein length:
+- 1102.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 608 - 737
+* Stalk domains:
+- PATR (PF12951): pos. 527 - 556
+

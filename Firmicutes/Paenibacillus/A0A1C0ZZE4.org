@@ -1,0 +1,15 @@
+* Organism:
+- Paenibacillus pectinilyticus
+* Protein length:
+- 1137.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 999 - 1132
+* Stalk domains:
+- fn3 (PF00041): pos. 652 - 728
+- fn3 (PF00041): pos. 814 - 891
+- fn3 (PF00041): pos. 909 - 986
+- PKD (PF00801): pos. 470 - 541
+- Beta_helix (PF13229): pos. 75 - 238
+- Beta_helix (PF13229): pos. 116 - 285
+- Beta_helix (PF13229): pos. 174 - 340
+

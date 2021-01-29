@@ -1,0 +1,24 @@
+* Organism:
+- Neisseria sicca ATCC 29256
+* Protein length:
+- 3073.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 379 - 405
+- YadA_head (PF05658): pos. 463 - 489
+- YadA_head (PF05658): pos. 627 - 653
+- YadA_head (PF05658): pos. 1015 - 1040
+- YadA_head (PF05658): pos. 1126 - 1152
+- YadA_head (PF05658): pos. 2805 - 2831
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 853 - 898
+- YadA_stalk (PF05662): pos. 1234 - 1279
+- YadA_stalk (PF05662): pos. 1385 - 1425
+- YadA_stalk (PF05662): pos. 1483 - 1525
+- YadA_stalk (PF05662): pos. 1659 - 1696
+- YadA_stalk (PF05662): pos. 1850 - 1893
+- YadA_stalk (PF05662): pos. 2111 - 2153
+- YadA_stalk (PF05662): pos. 2213 - 2255
+- YadA_stalk (PF05662): pos. 2547 - 2587
+- YadA_stalk (PF05662): pos. 2654 - 2699
+- YadA_stalk (PF05662): pos. 2941 - 2986
+

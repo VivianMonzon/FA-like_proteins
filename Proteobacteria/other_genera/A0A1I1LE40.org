@@ -1,0 +1,10 @@
+* Organism:
+- Cupriavidus sp. OV038
+* Protein length:
+- 373.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 247 - 273
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 55 - 99
+- YadA_stalk (PF05662): pos. 319 - 354
+

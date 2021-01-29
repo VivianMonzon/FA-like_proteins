@@ -1,0 +1,12 @@
+* Organism:
+- Anaerotignum neopropionicum
+* Protein length:
+- 1817.0
+* Adhesive domains:
+- VWA (PF00092): pos. 147 - 320
+* Stalk domains:
+- Flg_new (PF09479): pos. 443 - 516
+- Flg_new (PF09479): pos. 688 - 765
+- Flg_new (PF09479): pos. 984 - 1059
+- Flg_new (PF09479): pos. 1341 - 1410
+

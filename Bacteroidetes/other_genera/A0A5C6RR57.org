@@ -1,0 +1,10 @@
+* Organism:
+- Vicingus serpentipes
+* Protein length:
+- 851.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 613 - 764
+* Stalk domains:
+- fn3 (PF00041): pos. 151 - 231
+- fn3 (PF00041): pos. 422 - 502
+

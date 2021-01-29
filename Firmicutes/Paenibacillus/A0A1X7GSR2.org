@@ -1,0 +1,16 @@
+* Organism:
+- Paenibacillus uliginis N3/975
+* Protein length:
+- 1469.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 225 - 351
+- Collagen_bind (PF05737): pos. 360 - 493
+- Collagen_bind (PF05737): pos. 501 - 624
+- Collagen_bind (PF05737): pos. 639 - 770
+- Collagen_bind (PF05737): pos. 783 - 916
+* Stalk domains:
+- SpaA (PF17802): pos. 945 - 1009
+- SpaA (PF17802): pos. 1043 - 1116
+- SpaA (PF17802): pos. 1141 - 1209
+- SpaA (PF17802): pos. 1235 - 1307
+

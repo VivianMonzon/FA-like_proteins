@@ -1,0 +1,10 @@
+* Organism:
+- Budvicia aquatica
+* Protein length:
+- 1084.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 623 - 738
+* Stalk domains:
+- PATR (PF12951): pos. 434 - 462
+- PATR (PF12951): pos. 528 - 553
+

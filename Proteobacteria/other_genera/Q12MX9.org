@@ -1,0 +1,11 @@
+* Organism:
+- Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013)
+* Protein length:
+- 595.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 382 - 591
+* Stalk domains:
+- Big_5 (PF13205): pos. 42 - 146
+- Big_5 (PF13205): pos. 147 - 252
+- Big_5 (PF13205): pos. 257 - 361
+

@@ -1,0 +1,10 @@
+* Organism:
+- Chitinophaga barathri
+* Protein length:
+- 646.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 19 - 228
+* Stalk domains:
+- PKD_4 (PF18911): pos. 224 - 297
+- PKD_4 (PF18911): pos. 302 - 380
+

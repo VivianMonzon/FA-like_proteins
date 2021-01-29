@@ -1,0 +1,9 @@
+* Organism:
+- Dyadobacter psychrotolerans
+* Protein length:
+- 616.0
+* Adhesive domains:
+- VWA (PF00092): pos. 247 - 418
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 23 - 104
+

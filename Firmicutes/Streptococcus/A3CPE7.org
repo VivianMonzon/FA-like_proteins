@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus sanguinis (strain SK36)
+* Protein length:
+- 645.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 210 - 345
+* Stalk domains:
+- SpaA (PF17802): pos. 371 - 437
+- SpaA (PF17802): pos. 482 - 550
+

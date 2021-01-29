@@ -1,0 +1,23 @@
+* Organism:
+- Adhaeribacter sp. HMF7616
+* Protein length:
+- 1708.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 34 - 224
+* Stalk domains:
+- DUF11 (PF01345): pos. 229 - 357
+- PKD_6 (PF19408): pos. 361 - 456
+- PKD_6 (PF19408): pos. 459 - 557
+- PKD_6 (PF19408): pos. 560 - 646
+- PKD_6 (PF19408): pos. 647 - 729
+- PKD_6 (PF19408): pos. 731 - 824
+- PKD_6 (PF19408): pos. 827 - 914
+- PKD_6 (PF19408): pos. 917 - 1003
+- PKD_6 (PF19408): pos. 1005 - 1089
+- PKD_6 (PF19408): pos. 1092 - 1177
+- PKD_6 (PF19408): pos. 1180 - 1266
+- PKD_6 (PF19408): pos. 1269 - 1352
+- PKD_6 (PF19408): pos. 1355 - 1443
+- PKD_6 (PF19408): pos. 1447 - 1530
+- PKD_6 (PF19408): pos. 1532 - 1615
+

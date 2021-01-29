@@ -1,0 +1,14 @@
+* Organism:
+- Clostridium puniceum
+* Protein length:
+- 1846.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 521 - 638
+- Collagen_bind (PF05737): pos. 784 - 917
+- Collagen_bind (PF05737): pos. 932 - 1053
+* Stalk domains:
+- SpaA (PF17802): pos. 1086 - 1154
+- SpaA (PF17802): pos. 1181 - 1252
+- SpaA (PF17802): pos. 1281 - 1352
+- SpaA (PF17802): pos. 1388 - 1453
+

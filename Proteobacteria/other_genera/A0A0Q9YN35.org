@@ -1,0 +1,22 @@
+* Organism:
+- Candidatus Berkiella aquae
+* Protein length:
+- 4642.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1339 - 1527
+- VWA (PF00092): pos. 2067 - 2257
+- VWA (PF00092): pos. 3298 - 3488
+- VWA (PF00092): pos. 4027 - 4214
+* Stalk domains:
+- Big_9 (PF17963): pos. 1784 - 1886
+- Big_9 (PF17963): pos. 2501 - 2615
+- Big_9 (PF17963): pos. 2764 - 2866
+- Big_9 (PF17963): pos. 3015 - 3117
+- Big_9 (PF17963): pos. 3744 - 3846
+- DUF5801 (PF19116): pos. 311 - 453
+- DUF5801 (PF19116): pos. 465 - 623
+- DUF5801 (PF19116): pos. 635 - 793
+- DUF5801 (PF19116): pos. 805 - 963
+- DUF5801 (PF19116): pos. 975 - 1133
+- DUF5801 (PF19116): pos. 1145 - 1302
+

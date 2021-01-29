@@ -1,0 +1,13 @@
+* Organism:
+- Pseudooceanicola atlanticus
+* Protein length:
+- 1844.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1449 - 1629
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 144 - 218
+- Big_9 (PF17963): pos. 657 - 758
+- Big_9 (PF17963): pos. 763 - 864
+- Big_9 (PF17963): pos. 865 - 956
+- Big_9 (PF17963): pos. 1311 - 1400
+

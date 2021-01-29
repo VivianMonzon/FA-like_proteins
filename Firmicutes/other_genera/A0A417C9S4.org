@@ -1,0 +1,9 @@
+* Organism:
+- Erysipelatoclostridium sp. AM42-17
+* Protein length:
+- 761.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 510 - 627
+* Stalk domains:
+- SHIRT (PF18655): pos. 622 - 705
+

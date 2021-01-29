@@ -1,0 +1,9 @@
+* Organism:
+- Absicoccus porci
+* Protein length:
+- 362.0
+* Adhesive domains:
+- TED (PF08341): pos. 149 - 283
+* Stalk domains:
+- SpaA (PF17802): pos. 50 - 114
+

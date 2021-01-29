@@ -1,0 +1,12 @@
+* Organism:
+- Fimbriimonas ginsengisoli Gsoil 348
+* Protein length:
+- 665.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 472 - 659
+* Stalk domains:
+- Big_5 (PF13205): pos. 32 - 133
+- Big_5 (PF13205): pos. 138 - 240
+- Big_5 (PF13205): pos. 245 - 348
+- Big_5 (PF13205): pos. 353 - 453
+

@@ -1,0 +1,12 @@
+* Organism:
+- Flavobacterium sp. KMS
+* Protein length:
+- 2324.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 126 - 168
+- LRR_4 (PF12799): pos. 452 - 499
+* Stalk domains:
+- DUF5978 (PF19405): pos. 222 - 266
+- DUF5978 (PF19405): pos. 561 - 595
+- DUF5978 (PF19405): pos. 874 - 920
+

@@ -1,0 +1,11 @@
+* Organism:
+- Luteimonas aestuarii
+* Protein length:
+- 456.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 91 - 117
+- YadA_head (PF05658): pos. 119 - 144
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 149 - 189
+- YadA_stalk (PF05662): pos. 303 - 344
+

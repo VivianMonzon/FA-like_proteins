@@ -1,0 +1,13 @@
+* Organism:
+- Mucilaginibacter sp. PPCGB 2223
+* Protein length:
+- 1382.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 39 - 321
+* Stalk domains:
+- Big_9 (PF17963): pos. 591 - 695
+- Big_9 (PF17963): pos. 700 - 782
+- Big_9 (PF17963): pos. 785 - 868
+- Big_9 (PF17963): pos. 870 - 955
+- Big_9 (PF17963): pos. 1185 - 1275
+

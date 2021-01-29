@@ -1,0 +1,13 @@
+* Organism:
+- Pirellula staleyi (strain ATCC 27377 / DSM 6068 / ICPB 4128) (Pirella staleyi)
+* Protein length:
+- 4109.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 907 - 1001
+- PA14 (PF07691): pos. 1089 - 1193
+* Stalk domains:
+- PATR (PF12951): pos. 371 - 401
+- PATR (PF12951): pos. 683 - 713
+- PATR (PF12951): pos. 1214 - 1243
+- PATR (PF12951): pos. 2467 - 2496
+

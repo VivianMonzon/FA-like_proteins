@@ -1,0 +1,12 @@
+* Organism:
+- Enterococcus thailandicus
+* Protein length:
+- 1196.0
+* Adhesive domains:
+- VWA (PF00092): pos. 348 - 595
+* Stalk domains:
+- Cna_B (PF05738): pos. 730 - 835
+- SpaA (PF17802): pos. 849 - 917
+- SpaA (PF17802): pos. 948 - 1016
+- SpaA (PF17802): pos. 1065 - 1131
+

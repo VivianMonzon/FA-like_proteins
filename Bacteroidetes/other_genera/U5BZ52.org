@@ -1,0 +1,9 @@
+* Organism:
+- Rhodonellum psychrophilum GCM71 = DSM 17998
+* Protein length:
+- 782.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 34 - 297
+* Stalk domains:
+- PKD_4 (PF18911): pos. 627 - 677
+

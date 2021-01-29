@@ -1,0 +1,9 @@
+* Organism:
+- Roseburia sp. CAG:50
+* Protein length:
+- 1439.0
+* Adhesive domains:
+- VWA (PF00092): pos. 739 - 903
+* Stalk domains:
+- SpaA (PF17802): pos. 1298 - 1372
+

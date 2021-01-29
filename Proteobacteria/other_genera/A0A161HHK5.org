@@ -1,0 +1,14 @@
+* Organism:
+- Dokdonella koreensis DS-123
+* Protein length:
+- 1922.0
+* Adhesive domains:
+- TED (PF08341): pos. 39 - 148
+* Stalk domains:
+- DUF11 (PF01345): pos. 543 - 671
+- DUF11 (PF01345): pos. 688 - 790
+- DUF11 (PF01345): pos. 1374 - 1472
+- DUF11 (PF01345): pos. 1508 - 1607
+- DUF11 (PF01345): pos. 1624 - 1743
+- DUF11 (PF01345): pos. 1756 - 1865
+

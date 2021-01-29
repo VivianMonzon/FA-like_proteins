@@ -1,0 +1,33 @@
+* Organism:
+- Paraburkholderia ribeironis
+* Protein length:
+- 2227.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 476 - 502
+- YadA_head (PF05658): pos. 894 - 919
+- YadA_head (PF05658): pos. 1153 - 1179
+- YadA_head (PF05658): pos. 1576 - 1601
+- YadA_head (PF05658): pos. 2057 - 2083
+- YadA_head (PF05658): pos. 2072 - 2097
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 171 - 215
+- YadA_stalk (PF05662): pos. 279 - 308
+- YadA_stalk (PF05662): pos. 336 - 382
+- YadA_stalk (PF05662): pos. 413 - 457
+- YadA_stalk (PF05662): pos. 520 - 554
+- YadA_stalk (PF05662): pos. 579 - 623
+- YadA_stalk (PF05662): pos. 728 - 768
+- YadA_stalk (PF05662): pos. 937 - 977
+- YadA_stalk (PF05662): pos. 1022 - 1064
+- YadA_stalk (PF05662): pos. 1079 - 1124
+- YadA_stalk (PF05662): pos. 1197 - 1239
+- YadA_stalk (PF05662): pos. 1258 - 1301
+- YadA_stalk (PF05662): pos. 1410 - 1450
+- YadA_stalk (PF05662): pos. 1619 - 1658
+- YadA_stalk (PF05662): pos. 1711 - 1753
+- YadA_stalk (PF05662): pos. 1769 - 1814
+- YadA_stalk (PF05662): pos. 1869 - 1911
+- YadA_stalk (PF05662): pos. 1926 - 1968
+- YadA_stalk (PF05662): pos. 1988 - 2030
+- YadA_stalk (PF05662): pos. 2115 - 2157
+

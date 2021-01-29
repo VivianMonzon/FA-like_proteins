@@ -1,0 +1,10 @@
+* Organism:
+- Cellvibrio sp. PSBB023
+* Protein length:
+- 1773.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1599 - 1706
+* Stalk domains:
+- Big_6 (PF17936): pos. 1361 - 1443
+- Big_6 (PF17936): pos. 1446 - 1527
+

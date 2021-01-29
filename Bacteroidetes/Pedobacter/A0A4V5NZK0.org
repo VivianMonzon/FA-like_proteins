@@ -1,0 +1,9 @@
+* Organism:
+- Pedobacter sp. RP-3-15
+* Protein length:
+- 525.0
+* Adhesive domains:
+- VWA (PF00092): pos. 305 - 484
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 26 - 104
+

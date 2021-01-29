@@ -1,0 +1,9 @@
+* Organism:
+- Pedobacter steynii
+* Protein length:
+- 631.0
+* Adhesive domains:
+- VWA (PF00092): pos. 253 - 425
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 24 - 96
+

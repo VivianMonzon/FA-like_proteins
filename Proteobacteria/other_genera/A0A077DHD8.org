@@ -1,0 +1,14 @@
+* Organism:
+- Basilea psittacipulmonis DSM 24701
+* Protein length:
+- 4324.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 558 - 584
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 651 - 684
+- YadA_stalk (PF05662): pos. 762 - 795
+- YadA_stalk (PF05662): pos. 1160 - 1202
+- YadA_stalk (PF05662): pos. 2974 - 3016
+- YadA_stalk (PF05662): pos. 3244 - 3286
+- YadA_stalk (PF05662): pos. 4209 - 4250
+

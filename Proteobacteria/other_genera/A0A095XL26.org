@@ -1,0 +1,9 @@
+* Organism:
+- Rhizobium sp. YS-1r
+* Protein length:
+- 970.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 510 - 630
+* Stalk domains:
+- PATR (PF12951): pos. 381 - 410
+

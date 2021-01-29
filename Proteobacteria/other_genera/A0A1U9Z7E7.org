@@ -1,0 +1,17 @@
+* Organism:
+- Martelella mediterranea DSM 17316
+* Protein length:
+- 1551.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1127 - 1312
+* Stalk domains:
+- Big_12 (PF19078): pos. 237 - 328
+- Big_12 (PF19078): pos. 329 - 430
+- Big_12 (PF19078): pos. 429 - 521
+- Big_12 (PF19078): pos. 521 - 622
+- Big_12 (PF19078): pos. 621 - 713
+- Big_12 (PF19078): pos. 713 - 814
+- Big_12 (PF19078): pos. 813 - 906
+- Big_12 (PF19078): pos. 905 - 1006
+- Big_12 (PF19078): pos. 1005 - 1101
+

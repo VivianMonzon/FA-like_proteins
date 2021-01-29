@@ -1,0 +1,10 @@
+* Organism:
+- Conexibacter sp. Seoho-28
+* Protein length:
+- 290.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 165 - 290
+* Stalk domains:
+- Collagen (PF01391): pos. 67 - 127
+- Collagen (PF01391): pos. 110 - 159
+

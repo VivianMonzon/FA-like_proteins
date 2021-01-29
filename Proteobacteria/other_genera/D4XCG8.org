@@ -1,0 +1,9 @@
+* Organism:
+- Achromobacter piechaudii ATCC 43553
+* Protein length:
+- 853.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 381 - 504
+* Stalk domains:
+- PATR (PF12951): pos. 325 - 355
+

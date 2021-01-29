@@ -1,0 +1,9 @@
+* Organism:
+- Salana multivorans
+* Protein length:
+- 536.0
+* Adhesive domains:
+- TED (PF08341): pos. 78 - 187
+* Stalk domains:
+- TQ (PF18202): pos. 331 - 448
+

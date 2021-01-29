@@ -1,0 +1,10 @@
+* Organism:
+- Flavilitoribacter nigricans DSM 23189 = NBRC 102662
+* Protein length:
+- 780.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 672 - 779
+* Stalk domains:
+- Beta_helix (PF13229): pos. 142 - 316
+- Beta_helix (PF13229): pos. 334 - 495
+

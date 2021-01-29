@@ -1,0 +1,9 @@
+* Organism:
+- Reichenbachiella sp. 5M10
+* Protein length:
+- 1013.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 497 - 630
+* Stalk domains:
+- Beta_helix (PF13229): pos. 193 - 374
+

@@ -1,0 +1,10 @@
+* Organism:
+- Crocosphaera watsonii WH 8501
+* Protein length:
+- 927.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 381 - 427
+* Stalk domains:
+- Calx-beta (PF03160): pos. 3 - 95
+- He_PIG (PF05345): pos. 437 - 523
+

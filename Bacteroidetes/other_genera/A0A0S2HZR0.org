@@ -1,0 +1,9 @@
+* Organism:
+- Salinivirga cyanobacteriivorans
+* Protein length:
+- 621.0
+* Adhesive domains:
+- VWA (PF00092): pos. 263 - 434
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 31 - 103
+

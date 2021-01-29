@@ -1,0 +1,9 @@
+* Organism:
+- Thiohalomonas denitrificans
+* Protein length:
+- 440.0
+* Adhesive domains:
+- VWA (PF00092): pos. 99 - 269
+* Stalk domains:
+- He_PIG (PF05345): pos. 319 - 402
+

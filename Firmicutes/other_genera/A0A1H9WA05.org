@@ -1,0 +1,31 @@
+* Organism:
+- Salisediminibacterium haloalkalitolerans
+* Protein length:
+- 3116.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 443 - 567
+- Collagen_bind (PF05737): pos. 578 - 708
+- Collagen_bind (PF05737): pos. 849 - 980
+- Collagen_bind (PF05737): pos. 989 - 1126
+* Stalk domains:
+- Cna_B (PF05738): pos. 1738 - 1829
+- Cna_B (PF05738): pos. 1834 - 1924
+- Cna_B (PF05738): pos. 1931 - 2027
+- Cna_B (PF05738): pos. 2034 - 2115
+- Cna_B (PF05738): pos. 2122 - 2203
+- Cna_B (PF05738): pos. 2210 - 2300
+- Cna_B (PF05738): pos. 2307 - 2399
+- Cna_B (PF05738): pos. 2404 - 2493
+- Cna_B (PF05738): pos. 2500 - 2581
+- Cna_B (PF05738): pos. 2588 - 2669
+- Cna_B (PF05738): pos. 2676 - 2757
+- Cna_B (PF05738): pos. 2764 - 2845
+- Cna_B (PF05738): pos. 2852 - 2933
+- Cna_B (PF05738): pos. 2940 - 3021
+- SpaA (PF17802): pos. 1156 - 1216
+- SpaA (PF17802): pos. 1249 - 1316
+- SpaA (PF17802): pos. 1349 - 1422
+- SpaA (PF17802): pos. 1451 - 1522
+- SpaA (PF17802): pos. 1549 - 1620
+- SpaA (PF17802): pos. 1649 - 1720
+

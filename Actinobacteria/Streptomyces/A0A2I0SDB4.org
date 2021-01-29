@@ -1,0 +1,14 @@
+* Organism:
+- Streptomyces populi
+* Protein length:
+- 950.0
+* Adhesive domains:
+- VWA (PF00092): pos. 74 - 255
+* Stalk domains:
+- DUF11 (PF01345): pos. 740 - 846
+- HYR (PF02494): pos. 338 - 416
+- HYR (PF02494): pos. 416 - 493
+- HYR (PF02494): pos. 494 - 571
+- HYR (PF02494): pos. 572 - 651
+- HYR (PF02494): pos. 650 - 727
+

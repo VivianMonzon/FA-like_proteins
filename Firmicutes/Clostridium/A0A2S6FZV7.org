@@ -1,0 +1,18 @@
+* Organism:
+- Clostridium algidicarnis DSM 15099
+* Protein length:
+- 1564.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 191 - 312
+- Collagen_bind (PF05737): pos. 320 - 438
+- Collagen_bind (PF05737): pos. 446 - 574
+- Collagen_bind (PF05737): pos. 711 - 840
+* Stalk domains:
+- SpaA (PF17802): pos. 870 - 939
+- SpaA (PF17802): pos. 964 - 1035
+- SpaA (PF17802): pos. 1061 - 1132
+- SpaA (PF17802): pos. 1158 - 1229
+- SpaA (PF17802): pos. 1255 - 1326
+- SpaA (PF17802): pos. 1352 - 1419
+- SpaA (PF17802): pos. 1442 - 1509
+

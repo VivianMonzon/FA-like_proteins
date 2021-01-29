@@ -1,0 +1,14 @@
+* Organism:
+- Xenorhabdus doucetiae
+* Protein length:
+- 1575.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1086 - 1215
+* Stalk domains:
+- PATR (PF12951): pos. 449 - 476
+- PATR (PF12951): pos. 519 - 548
+- PATR (PF12951): pos. 585 - 619
+- PATR (PF12951): pos. 659 - 689
+- PATR (PF12951): pos. 956 - 985
+- PATR (PF12951): pos. 1026 - 1054
+

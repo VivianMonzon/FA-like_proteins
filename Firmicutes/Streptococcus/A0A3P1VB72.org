@@ -1,0 +1,9 @@
+* Organism:
+- Streptococcus minor
+* Protein length:
+- 616.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 186 - 332
+* Stalk domains:
+- FctA (PF12892): pos. 357 - 464
+

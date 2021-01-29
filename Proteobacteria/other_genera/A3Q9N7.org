@@ -1,0 +1,40 @@
+* Organism:
+- Shewanella loihica (strain ATCC BAA-1088 / PV-4)
+* Protein length:
+- 4836.0
+* Adhesive domains:
+- VWA (PF00092): pos. 4285 - 4420
+* Stalk domains:
+- Big_11 (PF18200): pos. 217 - 291
+- Big_11 (PF18200): pos. 318 - 392
+- Big_11 (PF18200): pos. 419 - 493
+- Big_11 (PF18200): pos. 520 - 594
+- Big_11 (PF18200): pos. 621 - 695
+- Big_11 (PF18200): pos. 722 - 796
+- Big_11 (PF18200): pos. 823 - 897
+- Big_11 (PF18200): pos. 924 - 998
+- Big_11 (PF18200): pos. 1025 - 1101
+- Big_11 (PF18200): pos. 1129 - 1208
+- Big_11 (PF18200): pos. 1236 - 1315
+- Big_11 (PF18200): pos. 1343 - 1422
+- Big_11 (PF18200): pos. 1450 - 1529
+- Big_11 (PF18200): pos. 1557 - 1636
+- Big_11 (PF18200): pos. 1664 - 1743
+- Big_11 (PF18200): pos. 1771 - 1850
+- Big_11 (PF18200): pos. 1878 - 1957
+- Big_11 (PF18200): pos. 1985 - 2064
+- Big_11 (PF18200): pos. 2091 - 2171
+- Big_11 (PF18200): pos. 2199 - 2278
+- Big_11 (PF18200): pos. 2306 - 2385
+- Big_11 (PF18200): pos. 2413 - 2492
+- Big_11 (PF18200): pos. 2520 - 2599
+- Big_11 (PF18200): pos. 2627 - 2706
+- Big_11 (PF18200): pos. 2734 - 2813
+- Big_11 (PF18200): pos. 2841 - 2920
+- Big_11 (PF18200): pos. 2948 - 3027
+- Big_11 (PF18200): pos. 3054 - 3134
+- Big_11 (PF18200): pos. 3157 - 3237
+- Big_11 (PF18200): pos. 3260 - 3340
+- Big_11 (PF18200): pos. 3363 - 3443
+- Big_11 (PF18200): pos. 4059 - 4135
+

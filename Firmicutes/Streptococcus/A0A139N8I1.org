@@ -1,0 +1,9 @@
+* Organism:
+- Streptococcus sp. DD10
+* Protein length:
+- 1427.0
+* Adhesive domains:
+- VWA (PF00092): pos. 676 - 841
+* Stalk domains:
+- G5 (PF07501): pos. 324 - 399
+

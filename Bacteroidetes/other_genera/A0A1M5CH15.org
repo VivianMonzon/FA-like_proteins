@@ -1,0 +1,27 @@
+* Organism:
+- Mariniphaga anaerophila
+* Protein length:
+- 2748.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 40 - 253
+* Stalk domains:
+- Big_5 (PF13205): pos. 549 - 660
+- Big_5 (PF13205): pos. 1507 - 1620
+- Big_5 (PF13205): pos. 1785 - 1898
+- Big_5 (PF13205): pos. 2064 - 2177
+- Big_9 (PF17963): pos. 448 - 536
+- MBG_2 (PF18676): pos. 749 - 819
+- MBG_2 (PF18676): pos. 825 - 895
+- MBG_2 (PF18676): pos. 901 - 971
+- MBG_2 (PF18676): pos. 977 - 1047
+- MBG_2 (PF18676): pos. 1053 - 1123
+- MBG_2 (PF18676): pos. 1129 - 1199
+- MBG_2 (PF18676): pos. 1205 - 1275
+- MBG_2 (PF18676): pos. 1281 - 1351
+- MBG_2 (PF18676): pos. 1357 - 1427
+- MBG_2 (PF18676): pos. 1433 - 1504
+- MBG_2 (PF18676): pos. 1710 - 1781
+- MBG_2 (PF18676): pos. 1988 - 2059
+- MBG_2 (PF18676): pos. 2267 - 2338
+- Ig_7 (PF19081): pos. 275 - 358
+

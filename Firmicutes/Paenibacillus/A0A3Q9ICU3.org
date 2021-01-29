@@ -1,0 +1,12 @@
+* Organism:
+- Paenibacillus lutimineralis
+* Protein length:
+- 1163.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 220 - 347
+- Collagen_bind (PF05737): pos. 356 - 479
+- Collagen_bind (PF05737): pos. 631 - 762
+- Collagen_bind (PF05737): pos. 773 - 904
+* Stalk domains:
+- SpaA (PF17802): pos. 936 - 1003
+

@@ -1,0 +1,9 @@
+* Organism:
+- Saezia sanguinis
+* Protein length:
+- 1074.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 615 - 740
+* Stalk domains:
+- PATR (PF12951): pos. 556 - 585
+

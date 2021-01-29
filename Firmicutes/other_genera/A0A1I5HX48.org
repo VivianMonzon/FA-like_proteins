@@ -1,0 +1,14 @@
+* Organism:
+- Anaerocolumna aminovalerica
+* Protein length:
+- 1376.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 403 - 520
+- Collagen_bind (PF05737): pos. 531 - 661
+- Collagen_bind (PF05737): pos. 674 - 803
+- Collagen_bind (PF05737): pos. 811 - 942
+* Stalk domains:
+- SpaA (PF17802): pos. 973 - 1042
+- SpaA (PF17802): pos. 1065 - 1135
+- SpaA (PF17802): pos. 1163 - 1230
+

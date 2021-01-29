@@ -1,0 +1,9 @@
+* Organism:
+- Paracoccus zhejiangensis
+* Protein length:
+- 1139.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 39 - 164
+* Stalk domains:
+- Big_9 (PF17963): pos. 1042 - 1125
+

@@ -1,0 +1,12 @@
+* Organism:
+- Chelativorans sp. (strain BNC1)
+* Protein length:
+- 1571.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1108 - 1224
+* Stalk domains:
+- PATR (PF12951): pos. 579 - 608
+- PATR (PF12951): pos. 647 - 676
+- PATR (PF12951): pos. 948 - 977
+- PATR (PF12951): pos. 1037 - 1066
+

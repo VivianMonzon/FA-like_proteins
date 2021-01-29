@@ -1,0 +1,10 @@
+* Organism:
+- Pragia fontium
+* Protein length:
+- 1075.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 601 - 727
+* Stalk domains:
+- PATR (PF12951): pos. 423 - 451
+- PATR (PF12951): pos. 517 - 546
+

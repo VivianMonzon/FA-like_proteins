@@ -1,0 +1,9 @@
+* Organism:
+- Hymenobacter swuensis DY53
+* Protein length:
+- 664.0
+* Adhesive domains:
+- VWA (PF00092): pos. 299 - 472
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 39 - 132
+

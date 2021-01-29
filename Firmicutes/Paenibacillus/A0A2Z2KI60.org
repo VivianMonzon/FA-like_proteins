@@ -1,0 +1,13 @@
+* Organism:
+- Paenibacillus donghaensis
+* Protein length:
+- 1219.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 181 - 310
+- Collagen_bind (PF05737): pos. 323 - 456
+- Collagen_bind (PF05737): pos. 463 - 588
+- Collagen_bind (PF05737): pos. 603 - 729
+- Collagen_bind (PF05737): pos. 742 - 874
+* Stalk domains:
+- SpaA (PF17802): pos. 906 - 976
+

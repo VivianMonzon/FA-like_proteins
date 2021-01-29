@@ -1,0 +1,12 @@
+* Organism:
+- Streptococcus intermedius B196
+* Protein length:
+- 908.0
+* Adhesive domains:
+- Sgo0707_N1 (PF18873): pos. 30 - 296
+* Stalk domains:
+- DUF11 (PF01345): pos. 537 - 648
+- DUF11 (PF01345): pos. 659 - 772
+- Cna_B (PF05738): pos. 774 - 864
+- SHIRT (PF18655): pos. 440 - 523
+

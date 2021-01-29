@@ -1,0 +1,9 @@
+* Organism:
+- Mariniradius saccharolyticus AK6
+* Protein length:
+- 784.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 36 - 299
+* Stalk domains:
+- PKD_4 (PF18911): pos. 630 - 679
+

@@ -1,0 +1,9 @@
+* Organism:
+- Streptococcus urinalis 2285-97
+* Protein length:
+- 729.0
+* Adhesive domains:
+- SdrG_C_C (PF10425): pos. 235 - 397
+* Stalk domains:
+- SdrD_B (PF17210): pos. 415 - 520
+

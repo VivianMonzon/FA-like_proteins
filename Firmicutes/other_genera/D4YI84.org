@@ -1,0 +1,28 @@
+* Organism:
+- Aerococcus viridans ATCC 11563 = CCUG 4311
+* Protein length:
+- 3427.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 589 - 709
+- Collagen_bind (PF05737): pos. 1248 - 1377
+- Collagen_bind (PF05737): pos. 1395 - 1509
+* Stalk domains:
+- Cna_B (PF05738): pos. 1651 - 1744
+- Cna_B (PF05738): pos. 1750 - 1839
+- Cna_B (PF05738): pos. 1847 - 1934
+- Cna_B (PF05738): pos. 1942 - 2024
+- Cna_B (PF05738): pos. 2032 - 2121
+- Cna_B (PF05738): pos. 2129 - 2218
+- Cna_B (PF05738): pos. 2226 - 2315
+- Cna_B (PF05738): pos. 2323 - 2412
+- Cna_B (PF05738): pos. 2420 - 2502
+- Cna_B (PF05738): pos. 2510 - 2599
+- Cna_B (PF05738): pos. 2607 - 2695
+- Cna_B (PF05738): pos. 2703 - 2790
+- Cna_B (PF05738): pos. 2798 - 2887
+- Cna_B (PF05738): pos. 2895 - 2977
+- Cna_B (PF05738): pos. 2985 - 3074
+- Cna_B (PF05738): pos. 3082 - 3171
+- SdrD_B (PF17210): pos. 3178 - 3301
+- SpaA (PF17802): pos. 1544 - 1610
+

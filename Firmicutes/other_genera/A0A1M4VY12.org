@@ -1,0 +1,10 @@
+* Organism:
+- Lactonifactor longoviformis DSM 17459
+* Protein length:
+- 2021.0
+* Adhesive domains:
+- VWA (PF00092): pos. 586 - 815
+- VWA (PF00092): pos. 1420 - 1595
+* Stalk domains:
+- SpaA (PF17802): pos. 1203 - 1270
+

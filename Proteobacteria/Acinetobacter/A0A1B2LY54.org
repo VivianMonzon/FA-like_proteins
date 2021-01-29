@@ -1,0 +1,18 @@
+* Organism:
+- Acinetobacter larvae
+* Protein length:
+- 3017.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 194 - 219
+- YadA_head (PF05658): pos. 244 - 270
+- YadA_head (PF05658): pos. 272 - 298
+- YadA_head (PF05658): pos. 314 - 340
+- YadA_head (PF05658): pos. 356 - 382
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 431 - 473
+- YadA_stalk (PF05662): pos. 1923 - 1962
+- YadA_stalk (PF05662): pos. 2159 - 2198
+- YadA_stalk (PF05662): pos. 2395 - 2440
+- YadA_stalk (PF05662): pos. 2584 - 2629
+- YadA_stalk (PF05662): pos. 2842 - 2887
+

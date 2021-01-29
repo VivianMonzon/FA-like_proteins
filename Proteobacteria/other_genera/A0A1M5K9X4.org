@@ -1,0 +1,10 @@
+* Organism:
+- Massilia sp. CF038
+* Protein length:
+- 425.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 240 - 424
+* Stalk domains:
+- Big_2 (PF02368): pos. 42 - 126
+- Big_2 (PF02368): pos. 130 - 212
+

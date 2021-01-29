@@ -1,0 +1,10 @@
+* Organism:
+- Rhizobium tubonense
+* Protein length:
+- 894.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 421 - 555
+* Stalk domains:
+- PATR (PF12951): pos. 307 - 336
+- PATR (PF12951): pos. 375 - 405
+

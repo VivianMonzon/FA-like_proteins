@@ -1,0 +1,14 @@
+* Organism:
+- Holdemanella biformis DSM 3989
+* Protein length:
+- 1009.0
+* Adhesive domains:
+- TED (PF08341): pos. 103 - 235
+* Stalk domains:
+- SpaA (PF17802): pos. 320 - 387
+- SpaA (PF17802): pos. 424 - 490
+- SpaA (PF17802): pos. 516 - 596
+- SpaA (PF17802): pos. 639 - 718
+- SpaA (PF17802): pos. 748 - 828
+- SpaA (PF17802): pos. 934 - 989
+

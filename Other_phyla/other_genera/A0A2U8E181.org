@@ -1,0 +1,15 @@
+* Organism:
+- Ereboglobus luteus
+* Protein length:
+- 4562.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 4126 - 4234
+* Stalk domains:
+- PATR (PF12951): pos. 194 - 224
+- PATR (PF12951): pos. 315 - 343
+- PATR (PF12951): pos. 1420 - 1450
+- PATR (PF12951): pos. 2287 - 2316
+- PATR (PF12951): pos. 2496 - 2525
+- PATR (PF12951): pos. 2958 - 2988
+- PATR (PF12951): pos. 3523 - 3554
+

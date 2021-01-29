@@ -1,0 +1,10 @@
+* Organism:
+- Adhaeribacter aerolatus
+* Protein length:
+- 913.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 29 - 246
+* Stalk domains:
+- Big_9 (PF17963): pos. 237 - 326
+- Ig_7 (PF19081): pos. 669 - 750
+

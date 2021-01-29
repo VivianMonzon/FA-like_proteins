@@ -1,0 +1,9 @@
+* Organism:
+- Eubacterium sp. AF36-5BH
+* Protein length:
+- 407.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 326 - 367
+* Stalk domains:
+- Big_2 (PF02368): pos. 27 - 100
+

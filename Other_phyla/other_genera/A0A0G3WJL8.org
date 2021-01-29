@@ -1,0 +1,10 @@
+* Organism:
+- Endomicrobium proavitum
+* Protein length:
+- 1869.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 997 - 1111
+* Stalk domains:
+- AIDA (PF16168): pos. 274 - 334
+- AIDA (PF16168): pos. 903 - 979
+

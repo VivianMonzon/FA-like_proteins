@@ -1,0 +1,12 @@
+* Organism:
+- Paracoccus sp. JM45
+* Protein length:
+- 1052.0
+* Adhesive domains:
+- TED (PF08341): pos. 902 - 1006
+* Stalk domains:
+- SdrD_B (PF17210): pos. 397 - 508
+- SdrD_B (PF17210): pos. 514 - 625
+- SdrD_B (PF17210): pos. 631 - 741
+- Cadherin_5 (PF17892): pos. 744 - 851
+

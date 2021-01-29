@@ -1,0 +1,17 @@
+* Organism:
+- Exilibacterium tricleocarpae
+* Protein length:
+- 2588.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1867 - 2047
+* Stalk domains:
+- Big_9 (PF17963): pos. 492 - 589
+- Big_9 (PF17963): pos. 594 - 691
+- Big_9 (PF17963): pos. 696 - 793
+- Big_9 (PF17963): pos. 798 - 895
+- Big_9 (PF17963): pos. 900 - 997
+- Big_9 (PF17963): pos. 1002 - 1099
+- Big_9 (PF17963): pos. 1104 - 1201
+- Big_9 (PF17963): pos. 1206 - 1303
+- Big_9 (PF17963): pos. 1308 - 1425
+

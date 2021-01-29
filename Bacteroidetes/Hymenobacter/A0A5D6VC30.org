@@ -1,0 +1,16 @@
+* Organism:
+- Hymenobacter sp. KIGAM108
+* Protein length:
+- 2638.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1133 - 1294
+- PA14 (PF07691): pos. 1540 - 1699
+* Stalk domains:
+- He_PIG (PF05345): pos. 818 - 917
+- Big_9 (PF17963): pos. 1002 - 1104
+- Big_9 (PF17963): pos. 1303 - 1404
+- Big_9 (PF17963): pos. 1410 - 1511
+- Big_9 (PF17963): pos. 1709 - 1810
+- Beta_helix (PF13229): pos. 2071 - 2249
+- Beta_helix (PF13229): pos. 2182 - 2328
+

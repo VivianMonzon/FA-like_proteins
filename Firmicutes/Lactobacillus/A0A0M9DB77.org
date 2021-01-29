@@ -1,0 +1,9 @@
+* Organism:
+- Lactobacillus kunkeei
+* Protein length:
+- 788.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 164 - 207
+* Stalk domains:
+- MucBP (PF06458): pos. 478 - 566
+

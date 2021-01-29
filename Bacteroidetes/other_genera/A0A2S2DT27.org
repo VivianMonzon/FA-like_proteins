@@ -1,0 +1,9 @@
+* Organism:
+- Allopseudarcicella aquatilis
+* Protein length:
+- 707.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 578 - 703
+* Stalk domains:
+- DUF5977 (PF19404): pos. 495 - 557
+

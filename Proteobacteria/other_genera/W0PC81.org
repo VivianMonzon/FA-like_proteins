@@ -1,0 +1,37 @@
+* Organism:
+- Advenella mimigardefordensis DPN7
+* Protein length:
+- 4309.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 227 - 252
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 358 - 403
+- YadA_stalk (PF05662): pos. 484 - 526
+- YadA_stalk (PF05662): pos. 603 - 645
+- YadA_stalk (PF05662): pos. 729 - 771
+- YadA_stalk (PF05662): pos. 855 - 897
+- YadA_stalk (PF05662): pos. 981 - 1023
+- YadA_stalk (PF05662): pos. 1100 - 1142
+- YadA_stalk (PF05662): pos. 1219 - 1261
+- YadA_stalk (PF05662): pos. 1331 - 1373
+- YadA_stalk (PF05662): pos. 1443 - 1485
+- YadA_stalk (PF05662): pos. 1555 - 1591
+- YadA_stalk (PF05662): pos. 1660 - 1703
+- YadA_stalk (PF05662): pos. 1810 - 1854
+- YadA_stalk (PF05662): pos. 1960 - 2003
+- YadA_stalk (PF05662): pos. 2110 - 2146
+- YadA_stalk (PF05662): pos. 2215 - 2258
+- YadA_stalk (PF05662): pos. 2365 - 2409
+- YadA_stalk (PF05662): pos. 2515 - 2559
+- YadA_stalk (PF05662): pos. 2665 - 2709
+- YadA_stalk (PF05662): pos. 2815 - 2859
+- YadA_stalk (PF05662): pos. 2965 - 3009
+- YadA_stalk (PF05662): pos. 3115 - 3159
+- YadA_stalk (PF05662): pos. 3265 - 3309
+- YadA_stalk (PF05662): pos. 3415 - 3459
+- YadA_stalk (PF05662): pos. 3565 - 3609
+- YadA_stalk (PF05662): pos. 3715 - 3759
+- YadA_stalk (PF05662): pos. 3865 - 3906
+- YadA_stalk (PF05662): pos. 4031 - 4075
+- YadA_stalk (PF05662): pos. 4189 - 4233
+

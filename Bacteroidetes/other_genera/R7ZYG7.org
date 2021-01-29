@@ -1,0 +1,9 @@
+* Organism:
+- Lunatimonas lonarensis
+* Protein length:
+- 771.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 33 - 288
+* Stalk domains:
+- PKD_4 (PF18911): pos. 587 - 666
+

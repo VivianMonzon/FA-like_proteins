@@ -1,0 +1,10 @@
+* Organism:
+- Gulosibacter sp. 10
+* Protein length:
+- 650.0
+* Adhesive domains:
+- TED (PF08341): pos. 63 - 178
+* Stalk domains:
+- TQ (PF18202): pos. 310 - 428
+- TQ (PF18202): pos. 429 - 565
+

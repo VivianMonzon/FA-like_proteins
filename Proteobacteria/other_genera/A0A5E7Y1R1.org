@@ -1,0 +1,9 @@
+* Organism:
+- Erythrobacter sp. EC-HK427
+* Protein length:
+- 558.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 56 - 320
+* Stalk domains:
+- DUF11 (PF01345): pos. 453 - 558
+

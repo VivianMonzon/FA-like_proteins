@@ -1,0 +1,11 @@
+* Organism:
+- Rugamonas rubra
+* Protein length:
+- 591.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 406 - 590
+* Stalk domains:
+- Big_2 (PF02368): pos. 45 - 126
+- Big_2 (PF02368): pos. 217 - 299
+- Big_2 (PF02368): pos. 303 - 385
+

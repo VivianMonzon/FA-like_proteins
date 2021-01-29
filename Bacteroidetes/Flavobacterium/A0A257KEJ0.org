@@ -1,0 +1,10 @@
+* Organism:
+- Flavobacterium sp. BFFFF2
+* Protein length:
+- 1048.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 38 - 220
+- Ice_binding (PF11999): pos. 249 - 439
+* Stalk domains:
+- Ig_7 (PF19081): pos. 446 - 517
+

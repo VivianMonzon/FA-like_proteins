@@ -1,0 +1,11 @@
+* Organism:
+- Lactococcus garvieae (strain Lg2) (Enterococcus seriolicida)
+* Protein length:
+- 551.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 156 - 287
+* Stalk domains:
+- QPE (PF18874): pos. 323 - 367
+- QPE (PF18874): pos. 370 - 414
+- QPE (PF18874): pos. 417 - 461
+

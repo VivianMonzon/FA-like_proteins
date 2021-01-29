@@ -1,0 +1,13 @@
+* Organism:
+- Mycoplasma sp. CAG:472
+* Protein length:
+- 832.0
+* Adhesive domains:
+- TED (PF08341): pos. 69 - 180
+* Stalk domains:
+- SpaA (PF17802): pos. 296 - 364
+- SpaA (PF17802): pos. 395 - 457
+- SpaA (PF17802): pos. 486 - 565
+- SpaA (PF17802): pos. 608 - 688
+- SpaA (PF17802): pos. 717 - 784
+

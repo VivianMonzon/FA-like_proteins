@@ -1,0 +1,9 @@
+* Organism:
+- Lachnoclostridium sp. An118
+* Protein length:
+- 402.0
+* Adhesive domains:
+- TED (PF08341): pos. 86 - 198
+* Stalk domains:
+- SpaA (PF17802): pos. 321 - 388
+

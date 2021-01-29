@@ -1,0 +1,13 @@
+* Organism:
+- Enterococcus faecalis (strain ATCC 700802 / V583)
+* Protein length:
+- 674.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 176 - 313
+* Stalk domains:
+- QPE (PF18874): pos. 342 - 391
+- QPE (PF18874): pos. 394 - 438
+- QPE (PF18874): pos. 441 - 485
+- QPE (PF18874): pos. 488 - 532
+- QPE (PF18874): pos. 535 - 579
+

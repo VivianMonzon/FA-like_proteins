@@ -1,0 +1,12 @@
+* Organism:
+- Lactococcus termiticola
+* Protein length:
+- 1589.0
+* Adhesive domains:
+- VWA (PF00092): pos. 146 - 315
+* Stalk domains:
+- Cna_B (PF05738): pos. 557 - 662
+- Cna_B (PF05738): pos. 809 - 908
+- Cna_B (PF05738): pos. 916 - 1015
+- Cna_B (PF05738): pos. 1024 - 1120
+

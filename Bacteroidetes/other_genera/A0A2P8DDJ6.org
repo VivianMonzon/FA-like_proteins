@@ -1,0 +1,9 @@
+* Organism:
+- Taibaiella chishuiensis
+* Protein length:
+- 903.0
+* Adhesive domains:
+- VWA (PF00092): pos. 545 - 718
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 155 - 225
+

@@ -1,0 +1,9 @@
+* Organism:
+- Lysobacter sp. Root96
+* Protein length:
+- 673.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 37 - 318
+* Stalk domains:
+- DUF11 (PF01345): pos. 569 - 669
+

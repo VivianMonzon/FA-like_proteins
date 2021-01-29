@@ -1,0 +1,14 @@
+* Organism:
+- Aequorivita sp. H23M31
+* Protein length:
+- 1650.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 658 - 713
+- Cleaved_Adhesin (PF07675): pos. 918 - 970
+* Stalk domains:
+- fn3 (PF00041): pos. 205 - 285
+- fn3 (PF00041): pos. 465 - 546
+- fn3 (PF00041): pos. 720 - 799
+- fn3 (PF00041): pos. 1216 - 1294
+- fn3 (PF00041): pos. 1473 - 1558
+

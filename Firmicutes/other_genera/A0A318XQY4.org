@@ -1,0 +1,9 @@
+* Organism:
+- Ruminiclostridium sufflavum DSM 19573
+* Protein length:
+- 370.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 241 - 370
+* Stalk domains:
+- Collagen (PF01391): pos. 176 - 239
+

@@ -1,0 +1,11 @@
+* Organism:
+- Lactobacillus farciminis
+* Protein length:
+- 737.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 169 - 308
+* Stalk domains:
+- SpaA (PF17802): pos. 344 - 415
+- SpaA (PF17802): pos. 443 - 511
+- SpaA (PF17802): pos. 545 - 612
+

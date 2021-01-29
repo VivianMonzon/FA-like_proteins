@@ -1,0 +1,13 @@
+* Organism:
+- Agromyces sp. OV415
+* Protein length:
+- 2815.0
+* Adhesive domains:
+- VWA (PF00092): pos. 322 - 514
+* Stalk domains:
+- SpaA_2 (PF19403): pos. 773 - 890
+- SpaA_2 (PF19403): pos. 893 - 991
+- SpaA_2 (PF19403): pos. 996 - 1091
+- SpaA_2 (PF19403): pos. 2062 - 2174
+- SpaA_2 (PF19403): pos. 2178 - 2282
+

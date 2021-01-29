@@ -1,0 +1,9 @@
+* Organism:
+- Weissella cibaria
+* Protein length:
+- 1033.0
+* Adhesive domains:
+- Adhesin_P1_N (PF18652): pos. 43 - 145
+* Stalk domains:
+- AgI_II_C2 (PF17998): pos. 747 - 977
+

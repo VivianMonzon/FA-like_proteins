@@ -1,0 +1,10 @@
+* Organism:
+- Staphylococcus epidermidis (strain ATCC 35984 / RP62A)
+* Protein length:
+- 892.0
+* Adhesive domains:
+- SdrG_C_C (PF10425): pos. 389 - 540
+* Stalk domains:
+- SdrD_B (PF17210): pos. 561 - 668
+- SdrD_B (PF17210): pos. 674 - 785
+

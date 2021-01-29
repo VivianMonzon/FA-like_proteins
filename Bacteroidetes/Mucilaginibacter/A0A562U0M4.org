@@ -1,0 +1,9 @@
+* Organism:
+- Mucilaginibacter frigoritolerans
+* Protein length:
+- 640.0
+* Adhesive domains:
+- VWA (PF00092): pos. 271 - 443
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 24 - 96
+

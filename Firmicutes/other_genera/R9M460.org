@@ -1,0 +1,25 @@
+* Organism:
+- Oscillibacter sp. 1-3
+* Protein length:
+- 2160.0
+* Adhesive domains:
+- TED (PF08341): pos. 73 - 194
+* Stalk domains:
+- SpaA (PF17802): pos. 393 - 458
+- SpaA (PF17802): pos. 481 - 550
+- SpaA (PF17802): pos. 572 - 639
+- SpaA (PF17802): pos. 666 - 732
+- SpaA (PF17802): pos. 757 - 823
+- SpaA (PF17802): pos. 844 - 910
+- SpaA (PF17802): pos. 934 - 1000
+- SpaA (PF17802): pos. 1023 - 1098
+- SpaA (PF17802): pos. 1120 - 1193
+- SpaA (PF17802): pos. 1219 - 1291
+- SpaA (PF17802): pos. 1313 - 1394
+- SpaA (PF17802): pos. 1417 - 1492
+- SpaA (PF17802): pos. 1517 - 1589
+- SpaA (PF17802): pos. 1611 - 1687
+- SpaA (PF17802): pos. 1711 - 1778
+- SpaA (PF17802): pos. 1800 - 1868
+- SpaA (PF17802): pos. 1899 - 1967
+

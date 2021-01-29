@@ -1,0 +1,9 @@
+* Organism:
+- Fulvivirga imtechensis AK7
+* Protein length:
+- 1271.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 753 - 867
+* Stalk domains:
+- fn3 (PF00041): pos. 977 - 1075
+

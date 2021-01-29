@@ -1,0 +1,11 @@
+* Organism:
+- Caenimonas sp. HX-9-20
+* Protein length:
+- 659.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 425 - 655
+* Stalk domains:
+- Big_5 (PF13205): pos. 39 - 147
+- Big_5 (PF13205): pos. 152 - 271
+- Big_5 (PF13205): pos. 276 - 394
+

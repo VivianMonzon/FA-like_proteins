@@ -1,0 +1,9 @@
+* Organism:
+- Kiloniella litopenaei
+* Protein length:
+- 1821.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1307 - 1474
+* Stalk domains:
+- DUF5801 (PF19116): pos. 730 - 954
+

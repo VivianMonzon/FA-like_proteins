@@ -1,0 +1,10 @@
+* Organism:
+- Solibacter usitatus (strain Ellin6076)
+* Protein length:
+- 673.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 36 - 164
+* Stalk domains:
+- Beta_helix (PF13229): pos. 244 - 465
+- Beta_helix (PF13229): pos. 341 - 535
+

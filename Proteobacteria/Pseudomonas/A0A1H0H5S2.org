@@ -1,0 +1,12 @@
+* Organism:
+- Pseudomonas jinjuensis
+* Protein length:
+- 1740.0
+* Adhesive domains:
+- VWA (PF00092): pos. 879 - 1070
+- VWA (PF00092): pos. 1260 - 1452
+* Stalk domains:
+- DUF5801 (PF19116): pos. 364 - 529
+- DUF5801 (PF19116): pos. 543 - 685
+- DUF5801 (PF19116): pos. 697 - 841
+

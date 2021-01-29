@@ -1,0 +1,20 @@
+* Organism:
+- Enorma massiliensis
+* Protein length:
+- 2692.0
+* Adhesive domains:
+- VWA (PF00092): pos. 197 - 403
+* Stalk domains:
+- FctA (PF12892): pos. 896 - 1038
+- FctA (PF12892): pos. 1046 - 1188
+- FctA (PF12892): pos. 1200 - 1330
+- FctA (PF12892): pos. 1343 - 1499
+- FctA (PF12892): pos. 1513 - 1650
+- FctA (PF12892): pos. 1665 - 1811
+- FctA (PF12892): pos. 1824 - 1943
+- FctA (PF12892): pos. 1954 - 2102
+- FctA (PF12892): pos. 2115 - 2248
+- FctA (PF12892): pos. 2259 - 2405
+- FctA (PF12892): pos. 2419 - 2530
+- FctA (PF12892): pos. 2538 - 2646
+

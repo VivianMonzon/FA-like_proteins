@@ -1,0 +1,10 @@
+* Organism:
+- Pseudomonas jinjuensis
+* Protein length:
+- 1016.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 509 - 622
+* Stalk domains:
+- Collagen (PF01391): pos. 624 - 678
+- Collagen (PF01391): pos. 650 - 711
+

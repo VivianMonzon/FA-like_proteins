@@ -1,0 +1,11 @@
+* Organism:
+- Jeotgalibaca dankookensis
+* Protein length:
+- 1073.0
+* Adhesive domains:
+- VWA (PF00092): pos. 341 - 545
+* Stalk domains:
+- Cna_B (PF05738): pos. 852 - 935
+- SpaA (PF17802): pos. 761 - 834
+- SpaA (PF17802): pos. 953 - 1025
+

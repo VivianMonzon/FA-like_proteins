@@ -1,0 +1,10 @@
+* Organism:
+- Beggiatoa sp. PS
+* Protein length:
+- 3115.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 2583 - 2627
+* Stalk domains:
+- PKD_4 (PF18911): pos. 2662 - 2738
+- Flg_new_2 (PF18998): pos. 2782 - 2848
+

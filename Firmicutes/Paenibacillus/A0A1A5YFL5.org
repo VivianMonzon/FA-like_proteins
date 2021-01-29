@@ -1,0 +1,10 @@
+* Organism:
+- Paenibacillus oryzae
+* Protein length:
+- 375.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 242 - 375
+* Stalk domains:
+- Collagen (PF01391): pos. 11 - 72
+- Collagen (PF01391): pos. 178 - 246
+

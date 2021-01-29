@@ -1,0 +1,13 @@
+* Organism:
+- Parascardovia denticolens DSM 10105 = JCM 12538
+* Protein length:
+- 808.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 132 - 278
+* Stalk domains:
+- Cna_B (PF05738): pos. 293 - 384
+- Cna_B (PF05738): pos. 393 - 476
+- Cna_B (PF05738): pos. 484 - 566
+- Cna_B (PF05738): pos. 574 - 656
+- Cna_B (PF05738): pos. 664 - 753
+

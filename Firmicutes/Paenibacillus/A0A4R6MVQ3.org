@@ -1,0 +1,22 @@
+* Organism:
+- Paenibacillus sp. BK673
+* Protein length:
+- 1592.0
+* Adhesive domains:
+- VWA (PF00092): pos. 70 - 254
+* Stalk domains:
+- TIG (PF01833): pos. 362 - 441
+- TIG (PF01833): pos. 445 - 526
+- TIG (PF01833): pos. 530 - 613
+- TIG (PF01833): pos. 616 - 698
+- TIG (PF01833): pos. 705 - 785
+- TIG (PF01833): pos. 794 - 877
+- TIG (PF01833): pos. 883 - 958
+- TIG (PF01833): pos. 973 - 1056
+- TIG (PF01833): pos. 1062 - 1144
+- TIG (PF01833): pos. 1152 - 1233
+- TIG (PF01833): pos. 1242 - 1324
+- TIG (PF01833): pos. 1332 - 1413
+- TIG (PF01833): pos. 1419 - 1502
+- TIG (PF01833): pos. 1510 - 1591
+

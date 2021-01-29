@@ -1,0 +1,19 @@
+* Organism:
+- Shigella flexneri
+* Protein length:
+- 990.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 473 - 499
+- YadA_head (PF05658): pos. 633 - 659
+- YadA_head (PF05658): pos. 771 - 797
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 29 - 74
+- YadA_stalk (PF05662): pos. 107 - 151
+- YadA_stalk (PF05662): pos. 207 - 252
+- YadA_stalk (PF05662): pos. 306 - 351
+- YadA_stalk (PF05662): pos. 401 - 446
+- YadA_stalk (PF05662): pos. 558 - 600
+- YadA_stalk (PF05662): pos. 694 - 736
+- YadA_stalk (PF05662): pos. 815 - 856
+- YadA_stalk (PF05662): pos. 868 - 908
+

@@ -1,0 +1,10 @@
+* Organism:
+- Acidisarcina polymorpha
+* Protein length:
+- 1331.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 911 - 1117
+- Bact_lectin (PF18483): pos. 1132 - 1327
+* Stalk domains:
+- SBBP (PF06739): pos. 397 - 433
+

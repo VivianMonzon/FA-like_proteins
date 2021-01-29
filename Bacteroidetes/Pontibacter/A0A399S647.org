@@ -1,0 +1,23 @@
+* Organism:
+- Pontibacter oryzae
+* Protein length:
+- 1638.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 39 - 223
+* Stalk domains:
+- DUF11 (PF01345): pos. 230 - 344
+- PKD_6 (PF19408): pos. 346 - 426
+- PKD_6 (PF19408): pos. 429 - 513
+- PKD_6 (PF19408): pos. 516 - 599
+- PKD_6 (PF19408): pos. 602 - 686
+- PKD_6 (PF19408): pos. 689 - 772
+- PKD_6 (PF19408): pos. 775 - 859
+- PKD_6 (PF19408): pos. 862 - 947
+- PKD_6 (PF19408): pos. 950 - 1032
+- PKD_6 (PF19408): pos. 1035 - 1118
+- PKD_6 (PF19408): pos. 1121 - 1204
+- PKD_6 (PF19408): pos. 1207 - 1292
+- PKD_6 (PF19408): pos. 1294 - 1377
+- PKD_6 (PF19408): pos. 1380 - 1463
+- PKD_6 (PF19408): pos. 1464 - 1543
+

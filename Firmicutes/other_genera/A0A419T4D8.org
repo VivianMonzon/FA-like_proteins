@@ -1,0 +1,10 @@
+* Organism:
+- Lacrimispora algidixylanolytica
+* Protein length:
+- 652.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 525 - 652
+* Stalk domains:
+- Collagen (PF01391): pos. 134 - 198
+- Collagen (PF01391): pos. 460 - 519
+

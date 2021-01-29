@@ -1,0 +1,17 @@
+* Organism:
+- Paramesorhizobium deserti
+* Protein length:
+- 1614.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1127 - 1263
+* Stalk domains:
+- PATR (PF12951): pos. 276 - 297
+- PATR (PF12951): pos. 300 - 326
+- PATR (PF12951): pos. 362 - 391
+- PATR (PF12951): pos. 451 - 480
+- PATR (PF12951): pos. 753 - 782
+- PATR (PF12951): pos. 823 - 852
+- PATR (PF12951): pos. 912 - 941
+- PATR (PF12951): pos. 1013 - 1038
+- PATR (PF12951): pos. 1077 - 1107
+

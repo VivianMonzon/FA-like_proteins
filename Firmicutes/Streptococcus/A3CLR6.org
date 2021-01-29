@@ -1,0 +1,17 @@
+* Organism:
+- Streptococcus sanguinis (strain SK36)
+* Protein length:
+- 1273.0
+* Adhesive domains:
+- Sgo0707_N1 (PF18873): pos. 42 - 316
+* Stalk domains:
+- Cna_B (PF05738): pos. 1143 - 1226
+- SHIRT (PF18655): pos. 460 - 541
+- SHIRT (PF18655): pos. 544 - 625
+- SHIRT (PF18655): pos. 628 - 709
+- SHIRT (PF18655): pos. 712 - 793
+- SHIRT (PF18655): pos. 796 - 877
+- SHIRT (PF18655): pos. 880 - 961
+- SHIRT (PF18655): pos. 968 - 1049
+- SHIRT (PF18655): pos. 1056 - 1137
+

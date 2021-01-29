@@ -1,0 +1,17 @@
+* Organism:
+- Lactobacillus vini DSM 20605
+* Protein length:
+- 1312.0
+* Adhesive domains:
+- TED (PF08341): pos. 75 - 199
+* Stalk domains:
+- SpaA (PF17802): pos. 278 - 344
+- SpaA (PF17802): pos. 374 - 441
+- SpaA (PF17802): pos. 476 - 543
+- SpaA (PF17802): pos. 587 - 654
+- SpaA (PF17802): pos. 680 - 760
+- SpaA (PF17802): pos. 805 - 885
+- SpaA (PF17802): pos. 925 - 1004
+- SpaA (PF17802): pos. 1052 - 1118
+- SpaA (PF17802): pos. 1174 - 1241
+

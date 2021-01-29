@@ -1,0 +1,16 @@
+* Organism:
+- Rubritalea squalenifaciens DSM 18772
+* Protein length:
+- 5242.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1470 - 1632
+* Stalk domains:
+- Big_9 (PF17963): pos. 290 - 371
+- Big_9 (PF17963): pos. 375 - 460
+- Big_9 (PF17963): pos. 465 - 551
+- Big_9 (PF17963): pos. 555 - 640
+- Big_9 (PF17963): pos. 644 - 729
+- Big_9 (PF17963): pos. 733 - 818
+- Big_9 (PF17963): pos. 822 - 907
+- Big_9 (PF17963): pos. 911 - 998
+

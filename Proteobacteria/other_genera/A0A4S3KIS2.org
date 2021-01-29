@@ -1,0 +1,12 @@
+* Organism:
+- Metallibacterium scheffleri
+* Protein length:
+- 733.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 512 - 702
+* Stalk domains:
+- Big_5 (PF13205): pos. 31 - 139
+- Big_5 (PF13205): pos. 140 - 246
+- Big_5 (PF13205): pos. 251 - 369
+- Big_5 (PF13205): pos. 374 - 492
+

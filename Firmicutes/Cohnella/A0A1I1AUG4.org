@@ -1,0 +1,15 @@
+* Organism:
+- Cohnella sp. OV330
+* Protein length:
+- 1160.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1002 - 1154
+* Stalk domains:
+- fn3 (PF00041): pos. 561 - 638
+- fn3 (PF00041): pos. 654 - 729
+- fn3 (PF00041): pos. 815 - 892
+- fn3 (PF00041): pos. 910 - 987
+- PKD_4 (PF18911): pos. 462 - 538
+- Beta_helix (PF13229): pos. 60 - 239
+- Beta_helix (PF13229): pos. 170 - 341
+

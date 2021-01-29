@@ -1,0 +1,12 @@
+* Organism:
+- Lactobacillus similis DSM 23365 = JCM 2765
+* Protein length:
+- 983.0
+* Adhesive domains:
+- Adhesin_P1_N (PF18652): pos. 93 - 198
+* Stalk domains:
+- MucBP (PF06458): pos. 552 - 612
+- MucBP (PF06458): pos. 624 - 685
+- MucBP (PF06458): pos. 697 - 757
+- MucBP (PF06458): pos. 770 - 830
+

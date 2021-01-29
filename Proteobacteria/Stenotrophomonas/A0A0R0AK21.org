@@ -1,0 +1,33 @@
+* Organism:
+- Stenotrophomonas panacihumi
+* Protein length:
+- 2235.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 89 - 123
+- YadA_head (PF05658): pos. 299 - 325
+- YadA_head (PF05658): pos. 446 - 472
+- YadA_head (PF05658): pos. 474 - 500
+- YadA_head (PF05658): pos. 684 - 710
+- YadA_head (PF05658): pos. 831 - 857
+- YadA_head (PF05658): pos. 859 - 885
+- YadA_head (PF05658): pos. 1041 - 1067
+- YadA_head (PF05658): pos. 1069 - 1095
+- YadA_head (PF05658): pos. 1159 - 1183
+- YadA_head (PF05658): pos. 1227 - 1253
+- YadA_head (PF05658): pos. 1255 - 1281
+- YadA_head (PF05658): pos. 1388 - 1414
+- YadA_head (PF05658): pos. 1535 - 1561
+- YadA_head (PF05658): pos. 1563 - 1589
+- YadA_head (PF05658): pos. 1605 - 1631
+- YadA_head (PF05658): pos. 1769 - 1795
+- YadA_head (PF05658): pos. 1800 - 1825
+- YadA_head (PF05658): pos. 2014 - 2040
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 210 - 252
+- YadA_stalk (PF05662): pos. 595 - 637
+- YadA_stalk (PF05662): pos. 980 - 1022
+- YadA_stalk (PF05662): pos. 1299 - 1341
+- YadA_stalk (PF05662): pos. 1684 - 1726
+- YadA_stalk (PF05662): pos. 1848 - 1889
+- YadA_stalk (PF05662): pos. 2102 - 2142
+

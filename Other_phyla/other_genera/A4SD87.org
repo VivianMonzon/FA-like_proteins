@@ -1,0 +1,14 @@
+* Organism:
+- Chlorobium phaeovibrioides (strain DSM 265 / 1930) (Prosthecochloris vibrioformis (strain DSM 265))
+* Protein length:
+- 6112.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 3826 - 3937
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 1877 - 1955
+- Big_9 (PF17963): pos. 952 - 1038
+- Big_9 (PF17963): pos. 2093 - 2197
+- Big_9 (PF17963): pos. 2848 - 2941
+- Big_9 (PF17963): pos. 4032 - 4140
+- Big_9 (PF17963): pos. 5189 - 5310
+

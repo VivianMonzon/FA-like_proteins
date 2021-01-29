@@ -1,0 +1,9 @@
+* Organism:
+- Stenotrophomonas sp. 278
+* Protein length:
+- 537.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 207 - 233
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 297 - 332
+

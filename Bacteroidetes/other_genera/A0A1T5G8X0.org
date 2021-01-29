@@ -1,0 +1,9 @@
+* Organism:
+- Alkalitalea saponilacus
+* Protein length:
+- 356.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 151 - 354
+* Stalk domains:
+- Big_5 (PF13205): pos. 29 - 131
+

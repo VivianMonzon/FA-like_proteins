@@ -1,0 +1,12 @@
+* Organism:
+- Coleofasciculus chthonoplastes PCC 7420
+* Protein length:
+- 1661.0
+* Adhesive domains:
+- TED (PF08341): pos. 55 - 161
+- TED (PF08341): pos. 375 - 481
+* Stalk domains:
+- SdrD_B (PF17210): pos. 210 - 324
+- SdrD_B (PF17210): pos. 530 - 644
+- SdrD_B (PF17210): pos. 648 - 766
+

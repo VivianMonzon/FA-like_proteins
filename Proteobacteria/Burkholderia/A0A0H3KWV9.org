@@ -1,0 +1,14 @@
+* Organism:
+- Burkholderia multivorans (strain ATCC 17616 / 249)
+* Protein length:
+- 2505.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 149 - 175
+- YadA_head (PF05658): pos. 2097 - 2123
+- YadA_head (PF05658): pos. 2111 - 2137
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 522 - 567
+- YadA_stalk (PF05662): pos. 1131 - 1176
+- YadA_stalk (PF05662): pos. 2190 - 2235
+- YadA_stalk (PF05662): pos. 2381 - 2421
+

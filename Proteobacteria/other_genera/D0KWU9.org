@@ -1,0 +1,11 @@
+* Organism:
+- Halothiobacillus neapolitanus (strain ATCC 23641 / c2) (Thiobacillus neapolitanus)
+* Protein length:
+- 663.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 427 - 659
+* Stalk domains:
+- Big_5 (PF13205): pos. 62 - 167
+- Big_5 (PF13205): pos. 172 - 293
+- Big_5 (PF13205): pos. 297 - 407
+

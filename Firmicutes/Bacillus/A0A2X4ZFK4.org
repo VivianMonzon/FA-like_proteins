@@ -1,0 +1,26 @@
+* Organism:
+- Bacillus lentus
+* Protein length:
+- 2438.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 399 - 530
+- Collagen_bind (PF05737): pos. 539 - 686
+- Collagen_bind (PF05737): pos. 689 - 815
+- Collagen_bind (PF05737): pos. 829 - 963
+- Collagen_bind (PF05737): pos. 977 - 1102
+* Stalk domains:
+- Cna_B (PF05738): pos. 1316 - 1397
+- Cna_B (PF05738): pos. 1404 - 1485
+- Cna_B (PF05738): pos. 1492 - 1573
+- Cna_B (PF05738): pos. 1580 - 1661
+- Cna_B (PF05738): pos. 1668 - 1749
+- Cna_B (PF05738): pos. 1756 - 1837
+- Cna_B (PF05738): pos. 1844 - 1925
+- Cna_B (PF05738): pos. 1932 - 2013
+- Cna_B (PF05738): pos. 2020 - 2101
+- Cna_B (PF05738): pos. 2108 - 2189
+- Cna_B (PF05738): pos. 2196 - 2277
+- Cna_B (PF05738): pos. 2284 - 2365
+- SpaA (PF17802): pos. 1134 - 1202
+- SpaA (PF17802): pos. 1229 - 1299
+

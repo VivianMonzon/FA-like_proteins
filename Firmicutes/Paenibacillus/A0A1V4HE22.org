@@ -1,0 +1,12 @@
+* Organism:
+- Paenibacillus ferrarius
+* Protein length:
+- 1129.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 179 - 307
+- Collagen_bind (PF05737): pos. 323 - 443
+- Collagen_bind (PF05737): pos. 595 - 725
+- Collagen_bind (PF05737): pos. 734 - 865
+* Stalk domains:
+- SpaA (PF17802): pos. 897 - 967
+

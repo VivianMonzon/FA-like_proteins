@@ -1,0 +1,9 @@
+* Organism:
+- Stanieria cyanosphaera (strain ATCC 29371 / PCC 7437)
+* Protein length:
+- 1413.0
+* Adhesive domains:
+- VWA (PF00092): pos. 452 - 606
+* Stalk domains:
+- Calx-beta (PF03160): pos. 840 - 927
+

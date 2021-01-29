@@ -1,0 +1,17 @@
+* Organism:
+- Candidatus Tokpelaia sp.
+* Protein length:
+- 1499.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 350 - 375
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 455 - 489
+- YadA_stalk (PF05662): pos. 501 - 546
+- YadA_stalk (PF05662): pos. 653 - 698
+- YadA_stalk (PF05662): pos. 738 - 783
+- YadA_stalk (PF05662): pos. 888 - 933
+- YadA_stalk (PF05662): pos. 966 - 1011
+- YadA_stalk (PF05662): pos. 1102 - 1147
+- YadA_stalk (PF05662): pos. 1243 - 1287
+- YadA_stalk (PF05662): pos. 1329 - 1374
+

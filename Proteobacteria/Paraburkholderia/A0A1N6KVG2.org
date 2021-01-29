@@ -1,0 +1,18 @@
+* Organism:
+- Paraburkholderia phenazinium
+* Protein length:
+- 899.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 136 - 162
+- YadA_head (PF05658): pos. 310 - 336
+- YadA_head (PF05658): pos. 499 - 525
+- YadA_head (PF05658): pos. 555 - 581
+- YadA_head (PF05658): pos. 708 - 734
+- YadA_head (PF05658): pos. 736 - 762
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 202 - 272
+- YadA_stalk (PF05662): pos. 424 - 462
+- YadA_stalk (PF05662): pos. 599 - 641
+- YadA_stalk (PF05662): pos. 656 - 694
+- YadA_stalk (PF05662): pos. 780 - 821
+

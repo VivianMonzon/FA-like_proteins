@@ -1,0 +1,11 @@
+* Organism:
+- Oxalobacter formigenes OXCC13
+* Protein length:
+- 1843.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1186 - 1371
+* Stalk domains:
+- Big_9 (PF17963): pos. 181 - 291
+- Big_9 (PF17963): pos. 295 - 424
+- Big_9 (PF17963): pos. 767 - 889
+

@@ -1,0 +1,10 @@
+* Organism:
+- Thermoflexibacter ruber
+* Protein length:
+- 733.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 603 - 731
+* Stalk domains:
+- Beta_helix (PF13229): pos. 44 - 282
+- Beta_helix (PF13229): pos. 279 - 444
+

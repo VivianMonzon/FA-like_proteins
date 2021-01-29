@@ -1,0 +1,10 @@
+* Organism:
+- Parapedobacter luteus
+* Protein length:
+- 2343.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 41 - 317
+* Stalk domains:
+- Big_9 (PF17963): pos. 2154 - 2244
+- CshA_repeat (PF19076): pos. 2039 - 2137
+

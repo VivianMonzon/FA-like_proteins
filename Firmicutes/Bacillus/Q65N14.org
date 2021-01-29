@@ -1,0 +1,19 @@
+* Organism:
+- Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46)
+* Protein length:
+- 1975.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 408 - 536
+- Collagen_bind (PF05737): pos. 544 - 678
+- Collagen_bind (PF05737): pos. 825 - 957
+- Collagen_bind (PF05737): pos. 968 - 1111
+* Stalk domains:
+- SpaA (PF17802): pos. 1141 - 1205
+- SpaA (PF17802): pos. 1235 - 1307
+- SpaA (PF17802): pos. 1333 - 1401
+- SpaA (PF17802): pos. 1427 - 1494
+- SpaA (PF17802): pos. 1521 - 1589
+- SpaA (PF17802): pos. 1615 - 1683
+- SpaA (PF17802): pos. 1710 - 1778
+- SpaA (PF17802): pos. 1804 - 1881
+

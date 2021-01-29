@@ -1,0 +1,14 @@
+* Organism:
+- Rhodopirellula maiorica SM1
+* Protein length:
+- 1916.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 256 - 465
+- Bact_lectin (PF18483): pos. 592 - 798
+- Bact_lectin (PF18483): pos. 928 - 1137
+- Bact_lectin (PF18483): pos. 1272 - 1501
+* Stalk domains:
+- Calx-beta (PF03160): pos. 469 - 565
+- Calx-beta (PF03160): pos. 809 - 901
+- Calx-beta (PF03160): pos. 1143 - 1243
+

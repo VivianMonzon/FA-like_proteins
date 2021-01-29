@@ -1,0 +1,10 @@
+* Organism:
+- Paraflavitalea soli
+* Protein length:
+- 647.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 17 - 227
+* Stalk domains:
+- PKD_4 (PF18911): pos. 235 - 296
+- PKD_4 (PF18911): pos. 397 - 465
+

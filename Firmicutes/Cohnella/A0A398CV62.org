@@ -1,0 +1,9 @@
+* Organism:
+- Cohnella sp. K2E09-144
+* Protein length:
+- 1561.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1085 - 1219
+* Stalk domains:
+- CARDB (PF07705): pos. 139 - 245
+

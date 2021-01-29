@@ -1,0 +1,13 @@
+* Organism:
+- Serpentinomonas raichei
+* Protein length:
+- 4077.0
+* Adhesive domains:
+- VWA (PF00092): pos. 3301 - 3509
+* Stalk domains:
+- DUF5801 (PF19116): pos. 476 - 626
+- DUF5801 (PF19116): pos. 945 - 1107
+- DUF5801 (PF19116): pos. 1278 - 1443
+- DUF5801 (PF19116): pos. 2077 - 2219
+- DUF5801 (PF19116): pos. 2231 - 2400
+

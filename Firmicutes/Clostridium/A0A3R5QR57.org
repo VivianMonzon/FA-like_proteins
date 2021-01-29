@@ -1,0 +1,22 @@
+* Organism:
+- Clostridium sp. CT4
+* Protein length:
+- 2133.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 44 - 262
+* Stalk domains:
+- Big_1 (PF02369): pos. 1646 - 1710
+- CarboxypepD_reg (PF13620): pos. 1546 - 1625
+- DUF5011 (PF16403): pos. 587 - 658
+- DUF5011 (PF16403): pos. 666 - 738
+- DUF5011 (PF16403): pos. 746 - 818
+- DUF5011 (PF16403): pos. 826 - 898
+- DUF5011 (PF16403): pos. 906 - 978
+- DUF5011 (PF16403): pos. 986 - 1058
+- DUF5011 (PF16403): pos. 1066 - 1138
+- DUF5011 (PF16403): pos. 1146 - 1218
+- DUF5011 (PF16403): pos. 1226 - 1298
+- DUF5011 (PF16403): pos. 1306 - 1378
+- DUF5011 (PF16403): pos. 1386 - 1458
+- DUF5011 (PF16403): pos. 1466 - 1538
+

@@ -1,0 +1,9 @@
+* Organism:
+- Weissella oryzae (strain DSM 25784 / JCM 18191 / SG25)
+* Protein length:
+- 612.0
+* Adhesive domains:
+- Adhesin_P1_N (PF18652): pos. 54 - 154
+* Stalk domains:
+- Antigen_C (PF16364): pos. 490 - 581
+

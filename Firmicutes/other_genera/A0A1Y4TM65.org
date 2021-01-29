@@ -1,0 +1,9 @@
+* Organism:
+- Gemmiger sp. An120
+* Protein length:
+- 1157.0
+* Adhesive domains:
+- VWA (PF00092): pos. 560 - 770
+* Stalk domains:
+- SpaA (PF17802): pos. 1034 - 1116
+

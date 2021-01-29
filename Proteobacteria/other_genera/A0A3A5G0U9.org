@@ -1,0 +1,9 @@
+* Organism:
+- Corallococcus sp. H22C18031201
+* Protein length:
+- 764.0
+* Adhesive domains:
+- VWA (PF00092): pos. 399 - 572
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 54 - 136
+

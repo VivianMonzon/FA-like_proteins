@@ -1,0 +1,9 @@
+* Organism:
+- Budvicia aquatica
+* Protein length:
+- 861.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 380 - 514
+* Stalk domains:
+- AIDA (PF16168): pos. 158 - 209
+

@@ -1,0 +1,12 @@
+* Organism:
+- Cellvibrio sp. PSBB023
+* Protein length:
+- 2089.0
+* Adhesive domains:
+- VWA (PF00092): pos. 867 - 1045
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 281 - 360
+- CarboxypepD_reg (PF13620): pos. 376 - 452
+- CarboxypepD_reg (PF13620): pos. 553 - 629
+- CarboxypepD_reg (PF13620): pos. 643 - 725
+

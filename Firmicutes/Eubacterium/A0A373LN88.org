@@ -1,0 +1,12 @@
+* Organism:
+- Eubacterium sp. AF36-5BH
+* Protein length:
+- 1119.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 245 - 376
+* Stalk domains:
+- MucBP (PF06458): pos. 793 - 852
+- MucBP (PF06458): pos. 936 - 994
+- Flg_new (PF09479): pos. 714 - 784
+- Flg_new (PF09479): pos. 856 - 927
+

@@ -1,0 +1,17 @@
+* Organism:
+- Frederiksenia canicola
+* Protein length:
+- 2865.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 304 - 328
+- YadA_head (PF05658): pos. 366 - 391
+- TAA-Trp-ring (PF15401): pos. 1600 - 1666
+- TAA-Trp-ring (PF15401): pos. 2166 - 2230
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 693 - 734
+- YadA_stalk (PF05662): pos. 1200 - 1242
+- YadA_stalk (PF05662): pos. 2754 - 2796
+- Trp_ring (PF18669): pos. 1540 - 1592
+- Trp_ring (PF18669): pos. 2106 - 2156
+- Trp_ring (PF18669): pos. 2668 - 2717
+

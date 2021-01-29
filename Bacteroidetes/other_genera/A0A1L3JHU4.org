@@ -1,0 +1,39 @@
+* Organism:
+- Tenacibaculum todarodis
+* Protein length:
+- 6670.0
+* Adhesive domains:
+- VWA (PF00092): pos. 46 - 267
+* Stalk domains:
+- DUF11 (PF01345): pos. 1969 - 2090
+- DUF11 (PF01345): pos. 2115 - 2230
+- DUF11 (PF01345): pos. 2266 - 2381
+- DUF11 (PF01345): pos. 2417 - 2532
+- DUF11 (PF01345): pos. 2568 - 2683
+- DUF11 (PF01345): pos. 2720 - 2834
+- DUF11 (PF01345): pos. 2870 - 2985
+- DUF11 (PF01345): pos. 3021 - 3136
+- DUF11 (PF01345): pos. 3166 - 3287
+- DUF11 (PF01345): pos. 3324 - 3438
+- DUF11 (PF01345): pos. 3475 - 3589
+- DUF11 (PF01345): pos. 3619 - 3740
+- DUF11 (PF01345): pos. 3776 - 3891
+- DUF11 (PF01345): pos. 3927 - 4042
+- DUF11 (PF01345): pos. 4079 - 4193
+- DUF11 (PF01345): pos. 4229 - 4344
+- DUF11 (PF01345): pos. 4380 - 4495
+- DUF11 (PF01345): pos. 4531 - 4646
+- DUF11 (PF01345): pos. 4682 - 4797
+- DUF11 (PF01345): pos. 4834 - 4948
+- DUF11 (PF01345): pos. 4984 - 5099
+- DUF11 (PF01345): pos. 5135 - 5250
+- DUF11 (PF01345): pos. 5287 - 5401
+- DUF11 (PF01345): pos. 5438 - 5552
+- DUF11 (PF01345): pos. 5589 - 5703
+- DUF11 (PF01345): pos. 5739 - 5854
+- DUF11 (PF01345): pos. 5884 - 6005
+- DUF11 (PF01345): pos. 6035 - 6156
+- DUF11 (PF01345): pos. 6193 - 6305
+- DUF11 (PF01345): pos. 6321 - 6436
+- DUF11 (PF01345): pos. 6450 - 6571
+

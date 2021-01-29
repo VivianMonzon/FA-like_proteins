@@ -1,0 +1,14 @@
+* Organism:
+- Methylobacterium sp. WL8
+* Protein length:
+- 1022.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 91 - 117
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 376 - 418
+- YadA_stalk (PF05662): pos. 473 - 517
+- YadA_stalk (PF05662): pos. 543 - 586
+- YadA_stalk (PF05662): pos. 616 - 661
+- YadA_stalk (PF05662): pos. 771 - 812
+- YadA_stalk (PF05662): pos. 867 - 908
+

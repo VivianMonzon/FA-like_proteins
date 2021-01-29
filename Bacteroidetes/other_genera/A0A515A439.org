@@ -1,0 +1,9 @@
+* Organism:
+- Spirosoma sp. KCTC 42546
+* Protein length:
+- 623.0
+* Adhesive domains:
+- VWA (PF00092): pos. 249 - 420
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 26 - 98
+

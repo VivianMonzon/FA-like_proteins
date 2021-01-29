@@ -1,0 +1,26 @@
+* Organism:
+- Pseudoxanthomonas dokdonensis
+* Protein length:
+- 2200.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 156 - 182
+- YadA_head (PF05658): pos. 369 - 395
+- YadA_head (PF05658): pos. 411 - 437
+- YadA_head (PF05658): pos. 808 - 834
+- YadA_head (PF05658): pos. 984 - 1009
+- YadA_head (PF05658): pos. 1067 - 1093
+- YadA_head (PF05658): pos. 1333 - 1359
+- YadA_head (PF05658): pos. 1496 - 1522
+- YadA_head (PF05658): pos. 1552 - 1578
+- YadA_head (PF05658): pos. 1566 - 1592
+- YadA_head (PF05658): pos. 1598 - 1619
+- YadA_head (PF05658): pos. 1607 - 1631
+- YadA_head (PF05658): pos. 1873 - 1899
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 747 - 785
+- YadA_stalk (PF05662): pos. 1111 - 1143
+- YadA_stalk (PF05662): pos. 1244 - 1273
+- YadA_stalk (PF05662): pos. 1435 - 1466
+- YadA_stalk (PF05662): pos. 1770 - 1809
+- YadA_stalk (PF05662): pos. 1917 - 1956
+

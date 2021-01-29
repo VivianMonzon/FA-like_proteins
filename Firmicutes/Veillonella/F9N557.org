@@ -1,0 +1,11 @@
+* Organism:
+- Veillonella sp. oral taxon 780 str. F0422
+* Protein length:
+- 1187.0
+* Adhesive domains:
+- TAA-Trp-ring (PF15401): pos. 445 - 516
+- TAA-Trp-ring (PF15401): pos. 595 - 665
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 1002 - 1044
+- Trp_ring (PF18669): pos. 389 - 438
+

@@ -1,0 +1,9 @@
+* Organism:
+- Kosmotoga pacifica
+* Protein length:
+- 609.0
+* Adhesive domains:
+- VWA (PF00092): pos. 68 - 247
+* Stalk domains:
+- PKD (PF00801): pos. 294 - 364
+

@@ -1,0 +1,12 @@
+* Organism:
+- Nostoc linckia NIES-25
+* Protein length:
+- 1165.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 46 - 182
+- PA14 (PF07691): pos. 193 - 329
+- PA14 (PF07691): pos. 340 - 476
+* Stalk domains:
+- Calx-beta (PF03160): pos. 481 - 576
+- Calx-beta (PF03160): pos. 589 - 684
+

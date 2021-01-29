@@ -1,0 +1,12 @@
+* Organism:
+- Paenibacillus faecis
+* Protein length:
+- 1151.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 207 - 333
+- Collagen_bind (PF05737): pos. 341 - 465
+- Collagen_bind (PF05737): pos. 617 - 747
+- Collagen_bind (PF05737): pos. 759 - 890
+* Stalk domains:
+- SpaA (PF17802): pos. 922 - 989
+

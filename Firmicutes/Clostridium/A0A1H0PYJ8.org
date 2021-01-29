@@ -1,0 +1,9 @@
+* Organism:
+- Clostridium gasigenes
+* Protein length:
+- 812.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 326 - 449
+* Stalk domains:
+- SpaA (PF17802): pos. 592 - 659
+

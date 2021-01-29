@@ -1,0 +1,16 @@
+* Organism:
+- Pseudoxanthomonas composti
+* Protein length:
+- 810.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 101 - 127
+- YadA_head (PF05658): pos. 181 - 207
+- YadA_head (PF05658): pos. 265 - 291
+- YadA_head (PF05658): pos. 279 - 305
+- YadA_head (PF05658): pos. 354 - 378
+- YadA_head (PF05658): pos. 411 - 434
+- YadA_head (PF05658): pos. 584 - 610
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 440 - 482
+- YadA_stalk (PF05662): pos. 672 - 712
+

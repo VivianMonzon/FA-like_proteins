@@ -1,0 +1,13 @@
+* Organism:
+- Fontibacillus panacisegetis
+* Protein length:
+- 1247.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 193 - 325
+- Collagen_bind (PF05737): pos. 333 - 465
+- Collagen_bind (PF05737): pos. 609 - 734
+- Collagen_bind (PF05737): pos. 747 - 883
+* Stalk domains:
+- SpaA (PF17802): pos. 915 - 981
+- SpaA (PF17802): pos. 1017 - 1084
+

@@ -1,0 +1,17 @@
+* Organism:
+- Xylella fastidiosa (strain 9a5c)
+* Protein length:
+- 1190.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 869 - 895
+- YadA_head (PF05658): pos. 897 - 923
+- YadA_head (PF05658): pos. 1017 - 1043
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 318 - 360
+- YadA_stalk (PF05662): pos. 443 - 485
+- YadA_stalk (PF05662): pos. 568 - 610
+- YadA_stalk (PF05662): pos. 693 - 735
+- YadA_stalk (PF05662): pos. 818 - 860
+- YadA_stalk (PF05662): pos. 960 - 1001
+- YadA_stalk (PF05662): pos. 1075 - 1117
+

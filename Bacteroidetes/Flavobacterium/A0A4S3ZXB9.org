@@ -1,0 +1,10 @@
+* Organism:
+- Flavobacterium sp. CC-CTC003
+* Protein length:
+- 515.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 19 - 174
+- Cleaved_Adhesin (PF07675): pos. 277 - 429
+* Stalk domains:
+- fn3 (PF00041): pos. 181 - 262
+

@@ -1,0 +1,11 @@
+* Organism:
+- Flavobacterium subsaxonicum WB 4.1-42 = DSM 21790
+* Protein length:
+- 1964.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 63 - 229
+- Cleaved_Adhesin (PF07675): pos. 555 - 691
+- Cleaved_Adhesin (PF07675): pos. 811 - 956
+* Stalk domains:
+- fn3 (PF00041): pos. 234 - 313
+

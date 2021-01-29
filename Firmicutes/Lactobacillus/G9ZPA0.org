@@ -1,0 +1,12 @@
+* Organism:
+- Lactobacillus parafarraginis F0439
+* Protein length:
+- 594.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 1 - 137
+* Stalk domains:
+- MucBP (PF06458): pos. 144 - 231
+- MucBP (PF06458): pos. 239 - 307
+- DUF5776 (PF19087): pos. 447 - 513
+- DUF5776 (PF19087): pos. 516 - 586
+

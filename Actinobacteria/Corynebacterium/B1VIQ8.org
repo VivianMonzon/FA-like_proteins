@@ -1,0 +1,9 @@
+* Organism:
+- Corynebacterium urealyticum (strain ATCC 43042 / DSM 7109)
+* Protein length:
+- 1080.0
+* Adhesive domains:
+- VWA (PF00092): pos. 463 - 607
+* Stalk domains:
+- SpaA (PF17802): pos. 937 - 1007
+

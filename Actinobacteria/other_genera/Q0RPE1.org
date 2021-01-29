@@ -1,0 +1,9 @@
+* Organism:
+- Frankia alni (strain ACN14a)
+* Protein length:
+- 359.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 68 - 255
+* Stalk domains:
+- Big_3_5 (PF16640): pos. 272 - 357
+

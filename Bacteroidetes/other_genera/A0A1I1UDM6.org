@@ -1,0 +1,9 @@
+* Organism:
+- Thermophagus xiamenensis
+* Protein length:
+- 888.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 473 - 608
+* Stalk domains:
+- CARDB (PF07705): pos. 761 - 852
+

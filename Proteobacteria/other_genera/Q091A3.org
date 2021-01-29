@@ -1,0 +1,10 @@
+* Organism:
+- Stigmatella aurantiaca (strain DW4/3-1)
+* Protein length:
+- 473.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 281 - 469
+* Stalk domains:
+- Big_5 (PF13205): pos. 55 - 156
+- Big_5 (PF13205): pos. 160 - 263
+

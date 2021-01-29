@@ -1,0 +1,19 @@
+* Organism:
+- Rhizobium sp. LC145
+* Protein length:
+- 1519.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 86 - 112
+- YadA_head (PF05658): pos. 197 - 223
+- YadA_head (PF05658): pos. 211 - 237
+- YadA_head (PF05658): pos. 729 - 755
+- YadA_head (PF05658): pos. 880 - 906
+- YadA_head (PF05658): pos. 1219 - 1245
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 656 - 701
+- YadA_stalk (PF05662): pos. 794 - 839
+- YadA_stalk (PF05662): pos. 964 - 1006
+- YadA_stalk (PF05662): pos. 1128 - 1169
+- YadA_stalk (PF05662): pos. 1312 - 1356
+- YadA_stalk (PF05662): pos. 1382 - 1420
+

@@ -1,0 +1,13 @@
+* Organism:
+- Luteibacter sp. UNCMF366Tsu5.1
+* Protein length:
+- 1001.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 388 - 414
+- YadA_head (PF05658): pos. 473 - 498
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 170 - 212
+- YadA_stalk (PF05662): pos. 582 - 624
+- YadA_stalk (PF05662): pos. 635 - 678
+- YadA_stalk (PF05662): pos. 845 - 887
+

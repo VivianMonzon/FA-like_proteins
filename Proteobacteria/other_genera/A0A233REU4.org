@@ -1,0 +1,9 @@
+* Organism:
+- Oceanimonas doudoroffii
+* Protein length:
+- 930.0
+* Adhesive domains:
+- VWA (PF00092): pos. 327 - 497
+* Stalk domains:
+- Big_9 (PF17963): pos. 477 - 581
+

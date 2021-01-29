@@ -1,0 +1,14 @@
+* Organism:
+- Bacillus sp. FJAT-27264
+* Protein length:
+- 1580.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 187 - 318
+- Collagen_bind (PF05737): pos. 328 - 467
+- Collagen_bind (PF05737): pos. 473 - 599
+- Collagen_bind (PF05737): pos. 614 - 748
+- Collagen_bind (PF05737): pos. 762 - 889
+* Stalk domains:
+- SpaA (PF17802): pos. 928 - 998
+- SpaA (PF17802): pos. 1021 - 1089
+

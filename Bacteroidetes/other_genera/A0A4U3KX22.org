@@ -1,0 +1,9 @@
+* Organism:
+- Ilyomonas limi
+* Protein length:
+- 649.0
+* Adhesive domains:
+- VWA (PF00092): pos. 278 - 448
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 24 - 106
+

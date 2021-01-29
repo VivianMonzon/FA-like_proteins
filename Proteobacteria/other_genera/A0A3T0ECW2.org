@@ -1,0 +1,17 @@
+* Organism:
+- Glycocaulis alkaliphilus
+* Protein length:
+- 953.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 81 - 107
+- YadA_head (PF05658): pos. 179 - 205
+- YadA_head (PF05658): pos. 193 - 219
+- YadA_head (PF05658): pos. 249 - 275
+- YadA_head (PF05658): pos. 417 - 443
+- YadA_head (PF05658): pos. 445 - 471
+- YadA_head (PF05658): pos. 501 - 527
+- YadA_head (PF05658): pos. 557 - 583
+- YadA_head (PF05658): pos. 779 - 804
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 601 - 636
+

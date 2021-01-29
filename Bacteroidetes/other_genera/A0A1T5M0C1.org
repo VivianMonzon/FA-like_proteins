@@ -1,0 +1,9 @@
+* Organism:
+- Ohtaekwangia koreensis
+* Protein length:
+- 1799.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 682 - 819
+* Stalk domains:
+- fn3 (PF00041): pos. 595 - 669
+

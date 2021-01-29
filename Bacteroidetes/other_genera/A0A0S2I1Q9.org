@@ -1,0 +1,11 @@
+* Organism:
+- Salinivirga cyanobacteriivorans
+* Protein length:
+- 1274.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 608 - 708
+- Cleaved_Adhesin (PF07675): pos. 877 - 977
+* Stalk domains:
+- PKD_4 (PF18911): pos. 1048 - 1100
+- PKD_4 (PF18911): pos. 1103 - 1174
+

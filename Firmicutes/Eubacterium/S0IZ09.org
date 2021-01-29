@@ -1,0 +1,10 @@
+* Organism:
+- Eubacterium sp. 14-2
+* Protein length:
+- 656.0
+* Adhesive domains:
+- TED (PF08341): pos. 109 - 228
+* Stalk domains:
+- SpaA (PF17802): pos. 537 - 603
+- SpaA_2 (PF19403): pos. 349 - 426
+

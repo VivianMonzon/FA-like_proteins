@@ -1,0 +1,27 @@
+* Organism:
+- [Ruminococcus] torques CAG:61
+* Protein length:
+- 4107.0
+* Adhesive domains:
+- VWA (PF00092): pos. 223 - 415
+* Stalk domains:
+- FctA (PF12892): pos. 806 - 928
+- FctA (PF12892): pos. 940 - 1074
+- FctA (PF12892): pos. 1082 - 1229
+- FctA (PF12892): pos. 1243 - 1378
+- FctA (PF12892): pos. 1389 - 1537
+- FctA (PF12892): pos. 1550 - 1673
+- FctA (PF12892): pos. 1684 - 1833
+- FctA (PF12892): pos. 1844 - 1970
+- FctA (PF12892): pos. 1979 - 2112
+- FctA (PF12892): pos. 2123 - 2264
+- FctA (PF12892): pos. 2277 - 2406
+- FctA (PF12892): pos. 2795 - 2920
+- FctA (PF12892): pos. 2932 - 3079
+- FctA (PF12892): pos. 3095 - 3232
+- FctA (PF12892): pos. 3243 - 3398
+- FctA (PF12892): pos. 3412 - 3547
+- FctA (PF12892): pos. 3669 - 3816
+- FctA (PF12892): pos. 3828 - 3937
+- FctA (PF12892): pos. 3945 - 4051
+

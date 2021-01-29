@@ -1,0 +1,11 @@
+* Organism:
+- Cyanobium sp. PCC 7001
+* Protein length:
+- 2003.0
+* Adhesive domains:
+- VWA (PF00092): pos. 914 - 1116
+* Stalk domains:
+- DUF5801 (PF19116): pos. 373 - 547
+- DUF5801 (PF19116): pos. 560 - 713
+- DUF5801 (PF19116): pos. 725 - 878
+

@@ -1,0 +1,14 @@
+* Organism:
+- Lactococcus reticulitermitis
+* Protein length:
+- 1286.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 51 - 269
+* Stalk domains:
+- MucBP (PF06458): pos. 277 - 340
+- MucBP_2 (PF17965): pos. 344 - 415
+- MucBP_2 (PF17965): pos. 518 - 592
+- MucBP_2 (PF17965): pos. 696 - 769
+- MucBP_2 (PF17965): pos. 872 - 946
+- MucBP_2 (PF17965): pos. 1050 - 1123
+

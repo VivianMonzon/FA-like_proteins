@@ -1,0 +1,35 @@
+* Organism:
+- Pelagibaculum spongiae
+* Protein length:
+- 4305.0
+* Adhesive domains:
+- VWA (PF00092): pos. 2066 - 2245
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 424 - 504
+- TSP3_bac (PF18884): pos. 289 - 310
+- TSP3_bac (PF18884): pos. 311 - 331
+- TSP3_bac (PF18884): pos. 2427 - 2446
+- TSP3_bac (PF18884): pos. 2449 - 2471
+- TSP3_bac (PF18884): pos. 2472 - 2493
+- TSP3_bac (PF18884): pos. 2499 - 2515
+- TSP3_bac (PF18884): pos. 2521 - 2542
+- TSP3_bac (PF18884): pos. 2616 - 2638
+- TSP3_bac (PF18884): pos. 2639 - 2660
+- TSP3_bac (PF18884): pos. 2914 - 2934
+- TSP3_bac (PF18884): pos. 2942 - 2963
+- TSP3_bac (PF18884): pos. 2964 - 2985
+- TSP3_bac (PF18884): pos. 2986 - 3007
+- TSP3_bac (PF18884): pos. 3081 - 3102
+- TSP3_bac (PF18884): pos. 3329 - 3350
+- TSP3_bac (PF18884): pos. 3378 - 3396
+- TSP3_bac (PF18884): pos. 3400 - 3421
+- TSP3_bac (PF18884): pos. 3422 - 3444
+- TSP3_bac (PF18884): pos. 3445 - 3467
+- TSP3_bac (PF18884): pos. 3468 - 3492
+- TSP3_bac (PF18884): pos. 3517 - 3539
+- TSP3_bac (PF18884): pos. 3540 - 3561
+- TSP3_bac (PF18884): pos. 3819 - 3840
+- TSP3_bac (PF18884): pos. 3868 - 3889
+- TSP3_bac (PF18884): pos. 3890 - 3912
+- TSP3_bac (PF18884): pos. 3986 - 4008
+

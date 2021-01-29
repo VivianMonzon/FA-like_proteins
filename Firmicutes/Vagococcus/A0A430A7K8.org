@@ -1,0 +1,18 @@
+* Organism:
+- Vagococcus fessus
+* Protein length:
+- 1276.0
+* Adhesive domains:
+- VWA (PF00092): pos. 72 - 200
+* Stalk domains:
+- MucBP (PF06458): pos. 430 - 495
+- MucBP (PF06458): pos. 507 - 572
+- MucBP (PF06458): pos. 584 - 649
+- MucBP (PF06458): pos. 661 - 726
+- MucBP (PF06458): pos. 738 - 803
+- MucBP (PF06458): pos. 815 - 880
+- MucBP (PF06458): pos. 892 - 957
+- MucBP (PF06458): pos. 969 - 1034
+- MucBP (PF06458): pos. 1046 - 1111
+- MucBP (PF06458): pos. 1124 - 1189
+

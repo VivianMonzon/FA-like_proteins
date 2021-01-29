@@ -1,0 +1,35 @@
+* Organism:
+- Pediococcus cellicola
+* Protein length:
+- 3535.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 232 - 485
+* Stalk domains:
+- MBG (PF17883): pos. 671 - 760
+- MBG (PF17883): pos. 762 - 857
+- MBG (PF17883): pos. 858 - 960
+- MBG (PF17883): pos. 962 - 1058
+- MBG (PF17883): pos. 1060 - 1153
+- MBG (PF17883): pos. 1154 - 1254
+- MBG (PF17883): pos. 1340 - 1433
+- MBG (PF17883): pos. 1521 - 1612
+- MBG (PF17883): pos. 1700 - 1791
+- MBG (PF17883): pos. 1879 - 1970
+- MBG (PF17883): pos. 2058 - 2149
+- MBG (PF17883): pos. 2238 - 2330
+- MBG (PF17883): pos. 2417 - 2509
+- MBG (PF17883): pos. 2597 - 2688
+- MBG (PF17883): pos. 2778 - 2867
+- MBG (PF17883): pos. 2956 - 3046
+- MBG (PF17883): pos. 3124 - 3227
+- MBG_2 (PF18676): pos. 1796 - 1866
+- MBG_2 (PF18676): pos. 2333 - 2405
+- MBG_2 (PF18676): pos. 2513 - 2584
+- MBG_2 (PF18676): pos. 2692 - 2763
+- MBG_2 (PF18676): pos. 2871 - 2942
+- MBG_2 (PF18676): pos. 3051 - 3121
+- MBG_3 (PF18887): pos. 1257 - 1334
+- MBG_3 (PF18887): pos. 1436 - 1513
+- MBG_3 (PF18887): pos. 1615 - 1692
+- MBG_3 (PF18887): pos. 1973 - 2050
+

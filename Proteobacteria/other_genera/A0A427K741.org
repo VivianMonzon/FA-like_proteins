@@ -1,0 +1,9 @@
+* Organism:
+- Erwinia sp. 198
+* Protein length:
+- 789.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 301 - 415
+* Stalk domains:
+- AIDA (PF16168): pos. 52 - 103
+

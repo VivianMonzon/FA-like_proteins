@@ -1,0 +1,13 @@
+* Organism:
+- Ammoniphilus sp. CFH 90114
+* Protein length:
+- 1444.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 286 - 329
+- LRR_4 (PF12799): pos. 493 - 536
+- LRR_4 (PF12799): pos. 747 - 789
+- LRR_4 (PF12799): pos. 978 - 1019
+- LRR_4 (PF12799): pos. 1065 - 1110
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 1314 - 1389
+

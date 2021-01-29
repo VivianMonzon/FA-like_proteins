@@ -1,0 +1,9 @@
+* Organism:
+- Fontibacillus panacisegetis
+* Protein length:
+- 2061.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 107 - 406
+* Stalk domains:
+- Big_13 (PF19077): pos. 1129 - 1207
+

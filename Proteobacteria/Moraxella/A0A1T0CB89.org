@@ -1,0 +1,18 @@
+* Organism:
+- Moraxella lincolnii
+* Protein length:
+- 2452.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 94 - 119
+- YadA_head (PF05658): pos. 130 - 155
+- YadA_head (PF05658): pos. 241 - 267
+- YadA_head (PF05658): pos. 2166 - 2192
+- YadA_head (PF05658): pos. 2194 - 2219
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 320 - 362
+- YadA_stalk (PF05662): pos. 490 - 531
+- YadA_stalk (PF05662): pos. 1257 - 1299
+- YadA_stalk (PF05662): pos. 1473 - 1508
+- YadA_stalk (PF05662): pos. 1998 - 2040
+- YadA_stalk (PF05662): pos. 2331 - 2373
+

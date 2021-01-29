@@ -1,0 +1,33 @@
+* Organism:
+- Pseudoxanthomonas sp. CF125
+* Protein length:
+- 2014.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 90 - 116
+- YadA_head (PF05658): pos. 176 - 201
+- YadA_head (PF05658): pos. 276 - 302
+- YadA_head (PF05658): pos. 332 - 358
+- YadA_head (PF05658): pos. 394 - 420
+- YadA_head (PF05658): pos. 424 - 448
+- YadA_head (PF05658): pos. 713 - 739
+- YadA_head (PF05658): pos. 741 - 767
+- YadA_head (PF05658): pos. 833 - 859
+- YadA_head (PF05658): pos. 923 - 949
+- YadA_head (PF05658): pos. 951 - 977
+- YadA_head (PF05658): pos. 1154 - 1180
+- YadA_head (PF05658): pos. 1182 - 1208
+- YadA_head (PF05658): pos. 1196 - 1222
+- YadA_head (PF05658): pos. 1224 - 1250
+- YadA_head (PF05658): pos. 1286 - 1312
+- YadA_head (PF05658): pos. 1461 - 1487
+- YadA_head (PF05658): pos. 1545 - 1571
+- YadA_head (PF05658): pos. 1607 - 1633
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 233 - 274
+- YadA_stalk (PF05662): pos. 466 - 508
+- YadA_stalk (PF05662): pos. 1009 - 1048
+- YadA_stalk (PF05662): pos. 1344 - 1384
+- YadA_stalk (PF05662): pos. 1665 - 1707
+- YadA_stalk (PF05662): pos. 1718 - 1763
+- YadA_stalk (PF05662): pos. 1862 - 1904
+

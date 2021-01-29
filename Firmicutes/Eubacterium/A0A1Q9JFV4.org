@@ -1,0 +1,11 @@
+* Organism:
+- Eubacterium sp. 68-3-10
+* Protein length:
+- 1122.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 456 - 559
+* Stalk domains:
+- Cna_B (PF05738): pos. 899 - 968
+- Cna_B (PF05738): pos. 974 - 1075
+- SpaA (PF17802): pos. 561 - 648
+

@@ -1,0 +1,9 @@
+* Organism:
+- Sodalis sp. 159R
+* Protein length:
+- 840.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 383 - 498
+* Stalk domains:
+- PATR (PF12951): pos. 325 - 349
+

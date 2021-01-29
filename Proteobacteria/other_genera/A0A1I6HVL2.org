@@ -1,0 +1,12 @@
+* Organism:
+- Marinobacter daqiaonensis
+* Protein length:
+- 660.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 44 - 192
+- PA14 (PF07691): pos. 353 - 486
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 242 - 263
+- TSP3_bac (PF18884): pos. 291 - 315
+- TSP3_bac (PF18884): pos. 506 - 527
+

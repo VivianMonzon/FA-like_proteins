@@ -1,0 +1,10 @@
+* Organism:
+- Candidatus Magnetoglobus multicellularis str. Araruama
+* Protein length:
+- 1711.0
+* Adhesive domains:
+- VWA (PF00092): pos. 222 - 396
+* Stalk domains:
+- fn3 (PF00041): pos. 1346 - 1428
+- CARDB (PF07705): pos. 1443 - 1554
+

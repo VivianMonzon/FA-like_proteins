@@ -1,0 +1,12 @@
+* Organism:
+- Spirosoma radiotolerans
+* Protein length:
+- 1222.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 670 - 802
+- PA14 (PF07691): pos. 824 - 957
+- PA14 (PF07691): pos. 977 - 1115
+* Stalk domains:
+- Beta_helix (PF13229): pos. 254 - 404
+- Beta_helix (PF13229): pos. 391 - 621
+

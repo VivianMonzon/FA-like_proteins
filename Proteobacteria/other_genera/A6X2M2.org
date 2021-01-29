@@ -1,0 +1,11 @@
+* Organism:
+- Ochrobactrum anthropi (strain ATCC 49188 / DSM 6882 / JCM 21032 / NBRC 15819 / NCTC 12168)
+* Protein length:
+- 1108.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 643 - 767
+* Stalk domains:
+- PATR (PF12951): pos. 392 - 420
+- PATR (PF12951): pos. 484 - 513
+- PATR (PF12951): pos. 578 - 606
+

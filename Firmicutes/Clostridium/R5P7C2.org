@@ -1,0 +1,12 @@
+* Organism:
+- Clostridium sp. CAG:127
+* Protein length:
+- 1019.0
+* Adhesive domains:
+- VWA (PF00092): pos. 527 - 689
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 263 - 285
+- TSP3_bac (PF18884): pos. 320 - 342
+- TSP3_bac (PF18884): pos. 343 - 364
+- TSP3_bac (PF18884): pos. 730 - 742
+

@@ -1,0 +1,38 @@
+* Organism:
+- Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / JCM 1027 / KCTC 2358 / NCIMB 9240)
+* Protein length:
+- 5047.0
+* Adhesive domains:
+- VWA (PF00092): pos. 4501 - 4644
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 374 - 443
+- Cadherin_4 (PF17803): pos. 576 - 652
+- Cadherin_4 (PF17803): pos. 682 - 758
+- Cadherin_4 (PF17803): pos. 788 - 864
+- Cadherin_4 (PF17803): pos. 894 - 970
+- Cadherin_4 (PF17803): pos. 1000 - 1076
+- Cadherin_4 (PF17803): pos. 1106 - 1182
+- Cadherin_4 (PF17803): pos. 1212 - 1288
+- Cadherin_4 (PF17803): pos. 1318 - 1394
+- Cadherin_4 (PF17803): pos. 1424 - 1500
+- Cadherin_4 (PF17803): pos. 1530 - 1606
+- Cadherin_4 (PF17803): pos. 1636 - 1712
+- Cadherin_4 (PF17803): pos. 1742 - 1818
+- Cadherin_4 (PF17803): pos. 1848 - 1924
+- Cadherin_4 (PF17803): pos. 1954 - 2030
+- Cadherin_4 (PF17803): pos. 2060 - 2136
+- Cadherin_4 (PF17803): pos. 2166 - 2242
+- Cadherin_4 (PF17803): pos. 2272 - 2348
+- Cadherin_4 (PF17803): pos. 2378 - 2454
+- Cadherin_4 (PF17803): pos. 2484 - 2560
+- Cadherin_4 (PF17803): pos. 2590 - 2666
+- Cadherin_4 (PF17803): pos. 2696 - 2772
+- Cadherin_4 (PF17803): pos. 2802 - 2879
+- Cadherin_4 (PF17803): pos. 2909 - 2986
+- Cadherin_4 (PF17803): pos. 3016 - 3093
+- Cadherin_4 (PF17803): pos. 3123 - 3200
+- Cadherin_4 (PF17803): pos. 3230 - 3307
+- Cadherin_4 (PF17803): pos. 3337 - 3414
+- Big_9 (PF17963): pos. 469 - 575
+- Big_13 (PF19077): pos. 184 - 271
+

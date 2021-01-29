@@ -1,0 +1,9 @@
+* Organism:
+- Euzebyella marina
+* Protein length:
+- 1436.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 607 - 722
+* Stalk domains:
+- Ig_7 (PF19081): pos. 1066 - 1149
+

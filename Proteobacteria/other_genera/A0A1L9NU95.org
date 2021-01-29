@@ -1,0 +1,10 @@
+* Organism:
+- Planktotalea frisia
+* Protein length:
+- 617.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 251 - 378
+- PA14 (PF07691): pos. 456 - 577
+* Stalk domains:
+- Big_9 (PF17963): pos. 108 - 193
+

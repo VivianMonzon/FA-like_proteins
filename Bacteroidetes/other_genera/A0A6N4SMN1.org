@@ -1,0 +1,7 @@
+* Organism:
+- Cytophaga hutchinsonii (strain ATCC 33406 / DSM 1761 / CIP 103989 / NBRC 15051 / NCIMB 9469 / D465)
+* Protein length:
+- 368.0
+* Adhesive domains:
+* Stalk domains:
+

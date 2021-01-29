@@ -1,0 +1,9 @@
+* Organism:
+- Halobacillus sp. BAB-2008
+* Protein length:
+- 211.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 80 - 207
+* Stalk domains:
+- Collagen (PF01391): pos. 14 - 74
+

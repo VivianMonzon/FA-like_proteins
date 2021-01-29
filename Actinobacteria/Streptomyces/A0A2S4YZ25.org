@@ -1,0 +1,10 @@
+* Organism:
+- Streptomyces sp. Ru72
+* Protein length:
+- 809.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 39 - 173
+* Stalk domains:
+- Big_3_2 (PF12245): pos. 202 - 267
+- Big_3_2 (PF12245): pos. 389 - 461
+

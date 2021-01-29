@@ -1,0 +1,17 @@
+* Organism:
+- Coprococcus catus
+* Protein length:
+- 1416.0
+* Adhesive domains:
+- TED (PF08341): pos. 89 - 218
+* Stalk domains:
+- SpaA (PF17802): pos. 345 - 413
+- SpaA (PF17802): pos. 534 - 599
+- SpaA (PF17802): pos. 634 - 708
+- SpaA (PF17802): pos. 734 - 815
+- SpaA (PF17802): pos. 866 - 946
+- SpaA (PF17802): pos. 982 - 1062
+- SpaA (PF17802): pos. 1094 - 1166
+- SpaA (PF17802): pos. 1192 - 1268
+- SpaA (PF17802): pos. 1289 - 1364
+

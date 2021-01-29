@@ -1,0 +1,51 @@
+* Organism:
+- Paraburkholderia phymatum (strain DSM 17167 / CIP 108236 / LMG 21445 / STM815) (Burkholderia phymatum)
+* Protein length:
+- 4384.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 96 - 122
+- YadA_head (PF05658): pos. 442 - 466
+- YadA_head (PF05658): pos. 1153 - 1179
+- YadA_head (PF05658): pos. 1422 - 1448
+- YadA_head (PF05658): pos. 1601 - 1627
+- YadA_head (PF05658): pos. 1750 - 1776
+- YadA_head (PF05658): pos. 1899 - 1925
+- YadA_head (PF05658): pos. 2048 - 2074
+- YadA_head (PF05658): pos. 2190 - 2216
+- YadA_head (PF05658): pos. 2339 - 2365
+- YadA_head (PF05658): pos. 2488 - 2514
+- YadA_head (PF05658): pos. 2775 - 2801
+- YadA_head (PF05658): pos. 2917 - 2943
+- YadA_head (PF05658): pos. 3059 - 3085
+- YadA_head (PF05658): pos. 3230 - 3256
+- YadA_head (PF05658): pos. 3401 - 3427
+- YadA_head (PF05658): pos. 3694 - 3720
+- YadA_head (PF05658): pos. 3988 - 4014
+- YadA_head (PF05658): pos. 4182 - 4208
+- YadA_head (PF05658): pos. 4210 - 4247
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 216 - 258
+- YadA_stalk (PF05662): pos. 520 - 562
+- YadA_stalk (PF05662): pos. 939 - 981
+- YadA_stalk (PF05662): pos. 1245 - 1287
+- YadA_stalk (PF05662): pos. 1487 - 1529
+- YadA_stalk (PF05662): pos. 1666 - 1708
+- YadA_stalk (PF05662): pos. 1815 - 1857
+- YadA_stalk (PF05662): pos. 1964 - 2006
+- YadA_stalk (PF05662): pos. 2113 - 2155
+- YadA_stalk (PF05662): pos. 2255 - 2297
+- YadA_stalk (PF05662): pos. 2404 - 2446
+- YadA_stalk (PF05662): pos. 2553 - 2595
+- YadA_stalk (PF05662): pos. 2698 - 2740
+- YadA_stalk (PF05662): pos. 2840 - 2882
+- YadA_stalk (PF05662): pos. 2982 - 3024
+- YadA_stalk (PF05662): pos. 3124 - 3166
+- YadA_stalk (PF05662): pos. 3295 - 3337
+- YadA_stalk (PF05662): pos. 3465 - 3507
+- YadA_stalk (PF05662): pos. 3593 - 3638
+- YadA_stalk (PF05662): pos. 3757 - 3799
+- YadA_stalk (PF05662): pos. 3885 - 3930
+- YadA_stalk (PF05662): pos. 4053 - 4098
+- YadA_stalk (PF05662): pos. 4131 - 4172
+- YadA_stalk (PF05662): pos. 4254 - 4296
+

@@ -1,0 +1,9 @@
+* Organism:
+- Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / CIP 104194 / JCM 7457 / NBRC 12017 / NCIMB 9290 / NRRL B-14731 / HIM 762-3)
+* Protein length:
+- 613.0
+* Adhesive domains:
+- VWA (PF00092): pos. 242 - 414
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 16 - 88
+

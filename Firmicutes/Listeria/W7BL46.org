@@ -1,0 +1,21 @@
+* Organism:
+- Listeria floridensis FSL S10-1187
+* Protein length:
+- 2081.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 361 - 492
+- Collagen_bind (PF05737): pos. 501 - 630
+- Collagen_bind (PF05737): pos. 784 - 916
+- Collagen_bind (PF05737): pos. 926 - 1062
+* Stalk domains:
+- SpaA (PF17802): pos. 1092 - 1154
+- SpaA (PF17802): pos. 1186 - 1260
+- SpaA (PF17802): pos. 1286 - 1353
+- SpaA (PF17802): pos. 1379 - 1447
+- SpaA (PF17802): pos. 1472 - 1539
+- SpaA (PF17802): pos. 1565 - 1632
+- SpaA (PF17802): pos. 1658 - 1727
+- SpaA (PF17802): pos. 1753 - 1821
+- SpaA (PF17802): pos. 1847 - 1915
+- SpaA (PF17802): pos. 1941 - 2009
+

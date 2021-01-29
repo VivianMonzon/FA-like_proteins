@@ -1,0 +1,9 @@
+* Organism:
+- Algoriphagus sanaruensis
+* Protein length:
+- 781.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 29 - 296
+* Stalk domains:
+- PKD_4 (PF18911): pos. 627 - 676
+

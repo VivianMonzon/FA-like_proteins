@@ -1,0 +1,13 @@
+* Organism:
+- Fuerstia marisgermanicae
+* Protein length:
+- 5820.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 2012 - 2089
+* Stalk domains:
+- PKD (PF00801): pos. 5400 - 5477
+- PKD_4 (PF18911): pos. 5477 - 5568
+- PATR (PF12951): pos. 533 - 562
+- Beta_helix (PF13229): pos. 1082 - 1233
+- Beta_helix (PF13229): pos. 2443 - 2638
+

@@ -1,0 +1,22 @@
+* Organism:
+- Flaviaesturariibacter sp. 17J68-12
+* Protein length:
+- 2120.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1313 - 1416
+* Stalk domains:
+- PKD_5 (PF19406): pos. 341 - 384
+- PKD_5 (PF19406): pos. 419 - 464
+- PKD_5 (PF19406): pos. 546 - 619
+- PKD_5 (PF19406): pos. 706 - 770
+- PKD_5 (PF19406): pos. 793 - 852
+- PKD_5 (PF19406): pos. 857 - 934
+- PKD_5 (PF19406): pos. 957 - 1004
+- PKD_5 (PF19406): pos. 1006 - 1095
+- PKD_5 (PF19406): pos. 1101 - 1185
+- PKD_5 (PF19406): pos. 1410 - 1446
+- PKD_5 (PF19406): pos. 1447 - 1537
+- PKD_5 (PF19406): pos. 1631 - 1730
+- PKD_5 (PF19406): pos. 1732 - 1825
+- PKD_5 (PF19406): pos. 1920 - 2016
+

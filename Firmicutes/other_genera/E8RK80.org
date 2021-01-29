@@ -1,0 +1,12 @@
+* Organism:
+- Filifactor alocis (strain ATCC 35896 / D40 B5) (Fusobacterium alocis)
+* Protein length:
+- 886.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 176 - 314
+* Stalk domains:
+- Cna_B (PF05738): pos. 430 - 528
+- Cna_B (PF05738): pos. 543 - 643
+- Cna_B (PF05738): pos. 658 - 758
+- SpaA (PF17802): pos. 341 - 404
+

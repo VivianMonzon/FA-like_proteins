@@ -1,0 +1,10 @@
+* Organism:
+- Cohnella sp. CC-MHH1044
+* Protein length:
+- 444.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 317 - 444
+* Stalk domains:
+- Collagen (PF01391): pos. 202 - 271
+- Collagen (PF01391): pos. 253 - 315
+

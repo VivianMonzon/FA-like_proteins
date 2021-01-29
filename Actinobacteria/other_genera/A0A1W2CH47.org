@@ -1,0 +1,9 @@
+* Organism:
+- Lentzea albidocapillata
+* Protein length:
+- 707.0
+* Adhesive domains:
+- VWA (PF00092): pos. 145 - 283
+* Stalk domains:
+- PKD_4 (PF18911): pos. 447 - 538
+

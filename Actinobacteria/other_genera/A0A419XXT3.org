@@ -1,0 +1,9 @@
+* Organism:
+- Catellatospora citrea
+* Protein length:
+- 633.0
+* Adhesive domains:
+- VWA (PF00092): pos. 74 - 246
+* Stalk domains:
+- Calx-beta (PF03160): pos. 326 - 415
+

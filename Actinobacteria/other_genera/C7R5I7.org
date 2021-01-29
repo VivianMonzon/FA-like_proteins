@@ -1,0 +1,10 @@
+* Organism:
+- Jonesia denitrificans (strain ATCC 14870 / DSM 20603 / CIP 55134) (Listeria denitrificans)
+* Protein length:
+- 723.0
+* Adhesive domains:
+- TED (PF08341): pos. 83 - 208
+* Stalk domains:
+- TQ (PF18202): pos. 335 - 452
+- TQ (PF18202): pos. 453 - 574
+

@@ -1,0 +1,27 @@
+* Organism:
+- Tenacibaculum sp. MAR_2009_124
+* Protein length:
+- 2097.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 1 - 109
+* Stalk domains:
+- PKD_5 (PF19406): pos. 228 - 319
+- PKD_5 (PF19406): pos. 320 - 413
+- PKD_5 (PF19406): pos. 414 - 507
+- PKD_5 (PF19406): pos. 508 - 601
+- PKD_5 (PF19406): pos. 602 - 695
+- PKD_5 (PF19406): pos. 696 - 789
+- PKD_5 (PF19406): pos. 790 - 883
+- PKD_5 (PF19406): pos. 884 - 977
+- PKD_5 (PF19406): pos. 978 - 1070
+- PKD_5 (PF19406): pos. 1072 - 1165
+- PKD_5 (PF19406): pos. 1166 - 1259
+- PKD_5 (PF19406): pos. 1260 - 1353
+- PKD_5 (PF19406): pos. 1354 - 1447
+- PKD_5 (PF19406): pos. 1448 - 1541
+- PKD_5 (PF19406): pos. 1542 - 1635
+- PKD_5 (PF19406): pos. 1636 - 1729
+- PKD_5 (PF19406): pos. 1730 - 1823
+- PKD_5 (PF19406): pos. 1824 - 1918
+- PKD_5 (PF19406): pos. 1919 - 2009
+

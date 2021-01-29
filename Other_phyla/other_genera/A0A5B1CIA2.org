@@ -1,0 +1,9 @@
+* Organism:
+- Rubripirellula obstinata
+* Protein length:
+- 1227.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 585 - 792
+* Stalk domains:
+- Calx-beta (PF03160): pos. 462 - 557
+

@@ -1,0 +1,17 @@
+* Organism:
+- Oceanobacillus bengalensis
+* Protein length:
+- 1289.0
+* Adhesive domains:
+- VWA (PF00092): pos. 97 - 326
+* Stalk domains:
+- Cna_B (PF05738): pos. 457 - 545
+- MucBP (PF06458): pos. 658 - 720
+- MucBP (PF06458): pos. 731 - 793
+- MucBP (PF06458): pos. 801 - 863
+- MucBP (PF06458): pos. 874 - 936
+- MucBP (PF06458): pos. 944 - 1006
+- MucBP (PF06458): pos. 1014 - 1076
+- MucBP (PF06458): pos. 1087 - 1149
+- MucBP (PF06458): pos. 1160 - 1222
+

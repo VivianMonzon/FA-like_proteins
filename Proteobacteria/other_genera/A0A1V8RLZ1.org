@@ -1,0 +1,12 @@
+* Organism:
+- Pseudaminobacter manganicus
+* Protein length:
+- 1452.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 964 - 1093
+* Stalk domains:
+- PATR (PF12951): pos. 523 - 552
+- PATR (PF12951): pos. 611 - 639
+- PATR (PF12951): pos. 818 - 846
+- PATR (PF12951): pos. 905 - 935
+

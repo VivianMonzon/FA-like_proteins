@@ -1,0 +1,11 @@
+* Organism:
+- Massilia eurypsychrophila
+* Protein length:
+- 595.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 410 - 594
+* Stalk domains:
+- Big_2 (PF02368): pos. 45 - 127
+- Big_2 (PF02368): pos. 131 - 214
+- Big_2 (PF02368): pos. 306 - 388
+

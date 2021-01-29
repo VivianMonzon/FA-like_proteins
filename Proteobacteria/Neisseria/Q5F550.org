@@ -1,0 +1,10 @@
+* Organism:
+- Neisseria gonorrhoeae (strain ATCC 700825 / FA 1090)
+* Protein length:
+- 435.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 160 - 186
+- YadA_head (PF05658): pos. 188 - 214
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 283 - 325
+

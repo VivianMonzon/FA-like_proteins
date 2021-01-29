@@ -1,0 +1,12 @@
+* Organism:
+- Aureibacillus halotolerans
+* Protein length:
+- 530.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 405 - 530
+* Stalk domains:
+- Collagen (PF01391): pos. 177 - 231
+- Collagen (PF01391): pos. 212 - 265
+- Collagen (PF01391): pos. 262 - 314
+- Collagen (PF01391): pos. 344 - 402
+

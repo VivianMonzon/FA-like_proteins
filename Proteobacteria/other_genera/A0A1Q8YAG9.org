@@ -1,0 +1,9 @@
+* Organism:
+- Rhodoferax antarcticus ANT.BR
+* Protein length:
+- 1069.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 743 - 848
+* Stalk domains:
+- Big_12 (PF19078): pos. 389 - 490
+

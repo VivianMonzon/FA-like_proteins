@@ -1,0 +1,9 @@
+* Organism:
+- Bordetella pertussis (strain Tohama I / ATCC BAA-589 / NCTC 13251)
+* Protein length:
+- 903.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 451 - 568
+* Stalk domains:
+- PATR (PF12951): pos. 389 - 419
+

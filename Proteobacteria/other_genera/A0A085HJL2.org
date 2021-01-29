@@ -1,0 +1,10 @@
+* Organism:
+- Leminorella grimontii ATCC 33999 = DSM 5078
+* Protein length:
+- 1070.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 605 - 721
+* Stalk domains:
+- PATR (PF12951): pos. 417 - 446
+- PATR (PF12951): pos. 511 - 540
+

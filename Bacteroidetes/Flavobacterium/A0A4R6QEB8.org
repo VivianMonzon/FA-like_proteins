@@ -1,0 +1,10 @@
+* Organism:
+- Flavobacterium dankookense
+* Protein length:
+- 2750.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 542 - 675
+- Cleaved_Adhesin (PF07675): pos. 1022 - 1144
+* Stalk domains:
+- fn3 (PF00041): pos. 447 - 526
+

@@ -1,0 +1,15 @@
+* Organism:
+- Vagococcus acidifermentans
+* Protein length:
+- 1131.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 269 - 395
+* Stalk domains:
+- Cna_B (PF05738): pos. 413 - 501
+- Cna_B (PF05738): pos. 509 - 591
+- Cna_B (PF05738): pos. 599 - 688
+- Cna_B (PF05738): pos. 696 - 778
+- Cna_B (PF05738): pos. 786 - 875
+- Cna_B (PF05738): pos. 883 - 965
+- Cna_B (PF05738): pos. 973 - 1062
+

@@ -1,0 +1,9 @@
+* Organism:
+- Soehngenia sp. 1933P
+* Protein length:
+- 1155.0
+* Adhesive domains:
+- VWA (PF00092): pos. 233 - 355
+* Stalk domains:
+- Flg_new (PF09479): pos. 683 - 750
+

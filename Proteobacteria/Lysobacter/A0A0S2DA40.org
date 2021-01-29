@@ -1,0 +1,9 @@
+* Organism:
+- Lysobacter enzymogenes
+* Protein length:
+- 680.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 49 - 326
+* Stalk domains:
+- DUF11 (PF01345): pos. 579 - 680
+

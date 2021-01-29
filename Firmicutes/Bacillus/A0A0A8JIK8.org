@@ -1,0 +1,13 @@
+* Organism:
+- Bacillus sp. (strain OxB-1)
+* Protein length:
+- 2070.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 303 - 422
+- Collagen_bind (PF05737): pos. 427 - 557
+- Collagen_bind (PF05737): pos. 702 - 831
+- Collagen_bind (PF05737): pos. 841 - 985
+* Stalk domains:
+- SpaA (PF17802): pos. 1013 - 1081
+- SpaA (PF17802): pos. 1290 - 1343
+

@@ -1,0 +1,15 @@
+* Organism:
+- Maritimibacter alkaliphilus HTCC2654
+* Protein length:
+- 1512.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1069 - 1241
+* Stalk domains:
+- Big_9 (PF17963): pos. 374 - 457
+- Big_9 (PF17963): pos. 461 - 552
+- Big_9 (PF17963): pos. 556 - 645
+- Big_9 (PF17963): pos. 649 - 738
+- Big_9 (PF17963): pos. 742 - 831
+- Big_9 (PF17963): pos. 835 - 924
+- Big_9 (PF17963): pos. 928 - 1015
+

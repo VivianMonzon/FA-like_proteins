@@ -1,0 +1,9 @@
+* Organism:
+- Geoalkalibacter ferrihydriticus DSM 17813
+* Protein length:
+- 942.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 39 - 187
+* Stalk domains:
+- Flg_new_2 (PF18998): pos. 622 - 695
+

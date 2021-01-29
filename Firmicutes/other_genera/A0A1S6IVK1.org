@@ -1,0 +1,10 @@
+* Organism:
+- Desulfotomaculum ferrireducens
+* Protein length:
+- 717.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 592 - 717
+* Stalk domains:
+- Collagen (PF01391): pos. 172 - 235
+- Collagen (PF01391): pos. 525 - 584
+

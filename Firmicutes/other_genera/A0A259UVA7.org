@@ -1,0 +1,9 @@
+* Organism:
+- Sporomusa silvacetica DSM 10669
+* Protein length:
+- 417.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 206 - 232
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 250 - 287
+

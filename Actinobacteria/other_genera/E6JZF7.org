@@ -1,0 +1,9 @@
+* Organism:
+- Parascardovia denticolens DSM 10105 = JCM 12538
+* Protein length:
+- 418.0
+* Adhesive domains:
+- TED (PF08341): pos. 148 - 264
+* Stalk domains:
+- SpaA (PF17802): pos. 52 - 115
+

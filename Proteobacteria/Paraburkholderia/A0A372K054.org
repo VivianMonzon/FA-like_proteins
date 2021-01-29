@@ -1,0 +1,29 @@
+* Organism:
+- Paraburkholderia sp. DHOC27
+* Protein length:
+- 1344.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 135 - 160
+- YadA_head (PF05658): pos. 148 - 174
+- YadA_head (PF05658): pos. 387 - 413
+- YadA_head (PF05658): pos. 429 - 455
+- YadA_head (PF05658): pos. 581 - 619
+- YadA_head (PF05658): pos. 668 - 694
+- YadA_head (PF05658): pos. 696 - 722
+- YadA_head (PF05658): pos. 744 - 770
+- YadA_head (PF05658): pos. 831 - 857
+- YadA_head (PF05658): pos. 859 - 885
+- YadA_head (PF05658): pos. 994 - 1032
+- YadA_head (PF05658): pos. 1153 - 1179
+- YadA_head (PF05658): pos. 1181 - 1219
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 217 - 259
+- YadA_stalk (PF05662): pos. 283 - 328
+- YadA_stalk (PF05662): pos. 522 - 563
+- YadA_stalk (PF05662): pos. 625 - 652
+- YadA_stalk (PF05662): pos. 788 - 815
+- YadA_stalk (PF05662): pos. 951 - 978
+- YadA_stalk (PF05662): pos. 1038 - 1079
+- YadA_stalk (PF05662): pos. 1100 - 1138
+- YadA_stalk (PF05662): pos. 1225 - 1266
+

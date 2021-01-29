@@ -1,0 +1,9 @@
+* Organism:
+- Ignatzschineria ureiclastica
+* Protein length:
+- 1353.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 818 - 950
+* Stalk domains:
+- PATR (PF12951): pos. 740 - 769
+

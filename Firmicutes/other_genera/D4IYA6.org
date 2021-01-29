@@ -1,0 +1,9 @@
+* Organism:
+- Butyrivibrio fibrisolvens 16/4
+* Protein length:
+- 605.0
+* Adhesive domains:
+- VWA (PF00092): pos. 6 - 190
+* Stalk domains:
+- SpaA (PF17802): pos. 441 - 516
+

@@ -1,0 +1,13 @@
+* Organism:
+- Cohnella lupini
+* Protein length:
+- 1315.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1159 - 1309
+* Stalk domains:
+- fn3 (PF00041): pos. 650 - 728
+- fn3 (PF00041): pos. 812 - 889
+- fn3 (PF00041): pos. 908 - 985
+- fn3 (PF00041): pos. 1069 - 1145
+- PKD_4 (PF18911): pos. 455 - 533
+

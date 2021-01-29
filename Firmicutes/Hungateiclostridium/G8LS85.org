@@ -1,0 +1,12 @@
+* Organism:
+- Hungateiclostridium clariflavum (strain DSM 19732 / NBRC 101661 / EBR45) (Clostridium clariflavum)
+* Protein length:
+- 1203.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 181 - 224
+- LRR_4 (PF12799): pos. 252 - 295
+- LRR_4 (PF12799): pos. 374 - 416
+- LRR_4 (PF12799): pos. 640 - 681
+* Stalk domains:
+- Big_2 (PF02368): pos. 840 - 905
+

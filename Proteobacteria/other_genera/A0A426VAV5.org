@@ -1,0 +1,20 @@
+* Organism:
+- Aquabacterium sp. SJQ9
+* Protein length:
+- 2641.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1889 - 2071
+* Stalk domains:
+- Big_9 (PF17963): pos. 164 - 267
+- Big_9 (PF17963): pos. 271 - 377
+- Big_9 (PF17963): pos. 381 - 481
+- Big_9 (PF17963): pos. 485 - 585
+- Big_9 (PF17963): pos. 589 - 690
+- Big_9 (PF17963): pos. 960 - 1076
+- Big_9 (PF17963): pos. 1080 - 1186
+- Big_9 (PF17963): pos. 1190 - 1290
+- Big_9 (PF17963): pos. 1294 - 1394
+- Big_9 (PF17963): pos. 1398 - 1504
+- Big_9 (PF17963): pos. 1508 - 1608
+- Big_9 (PF17963): pos. 1612 - 1711
+

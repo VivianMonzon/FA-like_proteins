@@ -1,0 +1,11 @@
+* Organism:
+- Paenibacillus sp. FSL H8-0548
+* Protein length:
+- 1510.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 88 - 196
+* Stalk domains:
+- FIVAR (PF07554): pos. 878 - 945
+- FIVAR (PF07554): pos. 1156 - 1225
+- FIVAR (PF07554): pos. 1376 - 1446
+

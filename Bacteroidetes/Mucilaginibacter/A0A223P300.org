@@ -1,0 +1,9 @@
+* Organism:
+- Mucilaginibacter xinganensis
+* Protein length:
+- 652.0
+* Adhesive domains:
+- VWA (PF00092): pos. 283 - 455
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 24 - 108
+

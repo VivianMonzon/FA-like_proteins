@@ -1,0 +1,17 @@
+* Organism:
+- Lonepinella koalarum
+* Protein length:
+- 1400.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 336 - 362
+- YadA_head (PF05658): pos. 392 - 418
+- YadA_head (PF05658): pos. 566 - 592
+- YadA_head (PF05658): pos. 729 - 754
+- YadA_head (PF05658): pos. 742 - 768
+- YadA_head (PF05658): pos. 947 - 972
+- YadA_head (PF05658): pos. 1086 - 1111
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 813 - 853
+- YadA_stalk (PF05662): pos. 885 - 927
+- YadA_stalk (PF05662): pos. 1330 - 1374
+

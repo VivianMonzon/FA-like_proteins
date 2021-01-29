@@ -1,0 +1,10 @@
+* Organism:
+- Riemerella anatipestifer RA-CH-1
+* Protein length:
+- 1165.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 419 - 568
+- Cleaved_Adhesin (PF07675): pos. 790 - 951
+* Stalk domains:
+- PKD_4 (PF18911): pos. 660 - 745
+

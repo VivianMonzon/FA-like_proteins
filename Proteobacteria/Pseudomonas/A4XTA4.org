@@ -1,0 +1,13 @@
+* Organism:
+- Pseudomonas mendocina (strain ymp)
+* Protein length:
+- 3184.0
+* Adhesive domains:
+- VWA (PF00092): pos. 2364 - 2528
+- VWA (PF00092): pos. 2743 - 2922
+* Stalk domains:
+- DUF5801 (PF19116): pos. 788 - 948
+- DUF5801 (PF19116): pos. 961 - 1138
+- DUF5801 (PF19116): pos. 1488 - 1676
+- DUF5801 (PF19116): pos. 1694 - 1887
+

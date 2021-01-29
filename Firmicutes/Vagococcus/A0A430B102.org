@@ -1,0 +1,12 @@
+* Organism:
+- Vagococcus acidifermentans
+* Protein length:
+- 784.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 42 - 272
+* Stalk domains:
+- SpaA (PF17802): pos. 295 - 361
+- SpaA (PF17802): pos. 404 - 475
+- SpaA (PF17802): pos. 512 - 578
+- SpaA (PF17802): pos. 619 - 704
+

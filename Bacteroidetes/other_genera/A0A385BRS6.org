@@ -1,0 +1,9 @@
+* Organism:
+- Mariniflexile sp. TRM1-10
+* Protein length:
+- 356.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 150 - 353
+* Stalk domains:
+- Big_5 (PF13205): pos. 27 - 130
+

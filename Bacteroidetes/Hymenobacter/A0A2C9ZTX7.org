@@ -1,0 +1,9 @@
+* Organism:
+- Hymenobacter sp. MIMBbqt21
+* Protein length:
+- 759.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 507 - 666
+* Stalk domains:
+- fn3 (PF00041): pos. 315 - 394
+

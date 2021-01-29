@@ -1,0 +1,11 @@
+* Organism:
+- Anaerocolumna jejuensis DSM 15929
+* Protein length:
+- 368.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 238 - 368
+* Stalk domains:
+- Collagen (PF01391): pos. 96 - 156
+- Collagen (PF01391): pos. 133 - 210
+- Collagen (PF01391): pos. 180 - 238
+

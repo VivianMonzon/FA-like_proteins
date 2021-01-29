@@ -1,0 +1,9 @@
+* Organism:
+- Cryobacterium arcticum
+* Protein length:
+- 442.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 51 - 239
+* Stalk domains:
+- He_PIG (PF05345): pos. 255 - 339
+

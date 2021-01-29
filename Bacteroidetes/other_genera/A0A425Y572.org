@@ -1,0 +1,9 @@
+* Organism:
+- Ancylomarina sp. M1P
+* Protein length:
+- 641.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 329 - 460
+* Stalk domains:
+- HYR (PF02494): pos. 254 - 320
+

@@ -1,0 +1,11 @@
+* Organism:
+- Falsochrobactrum sp. HN4
+* Protein length:
+- 533.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 154 - 180
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 233 - 278
+- YadA_stalk (PF05662): pos. 311 - 355
+- YadA_stalk (PF05662): pos. 381 - 423
+

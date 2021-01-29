@@ -1,0 +1,19 @@
+* Organism:
+- Cellulomonas shaoxiangyii
+* Protein length:
+- 1924.0
+* Adhesive domains:
+- VWA (PF00092): pos. 217 - 411
+* Stalk domains:
+- SpaA_2 (PF19403): pos. 561 - 662
+- SpaA_2 (PF19403): pos. 669 - 792
+- SpaA_2 (PF19403): pos. 794 - 898
+- SpaA_2 (PF19403): pos. 902 - 1004
+- SpaA_2 (PF19403): pos. 1008 - 1105
+- SpaA_2 (PF19403): pos. 1109 - 1211
+- SpaA_2 (PF19403): pos. 1215 - 1312
+- SpaA_2 (PF19403): pos. 1316 - 1418
+- SpaA_2 (PF19403): pos. 1423 - 1519
+- SpaA_2 (PF19403): pos. 1523 - 1617
+- SpaA_2 (PF19403): pos. 1623 - 1718
+

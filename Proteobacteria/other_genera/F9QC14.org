@@ -1,0 +1,10 @@
+* Organism:
+- Haemophilus pittmaniae HK 85
+* Protein length:
+- 435.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 48 - 71
+- YadA_head (PF05658): pos. 115 - 141
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 257 - 302
+

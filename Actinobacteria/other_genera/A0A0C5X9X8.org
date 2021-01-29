@@ -1,0 +1,12 @@
+* Organism:
+- Nocardioides simplex (Arthrobacter simplex)
+* Protein length:
+- 1053.0
+* Adhesive domains:
+- TED (PF08341): pos. 35 - 144
+* Stalk domains:
+- TQ (PF18202): pos. 285 - 400
+- TQ (PF18202): pos. 404 - 519
+- TQ (PF18202): pos. 524 - 639
+- TQ (PF18202): pos. 644 - 759
+

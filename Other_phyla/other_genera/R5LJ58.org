@@ -1,0 +1,9 @@
+* Organism:
+- Mycoplasma sp. CAG:877
+* Protein length:
+- 981.0
+* Adhesive domains:
+- VWA (PF00092): pos. 65 - 240
+* Stalk domains:
+- Flg_new_2 (PF18998): pos. 337 - 414
+

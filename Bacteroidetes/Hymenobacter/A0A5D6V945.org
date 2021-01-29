@@ -1,0 +1,9 @@
+* Organism:
+- Hymenobacter sp. KIGAM108
+* Protein length:
+- 646.0
+* Adhesive domains:
+- VWA (PF00092): pos. 279 - 452
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 38 - 131
+

@@ -1,0 +1,16 @@
+* Organism:
+- Acinetobacter marinus
+* Protein length:
+- 883.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 222 - 248
+- YadA_head (PF05658): pos. 250 - 276
+- YadA_head (PF05658): pos. 264 - 290
+- YadA_head (PF05658): pos. 306 - 332
+- YadA_head (PF05658): pos. 320 - 346
+- YadA_head (PF05658): pos. 512 - 538
+- YadA_head (PF05658): pos. 540 - 566
+- YadA_head (PF05658): pos. 789 - 815
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 717 - 762
+

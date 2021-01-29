@@ -1,0 +1,15 @@
+* Organism:
+- Pseudoramibacter alactolyticus ATCC 23263
+* Protein length:
+- 1011.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 178 - 307
+* Stalk domains:
+- Cna_B (PF05738): pos. 416 - 498
+- Cna_B (PF05738): pos. 506 - 596
+- Cna_B (PF05738): pos. 604 - 686
+- Cna_B (PF05738): pos. 694 - 783
+- Cna_B (PF05738): pos. 791 - 873
+- Cna_B (PF05738): pos. 881 - 970
+- SpaA (PF17802): pos. 335 - 401
+

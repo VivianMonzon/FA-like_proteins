@@ -1,0 +1,11 @@
+* Organism:
+- Marinobacter profundi
+* Protein length:
+- 675.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 369 - 504
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 289 - 310
+- TSP3_bac (PF18884): pos. 316 - 332
+- TSP3_bac (PF18884): pos. 520 - 535
+

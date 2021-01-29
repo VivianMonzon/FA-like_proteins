@@ -1,0 +1,12 @@
+* Organism:
+- Haemophilus paracuniculus
+* Protein length:
+- 1181.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 719 - 745
+- YadA_head (PF05658): pos. 748 - 773
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 856 - 899
+- YadA_stalk (PF05662): pos. 973 - 1018
+- YadA_stalk (PF05662): pos. 1080 - 1122
+

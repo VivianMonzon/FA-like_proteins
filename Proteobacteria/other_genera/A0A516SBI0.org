@@ -1,0 +1,12 @@
+* Organism:
+- Chitinimonas arctica
+* Protein length:
+- 740.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 504 - 736
+* Stalk domains:
+- Big_5 (PF13205): pos. 44 - 149
+- Big_5 (PF13205): pos. 156 - 261
+- Big_5 (PF13205): pos. 266 - 371
+- Big_5 (PF13205): pos. 376 - 483
+

@@ -1,0 +1,13 @@
+* Organism:
+- Flavobacterium sp. 316
+* Protein length:
+- 2092.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 55 - 198
+- Cleaved_Adhesin (PF07675): pos. 560 - 697
+- Cleaved_Adhesin (PF07675): pos. 1063 - 1201
+* Stalk domains:
+- fn3 (PF00041): pos. 455 - 542
+- fn3 (PF00041): pos. 970 - 1049
+- Ig_7 (PF19081): pos. 1925 - 2004
+

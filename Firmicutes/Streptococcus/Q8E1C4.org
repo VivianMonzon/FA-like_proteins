@@ -1,0 +1,23 @@
+* Organism:
+- Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R)
+* Protein length:
+- 1389.0
+* Adhesive domains:
+- AlphaC_N (PF08829): pos. 57 - 162
+- AlphaC_N2 (PF17480): pos. 165 - 235
+* Stalk domains:
+- Rib (PF08428): pos. 230 - 305
+- Rib (PF08428): pos. 309 - 384
+- Rib (PF08428): pos. 388 - 463
+- Rib (PF08428): pos. 467 - 542
+- Rib (PF08428): pos. 546 - 621
+- Rib (PF08428): pos. 625 - 700
+- Rib (PF08428): pos. 704 - 779
+- Rib (PF08428): pos. 783 - 858
+- Rib (PF08428): pos. 862 - 937
+- Rib (PF08428): pos. 941 - 1016
+- Rib (PF08428): pos. 1020 - 1095
+- Rib (PF08428): pos. 1099 - 1174
+- Rib (PF08428): pos. 1178 - 1253
+- Rib (PF08428): pos. 1257 - 1332
+

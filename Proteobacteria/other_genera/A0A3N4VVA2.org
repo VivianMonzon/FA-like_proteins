@@ -1,0 +1,12 @@
+* Organism:
+- Vulcaniibacterium tengchongense
+* Protein length:
+- 1364.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 325 - 351
+- YadA_head (PF05658): pos. 791 - 817
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 612 - 648
+- YadA_stalk (PF05662): pos. 963 - 1005
+- YadA_stalk (PF05662): pos. 1211 - 1253
+

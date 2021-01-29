@@ -1,0 +1,12 @@
+* Organism:
+- Nonlabens sp. MB-3u-79
+* Protein length:
+- 1225.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 24 - 234
+* Stalk domains:
+- PKD_6 (PF19408): pos. 238 - 311
+- PKD_6 (PF19408): pos. 928 - 960
+- PKD_6 (PF19408): pos. 998 - 1069
+- PKD_6 (PF19408): pos. 1118 - 1140
+

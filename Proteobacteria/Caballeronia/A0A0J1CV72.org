@@ -1,0 +1,11 @@
+* Organism:
+- Caballeronia mineralivorans PML1(12)
+* Protein length:
+- 1040.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 533 - 650
+* Stalk domains:
+- PATR (PF12951): pos. 287 - 313
+- PATR (PF12951): pos. 348 - 381
+- PATR (PF12951): pos. 443 - 471
+

@@ -1,0 +1,11 @@
+* Organism:
+- Listeria grayi DSM 20601
+* Protein length:
+- 658.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 232 - 274
+* Stalk domains:
+- MucBP (PF06458): pos. 373 - 435
+- MucBP (PF06458): pos. 441 - 503
+- MucBP (PF06458): pos. 509 - 571
+

@@ -1,0 +1,11 @@
+* Organism:
+- Burkholderia sp. Leaf177
+* Protein length:
+- 1056.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 535 - 652
+* Stalk domains:
+- PATR (PF12951): pos. 289 - 315
+- PATR (PF12951): pos. 350 - 383
+- PATR (PF12951): pos. 445 - 473
+

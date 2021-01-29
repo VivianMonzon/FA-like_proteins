@@ -1,0 +1,11 @@
+* Organism:
+- Maliponia aquimaris
+* Protein length:
+- 1197.0
+* Adhesive domains:
+- VWA (PF00092): pos. 246 - 412
+* Stalk domains:
+- Calx-beta (PF03160): pos. 606 - 708
+- Calx-beta (PF03160): pos. 709 - 738
+- Calx-beta (PF03160): pos. 723 - 831
+

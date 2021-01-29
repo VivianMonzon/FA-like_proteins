@@ -1,0 +1,28 @@
+* Organism:
+- Jeotgalibaca dankookensis
+* Protein length:
+- 3192.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 361 - 485
+- Collagen_bind (PF05737): pos. 499 - 624
+- Collagen_bind (PF05737): pos. 630 - 754
+- Collagen_bind (PF05737): pos. 769 - 890
+- Collagen_bind (PF05737): pos. 1032 - 1153
+- Collagen_bind (PF05737): pos. 1170 - 1284
+* Stalk domains:
+- FctA (PF12892): pos. 1539 - 1654
+- FctA (PF12892): pos. 1662 - 1767
+- FctA (PF12892): pos. 1775 - 1880
+- FctA (PF12892): pos. 1888 - 1993
+- FctA (PF12892): pos. 2001 - 2106
+- FctA (PF12892): pos. 2114 - 2219
+- FctA (PF12892): pos. 2227 - 2332
+- FctA (PF12892): pos. 2340 - 2445
+- FctA (PF12892): pos. 2453 - 2558
+- FctA (PF12892): pos. 2566 - 2671
+- FctA (PF12892): pos. 2679 - 2784
+- FctA (PF12892): pos. 2792 - 2897
+- FctA (PF12892): pos. 2905 - 3010
+- FctA (PF12892): pos. 3018 - 3122
+- SpaA (PF17802): pos. 1323 - 1394
+

@@ -1,0 +1,17 @@
+* Organism:
+- Faecalitalea cylindroides T2-87
+* Protein length:
+- 1407.0
+* Adhesive domains:
+- TED (PF08341): pos. 110 - 222
+* Stalk domains:
+- SpaA (PF17802): pos. 431 - 499
+- SpaA (PF17802): pos. 529 - 591
+- SpaA (PF17802): pos. 630 - 703
+- SpaA (PF17802): pos. 729 - 810
+- SpaA (PF17802): pos. 856 - 936
+- SpaA (PF17802): pos. 976 - 1052
+- SpaA (PF17802): pos. 1084 - 1156
+- SpaA (PF17802): pos. 1182 - 1258
+- SpaA (PF17802): pos. 1286 - 1351
+

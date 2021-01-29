@@ -1,0 +1,11 @@
+* Organism:
+- Bifidobacterium primatium
+* Protein length:
+- 1164.0
+* Adhesive domains:
+- VWA (PF00092): pos. 372 - 575
+* Stalk domains:
+- SpaA (PF17802): pos. 996 - 1061
+- SpaA_2 (PF19403): pos. 248 - 371
+- SpaA_2 (PF19403): pos. 835 - 980
+

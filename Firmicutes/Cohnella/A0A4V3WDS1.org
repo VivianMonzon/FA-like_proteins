@@ -1,0 +1,11 @@
+* Organism:
+- Cohnella sp. CC-MHH1044
+* Protein length:
+- 2985.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1009 - 1143
+* Stalk domains:
+- Big_2 (PF02368): pos. 1149 - 1227
+- Big_2 (PF02368): pos. 1983 - 2058
+- Big_2 (PF02368): pos. 2584 - 2654
+

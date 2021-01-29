@@ -1,0 +1,10 @@
+* Organism:
+- Eubacterium sp. CAG:603
+* Protein length:
+- 345.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1 - 105
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 155 - 171
+- TSP3_bac (PF18884): pos. 189 - 206
+

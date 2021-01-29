@@ -1,0 +1,7 @@
+* Organism:
+- Bacillus anthracis
+* Protein length:
+- 249.0
+* Adhesive domains:
+* Stalk domains:
+

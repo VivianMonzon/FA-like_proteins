@@ -1,0 +1,9 @@
+* Organism:
+- Filimonas sp. YR581
+* Protein length:
+- 641.0
+* Adhesive domains:
+- VWA (PF00092): pos. 268 - 437
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 21 - 93
+

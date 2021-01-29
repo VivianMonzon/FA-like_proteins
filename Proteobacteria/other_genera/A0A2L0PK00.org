@@ -1,0 +1,27 @@
+* Organism:
+- Vitreoscilla sp. (strain C1)
+* Protein length:
+- 6241.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 255 - 281
+- YadA_head (PF05658): pos. 618 - 644
+- YadA_head (PF05658): pos. 799 - 822
+- YadA_head (PF05658): pos. 949 - 972
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 1095 - 1140
+- YadA_stalk (PF05662): pos. 2771 - 2805
+- YadA_stalk (PF05662): pos. 2922 - 2963
+- YadA_stalk (PF05662): pos. 3057 - 3091
+- YadA_stalk (PF05662): pos. 3208 - 3242
+- YadA_stalk (PF05662): pos. 3359 - 3400
+- YadA_stalk (PF05662): pos. 3494 - 3529
+- YadA_stalk (PF05662): pos. 3645 - 3686
+- YadA_stalk (PF05662): pos. 3780 - 3815
+- YadA_stalk (PF05662): pos. 3931 - 3972
+- YadA_stalk (PF05662): pos. 4066 - 4107
+- YadA_stalk (PF05662): pos. 4201 - 4236
+- YadA_stalk (PF05662): pos. 4352 - 4387
+- YadA_stalk (PF05662): pos. 4503 - 4544
+- YadA_stalk (PF05662): pos. 4638 - 4673
+- YadA_stalk (PF05662): pos. 4789 - 4824
+

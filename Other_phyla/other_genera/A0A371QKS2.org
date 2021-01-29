@@ -1,0 +1,17 @@
+* Organism:
+- Rhodohalobacter sp. SW132
+* Protein length:
+- 1308.0
+* Adhesive domains:
+- VWA (PF00092): pos. 787 - 957
+* Stalk domains:
+- DUF285 (PF03382): pos. 52 - 159
+- DUF285 (PF03382): pos. 140 - 232
+- DUF285 (PF03382): pos. 215 - 316
+- DUF285 (PF03382): pos. 292 - 392
+- DUF285 (PF03382): pos. 366 - 467
+- DUF285 (PF03382): pos. 439 - 528
+- DUF285 (PF03382): pos. 491 - 591
+- DUF285 (PF03382): pos. 515 - 611
+- DUF285 (PF03382): pos. 565 - 674
+

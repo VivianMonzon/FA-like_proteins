@@ -1,0 +1,18 @@
+* Organism:
+- Salmonella arizonae (strain ATCC BAA-731 / CDC346-86 / RSK2980)
+* Protein length:
+- 1370.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 188 - 213
+- YadA_head (PF05658): pos. 215 - 241
+- YadA_head (PF05658): pos. 229 - 255
+- YadA_head (PF05658): pos. 447 - 473
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 568 - 609
+- YadA_stalk (PF05662): pos. 688 - 730
+- YadA_stalk (PF05662): pos. 779 - 824
+- YadA_stalk (PF05662): pos. 913 - 955
+- YadA_stalk (PF05662): pos. 1011 - 1055
+- YadA_stalk (PF05662): pos. 1156 - 1199
+- YadA_stalk (PF05662): pos. 1259 - 1301
+

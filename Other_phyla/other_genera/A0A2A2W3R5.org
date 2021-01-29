@@ -1,0 +1,16 @@
+* Organism:
+- Rhodopirellula sp. SM50
+* Protein length:
+- 4632.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1707 - 1868
+* Stalk domains:
+- He_PIG (PF05345): pos. 1256 - 1342
+- He_PIG (PF05345): pos. 1558 - 1642
+- He_PIG (PF05345): pos. 1991 - 2078
+- He_PIG (PF05345): pos. 2419 - 2505
+- He_PIG (PF05345): pos. 2710 - 2796
+- He_PIG (PF05345): pos. 2801 - 2886
+- He_PIG (PF05345): pos. 2906 - 2991
+- Big_9 (PF17963): pos. 2605 - 2691
+

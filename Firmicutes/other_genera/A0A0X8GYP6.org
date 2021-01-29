@@ -1,0 +1,20 @@
+* Organism:
+- Erysipelothrix larvae
+* Protein length:
+- 2271.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 238 - 356
+- Collagen_bind (PF05737): pos. 510 - 630
+- Collagen_bind (PF05737): pos. 805 - 936
+* Stalk domains:
+- Cna_B (PF05738): pos. 1380 - 1477
+- Cna_B (PF05738): pos. 1485 - 1573
+- Cna_B (PF05738): pos. 1580 - 1678
+- Cna_B (PF05738): pos. 1686 - 1776
+- Cna_B (PF05738): pos. 1784 - 1874
+- Cna_B (PF05738): pos. 1882 - 1972
+- Cna_B (PF05738): pos. 1980 - 2070
+- Cna_B (PF05738): pos. 2078 - 2168
+- Cna_B (PF05738): pos. 2176 - 2266
+- SpaA (PF17802): pos. 1268 - 1335
+

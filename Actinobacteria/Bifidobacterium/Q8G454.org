@@ -1,0 +1,9 @@
+* Organism:
+- Bifidobacterium longum (strain NCC 2705)
+* Protein length:
+- 794.0
+* Adhesive domains:
+- VWA (PF00092): pos. 102 - 345
+* Stalk domains:
+- Cna_B (PF05738): pos. 507 - 600
+

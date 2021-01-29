@@ -1,0 +1,10 @@
+* Organism:
+- Dinghuibacter silviterrae
+* Protein length:
+- 2267.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 676 - 778
+- PA14 (PF07691): pos. 884 - 1025
+* Stalk domains:
+- fn3 (PF00041): pos. 553 - 629
+

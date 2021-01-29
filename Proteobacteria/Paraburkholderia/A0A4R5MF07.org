@@ -1,0 +1,14 @@
+* Organism:
+- Candidatus Paraburkholderia sp. 4M-K11
+* Protein length:
+- 1730.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 241 - 267
+- YadA_head (PF05658): pos. 317 - 341
+- YadA_head (PF05658): pos. 1537 - 1563
+- YadA_head (PF05658): pos. 1565 - 1591
+- YadA_head (PF05658): pos. 1593 - 1618
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 418 - 460
+- YadA_stalk (PF05662): pos. 1623 - 1662
+

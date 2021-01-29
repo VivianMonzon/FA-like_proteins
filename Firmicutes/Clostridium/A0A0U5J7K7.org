@@ -1,0 +1,9 @@
+* Organism:
+- Clostridium sp. C105KSO13
+* Protein length:
+- 427.0
+* Adhesive domains:
+- TED (PF08341): pos. 89 - 218
+* Stalk domains:
+- SpaA (PF17802): pos. 260 - 411
+

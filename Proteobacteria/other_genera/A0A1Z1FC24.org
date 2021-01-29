@@ -1,0 +1,13 @@
+* Organism:
+- Croceicoccus marinus
+* Protein length:
+- 884.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 234 - 273
+- YadA_head (PF05658): pos. 328 - 354
+- YadA_head (PF05658): pos. 632 - 658
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 278 - 314
+- YadA_stalk (PF05662): pos. 372 - 408
+- YadA_stalk (PF05662): pos. 466 - 504
+

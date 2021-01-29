@@ -1,0 +1,19 @@
+* Organism:
+- Bordetella genomosp. 9
+* Protein length:
+- 1746.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 433 - 459
+- YadA_head (PF05658): pos. 612 - 638
+- YadA_head (PF05658): pos. 626 - 652
+- YadA_head (PF05658): pos. 974 - 1000
+- YadA_head (PF05658): pos. 1168 - 1194
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 498 - 543
+- YadA_stalk (PF05662): pos. 859 - 904
+- YadA_stalk (PF05662): pos. 1053 - 1098
+- YadA_stalk (PF05662): pos. 1253 - 1295
+- YadA_stalk (PF05662): pos. 1417 - 1459
+- YadA_stalk (PF05662): pos. 1558 - 1602
+- YadA_stalk (PF05662): pos. 1628 - 1669
+

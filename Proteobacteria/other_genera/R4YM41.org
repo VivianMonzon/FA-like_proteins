@@ -1,0 +1,10 @@
+* Organism:
+- Oleispira antarctica RB-8
+* Protein length:
+- 1634.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 230 - 385
+- PA14 (PF07691): pos. 690 - 833
+* Stalk domains:
+- Big_9 (PF17963): pos. 1265 - 1347
+

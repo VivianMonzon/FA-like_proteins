@@ -1,0 +1,13 @@
+* Organism:
+- Veillonella criceti
+* Protein length:
+- 709.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 66 - 89
+- YadA_head (PF05658): pos. 105 - 131
+- YadA_head (PF05658): pos. 150 - 175
+- YadA_head (PF05658): pos. 296 - 322
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 429 - 470
+- YadA_stalk (PF05662): pos. 534 - 576
+

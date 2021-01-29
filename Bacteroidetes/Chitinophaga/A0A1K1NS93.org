@@ -1,0 +1,10 @@
+* Organism:
+- Chitinophaga sancti
+* Protein length:
+- 645.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 17 - 227
+* Stalk domains:
+- PKD_4 (PF18911): pos. 220 - 296
+- PKD_4 (PF18911): pos. 383 - 460
+

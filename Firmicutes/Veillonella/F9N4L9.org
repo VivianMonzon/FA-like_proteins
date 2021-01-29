@@ -1,0 +1,12 @@
+* Organism:
+- Veillonella sp. oral taxon 780 str. F0422
+* Protein length:
+- 1028.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 100 - 125
+* Stalk domains:
+- Collagen (PF01391): pos. 702 - 752
+- Collagen (PF01391): pos. 772 - 830
+- YadA_stalk (PF05662): pos. 48 - 84
+- YadA_stalk (PF05662): pos. 345 - 387
+

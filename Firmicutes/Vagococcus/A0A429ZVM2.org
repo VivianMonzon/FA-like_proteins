@@ -1,0 +1,12 @@
+* Organism:
+- Vagococcus salmoninarum
+* Protein length:
+- 897.0
+* Adhesive domains:
+- TED (PF08341): pos. 71 - 164
+* Stalk domains:
+- SpaA (PF17802): pos. 229 - 339
+- SpaA (PF17802): pos. 382 - 461
+- SpaA (PF17802): pos. 636 - 701
+- SpaA (PF17802): pos. 768 - 835
+

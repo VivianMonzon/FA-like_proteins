@@ -1,0 +1,11 @@
+* Organism:
+- Paenibacillus piri
+* Protein length:
+- 1510.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 46 - 277
+* Stalk domains:
+- Big_2 (PF02368): pos. 644 - 723
+- Big_1 (PF02369): pos. 743 - 803
+- SpaA (PF17802): pos. 957 - 1019
+

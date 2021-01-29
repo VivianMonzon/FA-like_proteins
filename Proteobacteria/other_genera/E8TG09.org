@@ -1,0 +1,18 @@
+* Organism:
+- Mesorhizobium ciceri biovar biserrulae (strain HAMBI 2942 / LMG 23838 / WSM1271)
+* Protein length:
+- 1570.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 298 - 324
+- YadA_head (PF05658): pos. 766 - 792
+- YadA_head (PF05658): pos. 1104 - 1130
+- YadA_head (PF05658): pos. 1256 - 1282
+- YadA_head (PF05658): pos. 1284 - 1310
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 707 - 752
+- YadA_stalk (PF05662): pos. 831 - 876
+- YadA_stalk (PF05662): pos. 1001 - 1043
+- YadA_stalk (PF05662): pos. 1165 - 1206
+- YadA_stalk (PF05662): pos. 1349 - 1394
+- YadA_stalk (PF05662): pos. 1418 - 1460
+

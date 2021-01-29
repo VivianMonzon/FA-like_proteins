@@ -1,0 +1,12 @@
+* Organism:
+- Corynebacterium pseudotuberculosis (strain C231)
+* Protein length:
+- 1269.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 52 - 425
+* Stalk domains:
+- SdrD_B (PF17210): pos. 555 - 685
+- SdrD_B (PF17210): pos. 694 - 810
+- SdrD_B (PF17210): pos. 814 - 927
+- CshA_repeat (PF19076): pos. 1023 - 1135
+

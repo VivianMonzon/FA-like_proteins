@@ -1,0 +1,13 @@
+* Organism:
+- Paenibacillus lutimineralis
+* Protein length:
+- 1186.0
+* Adhesive domains:
+- VWA (PF00092): pos. 74 - 298
+* Stalk domains:
+- MucBP (PF06458): pos. 508 - 582
+- MucBP (PF06458): pos. 577 - 638
+- MucBP (PF06458): pos. 643 - 704
+- MucBP (PF06458): pos. 789 - 856
+- MucBP (PF06458): pos. 866 - 928
+

@@ -1,0 +1,14 @@
+* Organism:
+- Psychrobacillus vulpis
+* Protein length:
+- 867.0
+* Adhesive domains:
+- VWA (PF00092): pos. 73 - 243
+* Stalk domains:
+- TIG (PF01833): pos. 349 - 428
+- TIG (PF01833): pos. 431 - 512
+- TIG (PF01833): pos. 521 - 603
+- TIG (PF01833): pos. 612 - 694
+- TIG (PF01833): pos. 703 - 784
+- TIG (PF01833): pos. 789 - 866
+

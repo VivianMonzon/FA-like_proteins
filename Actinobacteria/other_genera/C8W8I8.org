@@ -1,0 +1,11 @@
+* Organism:
+- Atopobium parvulum (strain ATCC 33793 / DSM 20469 / JCM 10300 / VPI 0546) (Streptococcus parvulus) (Peptostreptococcus parvulus)
+* Protein length:
+- 751.0
+* Adhesive domains:
+- TED (PF08341): pos. 81 - 205
+* Stalk domains:
+- SpaA (PF17802): pos. 245 - 314
+- SpaA (PF17802): pos. 499 - 577
+- TQ (PF18202): pos. 591 - 709
+

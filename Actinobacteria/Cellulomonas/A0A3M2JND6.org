@@ -1,0 +1,10 @@
+* Organism:
+- Cellulomonas sp. NEAU-YY56
+* Protein length:
+- 564.0
+* Adhesive domains:
+- TED (PF08341): pos. 56 - 155
+* Stalk domains:
+- DUF5979 (PF19407): pos. 289 - 384
+- DUF5979 (PF19407): pos. 398 - 490
+

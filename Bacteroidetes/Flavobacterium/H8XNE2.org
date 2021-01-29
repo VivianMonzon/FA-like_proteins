@@ -1,0 +1,9 @@
+* Organism:
+- Flavobacterium indicum (strain DSM 17447 / CIP 109464 / GPTSA100-9)
+* Protein length:
+- 2124.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 18 - 180
+* Stalk domains:
+- fn3 (PF00041): pos. 894 - 976
+

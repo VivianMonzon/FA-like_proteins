@@ -1,0 +1,16 @@
+* Organism:
+- Dactylococcopsis salina PCC 8305
+* Protein length:
+- 11106.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 8317 - 8431
+- PA14 (PF07691): pos. 8772 - 8883
+* Stalk domains:
+- nan (PF14312): pos. 9233 - 9282
+- nan (PF14312): pos. 9289 - 9336
+- nan (PF14312): pos. 9389 - 9437
+- nan (PF14312): pos. 9460 - 9501
+- nan (PF14312): pos. 10488 - 10529
+- nan (PF14312): pos. 10647 - 10681
+- nan (PF14312): pos. 10688 - 10737
+

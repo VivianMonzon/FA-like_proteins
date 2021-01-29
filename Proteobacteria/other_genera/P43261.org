@@ -1,0 +1,12 @@
+* Organism:
+- Escherichia coli O157:H7
+* Protein length:
+- 934.0
+* Adhesive domains:
+- Intimin_C (PF07979): pos. 839 - 934
+* Stalk domains:
+- Big_2 (PF02368): pos. 779 - 836
+- Big_1 (PF02369): pos. 572 - 636
+- Big_1 (PF02369): pos. 672 - 737
+- Intimin_C (PF07979): pos. 839 - 934
+

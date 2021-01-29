@@ -1,0 +1,22 @@
+* Organism:
+- Falsochrobactrum ovis
+* Protein length:
+- 1659.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 151 - 177
+- YadA_head (PF05658): pos. 179 - 205
+- YadA_head (PF05658): pos. 207 - 233
+- YadA_head (PF05658): pos. 923 - 949
+- YadA_head (PF05658): pos. 979 - 1005
+- YadA_head (PF05658): pos. 1035 - 1061
+- YadA_head (PF05658): pos. 1063 - 1089
+- YadA_head (PF05658): pos. 1091 - 1117
+- YadA_head (PF05658): pos. 1343 - 1369
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 275 - 316
+- YadA_stalk (PF05662): pos. 677 - 719
+- YadA_stalk (PF05662): pos. 1156 - 1199
+- YadA_stalk (PF05662): pos. 1230 - 1273
+- YadA_stalk (PF05662): pos. 1438 - 1477
+- YadA_stalk (PF05662): pos. 1507 - 1548
+

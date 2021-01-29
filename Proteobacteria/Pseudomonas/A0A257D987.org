@@ -1,0 +1,11 @@
+* Organism:
+- Pseudomonas sp. PGPPP3
+* Protein length:
+- 2240.0
+* Adhesive domains:
+- VWA (PF00092): pos. 710 - 886
+- VWA (PF00092): pos. 1534 - 1745
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 995 - 1065
+- DUF5801 (PF19116): pos. 325 - 513
+

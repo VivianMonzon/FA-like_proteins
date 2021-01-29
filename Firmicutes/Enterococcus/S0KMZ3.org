@@ -1,0 +1,10 @@
+* Organism:
+- Enterococcus avium ATCC 14025
+* Protein length:
+- 1076.0
+* Adhesive domains:
+- VWA (PF00092): pos. 318 - 464
+* Stalk domains:
+- SpaA (PF17802): pos. 839 - 908
+- SpaA (PF17802): pos. 938 - 1003
+

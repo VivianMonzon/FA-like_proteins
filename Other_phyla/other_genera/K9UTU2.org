@@ -1,0 +1,11 @@
+* Organism:
+- Calothrix sp. PCC 6303
+* Protein length:
+- 1270.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 56 - 191
+- PA14 (PF07691): pos. 317 - 453
+* Stalk domains:
+- Calx-beta (PF03160): pos. 580 - 678
+- Calx-beta (PF03160): pos. 691 - 786
+

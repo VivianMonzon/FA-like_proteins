@@ -1,0 +1,9 @@
+* Organism:
+- Petrocella atlantisensis
+* Protein length:
+- 525.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 319 - 523
+* Stalk domains:
+- Big_2 (PF02368): pos. 211 - 292
+

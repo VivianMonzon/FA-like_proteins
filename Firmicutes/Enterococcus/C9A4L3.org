@@ -1,0 +1,10 @@
+* Organism:
+- Enterococcus casseliflavus EC20
+* Protein length:
+- 1195.0
+* Adhesive domains:
+- VWA (PF00092): pos. 356 - 593
+* Stalk domains:
+- SpaA (PF17802): pos. 949 - 1020
+- SpaA (PF17802): pos. 1056 - 1123
+

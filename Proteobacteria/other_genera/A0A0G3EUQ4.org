@@ -1,0 +1,13 @@
+* Organism:
+- Pandoraea thiooxydans
+* Protein length:
+- 1148.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 659 - 796
+* Stalk domains:
+- PATR (PF12951): pos. 290 - 318
+- PATR (PF12951): pos. 353 - 386
+- PATR (PF12951): pos. 448 - 477
+- PATR (PF12951): pos. 516 - 545
+- PATR (PF12951): pos. 584 - 613
+

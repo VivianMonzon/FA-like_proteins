@@ -1,0 +1,16 @@
+* Organism:
+- Cohnella sp. CIP 111063
+* Protein length:
+- 1512.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 195 - 324
+- Collagen_bind (PF05737): pos. 340 - 473
+- Collagen_bind (PF05737): pos. 638 - 773
+- Collagen_bind (PF05737): pos. 787 - 919
+* Stalk domains:
+- SpaA (PF17802): pos. 946 - 1011
+- SpaA (PF17802): pos. 1047 - 1115
+- SpaA (PF17802): pos. 1144 - 1209
+- SpaA (PF17802): pos. 1232 - 1313
+- Big_9 (PF17963): pos. 1349 - 1445
+

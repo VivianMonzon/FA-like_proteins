@@ -1,0 +1,9 @@
+* Organism:
+- Escherichia coli O157:H7
+* Protein length:
+- 418.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 329 - 414
+* Stalk domains:
+- AIDA (PF16168): pos. 99 - 159
+

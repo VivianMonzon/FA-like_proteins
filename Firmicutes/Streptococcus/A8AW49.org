@@ -1,0 +1,21 @@
+* Organism:
+- Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288)
+* Protein length:
+- 1643.0
+* Adhesive domains:
+- Sgo0707_N1 (PF18873): pos. 35 - 310
+* Stalk domains:
+- SHIRT (PF18655): pos. 454 - 535
+- SHIRT (PF18655): pos. 538 - 619
+- SHIRT (PF18655): pos. 622 - 703
+- SHIRT (PF18655): pos. 706 - 787
+- SHIRT (PF18655): pos. 790 - 871
+- SHIRT (PF18655): pos. 874 - 955
+- SHIRT (PF18655): pos. 958 - 1039
+- SHIRT (PF18655): pos. 1042 - 1123
+- SHIRT (PF18655): pos. 1126 - 1207
+- SHIRT (PF18655): pos. 1214 - 1295
+- SHIRT (PF18655): pos. 1302 - 1383
+- SHIRT (PF18655): pos. 1390 - 1471
+- SHIRT (PF18655): pos. 1476 - 1557
+

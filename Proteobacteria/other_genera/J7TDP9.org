@@ -1,0 +1,9 @@
+* Organism:
+- Morganella morganii subsp. morganii KT
+* Protein length:
+- 841.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 393 - 518
+* Stalk domains:
+- AIDA (PF16168): pos. 159 - 210
+

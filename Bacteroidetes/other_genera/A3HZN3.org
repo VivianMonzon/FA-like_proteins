@@ -1,0 +1,9 @@
+* Organism:
+- Algoriphagus machipongonensis
+* Protein length:
+- 775.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 29 - 291
+* Stalk domains:
+- PKD_4 (PF18911): pos. 620 - 670
+

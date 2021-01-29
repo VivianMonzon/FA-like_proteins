@@ -1,0 +1,13 @@
+* Organism:
+- Rhodoferax koreense
+* Protein length:
+- 2040.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1611 - 1742
+- PA14 (PF07691): pos. 1755 - 1888
+* Stalk domains:
+- PKD (PF00801): pos. 807 - 878
+- He_PIG (PF05345): pos. 469 - 559
+- He_PIG (PF05345): pos. 716 - 800
+- He_PIG (PF05345): pos. 1521 - 1606
+

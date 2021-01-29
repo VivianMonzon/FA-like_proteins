@@ -1,0 +1,12 @@
+* Organism:
+- Deinococcus puniceus
+* Protein length:
+- 1594.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 567 - 785
+* Stalk domains:
+- DUF11 (PF01345): pos. 429 - 564
+- DUF11 (PF01345): pos. 792 - 926
+- DUF11 (PF01345): pos. 932 - 1063
+- DUF11 (PF01345): pos. 1303 - 1433
+

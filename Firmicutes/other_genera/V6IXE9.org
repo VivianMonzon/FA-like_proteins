@@ -1,0 +1,22 @@
+* Organism:
+- Sporolactobacillus laevolacticus DSM 442
+* Protein length:
+- 2363.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 438 - 572
+- Collagen_bind (PF05737): pos. 583 - 706
+- Collagen_bind (PF05737): pos. 874 - 1004
+- Collagen_bind (PF05737): pos. 1015 - 1150
+* Stalk domains:
+- SpaA (PF17802): pos. 1183 - 1242
+- SpaA (PF17802): pos. 1284 - 1354
+- SpaA (PF17802): pos. 1387 - 1458
+- SpaA (PF17802): pos. 1481 - 1550
+- SpaA (PF17802): pos. 1576 - 1646
+- SpaA (PF17802): pos. 1673 - 1744
+- SpaA (PF17802): pos. 1771 - 1849
+- SpaA (PF17802): pos. 1873 - 1950
+- SpaA (PF17802): pos. 1974 - 2051
+- SpaA (PF17802): pos. 2075 - 2152
+- SpaA (PF17802): pos. 2178 - 2246
+

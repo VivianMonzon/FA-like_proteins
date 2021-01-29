@@ -1,0 +1,14 @@
+* Organism:
+- Paenibacillus macerans (Bacillus macerans)
+* Protein length:
+- 1274.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 211 - 342
+- Collagen_bind (PF05737): pos. 351 - 478
+- Collagen_bind (PF05737): pos. 485 - 603
+- Collagen_bind (PF05737): pos. 619 - 742
+- Collagen_bind (PF05737): pos. 756 - 891
+* Stalk domains:
+- SpaA (PF17802): pos. 923 - 991
+- SpaA (PF17802): pos. 1030 - 1098
+

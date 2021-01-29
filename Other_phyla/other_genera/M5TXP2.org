@@ -1,0 +1,13 @@
+* Organism:
+- Rhodopirellula sallentina SM41
+* Protein length:
+- 2917.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1361 - 1522
+* Stalk domains:
+- Calx-beta (PF03160): pos. 1679 - 1762
+- Calx-beta (PF03160): pos. 1777 - 1860
+- Calx-beta (PF03160): pos. 2212 - 2286
+- Calx-beta (PF03160): pos. 2363 - 2404
+- Big_5 (PF13205): pos. 1108 - 1211
+

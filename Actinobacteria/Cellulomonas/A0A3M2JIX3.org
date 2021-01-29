@@ -1,0 +1,9 @@
+* Organism:
+- Cellulomonas sp. NEAU-YY56
+* Protein length:
+- 874.0
+* Adhesive domains:
+- VWA (PF00092): pos. 390 - 547
+* Stalk domains:
+- PKD (PF00801): pos. 604 - 682
+

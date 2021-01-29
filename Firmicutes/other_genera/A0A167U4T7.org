@@ -1,0 +1,17 @@
+* Organism:
+- Anoxybacillus sp. B7M1
+* Protein length:
+- 1736.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 388 - 514
+- Collagen_bind (PF05737): pos. 523 - 658
+- Collagen_bind (PF05737): pos. 800 - 932
+- Collagen_bind (PF05737): pos. 943 - 1075
+* Stalk domains:
+- SpaA (PF17802): pos. 1106 - 1174
+- SpaA (PF17802): pos. 1197 - 1267
+- SpaA (PF17802): pos. 1300 - 1368
+- SpaA (PF17802): pos. 1394 - 1462
+- SpaA (PF17802): pos. 1488 - 1556
+- SpaA (PF17802): pos. 1582 - 1649
+

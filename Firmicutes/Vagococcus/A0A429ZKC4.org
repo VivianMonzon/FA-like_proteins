@@ -1,0 +1,25 @@
+* Organism:
+- Vagococcus salmoninarum
+* Protein length:
+- 2415.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 375 - 510
+- Collagen_bind (PF05737): pos. 520 - 647
+- Collagen_bind (PF05737): pos. 661 - 790
+- Collagen_bind (PF05737): pos. 803 - 935
+- Collagen_bind (PF05737): pos. 945 - 1084
+* Stalk domains:
+- SpaA (PF17802): pos. 1112 - 1172
+- SpaA (PF17802): pos. 1206 - 1280
+- SpaA (PF17802): pos. 1303 - 1371
+- SpaA (PF17802): pos. 1397 - 1465
+- SpaA (PF17802): pos. 1491 - 1559
+- SpaA (PF17802): pos. 1585 - 1653
+- SpaA (PF17802): pos. 1679 - 1747
+- SpaA (PF17802): pos. 1782 - 1859
+- SpaA (PF17802): pos. 1889 - 1957
+- SpaA (PF17802): pos. 1983 - 2062
+- SpaA (PF17802): pos. 2077 - 2145
+- SpaA (PF17802): pos. 2171 - 2244
+- SpaA (PF17802): pos. 2272 - 2338
+

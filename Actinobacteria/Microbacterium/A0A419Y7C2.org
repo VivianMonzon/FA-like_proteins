@@ -1,0 +1,17 @@
+* Organism:
+- Microbacterium ginsengiterrae
+* Protein length:
+- 1312.0
+* Adhesive domains:
+- VWA (PF00092): pos. 31 - 225
+* Stalk domains:
+- DUF11 (PF01345): pos. 240 - 350
+- DUF11 (PF01345): pos. 359 - 465
+- DUF11 (PF01345): pos. 473 - 584
+- DUF11 (PF01345): pos. 590 - 698
+- DUF11 (PF01345): pos. 706 - 816
+- DUF11 (PF01345): pos. 822 - 932
+- DUF11 (PF01345): pos. 939 - 1047
+- DUF11 (PF01345): pos. 1054 - 1163
+- DUF11 (PF01345): pos. 1169 - 1273
+

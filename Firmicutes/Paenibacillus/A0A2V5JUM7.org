@@ -1,0 +1,13 @@
+* Organism:
+- Paenibacillus flagellatus
+* Protein length:
+- 1126.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 7 - 230
+* Stalk domains:
+- Big_9 (PF17963): pos. 336 - 422
+- Big_9 (PF17963): pos. 574 - 658
+- Big_9 (PF17963): pos. 662 - 750
+- Big_9 (PF17963): pos. 754 - 842
+- Big_9 (PF17963): pos. 846 - 934
+

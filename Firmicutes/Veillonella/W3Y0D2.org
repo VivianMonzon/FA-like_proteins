@@ -1,0 +1,11 @@
+* Organism:
+- Veillonella sp. AS16
+* Protein length:
+- 1764.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 246 - 269
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 313 - 357
+- YadA_stalk (PF05662): pos. 450 - 492
+- YadA_stalk (PF05662): pos. 1589 - 1631
+

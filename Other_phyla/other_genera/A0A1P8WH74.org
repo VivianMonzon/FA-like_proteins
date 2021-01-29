@@ -1,0 +1,20 @@
+* Organism:
+- Fuerstia marisgermanicae
+* Protein length:
+- 4600.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1974 - 2129
+* Stalk domains:
+- He_PIG (PF05345): pos. 418 - 507
+- He_PIG (PF05345): pos. 512 - 602
+- He_PIG (PF05345): pos. 607 - 697
+- He_PIG (PF05345): pos. 702 - 792
+- He_PIG (PF05345): pos. 797 - 887
+- He_PIG (PF05345): pos. 892 - 982
+- He_PIG (PF05345): pos. 987 - 1079
+- He_PIG (PF05345): pos. 1516 - 1602
+- He_PIG (PF05345): pos. 2455 - 2542
+- He_PIG (PF05345): pos. 2836 - 2919
+- He_PIG (PF05345): pos. 2939 - 3025
+- SdrD_B (PF17210): pos. 2348 - 2451
+

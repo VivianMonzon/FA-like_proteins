@@ -1,0 +1,12 @@
+* Organism:
+- Pseudomonas sp. M30-35
+* Protein length:
+- 2044.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1213 - 1397
+- VWA (PF00092): pos. 1600 - 1786
+* Stalk domains:
+- DUF5801 (PF19116): pos. 129 - 282
+- DUF5801 (PF19116): pos. 295 - 466
+- DUF5801 (PF19116): pos. 776 - 916
+

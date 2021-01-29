@@ -1,0 +1,9 @@
+* Organism:
+- Photobacterium damselae subsp. damselae CIP 102761
+* Protein length:
+- 3902.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 2625 - 2851
+* Stalk domains:
+- Beta_helix (PF13229): pos. 336 - 512
+

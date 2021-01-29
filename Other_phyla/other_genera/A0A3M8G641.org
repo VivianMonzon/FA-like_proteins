@@ -1,0 +1,9 @@
+* Organism:
+- Balneola sp.
+* Protein length:
+- 630.0
+* Adhesive domains:
+- VWA (PF00092): pos. 262 - 432
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 31 - 107
+

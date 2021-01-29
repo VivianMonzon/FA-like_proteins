@@ -1,0 +1,24 @@
+* Organism:
+- [Collinsella] massiliensis
+* Protein length:
+- 3476.0
+* Adhesive domains:
+- VWA (PF00092): pos. 266 - 473
+* Stalk domains:
+- FctA (PF12892): pos. 970 - 1108
+- FctA (PF12892): pos. 1116 - 1264
+- FctA (PF12892): pos. 1278 - 1415
+- FctA (PF12892): pos. 1428 - 1589
+- FctA (PF12892): pos. 1602 - 1728
+- FctA (PF12892): pos. 1739 - 1880
+- FctA (PF12892): pos. 1892 - 2040
+- FctA (PF12892): pos. 2054 - 2197
+- FctA (PF12892): pos. 2210 - 2370
+- FctA (PF12892): pos. 2378 - 2537
+- FctA (PF12892): pos. 2552 - 2692
+- FctA (PF12892): pos. 2703 - 2857
+- FctA (PF12892): pos. 2871 - 3003
+- FctA (PF12892): pos. 3017 - 3164
+- FctA (PF12892): pos. 3178 - 3298
+- FctA (PF12892): pos. 3306 - 3426
+

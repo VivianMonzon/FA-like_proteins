@@ -1,0 +1,18 @@
+* Organism:
+- Paraburkholderia eburnea
+* Protein length:
+- 1074.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 166 - 192
+- YadA_head (PF05658): pos. 194 - 220
+- YadA_head (PF05658): pos. 208 - 234
+- YadA_head (PF05658): pos. 460 - 486
+- YadA_head (PF05658): pos. 908 - 934
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 273 - 318
+- YadA_stalk (PF05662): pos. 539 - 584
+- YadA_stalk (PF05662): pos. 622 - 667
+- YadA_stalk (PF05662): pos. 740 - 785
+- YadA_stalk (PF05662): pos. 823 - 866
+- YadA_stalk (PF05662): pos. 952 - 994
+

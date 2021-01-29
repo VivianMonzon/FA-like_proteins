@@ -1,0 +1,11 @@
+* Organism:
+- Melioribacter roseus (strain JCM 17771 / P3M-2)
+* Protein length:
+- 1718.0
+* Adhesive domains:
+- TED (PF08341): pos. 79 - 171
+* Stalk domains:
+- DUF11 (PF01345): pos. 953 - 1056
+- SdrD_B (PF17210): pos. 472 - 583
+- SdrD_B (PF17210): pos. 591 - 711
+

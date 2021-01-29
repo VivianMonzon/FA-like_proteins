@@ -1,0 +1,13 @@
+* Organism:
+- Aerococcus urinaehominis
+* Protein length:
+- 787.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 75 - 330
+* Stalk domains:
+- G5 (PF07501): pos. 356 - 430
+- G5 (PF07501): pos. 434 - 508
+- G5 (PF07501): pos. 512 - 586
+- G5 (PF07501): pos. 590 - 664
+- G5 (PF07501): pos. 668 - 741
+

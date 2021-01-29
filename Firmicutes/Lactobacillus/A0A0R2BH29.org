@@ -1,0 +1,12 @@
+* Organism:
+- Lactobacillus dextrinicus DSM 20335
+* Protein length:
+- 725.0
+* Adhesive domains:
+- TED (PF08341): pos. 55 - 139
+* Stalk domains:
+- SpaA (PF17802): pos. 228 - 324
+- SpaA (PF17802): pos. 354 - 421
+- SpaA (PF17802): pos. 456 - 523
+- SpaA (PF17802): pos. 567 - 634
+

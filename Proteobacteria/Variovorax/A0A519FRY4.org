@@ -1,0 +1,10 @@
+* Organism:
+- Variovorax sp.
+* Protein length:
+- 1344.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 866 - 987
+* Stalk domains:
+- PATR (PF12951): pos. 551 - 580
+- PATR (PF12951): pos. 807 - 836
+

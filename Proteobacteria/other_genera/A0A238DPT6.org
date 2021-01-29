@@ -1,0 +1,14 @@
+* Organism:
+- Thiomonas sp. X19
+* Protein length:
+- 840.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 319 - 344
+- YadA_head (PF05658): pos. 629 - 655
+- YadA_head (PF05658): pos. 699 - 725
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 368 - 411
+- YadA_stalk (PF05662): pos. 477 - 507
+- YadA_stalk (PF05662): pos. 526 - 571
+- YadA_stalk (PF05662): pos. 731 - 772
+

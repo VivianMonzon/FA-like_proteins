@@ -1,0 +1,11 @@
+* Organism:
+- Confluentibacter flavum
+* Protein length:
+- 577.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 361 - 574
+* Stalk domains:
+- Big_5 (PF13205): pos. 32 - 134
+- Big_5 (PF13205): pos. 136 - 238
+- Big_5 (PF13205): pos. 242 - 342
+

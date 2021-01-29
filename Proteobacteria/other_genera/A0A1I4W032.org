@@ -1,0 +1,9 @@
+* Organism:
+- Izhakiella capsodis
+* Protein length:
+- 850.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 400 - 524
+* Stalk domains:
+- AIDA (PF16168): pos. 226 - 289
+

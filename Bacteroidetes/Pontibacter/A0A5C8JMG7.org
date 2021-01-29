@@ -1,0 +1,15 @@
+* Organism:
+- Pontibacter sp. GY10130
+* Protein length:
+- 962.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 35 - 230
+* Stalk domains:
+- DUF11 (PF01345): pos. 238 - 355
+- PKD_6 (PF19408): pos. 359 - 439
+- PKD_6 (PF19408): pos. 443 - 525
+- PKD_6 (PF19408): pos. 527 - 614
+- PKD_6 (PF19408): pos. 617 - 701
+- PKD_6 (PF19408): pos. 704 - 786
+- PKD_6 (PF19408): pos. 787 - 871
+

@@ -1,0 +1,9 @@
+* Organism:
+- Paenibacillus sp. KS1
+* Protein length:
+- 260.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 131 - 260
+* Stalk domains:
+- Collagen (PF01391): pos. 29 - 89
+

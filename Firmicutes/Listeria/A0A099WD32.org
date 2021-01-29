@@ -1,0 +1,17 @@
+* Organism:
+- Listeria booriae
+* Protein length:
+- 1633.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 345 - 476
+- Collagen_bind (PF05737): pos. 485 - 616
+- Collagen_bind (PF05737): pos. 622 - 753
+- Collagen_bind (PF05737): pos. 768 - 901
+- Collagen_bind (PF05737): pos. 910 - 1044
+* Stalk domains:
+- SpaA (PF17802): pos. 1076 - 1147
+- SpaA (PF17802): pos. 1170 - 1243
+- SpaA (PF17802): pos. 1269 - 1336
+- SpaA (PF17802): pos. 1362 - 1430
+- SpaA (PF17802): pos. 1455 - 1521
+

@@ -1,0 +1,12 @@
+* Organism:
+- Solibacillus sp. R5-41
+* Protein length:
+- 1742.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 407 - 538
+- Collagen_bind (PF05737): pos. 681 - 812
+- Collagen_bind (PF05737): pos. 822 - 949
+* Stalk domains:
+- SpaA (PF17802): pos. 985 - 1050
+- SpaA_2 (PF19403): pos. 1425 - 1503
+

@@ -1,0 +1,9 @@
+* Organism:
+- Bacillus sp. FJAT-27264
+* Protein length:
+- 1434.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 46 - 295
+* Stalk domains:
+- Big_2 (PF02368): pos. 607 - 683
+

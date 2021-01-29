@@ -1,0 +1,12 @@
+* Organism:
+- Pontibacter lucknowensis
+* Protein length:
+- 879.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 441 - 590
+- PA14 (PF07691): pos. 620 - 767
+* Stalk domains:
+- PKD_6 (PF19408): pos. 427 - 475
+- PKD_6 (PF19408): pos. 523 - 567
+- PKD_6 (PF19408): pos. 700 - 744
+

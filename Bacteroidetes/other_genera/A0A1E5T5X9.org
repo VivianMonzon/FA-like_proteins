@@ -1,0 +1,9 @@
+* Organism:
+- Roseivirga misakiensis
+* Protein length:
+- 2549.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1602 - 1706
+* Stalk domains:
+- SdrD_B (PF17210): pos. 312 - 425
+

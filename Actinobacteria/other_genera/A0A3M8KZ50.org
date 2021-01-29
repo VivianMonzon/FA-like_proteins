@@ -1,0 +1,9 @@
+* Organism:
+- Cryobacterium tepidiphilum
+* Protein length:
+- 428.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 52 - 240
+* Stalk domains:
+- He_PIG (PF05345): pos. 250 - 339
+

@@ -1,0 +1,12 @@
+* Organism:
+- Kurthia sp. 3B1D
+* Protein length:
+- 1266.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 161 - 281
+- Collagen_bind (PF05737): pos. 740 - 866
+* Stalk domains:
+- SpaA (PF17802): pos. 899 - 976
+- SpaA (PF17802): pos. 1002 - 1076
+- SpaA (PF17802): pos. 1099 - 1167
+

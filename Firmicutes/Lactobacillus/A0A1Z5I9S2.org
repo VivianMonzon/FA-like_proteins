@@ -1,0 +1,9 @@
+* Organism:
+- Lactobacillus mixtipabuli
+* Protein length:
+- 788.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 74 - 352
+* Stalk domains:
+- MucBP_2 (PF17965): pos. 446 - 522
+

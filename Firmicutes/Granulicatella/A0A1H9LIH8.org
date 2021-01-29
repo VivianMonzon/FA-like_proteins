@@ -1,0 +1,12 @@
+* Organism:
+- Granulicatella balaenopterae
+* Protein length:
+- 1137.0
+* Adhesive domains:
+- TED (PF08341): pos. 74 - 262
+* Stalk domains:
+- SpaA (PF17802): pos. 1001 - 1064
+- TQ (PF18202): pos. 392 - 530
+- TQ (PF18202): pos. 577 - 710
+- TQ (PF18202): pos. 847 - 981
+

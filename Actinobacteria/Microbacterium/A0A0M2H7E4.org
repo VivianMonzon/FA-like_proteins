@@ -1,0 +1,19 @@
+* Organism:
+- Microbacterium ketosireducens
+* Protein length:
+- 1673.0
+* Adhesive domains:
+- VWA (PF00092): pos. 187 - 381
+* Stalk domains:
+- SpaA_2 (PF19403): pos. 387 - 482
+- SpaA_2 (PF19403): pos. 624 - 739
+- SpaA_2 (PF19403): pos. 742 - 846
+- SpaA_2 (PF19403): pos. 850 - 943
+- SpaA_2 (PF19403): pos. 947 - 1040
+- SpaA_2 (PF19403): pos. 1044 - 1140
+- SpaA_2 (PF19403): pos. 1145 - 1239
+- SpaA_2 (PF19403): pos. 1244 - 1338
+- SpaA_2 (PF19403): pos. 1344 - 1436
+- SpaA_2 (PF19403): pos. 1441 - 1534
+- SpaA_2 (PF19403): pos. 1538 - 1630
+

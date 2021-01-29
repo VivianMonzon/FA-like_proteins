@@ -1,0 +1,12 @@
+* Organism:
+- Taylorella asinigenitalis (strain MCE3)
+* Protein length:
+- 624.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 35 - 66
+- YadA_head (PF05658): pos. 68 - 94
+- YadA_head (PF05658): pos. 82 - 108
+- YadA_head (PF05658): pos. 282 - 308
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 414 - 450
+

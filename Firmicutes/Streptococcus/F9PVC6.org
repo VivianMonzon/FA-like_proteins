@@ -1,0 +1,28 @@
+* Organism:
+- Streptococcus infantis SK970
+* Protein length:
+- 2451.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 1 - 177
+* Stalk domains:
+- SSSPR-51 (PF18877): pos. 2207 - 2256
+- SSSPR-51 (PF18877): pos. 2257 - 2306
+- SSSPR-51 (PF18877): pos. 2307 - 2356
+- CshA_repeat (PF19076): pos. 311 - 412
+- CshA_repeat (PF19076): pos. 440 - 548
+- CshA_repeat (PF19076): pos. 567 - 667
+- CshA_repeat (PF19076): pos. 674 - 794
+- CshA_repeat (PF19076): pos. 799 - 902
+- CshA_repeat (PF19076): pos. 907 - 1003
+- CshA_repeat (PF19076): pos. 1008 - 1110
+- CshA_repeat (PF19076): pos. 1117 - 1237
+- CshA_repeat (PF19076): pos. 1242 - 1345
+- CshA_repeat (PF19076): pos. 1350 - 1453
+- CshA_repeat (PF19076): pos. 1458 - 1554
+- CshA_repeat (PF19076): pos. 1559 - 1665
+- CshA_repeat (PF19076): pos. 1670 - 1766
+- CshA_repeat (PF19076): pos. 1771 - 1877
+- CshA_repeat (PF19076): pos. 1882 - 1978
+- CshA_repeat (PF19076): pos. 1983 - 2079
+- CshA_repeat (PF19076): pos. 2084 - 2180
+

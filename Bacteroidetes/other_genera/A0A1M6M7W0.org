@@ -1,0 +1,9 @@
+* Organism:
+- Aequorivita viscosa
+* Protein length:
+- 860.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 21 - 174
+* Stalk domains:
+- fn3 (PF00041): pos. 439 - 519
+

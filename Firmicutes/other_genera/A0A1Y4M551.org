@@ -1,0 +1,9 @@
+* Organism:
+- Pseudoflavonifractor sp. An176
+* Protein length:
+- 1152.0
+* Adhesive domains:
+- VWA (PF00092): pos. 131 - 354
+* Stalk domains:
+- SpaA (PF17802): pos. 976 - 1065
+

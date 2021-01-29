@@ -1,0 +1,10 @@
+* Organism:
+- Clostridium intestinale URNW
+* Protein length:
+- 369.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 263 - 369
+* Stalk domains:
+- Collagen (PF01391): pos. 30 - 92
+- Collagen (PF01391): pos. 75 - 145
+

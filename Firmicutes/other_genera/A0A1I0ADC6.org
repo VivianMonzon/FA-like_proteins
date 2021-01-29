@@ -1,0 +1,10 @@
+* Organism:
+- [Clostridium] polysaccharolyticum
+* Protein length:
+- 1502.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 927 - 1057
+* Stalk domains:
+- SpaA (PF17802): pos. 1096 - 1174
+- SpaA (PF17802): pos. 1212 - 1279
+

@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus hyointestinalis
+* Protein length:
+- 1319.0
+* Adhesive domains:
+- Adhesin_P1_N (PF18652): pos. 81 - 186
+- BspA_v (PF18220): pos. 514 - 661
+* Stalk domains:
+- AgI_II_C2 (PF17998): pos. 891 - 1055
+

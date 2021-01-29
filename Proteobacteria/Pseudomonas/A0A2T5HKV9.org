@@ -1,0 +1,34 @@
+* Organism:
+- Pseudomonas sp. GV071
+* Protein length:
+- 3862.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 2196 - 2298
+- PA14 (PF07691): pos. 2922 - 3028
+* Stalk domains:
+- Big_9 (PF17963): pos. 161 - 253
+- Big_9 (PF17963): pos. 257 - 355
+- Big_9 (PF17963): pos. 359 - 460
+- Big_9 (PF17963): pos. 464 - 565
+- Big_9 (PF17963): pos. 569 - 676
+- Big_9 (PF17963): pos. 679 - 799
+- Big_9 (PF17963): pos. 800 - 893
+- Big_9 (PF17963): pos. 897 - 994
+- Big_9 (PF17963): pos. 995 - 1097
+- Big_9 (PF17963): pos. 1379 - 1468
+- Big_9 (PF17963): pos. 1472 - 1561
+- Big_9 (PF17963): pos. 1565 - 1652
+- Big_9 (PF17963): pos. 1656 - 1743
+- Big_9 (PF17963): pos. 1747 - 1834
+- Big_9 (PF17963): pos. 1838 - 1925
+- Big_9 (PF17963): pos. 1929 - 2016
+- Big_9 (PF17963): pos. 2020 - 2107
+- Big_9 (PF17963): pos. 2296 - 2379
+- Big_9 (PF17963): pos. 2383 - 2470
+- Big_9 (PF17963): pos. 2474 - 2562
+- Big_9 (PF17963): pos. 2566 - 2653
+- Big_9 (PF17963): pos. 2657 - 2745
+- Big_9 (PF17963): pos. 2750 - 2836
+- Big_9 (PF17963): pos. 3013 - 3110
+- Big_9 (PF17963): pos. 3114 - 3210
+

@@ -1,0 +1,10 @@
+* Organism:
+- Streptomyces sp. TSRI0281
+* Protein length:
+- 637.0
+* Adhesive domains:
+- VWA (PF00092): pos. 40 - 227
+* Stalk domains:
+- DUF11 (PF01345): pos. 424 - 534
+- HYR (PF02494): pos. 337 - 415
+

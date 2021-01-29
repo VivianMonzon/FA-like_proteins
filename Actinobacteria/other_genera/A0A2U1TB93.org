@@ -1,0 +1,11 @@
+* Organism:
+- Mycetocola sp. 622
+* Protein length:
+- 708.0
+* Adhesive domains:
+- TED (PF08341): pos. 120 - 212
+* Stalk domains:
+- DUF5979 (PF19407): pos. 356 - 441
+- DUF5979 (PF19407): pos. 455 - 542
+- DUF5979 (PF19407): pos. 556 - 643
+

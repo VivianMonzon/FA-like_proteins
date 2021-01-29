@@ -1,0 +1,9 @@
+* Organism:
+- Bacteroides sp. CAG:545
+* Protein length:
+- 476.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 259 - 302
+* Stalk domains:
+- Big_2 (PF02368): pos. 30 - 115
+

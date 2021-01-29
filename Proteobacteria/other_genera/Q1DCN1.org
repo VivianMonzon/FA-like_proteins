@@ -1,0 +1,10 @@
+* Organism:
+- Myxococcus xanthus (strain DK 1622)
+* Protein length:
+- 659.0
+* Adhesive domains:
+- VWA (PF00092): pos. 60 - 229
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 484 - 504
+- TSP3_bac (PF18884): pos. 511 - 532
+

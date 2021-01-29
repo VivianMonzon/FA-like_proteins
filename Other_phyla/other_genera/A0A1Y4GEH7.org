@@ -1,0 +1,10 @@
+* Organism:
+- Cloacibacillus sp. An23
+* Protein length:
+- 263.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 16 - 42
+- YadA_head (PF05658): pos. 44 - 70
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 88 - 132
+

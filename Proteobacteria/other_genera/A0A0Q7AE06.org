@@ -1,0 +1,11 @@
+* Organism:
+- Rhizobacter sp. Root404
+* Protein length:
+- 1626.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1339 - 1475
+- PA14 (PF07691): pos. 1484 - 1620
+* Stalk domains:
+- PKD_4 (PF18911): pos. 608 - 690
+- PKD_6 (PF19408): pos. 863 - 891
+

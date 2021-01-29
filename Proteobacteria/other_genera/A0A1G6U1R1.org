@@ -1,0 +1,11 @@
+* Organism:
+- Kordiimonas lacus
+* Protein length:
+- 867.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 396 - 504
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 111 - 178
+- Cadherin_4 (PF17803): pos. 202 - 268
+- Cadherin_4 (PF17803): pos. 601 - 673
+

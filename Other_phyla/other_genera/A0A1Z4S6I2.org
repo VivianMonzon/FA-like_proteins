@@ -1,0 +1,11 @@
+* Organism:
+- Nostoc sp. NIES-4103
+* Protein length:
+- 2954.0
+* Adhesive domains:
+- VWA (PF00092): pos. 699 - 902
+* Stalk domains:
+- He_PIG (PF05345): pos. 1306 - 1389
+- Big_13 (PF19077): pos. 377 - 481
+- Big_13 (PF19077): pos. 482 - 572
+

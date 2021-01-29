@@ -1,0 +1,10 @@
+* Organism:
+- Shigella flexneri
+* Protein length:
+- 836.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 403 - 529
+* Stalk domains:
+- AIDA (PF16168): pos. 156 - 218
+- AIDA (PF16168): pos. 230 - 290
+

@@ -1,0 +1,12 @@
+* Organism:
+- Vagococcus fessus
+* Protein length:
+- 826.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 270 - 398
+* Stalk domains:
+- SpaA (PF17802): pos. 427 - 494
+- SpaA (PF17802): pos. 524 - 591
+- SpaA (PF17802): pos. 619 - 686
+- PKD_6 (PF19408): pos. 148 - 181
+

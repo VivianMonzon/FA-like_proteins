@@ -1,0 +1,12 @@
+* Organism:
+- Mesosutterella multiformis
+* Protein length:
+- 951.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 480 - 506
+- YadA_head (PF05658): pos. 494 - 520
+- YadA_head (PF05658): pos. 550 - 576
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 621 - 663
+- YadA_stalk (PF05662): pos. 735 - 780
+

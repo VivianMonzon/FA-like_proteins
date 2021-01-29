@@ -1,0 +1,9 @@
+* Organism:
+- Planctomyces sp. SH-PL14
+* Protein length:
+- 874.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 445 - 551
+* Stalk domains:
+- PATR (PF12951): pos. 379 - 408
+

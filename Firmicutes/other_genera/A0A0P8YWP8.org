@@ -1,0 +1,10 @@
+* Organism:
+- Oxobacter pfennigii
+* Protein length:
+- 236.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 107 - 233
+* Stalk domains:
+- Collagen (PF01391): pos. 31 - 88
+- Collagen (PF01391): pos. 46 - 103
+

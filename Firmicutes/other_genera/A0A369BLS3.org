@@ -1,0 +1,14 @@
+* Organism:
+- Fontibacillus phaseoli
+* Protein length:
+- 1235.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 207 - 338
+- Collagen_bind (PF05737): pos. 351 - 474
+- Collagen_bind (PF05737): pos. 481 - 599
+- Collagen_bind (PF05737): pos. 614 - 740
+- Collagen_bind (PF05737): pos. 752 - 883
+* Stalk domains:
+- SpaA (PF17802): pos. 915 - 981
+- SpaA (PF17802): pos. 1017 - 1084
+

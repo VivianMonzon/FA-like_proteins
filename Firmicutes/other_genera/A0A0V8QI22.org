@@ -1,0 +1,12 @@
+* Organism:
+- Acetivibrio ethanolgignens
+* Protein length:
+- 794.0
+* Adhesive domains:
+- VWA (PF00092): pos. 304 - 463
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 37 - 59
+- TSP3_bac (PF18884): pos. 94 - 116
+- TSP3_bac (PF18884): pos. 474 - 488
+- TSP3_bac (PF18884): pos. 509 - 523
+

@@ -1,0 +1,13 @@
+* Organism:
+- Pseudoscardovia suis
+* Protein length:
+- 1266.0
+* Adhesive domains:
+- VWA (PF00092): pos. 660 - 839
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 339 - 356
+- TSP3_bac (PF18884): pos. 361 - 383
+- TSP3_bac (PF18884): pos. 396 - 417
+- TSP3_bac (PF18884): pos. 418 - 439
+- TSP3_bac (PF18884): pos. 440 - 461
+

@@ -1,0 +1,11 @@
+* Organism:
+- Candidatus Methylopumilus planktonicus
+* Protein length:
+- 2982.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1598 - 1715
+* Stalk domains:
+- PATR (PF12951): pos. 1228 - 1258
+- PATR (PF12951): pos. 1328 - 1357
+- PATR (PF12951): pos. 1839 - 1868
+

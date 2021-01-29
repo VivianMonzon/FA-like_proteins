@@ -1,0 +1,10 @@
+* Organism:
+- Lactococcus sp. 1JSPR-7
+* Protein length:
+- 1338.0
+* Adhesive domains:
+- VWA (PF00092): pos. 153 - 304
+* Stalk domains:
+- SpaA (PF17802): pos. 686 - 754
+- SpaA (PF17802): pos. 802 - 867
+

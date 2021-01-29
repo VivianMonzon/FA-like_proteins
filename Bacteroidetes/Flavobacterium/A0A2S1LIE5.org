@@ -1,0 +1,9 @@
+* Organism:
+- Flavobacterium faecale
+* Protein length:
+- 714.0
+* Adhesive domains:
+- VWA (PF00092): pos. 360 - 532
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 25 - 96
+

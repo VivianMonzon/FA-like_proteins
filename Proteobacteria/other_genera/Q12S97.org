@@ -1,0 +1,35 @@
+* Organism:
+- Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013)
+* Protein length:
+- 4285.0
+* Adhesive domains:
+- VWA (PF00092): pos. 3851 - 4021
+* Stalk domains:
+- Big_9 (PF17963): pos. 146 - 246
+- Big_9 (PF17963): pos. 247 - 347
+- Big_9 (PF17963): pos. 348 - 448
+- Big_9 (PF17963): pos. 449 - 554
+- Big_9 (PF17963): pos. 554 - 659
+- Big_9 (PF17963): pos. 659 - 764
+- Big_9 (PF17963): pos. 764 - 869
+- Big_9 (PF17963): pos. 869 - 974
+- Big_9 (PF17963): pos. 974 - 1079
+- Big_9 (PF17963): pos. 1079 - 1195
+- Big_9 (PF17963): pos. 1199 - 1311
+- Big_9 (PF17963): pos. 1315 - 1431
+- Big_9 (PF17963): pos. 1435 - 1547
+- Big_9 (PF17963): pos. 1551 - 1667
+- Big_9 (PF17963): pos. 1671 - 1783
+- Big_9 (PF17963): pos. 1787 - 1903
+- Big_9 (PF17963): pos. 1907 - 2019
+- Big_9 (PF17963): pos. 2023 - 2139
+- Big_9 (PF17963): pos. 2143 - 2255
+- Big_9 (PF17963): pos. 2259 - 2375
+- Big_9 (PF17963): pos. 2379 - 2491
+- Big_9 (PF17963): pos. 2495 - 2611
+- Big_9 (PF17963): pos. 2615 - 2727
+- Big_9 (PF17963): pos. 2731 - 2847
+- Big_9 (PF17963): pos. 2851 - 2963
+- Big_9 (PF17963): pos. 2967 - 3083
+- Big_9 (PF17963): pos. 3087 - 3199
+

@@ -1,0 +1,9 @@
+* Organism:
+- Phyllobacterium leguminum
+* Protein length:
+- 1175.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 696 - 825
+* Stalk domains:
+- PATR (PF12951): pos. 635 - 664
+

@@ -1,0 +1,17 @@
+* Organism:
+- Pseudomonas sp. S-6-2
+* Protein length:
+- 2048.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1604 - 1794
+* Stalk domains:
+- Calx-beta (PF03160): pos. 176 - 263
+- Calx-beta (PF03160): pos. 276 - 381
+- Calx-beta (PF03160): pos. 401 - 503
+- Calx-beta (PF03160): pos. 523 - 625
+- Calx-beta (PF03160): pos. 645 - 747
+- Calx-beta (PF03160): pos. 767 - 869
+- Calx-beta (PF03160): pos. 889 - 991
+- Calx-beta (PF03160): pos. 1012 - 1116
+- Calx-beta (PF03160): pos. 1517 - 1561
+

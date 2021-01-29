@@ -1,0 +1,9 @@
+* Organism:
+- Nocardioides caeni
+* Protein length:
+- 693.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 43 - 325
+* Stalk domains:
+- Big_9 (PF17963): pos. 543 - 643
+

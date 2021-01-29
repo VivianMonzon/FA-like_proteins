@@ -1,0 +1,9 @@
+* Organism:
+- Haliscomenobacter hydrossis (strain ATCC 27775 / DSM 1100 / LMG 10767 / O)
+* Protein length:
+- 630.0
+* Adhesive domains:
+- VWA (PF00092): pos. 261 - 431
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 28 - 101
+

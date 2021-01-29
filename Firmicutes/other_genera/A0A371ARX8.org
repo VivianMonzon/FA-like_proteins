@@ -1,0 +1,11 @@
+* Organism:
+- Anaerosacchriphilus polymeriproducens
+* Protein length:
+- 748.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 201 - 353
+* Stalk domains:
+- SpaA (PF17802): pos. 380 - 451
+- SpaA (PF17802): pos. 489 - 548
+- SpaA (PF17802): pos. 593 - 666
+

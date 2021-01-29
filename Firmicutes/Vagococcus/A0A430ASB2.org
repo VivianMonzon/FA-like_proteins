@@ -1,0 +1,9 @@
+* Organism:
+- Vagococcus acidifermentans
+* Protein length:
+- 685.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 90 - 342
+* Stalk domains:
+- MucBP (PF06458): pos. 486 - 548
+

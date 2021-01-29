@@ -1,0 +1,12 @@
+* Organism:
+- Mucilaginibacter sp. F01003
+* Protein length:
+- 626.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 394 - 623
+* Stalk domains:
+- Big_5 (PF13205): pos. 52 - 154
+- Flg_new_2 (PF18998): pos. 158 - 228
+- Flg_new_2 (PF18998): pos. 234 - 304
+- Flg_new_2 (PF18998): pos. 310 - 378
+

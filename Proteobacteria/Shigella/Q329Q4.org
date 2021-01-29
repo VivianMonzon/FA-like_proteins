@@ -1,0 +1,16 @@
+* Organism:
+- Shigella dysenteriae serotype 1 (strain Sd197)
+* Protein length:
+- 399.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 113 - 139
+- YadA_head (PF05658): pos. 127 - 153
+- YadA_head (PF05658): pos. 211 - 237
+- YadA_head (PF05658): pos. 239 - 264
+- YadA_head (PF05658): pos. 266 - 292
+- YadA_head (PF05658): pos. 280 - 306
+- YadA_head (PF05658): pos. 308 - 334
+- YadA_head (PF05658): pos. 336 - 362
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 366 - 399
+

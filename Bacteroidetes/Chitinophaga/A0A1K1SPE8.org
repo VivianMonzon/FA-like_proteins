@@ -1,0 +1,9 @@
+* Organism:
+- Chitinophaga sancti
+* Protein length:
+- 659.0
+* Adhesive domains:
+- VWA (PF00092): pos. 293 - 465
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 24 - 109
+

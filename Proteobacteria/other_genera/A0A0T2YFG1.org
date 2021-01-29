@@ -1,0 +1,10 @@
+* Organism:
+- Hydrogenophaga sp. Root209
+* Protein length:
+- 926.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 469 - 603
+* Stalk domains:
+- PATR (PF12951): pos. 211 - 247
+- PATR (PF12951): pos. 412 - 441
+

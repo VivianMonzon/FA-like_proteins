@@ -1,0 +1,18 @@
+* Organism:
+- Streptococcus mutans serotype c (strain ATCC 700610 / UA159)
+* Protein length:
+- 1562.0
+* Adhesive domains:
+- GbpC (PF08363): pos. 492 - 816
+- Adhesin_P1_N (PF18652): pos. 80 - 185
+* Stalk domains:
+- Strep_SA_rep (PF06696): pos. 201 - 225
+- Strep_SA_rep (PF06696): pos. 226 - 250
+- Strep_SA_rep (PF06696): pos. 283 - 307
+- Strep_SA_rep (PF06696): pos. 308 - 332
+- Strep_SA_rep (PF06696): pos. 365 - 389
+- Strep_SA_rep (PF06696): pos. 390 - 414
+- Strep_SA_rep (PF06696): pos. 447 - 471
+- Antigen_C (PF16364): pos. 1331 - 1490
+- AgI_II_C2 (PF17998): pos. 1155 - 1323
+

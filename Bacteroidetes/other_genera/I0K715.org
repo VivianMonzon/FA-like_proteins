@@ -1,0 +1,9 @@
+* Organism:
+- Fibrella aestuarina BUZ 2
+* Protein length:
+- 616.0
+* Adhesive domains:
+- VWA (PF00092): pos. 300 - 478
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 23 - 108
+

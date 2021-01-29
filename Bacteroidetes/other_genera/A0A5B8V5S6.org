@@ -1,0 +1,10 @@
+* Organism:
+- Panacibacter ginsenosidivorans
+* Protein length:
+- 715.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 581 - 708
+* Stalk domains:
+- Beta_helix (PF13229): pos. 24 - 220
+- Beta_helix (PF13229): pos. 140 - 303
+

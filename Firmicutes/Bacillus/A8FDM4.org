@@ -1,0 +1,11 @@
+* Organism:
+- Bacillus pumilus (strain SAFR-032)
+* Protein length:
+- 345.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 216 - 345
+* Stalk domains:
+- Collagen (PF01391): pos. 9 - 67
+- Collagen (PF01391): pos. 97 - 167
+- Collagen (PF01391): pos. 151 - 213
+

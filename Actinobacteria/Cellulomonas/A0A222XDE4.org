@@ -1,0 +1,9 @@
+* Organism:
+- Cellulomonas sp. PSBB021
+* Protein length:
+- 836.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 697 - 833
+* Stalk domains:
+- PKD_4 (PF18911): pos. 414 - 495
+

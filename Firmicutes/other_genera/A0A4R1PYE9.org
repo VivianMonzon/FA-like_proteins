@@ -1,0 +1,11 @@
+* Organism:
+- Anaerospora hongkongensis
+* Protein length:
+- 852.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 408 - 514
+* Stalk domains:
+- AIDA (PF16168): pos. 153 - 207
+- AIDA (PF16168): pos. 288 - 339
+- AIDA (PF16168): pos. 327 - 377
+

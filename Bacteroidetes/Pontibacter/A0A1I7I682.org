@@ -1,0 +1,11 @@
+* Organism:
+- Pontibacter akesuensis
+* Protein length:
+- 573.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 366 - 570
+* Stalk domains:
+- Big_5 (PF13205): pos. 26 - 127
+- Big_5 (PF13205): pos. 131 - 231
+- Big_5 (PF13205): pos. 233 - 335
+

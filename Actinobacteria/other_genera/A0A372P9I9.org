@@ -1,0 +1,9 @@
+* Organism:
+- Microbispora triticiradicis
+* Protein length:
+- 719.0
+* Adhesive domains:
+- VWA (PF00092): pos. 62 - 238
+* Stalk domains:
+- Big_3_5 (PF16640): pos. 435 - 532
+

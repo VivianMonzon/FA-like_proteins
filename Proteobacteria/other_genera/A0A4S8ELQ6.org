@@ -1,0 +1,10 @@
+* Organism:
+- Lampropedia puyangensis
+* Protein length:
+- 625.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 187 - 212
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 213 - 255
+- YadA_stalk (PF05662): pos. 503 - 544
+

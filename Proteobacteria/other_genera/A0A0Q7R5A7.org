@@ -1,0 +1,14 @@
+* Organism:
+- Brevundimonas sp. Root1423
+* Protein length:
+- 2915.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1490 - 1592
+* Stalk domains:
+- He_PIG (PF05345): pos. 2435 - 2528
+- Big_9 (PF17963): pos. 142 - 251
+- Big_9 (PF17963): pos. 1808 - 1908
+- Big_9 (PF17963): pos. 1912 - 2012
+- Big_9 (PF17963): pos. 2016 - 2141
+- Big_9 (PF17963): pos. 2334 - 2418
+

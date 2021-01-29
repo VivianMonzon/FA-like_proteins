@@ -1,0 +1,9 @@
+* Organism:
+- Subsaximicrobium wynnwilliamsii
+* Protein length:
+- 478.0
+* Adhesive domains:
+- VWA (PF00092): pos. 273 - 449
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 23 - 94
+

@@ -1,0 +1,10 @@
+* Organism:
+- Brevundimonas sp.
+* Protein length:
+- 178.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 1 - 19
+- YadA_head (PF05658): pos. 7 - 33
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 37 - 77
+

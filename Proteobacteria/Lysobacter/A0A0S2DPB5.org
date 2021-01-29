@@ -1,0 +1,10 @@
+* Organism:
+- Lysobacter enzymogenes
+* Protein length:
+- 350.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 26 - 51
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 56 - 96
+- YadA_stalk (PF05662): pos. 186 - 228
+

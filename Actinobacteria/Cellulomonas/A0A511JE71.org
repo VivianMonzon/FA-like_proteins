@@ -1,0 +1,9 @@
+* Organism:
+- Cellulomonas composti
+* Protein length:
+- 726.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 56 - 330
+* Stalk domains:
+- DUF11 (PF01345): pos. 474 - 594
+

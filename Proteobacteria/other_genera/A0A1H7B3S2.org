@@ -1,0 +1,14 @@
+* Organism:
+- Cribrihabitans marinus
+* Protein length:
+- 1478.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1009 - 1179
+* Stalk domains:
+- Big_9 (PF17963): pos. 373 - 449
+- Big_9 (PF17963): pos. 453 - 540
+- Big_9 (PF17963): pos. 544 - 647
+- Big_9 (PF17963): pos. 651 - 754
+- Big_9 (PF17963): pos. 758 - 861
+- Big_9 (PF17963): pos. 865 - 955
+

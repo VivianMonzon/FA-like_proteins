@@ -1,0 +1,17 @@
+* Organism:
+- Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125)
+* Protein length:
+- 1661.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 371 - 500
+- Collagen_bind (PF05737): pos. 515 - 641
+- Collagen_bind (PF05737): pos. 644 - 768
+- Collagen_bind (PF05737): pos. 788 - 923
+- Collagen_bind (PF05737): pos. 932 - 1063
+* Stalk domains:
+- SpaA (PF17802): pos. 1095 - 1163
+- SpaA (PF17802): pos. 1193 - 1263
+- SpaA (PF17802): pos. 1289 - 1357
+- SpaA (PF17802): pos. 1383 - 1451
+- SpaA (PF17802): pos. 1477 - 1545
+

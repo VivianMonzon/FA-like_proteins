@@ -1,0 +1,9 @@
+* Organism:
+- Aquiflexum balticum DSM 16537
+* Protein length:
+- 791.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 33 - 306
+* Stalk domains:
+- PKD_4 (PF18911): pos. 636 - 686
+

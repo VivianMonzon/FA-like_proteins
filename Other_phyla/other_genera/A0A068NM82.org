@@ -1,0 +1,11 @@
+* Organism:
+- Fimbriimonas ginsengisoli Gsoil 348
+* Protein length:
+- 825.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 726 - 825
+* Stalk domains:
+- Beta_helix (PF13229): pos. 92 - 285
+- Beta_helix (PF13229): pos. 245 - 382
+- Beta_helix (PF13229): pos. 283 - 443
+

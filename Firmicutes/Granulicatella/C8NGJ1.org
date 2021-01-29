@@ -1,0 +1,9 @@
+* Organism:
+- Granulicatella adiacens ATCC 49175
+* Protein length:
+- 552.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 186 - 318
+* Stalk domains:
+- SpaA (PF17802): pos. 350 - 416
+

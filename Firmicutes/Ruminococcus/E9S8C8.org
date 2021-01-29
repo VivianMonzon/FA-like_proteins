@@ -1,0 +1,10 @@
+* Organism:
+- Ruminococcus albus 8
+* Protein length:
+- 812.0
+* Adhesive domains:
+- VWA (PF00092): pos. 246 - 412
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 16 - 36
+- TSP3_bac (PF18884): pos. 457 - 471
+

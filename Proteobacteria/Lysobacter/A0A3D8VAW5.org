@@ -1,0 +1,13 @@
+* Organism:
+- Lysobacter soli
+* Protein length:
+- 586.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 127 - 153
+- YadA_head (PF05658): pos. 141 - 167
+- YadA_head (PF05658): pos. 401 - 427
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 260 - 290
+- YadA_stalk (PF05662): pos. 310 - 355
+- YadA_stalk (PF05662): pos. 445 - 486
+

@@ -1,0 +1,10 @@
+* Organism:
+- Sediminibacterium goheungense
+* Protein length:
+- 707.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 553 - 700
+* Stalk domains:
+- Beta_helix (PF13229): pos. 26 - 247
+- Beta_helix (PF13229): pos. 211 - 348
+

@@ -1,0 +1,12 @@
+* Organism:
+- Chitinophaga jiangningensis
+* Protein length:
+- 2342.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 643 - 785
+* Stalk domains:
+- fn3 (PF00041): pos. 555 - 634
+- fn3 (PF00041): pos. 1955 - 2036
+- He_PIG (PF05345): pos. 1304 - 1393
+- He_PIG (PF05345): pos. 1672 - 1763
+

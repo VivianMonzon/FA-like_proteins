@@ -1,0 +1,28 @@
+* Organism:
+- Staphylococcus piscifermentans
+* Protein length:
+- 2911.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 306 - 536
+* Stalk domains:
+- He_PIG (PF05345): pos. 619 - 708
+- He_PIG (PF05345): pos. 710 - 797
+- FIVAR (PF07554): pos. 801 - 865
+- FIVAR (PF07554): pos. 869 - 932
+- FIVAR (PF07554): pos. 945 - 1009
+- FIVAR (PF07554): pos. 1013 - 1076
+- FIVAR (PF07554): pos. 1092 - 1156
+- FIVAR (PF07554): pos. 1160 - 1223
+- FIVAR (PF07554): pos. 1227 - 1290
+- FIVAR (PF07554): pos. 1292 - 1354
+- FIVAR (PF07554): pos. 1493 - 1556
+- FIVAR (PF07554): pos. 1560 - 1623
+- FIVAR (PF07554): pos. 1704 - 1767
+- FIVAR (PF07554): pos. 1771 - 1834
+- FIVAR (PF07554): pos. 1905 - 1968
+- FIVAR (PF07554): pos. 2116 - 2179
+- FIVAR (PF07554): pos. 2323 - 2387
+- FIVAR (PF07554): pos. 2454 - 2528
+- FIVAR (PF07554): pos. 2610 - 2674
+- FIVAR (PF07554): pos. 2753 - 2817
+

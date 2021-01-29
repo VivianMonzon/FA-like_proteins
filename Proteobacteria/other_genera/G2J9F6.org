@@ -1,0 +1,13 @@
+* Organism:
+- Candidatus Glomeribacter gigasporarum BEG34
+* Protein length:
+- 1218.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 64 - 263
+* Stalk domains:
+- DUF11 (PF01345): pos. 405 - 529
+- DUF11 (PF01345): pos. 536 - 643
+- DUF11 (PF01345): pos. 659 - 768
+- DUF11 (PF01345): pos. 778 - 888
+- DUF11 (PF01345): pos. 913 - 1033
+

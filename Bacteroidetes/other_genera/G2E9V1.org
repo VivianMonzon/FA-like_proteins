@@ -1,0 +1,9 @@
+* Organism:
+- Bizionia argentinensis JUB59
+* Protein length:
+- 701.0
+* Adhesive domains:
+- VWA (PF00092): pos. 345 - 517
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 23 - 94
+

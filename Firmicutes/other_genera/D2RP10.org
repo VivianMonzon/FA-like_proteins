@@ -1,0 +1,19 @@
+* Organism:
+- Acidaminococcus fermentans (strain ATCC 25085 / DSM 20731 / VR4)
+* Protein length:
+- 3573.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 399 - 424
+- YadA_head (PF05658): pos. 503 - 528
+- YadA_head (PF05658): pos. 609 - 635
+- YadA_head (PF05658): pos. 819 - 842
+- YadA_head (PF05658): pos. 830 - 856
+- YadA_head (PF05658): pos. 1057 - 1083
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 908 - 948
+- YadA_stalk (PF05662): pos. 1438 - 1483
+- YadA_stalk (PF05662): pos. 1600 - 1641
+- YadA_stalk (PF05662): pos. 2464 - 2506
+- YadA_stalk (PF05662): pos. 2690 - 2732
+- YadA_stalk (PF05662): pos. 3249 - 3290
+

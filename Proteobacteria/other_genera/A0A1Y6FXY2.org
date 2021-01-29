@@ -1,0 +1,12 @@
+* Organism:
+- Idiomarina planktonica
+* Protein length:
+- 807.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 569 - 803
+* Stalk domains:
+- Big_5 (PF13205): pos. 64 - 171
+- Big_5 (PF13205): pos. 180 - 299
+- Big_5 (PF13205): pos. 304 - 423
+- Big_5 (PF13205): pos. 429 - 547
+

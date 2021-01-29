@@ -1,0 +1,15 @@
+* Organism:
+- Candidatus Thiodictyon syntrophicum
+* Protein length:
+- 1741.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 64 - 164
+- PA14 (PF07691): pos. 212 - 321
+- PA14 (PF07691): pos. 368 - 474
+- PA14 (PF07691): pos. 526 - 633
+- PA14 (PF07691): pos. 656 - 778
+- PA14 (PF07691): pos. 837 - 944
+- PA14 (PF07691): pos. 1000 - 1097
+* Stalk domains:
+- Big_9 (PF17963): pos. 1122 - 1209
+

@@ -1,0 +1,9 @@
+* Organism:
+- Staphylococcus microti
+* Protein length:
+- 1254.0
+* Adhesive domains:
+- SdrG_C_C (PF10425): pos. 352 - 507
+* Stalk domains:
+- SdrD_B (PF17210): pos. 528 - 632
+

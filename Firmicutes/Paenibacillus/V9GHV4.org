@@ -1,0 +1,12 @@
+* Organism:
+- Paenibacillus sp. JCM 10914
+* Protein length:
+- 712.0
+* Adhesive domains:
+- VWA (PF00092): pos. 71 - 246
+* Stalk domains:
+- TIG (PF01833): pos. 355 - 435
+- TIG (PF01833): pos. 438 - 521
+- TIG (PF01833): pos. 526 - 608
+- TIG (PF01833): pos. 617 - 699
+

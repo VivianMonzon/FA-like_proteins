@@ -1,0 +1,15 @@
+* Organism:
+- Rhizobium sp. ADMK78
+* Protein length:
+- 3370.0
+* Adhesive domains:
+- VWA (PF00092): pos. 2371 - 2480
+* Stalk domains:
+- DUF5801 (PF19116): pos. 1119 - 1311
+- DUF5801 (PF19116): pos. 1323 - 1459
+- DUF5801 (PF19116): pos. 1467 - 1632
+- DUF5801 (PF19116): pos. 1644 - 1786
+- DUF5801 (PF19116): pos. 1794 - 1971
+- DUF5801 (PF19116): pos. 1983 - 2147
+- DUF5801 (PF19116): pos. 2161 - 2327
+

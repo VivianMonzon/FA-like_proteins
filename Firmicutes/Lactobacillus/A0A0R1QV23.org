@@ -1,0 +1,10 @@
+* Organism:
+- Lactobacillus manihotivorans DSM 13343 = JCM 12514
+* Protein length:
+- 637.0
+* Adhesive domains:
+- TED (PF08341): pos. 63 - 160
+* Stalk domains:
+- SpaA (PF17802): pos. 278 - 346
+- SpaA (PF17802): pos. 386 - 465
+

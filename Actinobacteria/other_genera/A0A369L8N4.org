@@ -1,0 +1,18 @@
+* Organism:
+- Senegalimassilia anaerobia
+* Protein length:
+- 2447.0
+* Adhesive domains:
+- VWA (PF00092): pos. 157 - 377
+* Stalk domains:
+- FctA (PF12892): pos. 874 - 1022
+- FctA (PF12892): pos. 1030 - 1193
+- FctA (PF12892): pos. 1205 - 1340
+- FctA (PF12892): pos. 1348 - 1487
+- FctA (PF12892): pos. 1498 - 1626
+- FctA (PF12892): pos. 1637 - 1785
+- FctA (PF12892): pos. 1798 - 1926
+- FctA (PF12892): pos. 1935 - 2183
+- FctA (PF12892): pos. 2221 - 2272
+- FctA (PF12892): pos. 2280 - 2384
+

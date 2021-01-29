@@ -1,0 +1,17 @@
+* Organism:
+- Lysobacter sp. A03
+* Protein length:
+- 1596.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 258 - 284
+- YadA_head (PF05658): pos. 404 - 430
+- YadA_head (PF05658): pos. 432 - 458
+- YadA_head (PF05658): pos. 737 - 762
+- YadA_head (PF05658): pos. 1082 - 1108
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 159 - 193
+- YadA_stalk (PF05662): pos. 490 - 528
+- YadA_stalk (PF05662): pos. 829 - 869
+- YadA_stalk (PF05662): pos. 1140 - 1180
+- YadA_stalk (PF05662): pos. 1429 - 1471
+

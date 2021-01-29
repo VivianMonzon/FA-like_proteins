@@ -1,0 +1,15 @@
+* Organism:
+- Microbacterium sp. BK668
+* Protein length:
+- 1505.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 65 - 334
+* Stalk domains:
+- DUF11 (PF01345): pos. 569 - 688
+- DUF11 (PF01345): pos. 696 - 814
+- DUF11 (PF01345): pos. 822 - 937
+- DUF11 (PF01345): pos. 945 - 1067
+- DUF11 (PF01345): pos. 1074 - 1188
+- DUF11 (PF01345): pos. 1194 - 1321
+- DUF11 (PF01345): pos. 1330 - 1439
+

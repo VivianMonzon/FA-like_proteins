@@ -1,0 +1,10 @@
+* Organism:
+- Humibacillus xanthopallidus
+* Protein length:
+- 670.0
+* Adhesive domains:
+- VWA (PF00092): pos. 75 - 244
+* Stalk domains:
+- PKD_4 (PF18911): pos. 337 - 420
+- PKD_4 (PF18911): pos. 426 - 513
+

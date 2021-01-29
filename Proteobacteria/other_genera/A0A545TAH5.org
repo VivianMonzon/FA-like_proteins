@@ -1,0 +1,17 @@
+* Organism:
+- Exilibacterium tricleocarpae
+* Protein length:
+- 1694.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 1555 - 1693
+* Stalk domains:
+- PKD_4 (PF18911): pos. 519 - 608
+- PKD_4 (PF18911): pos. 614 - 704
+- PKD_4 (PF18911): pos. 710 - 801
+- PKD_4 (PF18911): pos. 807 - 894
+- PKD_4 (PF18911): pos. 900 - 989
+- PKD_4 (PF18911): pos. 995 - 1084
+- PKD_4 (PF18911): pos. 1184 - 1271
+- PKD_4 (PF18911): pos. 1278 - 1365
+- PKD_4 (PF18911): pos. 1371 - 1458
+

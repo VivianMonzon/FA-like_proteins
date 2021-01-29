@@ -1,0 +1,9 @@
+* Organism:
+- Parvimonas micra
+* Protein length:
+- 668.0
+* Adhesive domains:
+- VWA (PF00092): pos. 104 - 237
+* Stalk domains:
+- Fn_bind (PF02986): pos. 573 - 612
+

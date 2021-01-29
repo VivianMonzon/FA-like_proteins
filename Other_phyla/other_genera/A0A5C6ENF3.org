@@ -1,0 +1,10 @@
+* Organism:
+- Rubripirellula tenax
+* Protein length:
+- 1482.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 6 - 141
+- PA14 (PF07691): pos. 182 - 300
+* Stalk domains:
+- Calx-beta (PF03160): pos. 300 - 397
+

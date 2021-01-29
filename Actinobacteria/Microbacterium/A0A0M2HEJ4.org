@@ -1,0 +1,10 @@
+* Organism:
+- Microbacterium trichothecenolyticum
+* Protein length:
+- 583.0
+* Adhesive domains:
+- TED (PF08341): pos. 108 - 202
+* Stalk domains:
+- DUF5979 (PF19407): pos. 346 - 434
+- DUF5979 (PF19407): pos. 448 - 536
+

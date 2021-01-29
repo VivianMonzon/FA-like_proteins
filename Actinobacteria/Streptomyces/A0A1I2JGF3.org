@@ -1,0 +1,9 @@
+* Organism:
+- Streptomyces alni
+* Protein length:
+- 688.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 69 - 324
+* Stalk domains:
+- DUF11 (PF01345): pos. 455 - 575
+

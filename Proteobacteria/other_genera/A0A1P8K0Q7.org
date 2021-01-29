@@ -1,0 +1,9 @@
+* Organism:
+- Rhodoferax koreense
+* Protein length:
+- 456.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 211 - 444
+* Stalk domains:
+- Big_5 (PF13205): pos. 79 - 190
+

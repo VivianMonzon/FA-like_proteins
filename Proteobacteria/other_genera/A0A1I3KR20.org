@@ -1,0 +1,9 @@
+* Organism:
+- Xenorhabdus mauleonii
+* Protein length:
+- 502.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 159 - 181
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 189 - 231
+

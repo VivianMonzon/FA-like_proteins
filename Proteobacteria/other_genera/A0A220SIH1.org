@@ -1,0 +1,12 @@
+* Organism:
+- Alcanivorax sp. N3-2A
+* Protein length:
+- 2076.0
+* Adhesive domains:
+- VWA (PF00092): pos. 873 - 1051
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 291 - 370
+- CarboxypepD_reg (PF13620): pos. 387 - 463
+- CarboxypepD_reg (PF13620): pos. 471 - 550
+- CarboxypepD_reg (PF13620): pos. 562 - 642
+

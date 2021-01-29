@@ -1,0 +1,13 @@
+* Organism:
+- Microbacterium ginsengiterrae
+* Protein length:
+- 1013.0
+* Adhesive domains:
+- TED (PF08341): pos. 76 - 185
+* Stalk domains:
+- TQ (PF18202): pos. 326 - 442
+- TQ (PF18202): pos. 451 - 567
+- TQ (PF18202): pos. 576 - 692
+- TQ (PF18202): pos. 701 - 817
+- TQ (PF18202): pos. 826 - 942
+

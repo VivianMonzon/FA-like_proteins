@@ -1,0 +1,14 @@
+* Organism:
+- Bifidobacterium animalis subsp. lactis (strain AD011)
+* Protein length:
+- 1811.0
+* Adhesive domains:
+- TED (PF08341): pos. 138 - 260
+* Stalk domains:
+- SpaA (PF17802): pos. 344 - 412
+- TQ (PF18202): pos. 1079 - 1206
+- TQ (PF18202): pos. 1207 - 1336
+- TQ (PF18202): pos. 1337 - 1467
+- TQ (PF18202): pos. 1468 - 1628
+- TQ (PF18202): pos. 1629 - 1755
+

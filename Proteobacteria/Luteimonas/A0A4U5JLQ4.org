@@ -1,0 +1,21 @@
+* Organism:
+- Luteimonas gilva
+* Protein length:
+- 2111.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 285 - 311
+- YadA_head (PF05658): pos. 411 - 436
+- YadA_head (PF05658): pos. 500 - 525
+- YadA_head (PF05658): pos. 829 - 855
+- YadA_head (PF05658): pos. 1116 - 1142
+- YadA_head (PF05658): pos. 1130 - 1156
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 329 - 371
+- YadA_stalk (PF05662): pos. 645 - 687
+- YadA_stalk (PF05662): pos. 946 - 988
+- YadA_stalk (PF05662): pos. 1242 - 1284
+- YadA_stalk (PF05662): pos. 1540 - 1571
+- YadA_stalk (PF05662): pos. 1699 - 1722
+- YadA_stalk (PF05662): pos. 1752 - 1796
+- YadA_stalk (PF05662): pos. 1970 - 2010
+

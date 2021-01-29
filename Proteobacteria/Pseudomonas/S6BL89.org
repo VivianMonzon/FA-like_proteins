@@ -1,0 +1,49 @@
+* Organism:
+- Pseudomonas resinovorans NBRC 106553
+* Protein length:
+- 5569.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 3769 - 3886
+* Stalk domains:
+- Cadherin (PF00028): pos. 4532 - 4624
+- Big_9 (PF17963): pos. 171 - 256
+- Big_9 (PF17963): pos. 260 - 358
+- Big_9 (PF17963): pos. 358 - 456
+- Big_9 (PF17963): pos. 456 - 554
+- Big_9 (PF17963): pos. 554 - 652
+- Big_9 (PF17963): pos. 652 - 750
+- Big_9 (PF17963): pos. 750 - 848
+- Big_9 (PF17963): pos. 848 - 946
+- Big_9 (PF17963): pos. 946 - 1044
+- Big_9 (PF17963): pos. 1044 - 1142
+- Big_9 (PF17963): pos. 1142 - 1240
+- Big_9 (PF17963): pos. 1240 - 1346
+- Big_9 (PF17963): pos. 1349 - 1468
+- Big_9 (PF17963): pos. 1471 - 1566
+- Big_9 (PF17963): pos. 1569 - 1664
+- Big_9 (PF17963): pos. 1668 - 1769
+- Big_9 (PF17963): pos. 1775 - 1880
+- Big_9 (PF17963): pos. 1883 - 2002
+- Big_9 (PF17963): pos. 2005 - 2100
+- Big_9 (PF17963): pos. 2103 - 2199
+- Big_9 (PF17963): pos. 2203 - 2304
+- Big_9 (PF17963): pos. 2309 - 2414
+- Big_9 (PF17963): pos. 2417 - 2536
+- Big_9 (PF17963): pos. 2539 - 2640
+- Big_9 (PF17963): pos. 2646 - 2750
+- Big_9 (PF17963): pos. 2753 - 2858
+- Big_9 (PF17963): pos. 2861 - 2966
+- Big_9 (PF17963): pos. 2970 - 3074
+- Big_9 (PF17963): pos. 3077 - 3182
+- Big_9 (PF17963): pos. 3185 - 3288
+- Big_9 (PF17963): pos. 3294 - 3385
+- Big_9 (PF17963): pos. 3390 - 3494
+- Big_9 (PF17963): pos. 3494 - 3585
+- Big_9 (PF17963): pos. 3590 - 3694
+- Big_9 (PF17963): pos. 3891 - 3967
+- Big_9 (PF17963): pos. 3971 - 4077
+- Big_9 (PF17963): pos. 4080 - 4186
+- Big_9 (PF17963): pos. 4189 - 4293
+- Big_9 (PF17963): pos. 4293 - 4399
+- Big_9 (PF17963): pos. 4402 - 4506
+

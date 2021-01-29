@@ -1,0 +1,10 @@
+* Organism:
+- Actinomyces sp. oral taxon 448 str. F0400
+* Protein length:
+- 951.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 60 - 427
+* Stalk domains:
+- SpaA (PF17802): pos. 667 - 775
+- SpaA (PF17802): pos. 813 - 897
+

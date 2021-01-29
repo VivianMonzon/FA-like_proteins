@@ -1,0 +1,10 @@
+* Organism:
+- Chitinophaga caeni
+* Protein length:
+- 647.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 17 - 228
+* Stalk domains:
+- PKD_4 (PF18911): pos. 224 - 297
+- PKD_4 (PF18911): pos. 384 - 462
+

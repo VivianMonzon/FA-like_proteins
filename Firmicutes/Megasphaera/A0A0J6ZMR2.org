@@ -1,0 +1,10 @@
+* Organism:
+- Megasphaera cerevisiae DSM 20462
+* Protein length:
+- 437.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 183 - 208
+- YadA_head (PF05658): pos. 197 - 222
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 228 - 270
+

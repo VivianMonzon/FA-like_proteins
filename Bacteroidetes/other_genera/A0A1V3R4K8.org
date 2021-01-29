@@ -1,0 +1,9 @@
+* Organism:
+- Algoriphagus sp. A40
+* Protein length:
+- 776.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 25 - 290
+* Stalk domains:
+- PKD_4 (PF18911): pos. 620 - 671
+

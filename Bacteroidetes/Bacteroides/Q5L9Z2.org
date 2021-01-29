@@ -1,0 +1,9 @@
+* Organism:
+- Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / JCM 11019 / NCTC 9343)
+* Protein length:
+- 610.0
+* Adhesive domains:
+- VWA (PF00092): pos. 250 - 423
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 29 - 101
+

@@ -1,0 +1,9 @@
+* Organism:
+- Azospirillum sp. CAG:239
+* Protein length:
+- 754.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 334 - 446
+* Stalk domains:
+- AIDA (PF16168): pos. 271 - 324
+

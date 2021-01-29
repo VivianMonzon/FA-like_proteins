@@ -1,0 +1,11 @@
+* Organism:
+- Sporosarcina luteola
+* Protein length:
+- 1807.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 398 - 524
+- Collagen_bind (PF05737): pos. 529 - 670
+- Collagen_bind (PF05737): pos. 815 - 944
+* Stalk domains:
+- SpaA (PF17802): pos. 1134 - 1202
+

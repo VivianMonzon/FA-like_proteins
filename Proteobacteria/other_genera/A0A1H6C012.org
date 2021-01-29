@@ -1,0 +1,12 @@
+* Organism:
+- Bosea lathyri
+* Protein length:
+- 1073.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 606 - 729
+* Stalk domains:
+- PATR (PF12951): pos. 83 - 111
+- PATR (PF12951): pos. 389 - 416
+- PATR (PF12951): pos. 455 - 484
+- PATR (PF12951): pos. 541 - 577
+

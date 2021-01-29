@@ -1,0 +1,10 @@
+* Organism:
+- Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)
+* Protein length:
+- 1564.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 249 - 380
+- PA14 (PF07691): pos. 396 - 557
+* Stalk domains:
+- Calx-beta (PF03160): pos. 567 - 656
+

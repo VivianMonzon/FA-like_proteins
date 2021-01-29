@@ -1,0 +1,9 @@
+* Organism:
+- Sphaerisporangium album
+* Protein length:
+- 520.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 56 - 243
+* Stalk domains:
+- Big_3_5 (PF16640): pos. 262 - 350
+

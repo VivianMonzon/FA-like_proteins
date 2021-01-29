@@ -1,0 +1,17 @@
+* Organism:
+- Falsochrobactrum ovis
+* Protein length:
+- 2080.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1599 - 1732
+* Stalk domains:
+- PATR (PF12951): pos. 355 - 380
+- PATR (PF12951): pos. 647 - 676
+- PATR (PF12951): pos. 736 - 765
+- PATR (PF12951): pos. 825 - 853
+- PATR (PF12951): pos. 913 - 942
+- PATR (PF12951): pos. 1007 - 1031
+- PATR (PF12951): pos. 1296 - 1325
+- PATR (PF12951): pos. 1385 - 1414
+- PATR (PF12951): pos. 1486 - 1511
+

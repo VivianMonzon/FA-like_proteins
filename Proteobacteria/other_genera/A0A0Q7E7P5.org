@@ -1,0 +1,10 @@
+* Organism:
+- Devosia sp. Root413D1
+* Protein length:
+- 773.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 309 - 439
+* Stalk domains:
+- PATR (PF12951): pos. 156 - 185
+- PATR (PF12951): pos. 255 - 279
+

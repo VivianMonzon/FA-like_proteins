@@ -1,0 +1,13 @@
+* Organism:
+- Xenorhabdus bovienii (strain SS-2004)
+* Protein length:
+- 1507.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1022 - 1154
+* Stalk domains:
+- PATR (PF12951): pos. 459 - 486
+- PATR (PF12951): pos. 532 - 558
+- PATR (PF12951): pos. 598 - 628
+- PATR (PF12951): pos. 895 - 924
+- PATR (PF12951): pos. 965 - 993
+

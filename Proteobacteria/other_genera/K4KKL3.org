@@ -1,0 +1,15 @@
+* Organism:
+- Simiduia agarivorans (strain DSM 21679 / JCM 13881 / BCRC 17597 / SA1)
+* Protein length:
+- 1398.0
+* Adhesive domains:
+- VWA (PF00092): pos. 267 - 448
+* Stalk domains:
+- nan (PF14312): pos. 924 - 987
+- nan (PF14312): pos. 994 - 1056
+- nan (PF14312): pos. 1063 - 1124
+- nan (PF14312): pos. 1131 - 1194
+- nan (PF14312): pos. 1201 - 1259
+- nan (PF14312): pos. 1265 - 1327
+- Big_9 (PF17963): pos. 715 - 811
+

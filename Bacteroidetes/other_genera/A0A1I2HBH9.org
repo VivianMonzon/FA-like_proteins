@@ -1,0 +1,13 @@
+* Organism:
+- Spirosoma endophyticum
+* Protein length:
+- 1405.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 679 - 813
+- PA14 (PF07691): pos. 840 - 974
+- PA14 (PF07691): pos. 1001 - 1135
+- PA14 (PF07691): pos. 1160 - 1299
+* Stalk domains:
+- Beta_helix (PF13229): pos. 210 - 380
+- Beta_helix (PF13229): pos. 351 - 533
+

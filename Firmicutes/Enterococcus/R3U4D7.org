@@ -1,0 +1,17 @@
+* Organism:
+- Enterococcus phoeniculicola ATCC BAA-412
+* Protein length:
+- 1831.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 366 - 500
+- Collagen_bind (PF05737): pos. 779 - 901
+- Collagen_bind (PF05737): pos. 910 - 1044
+* Stalk domains:
+- Cna_B (PF05738): pos. 1288 - 1372
+- Cna_B (PF05738): pos. 1381 - 1466
+- Cna_B (PF05738): pos. 1475 - 1560
+- Cna_B (PF05738): pos. 1569 - 1654
+- Cna_B (PF05738): pos. 1663 - 1748
+- SpaA (PF17802): pos. 1075 - 1141
+- SpaA (PF17802): pos. 1176 - 1266
+

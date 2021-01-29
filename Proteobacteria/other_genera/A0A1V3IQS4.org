@@ -1,0 +1,14 @@
+* Organism:
+- Rodentibacter trehalosifermentans
+* Protein length:
+- 1439.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 540 - 565
+- YadA_head (PF05658): pos. 595 - 621
+- YadA_head (PF05658): pos. 623 - 649
+- YadA_head (PF05658): pos. 867 - 893
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 688 - 726
+- YadA_stalk (PF05662): pos. 1051 - 1092
+- YadA_stalk (PF05662): pos. 1322 - 1367
+

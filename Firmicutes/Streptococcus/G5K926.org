@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus pseudoporcinus LQ 940-04
+* Protein length:
+- 1059.0
+* Adhesive domains:
+- SdrG_C_C (PF10425): pos. 396 - 549
+* Stalk domains:
+- SdrD_B (PF17210): pos. 567 - 672
+- SdrD_B (PF17210): pos. 878 - 981
+

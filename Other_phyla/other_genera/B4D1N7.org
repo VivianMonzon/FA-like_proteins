@@ -1,0 +1,10 @@
+* Organism:
+- Chthoniobacter flavus Ellin428
+* Protein length:
+- 1545.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1201 - 1374
+* Stalk domains:
+- PATR (PF12951): pos. 270 - 298
+- PATR (PF12951): pos. 415 - 452
+

@@ -1,0 +1,24 @@
+* Organism:
+- Flavonifractor sp. An100
+* Protein length:
+- 2000.0
+* Adhesive domains:
+- TED (PF08341): pos. 75 - 184
+* Stalk domains:
+- SpaA (PF17802): pos. 355 - 423
+- SpaA (PF17802): pos. 444 - 511
+- SpaA (PF17802): pos. 534 - 600
+- SpaA (PF17802): pos. 624 - 691
+- SpaA (PF17802): pos. 712 - 778
+- SpaA (PF17802): pos. 802 - 869
+- SpaA (PF17802): pos. 890 - 959
+- SpaA (PF17802): pos. 981 - 1058
+- SpaA (PF17802): pos. 1080 - 1153
+- SpaA (PF17802): pos. 1177 - 1249
+- SpaA (PF17802): pos. 1271 - 1340
+- SpaA (PF17802): pos. 1362 - 1433
+- SpaA (PF17802): pos. 1455 - 1532
+- SpaA (PF17802): pos. 1556 - 1622
+- SpaA (PF17802): pos. 1644 - 1710
+- SpaA (PF17802): pos. 1742 - 1808
+

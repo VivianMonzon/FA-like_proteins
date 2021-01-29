@@ -1,0 +1,14 @@
+* Organism:
+- Bacillus sp. SRB_336
+* Protein length:
+- 755.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 93 - 117
+- YadA_head (PF05658): pos. 159 - 185
+- YadA_head (PF05658): pos. 173 - 198
+- YadA_head (PF05658): pos. 211 - 237
+- YadA_head (PF05658): pos. 370 - 396
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 414 - 455
+- YadA_stalk (PF05662): pos. 605 - 656
+

@@ -1,0 +1,9 @@
+* Organism:
+- Isosphaera pallida (strain ATCC 43644 / DSM 9630 / IS1B)
+* Protein length:
+- 757.0
+* Adhesive domains:
+- VWA (PF00092): pos. 116 - 300
+* Stalk domains:
+- CARDB (PF07705): pos. 265 - 357
+

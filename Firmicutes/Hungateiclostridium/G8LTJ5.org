@@ -1,0 +1,9 @@
+* Organism:
+- Hungateiclostridium clariflavum (strain DSM 19732 / NBRC 101661 / EBR45) (Clostridium clariflavum)
+* Protein length:
+- 1425.0
+* Adhesive domains:
+- VWA (PF00092): pos. 640 - 809
+* Stalk domains:
+- TSP3_bac (PF18884): pos. 410 - 432
+

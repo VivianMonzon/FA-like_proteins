@@ -1,0 +1,9 @@
+* Organism:
+- Tenacibaculum todarodis
+* Protein length:
+- 751.0
+* Adhesive domains:
+- VWA (PF00092): pos. 57 - 284
+* Stalk domains:
+- DUF11 (PF01345): pos. 635 - 751
+

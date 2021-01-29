@@ -1,0 +1,17 @@
+* Organism:
+- Acinetobacter populi
+* Protein length:
+- 2268.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 147 - 173
+- YadA_head (PF05658): pos. 846 - 872
+* Stalk domains:
+- Collagen (PF01391): pos. 1652 - 1713
+- Collagen (PF01391): pos. 1813 - 1876
+- YadA_stalk (PF05662): pos. 569 - 611
+- YadA_stalk (PF05662): pos. 1013 - 1058
+- YadA_stalk (PF05662): pos. 1440 - 1482
+- YadA_stalk (PF05662): pos. 1570 - 1611
+- YadA_stalk (PF05662): pos. 1969 - 2014
+- YadA_stalk (PF05662): pos. 2100 - 2145
+

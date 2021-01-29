@@ -1,0 +1,9 @@
+* Organism:
+- Neisseria meningitidis serogroup B (strain MC58)
+* Protein length:
+- 591.0
+* Adhesive domains:
+- TAA-Trp-ring (PF15401): pos. 259 - 317
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 480 - 522
+

@@ -1,0 +1,9 @@
+* Organism:
+- Bifidobacterium dentium (strain ATCC 27534 / DSM 20436 / JCM 1195 / Bd1)
+* Protein length:
+- 396.0
+* Adhesive domains:
+- TED (PF08341): pos. 152 - 281
+* Stalk domains:
+- SpaA (PF17802): pos. 53 - 121
+

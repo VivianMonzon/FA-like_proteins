@@ -1,0 +1,13 @@
+* Organism:
+- Peptostreptococcus sp. D1
+* Protein length:
+- 916.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 194 - 320
+* Stalk domains:
+- Cna_B (PF05738): pos. 433 - 516
+- Cna_B (PF05738): pos. 522 - 619
+- Cna_B (PF05738): pos. 627 - 719
+- Cna_B (PF05738): pos. 734 - 835
+- SpaA (PF17802): pos. 351 - 418
+

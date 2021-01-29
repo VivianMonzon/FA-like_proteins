@@ -1,0 +1,10 @@
+* Organism:
+- Paenibacillus sp. 1_12
+* Protein length:
+- 1494.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 45 - 266
+* Stalk domains:
+- Big_2 (PF02368): pos. 625 - 707
+- Big_1 (PF02369): pos. 727 - 787
+

@@ -1,0 +1,9 @@
+* Organism:
+- Deinococcus peraridilitoris (strain DSM 19664 / LMG 22246 / CIP 109416 / KR-200)
+* Protein length:
+- 893.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 213 - 347
+* Stalk domains:
+- Big_5 (PF13205): pos. 350 - 460
+

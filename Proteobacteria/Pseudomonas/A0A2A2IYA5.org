@@ -1,0 +1,25 @@
+* Organism:
+- Pseudomonas sp. HAR-UPW-AIA-41
+* Protein length:
+- 4341.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1232 - 1421
+- VWA (PF00092): pos. 2384 - 2572
+- VWA (PF00092): pos. 3653 - 3858
+* Stalk domains:
+- DUF5801 (PF19116): pos. 176 - 329
+- DUF5801 (PF19116): pos. 341 - 508
+- DUF5801 (PF19116): pos. 521 - 681
+- DUF5801 (PF19116): pos. 694 - 852
+- DUF5801 (PF19116): pos. 865 - 1022
+- DUF5801 (PF19116): pos. 1034 - 1195
+- DUF5801 (PF19116): pos. 1675 - 1841
+- DUF5801 (PF19116): pos. 1855 - 2021
+- DUF5801 (PF19116): pos. 2035 - 2204
+- DUF5801 (PF19116): pos. 2218 - 2351
+- DUF5801 (PF19116): pos. 2838 - 2984
+- DUF5801 (PF19116): pos. 2996 - 3142
+- DUF5801 (PF19116): pos. 3154 - 3300
+- DUF5801 (PF19116): pos. 3312 - 3458
+- DUF5801 (PF19116): pos. 3470 - 3616
+

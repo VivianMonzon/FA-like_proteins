@@ -1,0 +1,14 @@
+* Organism:
+- Prosthecobacter debontii
+* Protein length:
+- 2950.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 614 - 832
+* Stalk domains:
+- PKD (PF00801): pos. 934 - 1003
+- He_PIG (PF05345): pos. 529 - 615
+- He_PIG (PF05345): pos. 842 - 926
+- Big_12 (PF19078): pos. 1637 - 1730
+- Big_12 (PF19078): pos. 1925 - 2019
+- Big_12 (PF19078): pos. 2211 - 2305
+

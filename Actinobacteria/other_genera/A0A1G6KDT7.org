@@ -1,0 +1,10 @@
+* Organism:
+- Prauserella marina
+* Protein length:
+- 788.0
+* Adhesive domains:
+- VWA (PF00092): pos. 185 - 378
+* Stalk domains:
+- SpaA_2 (PF19403): pos. 212 - 294
+- SpaA_2 (PF19403): pos. 632 - 728
+

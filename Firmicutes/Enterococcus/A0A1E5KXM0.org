@@ -1,0 +1,15 @@
+* Organism:
+- Enterococcus rivorum
+* Protein length:
+- 1652.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 206 - 336
+- Collagen_bind (PF05737): pos. 344 - 458
+- Collagen_bind (PF05737): pos. 629 - 757
+- Collagen_bind (PF05737): pos. 769 - 899
+* Stalk domains:
+- SpaA (PF17802): pos. 931 - 992
+- SpaA (PF17802): pos. 1025 - 1093
+- SpaA (PF17802): pos. 1265 - 1338
+- SpaA (PF17802): pos. 1515 - 1602
+

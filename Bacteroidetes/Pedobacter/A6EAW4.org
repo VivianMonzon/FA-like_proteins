@@ -1,0 +1,9 @@
+* Organism:
+- Pedobacter sp. BAL39
+* Protein length:
+- 629.0
+* Adhesive domains:
+- VWA (PF00092): pos. 251 - 423
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 24 - 96
+

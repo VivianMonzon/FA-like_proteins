@@ -1,0 +1,12 @@
+* Organism:
+- Lactobacillus diolivorans DSM 14421
+* Protein length:
+- 826.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 156 - 198
+* Stalk domains:
+- MucBP (PF06458): pos. 413 - 483
+- MucBP (PF06458): pos. 492 - 548
+- DUF5776 (PF19087): pos. 681 - 747
+- DUF5776 (PF19087): pos. 748 - 822
+

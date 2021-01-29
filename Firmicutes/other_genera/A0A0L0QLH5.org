@@ -1,0 +1,10 @@
+* Organism:
+- Virgibacillus pantothenticus
+* Protein length:
+- 900.0
+* Adhesive domains:
+- VWA (PF00092): pos. 262 - 398
+* Stalk domains:
+- MucBP (PF06458): pos. 701 - 766
+- SpaA (PF17802): pos. 779 - 846
+

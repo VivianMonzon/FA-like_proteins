@@ -1,0 +1,17 @@
+* Organism:
+- Rubripirellula amarantea
+* Protein length:
+- 1753.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 45 - 179
+- PA14 (PF07691): pos. 187 - 338
+* Stalk domains:
+- Calx-beta (PF03160): pos. 348 - 437
+- nan (PF14312): pos. 1257 - 1305
+- nan (PF14312): pos. 1313 - 1363
+- nan (PF14312): pos. 1373 - 1421
+- nan (PF14312): pos. 1431 - 1479
+- nan (PF14312): pos. 1489 - 1538
+- nan (PF14312): pos. 1548 - 1596
+- nan (PF14312): pos. 1603 - 1651
+

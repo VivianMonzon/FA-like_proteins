@@ -1,0 +1,12 @@
+* Organism:
+- Sporocytophaga myxococcoides
+* Protein length:
+- 1507.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 550 - 671
+* Stalk domains:
+- PKD_4 (PF18911): pos. 307 - 387
+- PKD_4 (PF18911): pos. 673 - 720
+- PKD_4 (PF18911): pos. 1234 - 1309
+- PKD_4 (PF18911): pos. 1323 - 1390
+

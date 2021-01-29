@@ -1,0 +1,10 @@
+* Organism:
+- Atopobium parvulum (strain ATCC 33793 / DSM 20469 / JCM 10300 / VPI 0546) (Streptococcus parvulus) (Peptostreptococcus parvulus)
+* Protein length:
+- 686.0
+* Adhesive domains:
+- Sgo0707_N1 (PF18873): pos. 28 - 292
+* Stalk domains:
+- DUF11 (PF01345): pos. 531 - 642
+- SHIRT (PF18655): pos. 436 - 519
+

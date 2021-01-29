@@ -1,0 +1,22 @@
+* Organism:
+- Anaerococcus prevotii ACS-065-V-Col13
+* Protein length:
+- 4524.0
+* Adhesive domains:
+- SdrG_C_C (PF10425): pos. 3877 - 4031
+* Stalk domains:
+- SpaA (PF17802): pos. 1039 - 1101
+- SpaA (PF17802): pos. 1329 - 1396
+- SpaA (PF17802): pos. 1836 - 1901
+- SpaA (PF17802): pos. 1945 - 2014
+- SpaA (PF17802): pos. 2263 - 2331
+- SpaA (PF17802): pos. 2947 - 3031
+- SpaA (PF17802): pos. 3377 - 3448
+- SpaA (PF17802): pos. 3618 - 3685
+- SpaA (PF17802): pos. 4057 - 4131
+- SpaA (PF17802): pos. 4181 - 4278
+- Flg_new_2 (PF18998): pos. 2602 - 2678
+- Flg_new_2 (PF18998): pos. 2679 - 2756
+- Flg_new_2 (PF18998): pos. 2760 - 2834
+- Flg_new_2 (PF18998): pos. 2838 - 2911
+

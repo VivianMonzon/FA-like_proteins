@@ -1,0 +1,13 @@
+* Organism:
+- Variovorax paradoxus
+* Protein length:
+- 1461.0
+* Adhesive domains:
+- VWA (PF00092): pos. 1014 - 1211
+* Stalk domains:
+- Big_9 (PF17963): pos. 151 - 232
+- Big_9 (PF17963): pos. 236 - 324
+- Big_9 (PF17963): pos. 438 - 529
+- Big_9 (PF17963): pos. 533 - 620
+- Big_9 (PF17963): pos. 732 - 825
+

@@ -1,0 +1,13 @@
+* Organism:
+- Desulfuromonas sp. DDH964
+* Protein length:
+- 702.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 497 - 698
+* Stalk domains:
+- Big_5 (PF13205): pos. 1 - 48
+- Big_5 (PF13205): pos. 53 - 155
+- Big_5 (PF13205): pos. 160 - 262
+- Big_5 (PF13205): pos. 267 - 369
+- Big_5 (PF13205): pos. 374 - 476
+

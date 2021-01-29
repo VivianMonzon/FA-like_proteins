@@ -1,0 +1,9 @@
+* Organism:
+- Eubacterium sp. 68-3-10
+* Protein length:
+- 451.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 65 - 299
+* Stalk domains:
+- DUF11 (PF01345): pos. 323 - 427
+

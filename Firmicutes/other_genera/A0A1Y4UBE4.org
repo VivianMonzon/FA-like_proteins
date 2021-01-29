@@ -1,0 +1,11 @@
+* Organism:
+- Tyzzerella sp. An114
+* Protein length:
+- 795.0
+* Adhesive domains:
+- TED (PF08341): pos. 178 - 283
+* Stalk domains:
+- SpaA (PF17802): pos. 465 - 553
+- SpaA (PF17802): pos. 577 - 644
+- SpaA (PF17802): pos. 666 - 744
+

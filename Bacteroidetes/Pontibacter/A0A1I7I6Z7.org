@@ -1,0 +1,23 @@
+* Organism:
+- Pontibacter akesuensis
+* Protein length:
+- 1649.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 38 - 223
+* Stalk domains:
+- DUF11 (PF01345): pos. 227 - 346
+- PKD_6 (PF19408): pos. 348 - 433
+- PKD_6 (PF19408): pos. 436 - 520
+- PKD_6 (PF19408): pos. 523 - 606
+- PKD_6 (PF19408): pos. 609 - 693
+- PKD_6 (PF19408): pos. 696 - 779
+- PKD_6 (PF19408): pos. 782 - 866
+- PKD_6 (PF19408): pos. 869 - 955
+- PKD_6 (PF19408): pos. 958 - 1041
+- PKD_6 (PF19408): pos. 1044 - 1129
+- PKD_6 (PF19408): pos. 1132 - 1215
+- PKD_6 (PF19408): pos. 1218 - 1303
+- PKD_6 (PF19408): pos. 1305 - 1388
+- PKD_6 (PF19408): pos. 1391 - 1474
+- PKD_6 (PF19408): pos. 1475 - 1555
+

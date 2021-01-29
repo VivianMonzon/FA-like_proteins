@@ -1,0 +1,15 @@
+* Organism:
+- Micromonospora siamensis
+* Protein length:
+- 1147.0
+* Adhesive domains:
+- VWA (PF00092): pos. 193 - 375
+* Stalk domains:
+- SpaA_2 (PF19403): pos. 216 - 298
+- SpaA_2 (PF19403): pos. 381 - 497
+- SpaA_2 (PF19403): pos. 601 - 717
+- SpaA_2 (PF19403): pos. 721 - 824
+- SpaA_2 (PF19403): pos. 833 - 939
+- SpaA_2 (PF19403): pos. 947 - 996
+- SpaA_2 (PF19403): pos. 1001 - 1093
+

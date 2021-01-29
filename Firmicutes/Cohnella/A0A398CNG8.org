@@ -1,0 +1,17 @@
+* Organism:
+- Cohnella sp. K2E09-144
+* Protein length:
+- 2446.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 56 - 346
+* Stalk domains:
+- Big_13 (PF19077): pos. 892 - 978
+- Big_13 (PF19077): pos. 981 - 1072
+- Big_13 (PF19077): pos. 1080 - 1166
+- Big_13 (PF19077): pos. 1169 - 1260
+- Big_13 (PF19077): pos. 1268 - 1354
+- Big_13 (PF19077): pos. 1357 - 1448
+- Big_13 (PF19077): pos. 1456 - 1542
+- Big_13 (PF19077): pos. 1545 - 1636
+- Big_13 (PF19077): pos. 1644 - 1730
+

@@ -1,0 +1,10 @@
+* Organism:
+- Fulvivirga imtechensis AK7
+* Protein length:
+- 2922.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 1768 - 1895
+- Cleaved_Adhesin (PF07675): pos. 2428 - 2539
+* Stalk domains:
+- fn3 (PF00041): pos. 441 - 531
+

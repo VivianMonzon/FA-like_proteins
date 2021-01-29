@@ -1,0 +1,9 @@
+* Organism:
+- Corynebacterium glaucum
+* Protein length:
+- 1047.0
+* Adhesive domains:
+- VWA (PF00092): pos. 486 - 702
+* Stalk domains:
+- SpaA (PF17802): pos. 883 - 956
+

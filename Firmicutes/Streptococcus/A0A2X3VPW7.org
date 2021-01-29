@@ -1,0 +1,9 @@
+* Organism:
+- Streptococcus ferus
+* Protein length:
+- 222.0
+* Adhesive domains:
+- Adhesin_P1_N (PF18652): pos. 80 - 185
+* Stalk domains:
+- Strep_SA_rep (PF06696): pos. 201 - 222
+

@@ -1,0 +1,12 @@
+* Organism:
+- Alteromonas australica
+* Protein length:
+- 1484.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 673 - 715
+* Stalk domains:
+- Calx-beta (PF03160): pos. 848 - 948
+- Calx-beta (PF03160): pos. 1086 - 1186
+- Calx-beta (PF03160): pos. 1199 - 1298
+- Calx-beta (PF03160): pos. 1310 - 1409
+

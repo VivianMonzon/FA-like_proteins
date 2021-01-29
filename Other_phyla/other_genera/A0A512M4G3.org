@@ -1,0 +1,21 @@
+* Organism:
+- Brevifollis gellanilyticus
+* Protein length:
+- 5821.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 838 - 937
+- PA14 (PF07691): pos. 1707 - 1822
+* Stalk domains:
+- He_PIG (PF05345): pos. 233 - 319
+- He_PIG (PF05345): pos. 2532 - 2618
+- He_PIG (PF05345): pos. 2620 - 2707
+- He_PIG (PF05345): pos. 2708 - 2794
+- He_PIG (PF05345): pos. 4926 - 5012
+- He_PIG (PF05345): pos. 5014 - 5100
+- SdrD_B (PF17210): pos. 595 - 718
+- SdrD_B (PF17210): pos. 1317 - 1446
+- SdrD_B (PF17210): pos. 1477 - 1616
+- SdrD_B (PF17210): pos. 1630 - 1735
+- SdrD_B (PF17210): pos. 2214 - 2352
+- SdrD_B (PF17210): pos. 5102 - 5241
+

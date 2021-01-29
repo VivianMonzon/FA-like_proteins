@@ -1,0 +1,13 @@
+* Organism:
+- Paenibacillus sp. Root444D2
+* Protein length:
+- 1120.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 179 - 307
+- Collagen_bind (PF05737): pos. 317 - 447
+- Collagen_bind (PF05737): pos. 454 - 570
+- Collagen_bind (PF05737): pos. 593 - 726
+- Collagen_bind (PF05737): pos. 733 - 866
+* Stalk domains:
+- SpaA (PF17802): pos. 898 - 968
+

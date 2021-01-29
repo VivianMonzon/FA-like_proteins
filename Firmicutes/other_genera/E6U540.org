@@ -1,0 +1,10 @@
+* Organism:
+- Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-3)
+* Protein length:
+- 235.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 113 - 235
+* Stalk domains:
+- Collagen (PF01391): pos. 1 - 61
+- Collagen (PF01391): pos. 48 - 110
+

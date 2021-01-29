@@ -1,0 +1,12 @@
+* Organism:
+- Aquisphaera giovannonii
+* Protein length:
+- 1992.0
+* Adhesive domains:
+- PA14 (PF07691): pos. 241 - 368
+* Stalk domains:
+- Big_5 (PF13205): pos. 1834 - 1953
+- Big_9 (PF17963): pos. 1442 - 1535
+- Big_9 (PF17963): pos. 1539 - 1632
+- PKD_4 (PF18911): pos. 1732 - 1818
+

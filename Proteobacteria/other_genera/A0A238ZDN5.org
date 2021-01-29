@@ -1,0 +1,11 @@
+* Organism:
+- Puniceibacterium sediminis
+* Protein length:
+- 910.0
+* Adhesive domains:
+- TED (PF08341): pos. 746 - 867
+* Stalk domains:
+- SdrD_B (PF17210): pos. 88 - 196
+- SdrD_B (PF17210): pos. 359 - 459
+- SdrD_B (PF17210): pos. 468 - 586
+

@@ -1,0 +1,11 @@
+* Organism:
+- Thioploca ingrica
+* Protein length:
+- 2194.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 143 - 185
+- LRR_4 (PF12799): pos. 215 - 259
+* Stalk domains:
+- fn3 (PF00041): pos. 368 - 449
+- Flg_new_2 (PF18998): pos. 498 - 574
+

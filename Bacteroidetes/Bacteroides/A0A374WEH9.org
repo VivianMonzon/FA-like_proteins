@@ -1,0 +1,10 @@
+* Organism:
+- Bacteroides sp. OM05-12
+* Protein length:
+- 2012.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 1372 - 1477
+- Cleaved_Adhesin (PF07675): pos. 1790 - 1864
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 854 - 933
+

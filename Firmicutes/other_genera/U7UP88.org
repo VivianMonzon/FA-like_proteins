@@ -1,0 +1,11 @@
+* Organism:
+- Peptoniphilus sp. BV3C26
+* Protein length:
+- 1562.0
+* Adhesive domains:
+- LRR_4 (PF12799): pos. 737 - 779
+- LRR_4 (PF12799): pos. 1012 - 1054
+* Stalk domains:
+- GA (PF01468): pos. 1256 - 1310
+- GA (PF01468): pos. 1326 - 1380
+

@@ -1,0 +1,11 @@
+* Organism:
+- Pseudoxanthomonas sp. CF125
+* Protein length:
+- 833.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 109 - 135
+- YadA_head (PF05658): pos. 390 - 416
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 448 - 484
+- YadA_stalk (PF05662): pos. 680 - 722
+

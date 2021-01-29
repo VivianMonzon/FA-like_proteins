@@ -1,0 +1,17 @@
+* Organism:
+- Streptococcus massiliensis
+* Protein length:
+- 1252.0
+* Adhesive domains:
+- Sgo0707_N1 (PF18873): pos. 32 - 307
+* Stalk domains:
+- DUF11 (PF01345): pos. 547 - 658
+- MucBP (PF06458): pos. 663 - 730
+- MucBP (PF06458): pos. 742 - 809
+- MucBP (PF06458): pos. 821 - 888
+- MucBP (PF06458): pos. 900 - 967
+- MucBP (PF06458): pos. 979 - 1046
+- MucBP (PF06458): pos. 1057 - 1124
+- MucBP (PF06458): pos. 1136 - 1203
+- SHIRT (PF18655): pos. 452 - 533
+

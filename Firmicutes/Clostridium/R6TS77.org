@@ -1,0 +1,9 @@
+* Organism:
+- Clostridium sp. CAG:417
+* Protein length:
+- 377.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 245 - 377
+* Stalk domains:
+- Collagen (PF01391): pos. 85 - 131
+

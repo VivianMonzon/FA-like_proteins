@@ -1,0 +1,11 @@
+* Organism:
+- Amantichitinum ursilacus
+* Protein length:
+- 1794.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1197 - 1303
+* Stalk domains:
+- PATR (PF12951): pos. 414 - 443
+- PATR (PF12951): pos. 507 - 544
+- PATR (PF12951): pos. 580 - 609
+

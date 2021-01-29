@@ -1,0 +1,25 @@
+* Organism:
+- Rhodanobacter sp. C06
+* Protein length:
+- 1741.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 303 - 329
+- YadA_head (PF05658): pos. 317 - 343
+- YadA_head (PF05658): pos. 345 - 371
+- YadA_head (PF05658): pos. 457 - 483
+- YadA_head (PF05658): pos. 492 - 518
+- YadA_head (PF05658): pos. 590 - 628
+- YadA_head (PF05658): pos. 706 - 732
+- YadA_head (PF05658): pos. 734 - 760
+- YadA_head (PF05658): pos. 921 - 947
+- YadA_head (PF05658): pos. 949 - 987
+- YadA_head (PF05658): pos. 1112 - 1138
+- YadA_head (PF05658): pos. 1258 - 1284
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 224 - 266
+- YadA_stalk (PF05662): pos. 634 - 674
+- YadA_stalk (PF05662): pos. 995 - 1037
+- YadA_stalk (PF05662): pos. 1332 - 1374
+- YadA_stalk (PF05662): pos. 1385 - 1425
+- YadA_stalk (PF05662): pos. 1591 - 1633
+

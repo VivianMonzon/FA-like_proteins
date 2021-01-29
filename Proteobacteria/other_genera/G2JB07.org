@@ -1,0 +1,18 @@
+* Organism:
+- Candidatus Glomeribacter gigasporarum BEG34
+* Protein length:
+- 1018.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 461 - 484
+- YadA_head (PF05658): pos. 785 - 807
+- YadA_head (PF05658): pos. 827 - 853
+- YadA_head (PF05658): pos. 855 - 881
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 133 - 174
+- YadA_stalk (PF05662): pos. 319 - 360
+- YadA_stalk (PF05662): pos. 502 - 543
+- YadA_stalk (PF05662): pos. 608 - 632
+- YadA_stalk (PF05662): pos. 663 - 704
+- YadA_stalk (PF05662): pos. 715 - 760
+- YadA_stalk (PF05662): pos. 899 - 939
+

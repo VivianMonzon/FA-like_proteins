@@ -1,0 +1,10 @@
+* Organism:
+- Bacillus koreensis
+* Protein length:
+- 873.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 745 - 873
+* Stalk domains:
+- Collagen (PF01391): pos. 159 - 218
+- Collagen (PF01391): pos. 680 - 745
+

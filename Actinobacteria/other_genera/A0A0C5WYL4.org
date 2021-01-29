@@ -1,0 +1,22 @@
+* Organism:
+- Nocardioides simplex (Arthrobacter simplex)
+* Protein length:
+- 2075.0
+* Adhesive domains:
+- CshA_NR2 (PF18651): pos. 46 - 324
+* Stalk domains:
+- CshA_repeat (PF19076): pos. 440 - 528
+- CshA_repeat (PF19076): pos. 533 - 627
+- CshA_repeat (PF19076): pos. 632 - 731
+- CshA_repeat (PF19076): pos. 736 - 831
+- CshA_repeat (PF19076): pos. 836 - 936
+- CshA_repeat (PF19076): pos. 941 - 1041
+- CshA_repeat (PF19076): pos. 1046 - 1146
+- CshA_repeat (PF19076): pos. 1151 - 1251
+- CshA_repeat (PF19076): pos. 1256 - 1351
+- CshA_repeat (PF19076): pos. 1356 - 1456
+- CshA_repeat (PF19076): pos. 1461 - 1561
+- CshA_repeat (PF19076): pos. 1566 - 1666
+- CshA_repeat (PF19076): pos. 1671 - 1766
+- CshA_repeat (PF19076): pos. 1771 - 1871
+

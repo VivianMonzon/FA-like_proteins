@@ -1,0 +1,13 @@
+* Organism:
+- Streptococcus merionis
+* Protein length:
+- 1041.0
+* Adhesive domains:
+- VWA (PF00092): pos. 193 - 332
+* Stalk domains:
+- Fn_bind (PF02986): pos. 771 - 811
+- Fn_bind (PF02986): pos. 811 - 851
+- Fn_bind (PF02986): pos. 853 - 887
+- Fn_bind (PF02986): pos. 887 - 927
+- Fn_bind (PF02986): pos. 929 - 956
+

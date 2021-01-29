@@ -1,0 +1,11 @@
+* Organism:
+- Paenibacillus sp. D9
+* Protein length:
+- 308.0
+* Adhesive domains:
+- BclA_C (PF18573): pos. 181 - 308
+* Stalk domains:
+- Collagen (PF01391): pos. 12 - 74
+- Collagen (PF01391): pos. 63 - 129
+- Collagen (PF01391): pos. 117 - 180
+

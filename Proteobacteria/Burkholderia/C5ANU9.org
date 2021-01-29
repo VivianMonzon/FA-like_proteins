@@ -1,0 +1,26 @@
+* Organism:
+- Burkholderia glumae (strain BGR1)
+* Protein length:
+- 1571.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 31 - 57
+- YadA_head (PF05658): pos. 59 - 85
+- YadA_head (PF05658): pos. 1388 - 1414
+- YadA_head (PF05658): pos. 1416 - 1442
+- YadA_head (PF05658): pos. 1430 - 1456
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 274 - 319
+- YadA_stalk (PF05662): pos. 393 - 435
+- YadA_stalk (PF05662): pos. 447 - 535
+- YadA_stalk (PF05662): pos. 580 - 622
+- YadA_stalk (PF05662): pos. 634 - 679
+- YadA_stalk (PF05662): pos. 767 - 809
+- YadA_stalk (PF05662): pos. 821 - 866
+- YadA_stalk (PF05662): pos. 954 - 994
+- YadA_stalk (PF05662): pos. 1007 - 1052
+- YadA_stalk (PF05662): pos. 1126 - 1167
+- YadA_stalk (PF05662): pos. 1180 - 1225
+- YadA_stalk (PF05662): pos. 1255 - 1296
+- YadA_stalk (PF05662): pos. 1311 - 1356
+- YadA_stalk (PF05662): pos. 1462 - 1503
+

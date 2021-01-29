@@ -1,0 +1,9 @@
+* Organism:
+- Microvirga vignae
+* Protein length:
+- 902.0
+* Adhesive domains:
+- VWA (PF00092): pos. 620 - 816
+* Stalk domains:
+- Big_9 (PF17963): pos. 454 - 551
+

@@ -1,0 +1,28 @@
+* Organism:
+- Variovorax paradoxus
+* Protein length:
+- 2149.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 180 - 206
+- YadA_head (PF05658): pos. 497 - 522
+- YadA_head (PF05658): pos. 550 - 576
+- YadA_head (PF05658): pos. 812 - 838
+- YadA_head (PF05658): pos. 950 - 976
+- YadA_head (PF05658): pos. 1074 - 1100
+- YadA_head (PF05658): pos. 1205 - 1231
+- YadA_head (PF05658): pos. 1336 - 1362
+- YadA_head (PF05658): pos. 1467 - 1493
+- YadA_head (PF05658): pos. 1598 - 1624
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 739 - 784
+- YadA_stalk (PF05662): pos. 877 - 922
+- YadA_stalk (PF05662): pos. 1015 - 1060
+- YadA_stalk (PF05662): pos. 1139 - 1184
+- YadA_stalk (PF05662): pos. 1270 - 1315
+- YadA_stalk (PF05662): pos. 1401 - 1446
+- YadA_stalk (PF05662): pos. 1532 - 1577
+- YadA_stalk (PF05662): pos. 1663 - 1706
+- YadA_stalk (PF05662): pos. 1791 - 1831
+- YadA_stalk (PF05662): pos. 1966 - 2007
+- YadA_stalk (PF05662): pos. 2027 - 2068
+

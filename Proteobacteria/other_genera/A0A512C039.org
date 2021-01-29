@@ -1,0 +1,11 @@
+* Organism:
+- Microvirga aerophila
+* Protein length:
+- 1105.0
+* Adhesive domains:
+- VWA (PF00092): pos. 820 - 1020
+* Stalk domains:
+- Big_9 (PF17963): pos. 453 - 551
+- Big_9 (PF17963): pos. 555 - 650
+- Big_9 (PF17963): pos. 654 - 751
+

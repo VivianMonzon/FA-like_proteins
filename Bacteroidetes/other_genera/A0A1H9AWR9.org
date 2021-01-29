@@ -1,0 +1,9 @@
+* Organism:
+- Lewinella agarilytica
+* Protein length:
+- 644.0
+* Adhesive domains:
+- VWA (PF00092): pos. 299 - 471
+* Stalk domains:
+- CarboxypepD_reg (PF13620): pos. 23 - 100
+

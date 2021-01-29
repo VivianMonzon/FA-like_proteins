@@ -1,0 +1,13 @@
+* Organism:
+- Ruminococcus bromii
+* Protein length:
+- 884.0
+* Adhesive domains:
+- TED (PF08341): pos. 81 - 193
+* Stalk domains:
+- SpaA (PF17802): pos. 302 - 383
+- SpaA (PF17802): pos. 408 - 481
+- SpaA (PF17802): pos. 533 - 613
+- SpaA (PF17802): pos. 649 - 729
+- SpaA (PF17802): pos. 762 - 828
+

@@ -1,0 +1,9 @@
+* Organism:
+- Vulgatibacter incomptus
+* Protein length:
+- 2161.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 1727 - 1887
+* Stalk domains:
+- He_PIG (PF05345): pos. 1097 - 1179
+

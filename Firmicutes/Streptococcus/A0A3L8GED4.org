@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus iniae (Streptococcus shiloi)
+* Protein length:
+- 860.0
+* Adhesive domains:
+- BspA_v (PF18220): pos. 252 - 400
+* Stalk domains:
+- Antigen_C (PF16364): pos. 654 - 809
+- AgI_II_C2 (PF17998): pos. 478 - 646
+

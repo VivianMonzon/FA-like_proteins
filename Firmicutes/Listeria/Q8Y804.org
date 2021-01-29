@@ -1,0 +1,13 @@
+* Organism:
+- Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)
+* Protein length:
+- 862.0
+* Adhesive domains:
+- TED (PF08341): pos. 62 - 148
+* Stalk domains:
+- SpaA (PF17802): pos. 233 - 329
+- SpaA (PF17802): pos. 371 - 451
+- SpaA (PF17802): pos. 499 - 570
+- SpaA (PF17802): pos. 633 - 696
+- SpaA (PF17802): pos. 734 - 807
+

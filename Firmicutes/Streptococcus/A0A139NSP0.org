@@ -1,0 +1,10 @@
+* Organism:
+- Streptococcus sp. DD13
+* Protein length:
+- 582.0
+* Adhesive domains:
+- Collagen_bind (PF05737): pos. 178 - 315
+* Stalk domains:
+- Cna_B (PF05738): pos. 450 - 532
+- FctA (PF12892): pos. 340 - 445
+

@@ -1,0 +1,13 @@
+* Organism:
+- Myroides indicus
+* Protein length:
+- 2289.0
+* Adhesive domains:
+- Cleaved_Adhesin (PF07675): pos. 142 - 252
+- Cleaved_Adhesin (PF07675): pos. 366 - 514
+- Cleaved_Adhesin (PF07675): pos. 636 - 794
+- Cleaved_Adhesin (PF07675): pos. 899 - 1040
+- Cleaved_Adhesin (PF07675): pos. 1169 - 1313
+* Stalk domains:
+- fn3 (PF00041): pos. 1355 - 1439
+

@@ -1,0 +1,35 @@
+* Organism:
+- Sphingomonas sp. K2R01-6
+* Protein length:
+- 3275.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 192 - 218
+- YadA_head (PF05658): pos. 306 - 332
+- YadA_head (PF05658): pos. 669 - 695
+- YadA_head (PF05658): pos. 2211 - 2237
+- YadA_head (PF05658): pos. 2564 - 2590
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 466 - 511
+- YadA_stalk (PF05662): pos. 593 - 635
+- YadA_stalk (PF05662): pos. 773 - 818
+- YadA_stalk (PF05662): pos. 900 - 942
+- YadA_stalk (PF05662): pos. 1025 - 1068
+- YadA_stalk (PF05662): pos. 1147 - 1189
+- YadA_stalk (PF05662): pos. 1272 - 1315
+- YadA_stalk (PF05662): pos. 1394 - 1436
+- YadA_stalk (PF05662): pos. 1519 - 1562
+- YadA_stalk (PF05662): pos. 1641 - 1683
+- YadA_stalk (PF05662): pos. 1766 - 1809
+- YadA_stalk (PF05662): pos. 1888 - 1930
+- YadA_stalk (PF05662): pos. 2013 - 2056
+- YadA_stalk (PF05662): pos. 2135 - 2177
+- YadA_stalk (PF05662): pos. 2315 - 2360
+- YadA_stalk (PF05662): pos. 2442 - 2483
+- YadA_stalk (PF05662): pos. 2492 - 2537
+- YadA_stalk (PF05662): pos. 2643 - 2685
+- YadA_stalk (PF05662): pos. 2719 - 2764
+- YadA_stalk (PF05662): pos. 2845 - 2904
+- YadA_stalk (PF05662): pos. 2942 - 2984
+- YadA_stalk (PF05662): pos. 3069 - 3110
+- YadA_stalk (PF05662): pos. 3133 - 3178
+

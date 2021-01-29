@@ -1,0 +1,9 @@
+* Organism:
+- Thermolongibacillus altinsuensis
+* Protein length:
+- 1060.0
+* Adhesive domains:
+- VWA (PF00092): pos. 197 - 329
+* Stalk domains:
+- Big_2 (PF02368): pos. 869 - 946
+

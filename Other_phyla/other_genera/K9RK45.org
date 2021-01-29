@@ -1,0 +1,9 @@
+* Organism:
+- Rivularia sp. PCC 7116
+* Protein length:
+- 558.0
+* Adhesive domains:
+- VWA (PF00092): pos. 11 - 171
+* Stalk domains:
+- Calx-beta (PF03160): pos. 260 - 354
+

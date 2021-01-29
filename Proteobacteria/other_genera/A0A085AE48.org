@@ -1,0 +1,11 @@
+* Organism:
+- Trabulsiella guamensis ATCC 49490
+* Protein length:
+- 1475.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1001 - 1124
+* Stalk domains:
+- PATR (PF12951): pos. 635 - 671
+- PATR (PF12951): pos. 817 - 845
+- PATR (PF12951): pos. 918 - 947
+

@@ -1,0 +1,9 @@
+* Organism:
+- Sinomicrobium sp. N-1-3-6
+* Protein length:
+- 841.0
+* Adhesive domains:
+- Bact_lectin (PF18483): pos. 26 - 313
+* Stalk domains:
+- Ig_7 (PF19081): pos. 649 - 727
+

@@ -1,0 +1,10 @@
+* Organism:
+- Vibrio sp. JCM 19236
+* Protein length:
+- 933.0
+* Adhesive domains:
+- VWA (PF00092): pos. 554 - 685
+* Stalk domains:
+- Cadherin_4 (PF17803): pos. 1 - 79
+- Cadherin_4 (PF17803): pos. 102 - 187
+

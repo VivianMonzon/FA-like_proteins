@@ -1,0 +1,15 @@
+* Organism:
+- Chelatococcus asaccharovorans
+* Protein length:
+- 1214.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 365 - 391
+- YadA_head (PF05658): pos. 917 - 943
+- YadA_head (PF05658): pos. 1007 - 1033
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 666 - 708
+- YadA_stalk (PF05662): pos. 801 - 845
+- YadA_stalk (PF05662): pos. 864 - 908
+- YadA_stalk (PF05662): pos. 975 - 1015
+- YadA_stalk (PF05662): pos. 1109 - 1150
+

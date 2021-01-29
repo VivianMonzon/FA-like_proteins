@@ -1,0 +1,11 @@
+* Organism:
+- Trinickia caryophylli (Paraburkholderia caryophylli)
+* Protein length:
+- 421.0
+* Adhesive domains:
+- YadA_head (PF05658): pos. 118 - 143
+* Stalk domains:
+- YadA_stalk (PF05662): pos. 175 - 216
+- YadA_stalk (PF05662): pos. 232 - 267
+- YadA_stalk (PF05662): pos. 298 - 340
+

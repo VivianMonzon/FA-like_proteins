@@ -1,0 +1,11 @@
+* Organism:
+- Janthinobacterium sp. HH01
+* Protein length:
+- 504.0
+* Adhesive domains:
+- Ice_binding (PF11999): pos. 319 - 503
+* Stalk domains:
+- Big_2 (PF02368): pos. 46 - 125
+- Big_2 (PF02368): pos. 130 - 211
+- Big_2 (PF02368): pos. 215 - 297
+

@@ -1,0 +1,20 @@
+* Organism:
+- Citrobacter rodentium (strain ICC168) (Citrobacter freundii biotype 4280)
+* Protein length:
+- 1593.0
+* Adhesive domains:
+- Pertactin (PF03212): pos. 1147 - 1268
+* Stalk domains:
+- AIDA (PF16168): pos. 66 - 107
+- AIDA (PF16168): pos. 103 - 145
+- AIDA (PF16168): pos. 175 - 237
+- AIDA (PF16168): pos. 248 - 310
+- AIDA (PF16168): pos. 325 - 384
+- AIDA (PF16168): pos. 377 - 439
+- AIDA (PF16168): pos. 450 - 521
+- AIDA (PF16168): pos. 523 - 585
+- AIDA (PF16168): pos. 596 - 659
+- AIDA (PF16168): pos. 726 - 777
+- AIDA (PF16168): pos. 850 - 899
+- AIDA (PF16168): pos. 967 - 1030
+
