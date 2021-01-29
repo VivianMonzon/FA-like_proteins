@@ -1,9 +1,0 @@
-* Organism:
-- Enterococcus faecalis 13-SD-W-01
-* Protein length:
-- 747
-* Adhesive domains:
-- VWA (PF00092): pos. 112 - 304
-* Stalk domains:
-- Cna_B (PF05738): pos. 474 - 576
-

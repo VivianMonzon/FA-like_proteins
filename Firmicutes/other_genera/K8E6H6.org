@@ -1,9 +1,0 @@
-* Organism:
-- Carnobacterium maltaromaticum LMA28
-* Protein length:
-- 1059
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 62 - 283
-* Stalk domains:
-- Big_2 (PF02368): pos. 595 - 672
-

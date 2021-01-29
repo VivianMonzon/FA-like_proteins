@@ -1,9 +1,0 @@
-* Organism:
-- Paenibacillus ferrarius
-* Protein length:
-- 1895
-* Adhesive domains:
-- PA14 (PF07691): pos. 1080 - 1219
-* Stalk domains:
-- Big_2 (PF02368): pos. 1223 - 1302
-

@@ -1,9 +1,0 @@
-* Organism:
-- Geobacillus sp. BCO2
-* Protein length:
-- 963
-* Adhesive domains:
-- VWA (PF00092): pos. 82 - 217
-* Stalk domains:
-- Big_2 (PF02368): pos. 770 - 846
-

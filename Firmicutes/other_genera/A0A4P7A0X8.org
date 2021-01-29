@@ -1,9 +1,0 @@
-* Organism:
-- Paenisporosarcina antarctica
-* Protein length:
-- 452
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 142 - 346
-* Stalk domains:
-- fn3 (PF00041): pos. 39 - 118
-

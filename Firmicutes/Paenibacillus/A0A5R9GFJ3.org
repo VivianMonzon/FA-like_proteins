@@ -1,9 +1,0 @@
-* Organism:
-- Paenibacillus antri
-* Protein length:
-- 1333
-* Adhesive domains:
-- LRR_4 (PF12799): pos. 463 - 505
-* Stalk domains:
-- Big_2 (PF02368): pos. 994 - 1071
-

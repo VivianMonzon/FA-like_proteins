@@ -1,9 +1,0 @@
-* Organism:
-- Clostridium sp. CAG:343
-* Protein length:
-- 423
-* Adhesive domains:
-- TED (PF08341): pos. 73 - 169
-* Stalk domains:
-- SpaA (PF17802): pos. 321 - 389
-

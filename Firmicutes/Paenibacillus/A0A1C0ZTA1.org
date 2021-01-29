@@ -1,9 +1,0 @@
-* Organism:
-- Paenibacillus pectinilyticus
-* Protein length:
-- 1461
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 46 - 293
-* Stalk domains:
-- Big_2 (PF02368): pos. 653 - 729
-

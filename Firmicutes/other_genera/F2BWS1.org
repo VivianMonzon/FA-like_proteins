@@ -1,9 +1,0 @@
-* Organism:
-- Dialister micraerophilus DSM 19965
-* Protein length:
-- 723
-* Adhesive domains:
-- YadA_head (PF05658): pos. 403 - 428
-* Stalk domains:
-- YadA_stalk (PF05662): pos. 540 - 578
-

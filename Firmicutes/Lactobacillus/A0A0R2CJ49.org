@@ -1,9 +1,0 @@
-* Organism:
-- Lactobacillus cacaonum DSM 21116
-* Protein length:
-- 444
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 1 - 186
-* Stalk domains:
-- MucBP (PF06458): pos. 193 - 268
-

@@ -1,9 +1,0 @@
-* Organism:
-- Carnobacterium divergens DSM 20623
-* Protein length:
-- 811
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 198 - 455
-* Stalk domains:
-- MucBP (PF06458): pos. 606 - 669
-

@@ -1,9 +1,0 @@
-* Organism:
-- Bacillus sp. FJAT-27231
-* Protein length:
-- 1552
-* Adhesive domains:
-- VWA (PF00092): pos. 82 - 296
-* Stalk domains:
-- Big_2 (PF02368): pos. 1142 - 1228
-

@@ -1,9 +1,0 @@
-* Organism:
-- Lactococcus fujiensis JCM 16395
-* Protein length:
-- 627
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 53 - 292
-* Stalk domains:
-- MucBP (PF06458): pos. 302 - 378
-

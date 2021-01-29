@@ -1,9 +1,0 @@
-* Organism:
-- Peptostreptococcus russellii
-* Protein length:
-- 970
-* Adhesive domains:
-- VWA (PF00092): pos. 420 - 634
-* Stalk domains:
-- SpaA (PF17802): pos. 821 - 906
-

@@ -1,9 +1,0 @@
-* Organism:
-- Pediococcus argentinicus
-* Protein length:
-- 668
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 53 - 289
-* Stalk domains:
-- MucBP (PF06458): pos. 296 - 366
-

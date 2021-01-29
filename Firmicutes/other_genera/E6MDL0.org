@@ -1,9 +1,0 @@
-* Organism:
-- Pseudoramibacter alactolyticus ATCC 23263
-* Protein length:
-- 969
-* Adhesive domains:
-- VWA (PF00092): pos. 159 - 357
-* Stalk domains:
-- Cna_B (PF05738): pos. 553 - 646
-

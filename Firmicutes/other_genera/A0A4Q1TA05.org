@@ -1,9 +1,0 @@
-* Organism:
-- Ammoniphilus sp. CFH 90114
-* Protein length:
-- 1486
-* Adhesive domains:
-- VWA (PF00092): pos. 190 - 326
-* Stalk domains:
-- Big_2 (PF02368): pos. 1158 - 1236
-

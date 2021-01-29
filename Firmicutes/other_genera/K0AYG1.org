@@ -1,9 +1,0 @@
-* Organism:
-- Gottschalkia acidurici (strain ATCC 7906 / DSM 604 / BCRC 14475 / CIP 104303 / NCIMB 10678 / 9a) (Clostridium acidurici)
-* Protein length:
-- 436
-* Adhesive domains:
-- BclA_C (PF18573): pos. 309 - 436
-* Stalk domains:
-- Collagen (PF01391): pos. 244 - 307
-

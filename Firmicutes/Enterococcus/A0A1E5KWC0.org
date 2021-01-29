@@ -1,9 +1,0 @@
-* Organism:
-- Enterococcus rivorum
-* Protein length:
-- 391
-* Adhesive domains:
-- LRR_4 (PF12799): pos. 71 - 112
-* Stalk domains:
-- Flg_new (PF09479): pos. 260 - 329
-

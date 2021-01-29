@@ -1,9 +1,0 @@
-* Organism:
-- Streptococcus sp. UMB1385
-* Protein length:
-- 2086
-* Adhesive domains:
-- LRR_4 (PF12799): pos. 485 - 523
-* Stalk domains:
-- MucBP (PF06458): pos. 1767 - 1830
-

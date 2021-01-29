@@ -1,9 +1,0 @@
-* Organism:
-- Streptococcus ferus
-* Protein length:
-- 552
-* Adhesive domains:
-- Collagen_bind (PF05737): pos. 174 - 292
-* Stalk domains:
-- FctA (PF12892): pos. 327 - 431
-

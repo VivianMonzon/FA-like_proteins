@@ -1,9 +1,0 @@
-* Organism:
-- Enterococcus faecium (strain ATCC BAA-472 / TX0016 / DO)
-* Protein length:
-- 675
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 101 - 333
-* Stalk domains:
-- MucBP (PF06458): pos. 476 - 539
-

@@ -1,9 +1,0 @@
-* Organism:
-- Anaeromassilibacillus sp. An172
-* Protein length:
-- 1234
-* Adhesive domains:
-- TED (PF08341): pos. 75 - 202
-* Stalk domains:
-- SpaA (PF17802): pos. 896 - 974
-

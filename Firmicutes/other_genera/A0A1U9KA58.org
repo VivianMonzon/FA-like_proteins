@@ -1,9 +1,0 @@
-* Organism:
-- Novibacillus thermophilus
-* Protein length:
-- 1335
-* Adhesive domains:
-- PA14 (PF07691): pos. 967 - 1096
-* Stalk domains:
-- CARDB (PF07705): pos. 864 - 948
-

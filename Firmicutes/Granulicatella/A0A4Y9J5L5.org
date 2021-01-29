@@ -1,9 +1,0 @@
-* Organism:
-- Granulicatella sp. WM01
-* Protein length:
-- 750
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 54 - 281
-* Stalk domains:
-- Rib (PF08428): pos. 366 - 441
-

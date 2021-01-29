@@ -1,9 +1,0 @@
-* Organism:
-- Catellicoccus marimammalium M35/04/3
-* Protein length:
-- 979
-* Adhesive domains:
-- Collagen_bind (PF05737): pos. 669 - 809
-* Stalk domains:
-- SpaA (PF17802): pos. 841 - 908
-

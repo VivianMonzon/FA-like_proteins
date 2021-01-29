@@ -1,9 +1,0 @@
-* Organism:
-- Clostridium homopropionicum DSM 5847
-* Protein length:
-- 273
-* Adhesive domains:
-- BclA_C (PF18573): pos. 149 - 273
-* Stalk domains:
-- Collagen (PF01391): pos. 81 - 143
-

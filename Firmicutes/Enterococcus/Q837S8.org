@@ -1,9 +1,0 @@
-* Organism:
-- Enterococcus faecalis (strain ATCC 700802 / V583)
-* Protein length:
-- 699
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 128 - 357
-* Stalk domains:
-- MucBP (PF06458): pos. 501 - 563
-

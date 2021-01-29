@@ -1,9 +1,0 @@
-* Organism:
-- Pseudobutyrivibrio ruminis
-* Protein length:
-- 1265
-* Adhesive domains:
-- VWA (PF00092): pos. 691 - 875
-* Stalk domains:
-- SpaA (PF17802): pos. 1109 - 1186
-

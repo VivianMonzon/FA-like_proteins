@@ -1,9 +1,0 @@
-* Organism:
-- Clostridium sp. CAG:762
-* Protein length:
-- 737
-* Adhesive domains:
-- VWA (PF00092): pos. 67 - 271
-* Stalk domains:
-- MucBP (PF06458): pos. 637 - 699
-

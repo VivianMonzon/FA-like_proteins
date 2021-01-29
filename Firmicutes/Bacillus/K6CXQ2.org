@@ -1,9 +1,0 @@
-* Organism:
-- Bacillus azotoformans LMG 9581
-* Protein length:
-- 664
-* Adhesive domains:
-- VWA (PF00092): pos. 87 - 348
-* Stalk domains:
-- Big_2 (PF02368): pos. 496 - 546
-

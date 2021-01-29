@@ -1,9 +1,0 @@
-* Organism:
-- Dorea sp. AF36-15AT
-* Protein length:
-- 777
-* Adhesive domains:
-- VWA (PF00092): pos. 174 - 385
-* Stalk domains:
-- Cna_B (PF05738): pos. 546 - 629
-

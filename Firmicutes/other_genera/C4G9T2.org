@@ -1,9 +1,0 @@
-* Organism:
-- Shuttleworthia satelles DSM 14600
-* Protein length:
-- 625
-* Adhesive domains:
-- VWA (PF00092): pos. 48 - 174
-* Stalk domains:
-- Flg_new (PF09479): pos. 483 - 554
-

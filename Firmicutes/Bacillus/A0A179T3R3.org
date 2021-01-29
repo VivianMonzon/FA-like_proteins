@@ -1,9 +1,0 @@
-* Organism:
-- Bacillus litoralis
-* Protein length:
-- 1379
-* Adhesive domains:
-- LRR_4 (PF12799): pos. 559 - 601
-* Stalk domains:
-- fn3 (PF00041): pos. 1094 - 1173
-

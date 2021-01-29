@@ -1,9 +1,0 @@
-* Organism:
-- Oscillibacter sp. 1-3
-* Protein length:
-- 1158
-* Adhesive domains:
-- VWA (PF00092): pos. 526 - 723
-* Stalk domains:
-- MucBP (PF06458): pos. 831 - 891
-

@@ -1,9 +1,0 @@
-* Organism:
-- Lactobacillus aviarius subsp. araffinosus DSM 20653
-* Protein length:
-- 583
-* Adhesive domains:
-- Collagen_bind (PF05737): pos. 178 - 304
-* Stalk domains:
-- SpaA (PF17802): pos. 331 - 397
-

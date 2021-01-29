@@ -1,9 +1,0 @@
-* Organism:
-- Paenibacillus sp. 597
-* Protein length:
-- 1892
-* Adhesive domains:
-- PA14 (PF07691): pos. 1081 - 1219
-* Stalk domains:
-- Big_2 (PF02368): pos. 1221 - 1300
-

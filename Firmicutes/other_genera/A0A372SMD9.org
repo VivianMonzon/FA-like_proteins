@@ -1,9 +1,0 @@
-* Organism:
-- Absiella sp. AM09-45
-* Protein length:
-- 456
-* Adhesive domains:
-- BclA_C (PF18573): pos. 318 - 451
-* Stalk domains:
-- Collagen (PF01391): pos. 255 - 314
-

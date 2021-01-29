@@ -1,9 +1,0 @@
-* Organism:
-- Eubacterium aggregans
-* Protein length:
-- 1436
-* Adhesive domains:
-- VWA (PF00092): pos. 797 - 984
-* Stalk domains:
-- SpaA (PF17802): pos. 581 - 651
-

@@ -1,9 +1,0 @@
-* Organism:
-- Lactobacillus kunkeei
-* Protein length:
-- 603
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 64 - 286
-* Stalk domains:
-- DUF1542 (PF07564): pos. 296 - 372
-

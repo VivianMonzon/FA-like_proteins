@@ -1,9 +1,0 @@
-* Organism:
-- Bacillus sp. CHD6a
-* Protein length:
-- 985
-* Adhesive domains:
-- VWA (PF00092): pos. 85 - 352
-* Stalk domains:
-- Big_2 (PF02368): pos. 815 - 878
-

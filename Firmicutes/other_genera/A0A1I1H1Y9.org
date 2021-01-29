@@ -1,9 +1,0 @@
-* Organism:
-- Fructobacillus durionis
-* Protein length:
-- 504
-* Adhesive domains:
-- Collagen_bind (PF05737): pos. 189 - 318
-* Stalk domains:
-- Cna_B (PF05738): pos. 337 - 419
-

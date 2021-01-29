@@ -1,9 +1,0 @@
-* Organism:
-- Lactococcus piscium MKFS47
-* Protein length:
-- 1243
-* Adhesive domains:
-- VWA (PF00092): pos. 336 - 513
-* Stalk domains:
-- SpaA (PF17802): pos. 847 - 914
-
