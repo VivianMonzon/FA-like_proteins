@@ -1,9 +1,0 @@
-* Organism:
-- Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) (Myxococcus coralloides)
-* Protein length:
-- 823
-* Adhesive domains:
-- PA14 (PF07691): pos. 700 - 823
-* Stalk domains:
-- PKD_4 (PF18911): pos. 418 - 497
-

@@ -1,9 +1,0 @@
-* Organism:
-- Polaromonas sp. C04
-* Protein length:
-- 445
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 196 - 432
-* Stalk domains:
-- Big_5 (PF13205): pos. 62 - 175
-

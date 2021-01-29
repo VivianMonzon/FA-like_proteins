@@ -1,9 +1,0 @@
-* Organism:
-- Lysobacter concretionis Ko07 = DSM 16239
-* Protein length:
-- 493
-* Adhesive domains:
-- YadA_head (PF05658): pos. 105 - 131
-* Stalk domains:
-- YadA_stalk (PF05662): pos. 205 - 247
-

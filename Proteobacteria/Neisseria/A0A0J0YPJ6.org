@@ -1,9 +1,0 @@
-* Organism:
-- Neisseria arctica
-* Protein length:
-- 661
-* Adhesive domains:
-- VWA (PF00092): pos. 229 - 418
-* Stalk domains:
-- Big_9 (PF17963): pos. 76 - 174
-

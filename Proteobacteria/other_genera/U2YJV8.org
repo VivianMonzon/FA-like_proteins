@@ -1,9 +1,0 @@
-* Organism:
-- Novosphingobium tardaugens NBRC 16725
-* Protein length:
-- 1645
-* Adhesive domains:
-- VWA (PF00092): pos. 709 - 914
-* Stalk domains:
-- Big_9 (PF17963): pos. 10 - 127
-

@@ -1,9 +1,0 @@
-* Organism:
-- Bilophila wadsworthia 3_1_6
-* Protein length:
-- 1350
-* Adhesive domains:
-- VWA (PF00092): pos. 790 - 976
-* Stalk domains:
-- PKD_5 (PF19406): pos. 744 - 814
-

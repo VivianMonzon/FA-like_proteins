@@ -1,9 +1,0 @@
-* Organism:
-- Myxococcus xanthus (strain DK 1622)
-* Protein length:
-- 700
-* Adhesive domains:
-- VWA (PF00092): pos. 335 - 512
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 34 - 116
-

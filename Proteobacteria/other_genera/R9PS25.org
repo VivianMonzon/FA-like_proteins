@@ -1,9 +1,0 @@
-* Organism:
-- Agarivorans albus MKT 106
-* Protein length:
-- 1004
-* Adhesive domains:
-- VWA (PF00092): pos. 254 - 441
-* Stalk domains:
-- Big_9 (PF17963): pos. 1 - 93
-

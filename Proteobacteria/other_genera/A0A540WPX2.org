@@ -1,9 +1,0 @@
-* Organism:
-- Myxococcus sp. AM401
-* Protein length:
-- 704
-* Adhesive domains:
-- VWA (PF00092): pos. 333 - 507
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 26 - 108
-

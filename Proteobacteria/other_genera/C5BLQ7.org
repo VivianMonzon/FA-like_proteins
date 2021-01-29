@@ -1,9 +1,0 @@
-* Organism:
-- Teredinibacter turnerae (strain ATCC 39867 / T7901)
-* Protein length:
-- 1324
-* Adhesive domains:
-- PA14 (PF07691): pos. 827 - 961
-* Stalk domains:
-- He_PIG (PF05345): pos. 974 - 1059
-

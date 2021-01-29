@@ -1,9 +1,0 @@
-* Organism:
-- Paucibacter toxinivorans
-* Protein length:
-- 556
-* Adhesive domains:
-- VWA (PF00092): pos. 352 - 551
-* Stalk domains:
-- DUF5977 (PF19404): pos. 403 - 446
-

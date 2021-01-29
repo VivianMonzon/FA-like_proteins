@@ -1,9 +1,0 @@
-* Organism:
-- Roseovarius pacificus
-* Protein length:
-- 1197
-* Adhesive domains:
-- PA14 (PF07691): pos. 126 - 256
-* Stalk domains:
-- Big_9 (PF17963): pos. 1097 - 1183
-

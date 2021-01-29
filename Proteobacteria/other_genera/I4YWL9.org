@@ -1,9 +1,0 @@
-* Organism:
-- Microvirga lotononidis
-* Protein length:
-- 902
-* Adhesive domains:
-- VWA (PF00092): pos. 621 - 815
-* Stalk domains:
-- Big_9 (PF17963): pos. 455 - 552
-

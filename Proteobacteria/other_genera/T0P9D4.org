@@ -1,9 +1,0 @@
-* Organism:
-- Photorhabdus temperata subsp. temperata M1021
-* Protein length:
-- 271
-* Adhesive domains:
-- YadA_head (PF05658): pos. 192 - 217
-* Stalk domains:
-- YadA_stalk (PF05662): pos. 235 - 269
-

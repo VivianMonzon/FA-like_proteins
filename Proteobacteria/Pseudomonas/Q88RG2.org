@@ -1,9 +1,0 @@
-* Organism:
-- Pseudomonas putida (strain ATCC 47054 / DSM 6125 / NCIMB 11950 / KT2440)
-* Protein length:
-- 8682
-* Adhesive domains:
-- VWA (PF00092): pos. 8159 - 8301
-* Stalk domains:
-- Calx-beta (PF03160): pos. 7572 - 7664
-

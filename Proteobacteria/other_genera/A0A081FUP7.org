@@ -1,9 +1,0 @@
-* Organism:
-- Marinobacterium sp. AK27
-* Protein length:
-- 1031
-* Adhesive domains:
-- VWA (PF00092): pos. 239 - 437
-* Stalk domains:
-- Big_9 (PF17963): pos. 699 - 806
-

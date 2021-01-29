@@ -1,9 +1,0 @@
-* Organism:
-- Shewanella algae
-* Protein length:
-- 1496
-* Adhesive domains:
-- VWA (PF00092): pos. 961 - 1111
-* Stalk domains:
-- Big_11 (PF18200): pos. 564 - 640
-

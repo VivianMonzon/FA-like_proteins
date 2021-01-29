@@ -1,9 +1,0 @@
-* Organism:
-- Vibrio ishigakensis
-* Protein length:
-- 796
-* Adhesive domains:
-- VWA (PF00092): pos. 417 - 548
-* Stalk domains:
-- Big_11 (PF18200): pos. 5 - 83
-

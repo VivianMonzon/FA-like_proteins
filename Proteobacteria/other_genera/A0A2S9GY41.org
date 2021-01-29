@@ -1,9 +1,0 @@
-* Organism:
-- Solimicrobium silvestre
-* Protein length:
-- 406
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 203 - 402
-* Stalk domains:
-- Big_5 (PF13205): pos. 60 - 182
-

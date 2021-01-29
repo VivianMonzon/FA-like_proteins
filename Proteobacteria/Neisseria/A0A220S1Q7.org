@@ -1,9 +1,0 @@
-* Organism:
-- Neisseria chenwenguii
-* Protein length:
-- 417
-* Adhesive domains:
-- YadA_head (PF05658): pos. 223 - 249
-* Stalk domains:
-- YadA_stalk (PF05662): pos. 289 - 334
-

@@ -1,9 +1,0 @@
-* Organism:
-- Pseudolysobacter antarcticus
-* Protein length:
-- 448
-* Adhesive domains:
-- BclA_C (PF18573): pos. 278 - 416
-* Stalk domains:
-- Collagen (PF01391): pos. 196 - 272
-

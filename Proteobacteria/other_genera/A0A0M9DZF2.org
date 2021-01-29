@@ -1,9 +1,0 @@
-* Organism:
-- Candidatus Magnetomorum sp. HK-1
-* Protein length:
-- 3277
-* Adhesive domains:
-- LRR_4 (PF12799): pos. 1398 - 1442
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 2947 - 3027
-

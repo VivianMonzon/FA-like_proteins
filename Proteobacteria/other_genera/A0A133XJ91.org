@@ -1,9 +1,0 @@
-* Organism:
-- Dechloromonas denitrificans
-* Protein length:
-- 842
-* Adhesive domains:
-- VWA (PF00092): pos. 277 - 487
-* Stalk domains:
-- Big_11 (PF18200): pos. 32 - 111
-

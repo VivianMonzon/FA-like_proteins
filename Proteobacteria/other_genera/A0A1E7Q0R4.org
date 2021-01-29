@@ -1,9 +1,0 @@
-* Organism:
-- Marinobacter sp. X15-166B
-* Protein length:
-- 485
-* Adhesive domains:
-- PA14 (PF07691): pos. 43 - 198
-* Stalk domains:
-- fn3 (PF00041): pos. 385 - 477
-

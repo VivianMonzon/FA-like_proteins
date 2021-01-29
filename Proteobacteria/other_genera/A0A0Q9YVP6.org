@@ -1,9 +1,0 @@
-* Organism:
-- Candidatus Berkiella aquae
-* Protein length:
-- 1621
-* Adhesive domains:
-- VWA (PF00092): pos. 728 - 930
-* Stalk domains:
-- DUF5801 (PF19116): pos. 547 - 691
-

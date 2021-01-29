@@ -1,9 +1,0 @@
-* Organism:
-- Cohaesibacter gelatinilyticus
-* Protein length:
-- 1186
-* Adhesive domains:
-- PA14 (PF07691): pos. 495 - 622
-* Stalk domains:
-- Big_9 (PF17963): pos. 774 - 872
-

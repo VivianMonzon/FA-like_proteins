@@ -1,9 +1,0 @@
-* Organism:
-- Pseudoxanthomonas sp. CF125
-* Protein length:
-- 681
-* Adhesive domains:
-- CshA_NR2 (PF18651): pos. 44 - 331
-* Stalk domains:
-- DUF11 (PF01345): pos. 574 - 681
-
