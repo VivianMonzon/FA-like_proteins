@@ -1,9 +1,0 @@
-* Organism:
-- Muribaculum intestinale
-* Protein length:
-- 1444
-* Adhesive domains:
-- Cleaved_Adhesin (PF07675): pos. 1183 - 1307
-* Stalk domains:
-- CARDB (PF07705): pos. 991 - 1092
-

@@ -1,9 +1,0 @@
-* Organism:
-- Arachidicoccus sp. KIS59-12
-* Protein length:
-- 657
-* Adhesive domains:
-- VWA (PF00092): pos. 265 - 437
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 24 - 97
-

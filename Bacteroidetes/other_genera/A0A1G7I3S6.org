@@ -1,9 +1,0 @@
-* Organism:
-- Ulvibacter litoralis
-* Protein length:
-- 612
-* Adhesive domains:
-- VWA (PF00092): pos. 256 - 428
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 23 - 94
-

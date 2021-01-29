@@ -1,9 +1,0 @@
-* Organism:
-- Hymenobacter daecheongensis DSM 21074
-* Protein length:
-- 840
-* Adhesive domains:
-- YadA_head (PF05658): pos. 533 - 559
-* Stalk domains:
-- Collagen (PF01391): pos. 312 - 372
-

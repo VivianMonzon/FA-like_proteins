@@ -1,9 +1,0 @@
-* Organism:
-- Pontibacter sp. SGAir0037
-* Protein length:
-- 1774
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 1160 - 1371
-* Stalk domains:
-- Ig_7 (PF19081): pos. 696 - 779
-

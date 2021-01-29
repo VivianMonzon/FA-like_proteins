@@ -1,9 +1,0 @@
-* Organism:
-- Vicingus serpentipes
-* Protein length:
-- 652
-* Adhesive domains:
-- VWA (PF00092): pos. 285 - 455
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 30 - 112
-

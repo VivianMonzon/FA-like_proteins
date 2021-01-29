@@ -1,9 +1,0 @@
-* Organism:
-- Lewinella sp. W8
-* Protein length:
-- 610
-* Adhesive domains:
-- VWA (PF00092): pos. 304 - 480
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 34 - 109
-

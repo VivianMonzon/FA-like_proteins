@@ -1,9 +1,0 @@
-* Organism:
-- Bizionia paragorgiae
-* Protein length:
-- 637
-* Adhesive domains:
-- CshA_NR2 (PF18651): pos. 223 - 477
-* Stalk domains:
-- DUF11 (PF01345): pos. 507 - 635
-

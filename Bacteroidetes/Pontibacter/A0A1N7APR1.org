@@ -1,9 +1,0 @@
-* Organism:
-- Pontibacter lucknowensis
-* Protein length:
-- 639
-* Adhesive domains:
-- VWA (PF00092): pos. 274 - 446
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 41 - 115
-

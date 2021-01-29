@@ -1,9 +1,0 @@
-* Organism:
-- Alistipes sp. AF14-19
-* Protein length:
-- 369
-* Adhesive domains:
-- DUF4465 (PF14717): pos. 202 - 363
-* Stalk domains:
-- Big_2 (PF02368): pos. 27 - 104
-

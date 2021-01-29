@@ -1,9 +1,0 @@
-* Organism:
-- Nonlabens spongiae
-* Protein length:
-- 3707
-* Adhesive domains:
-- PA14 (PF07691): pos. 1258 - 1364
-* Stalk domains:
-- Big_1 (PF02369): pos. 3525 - 3591
-

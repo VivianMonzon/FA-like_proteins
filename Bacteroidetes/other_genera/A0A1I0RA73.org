@@ -1,9 +1,0 @@
-* Organism:
-- Fabibacter pacificus
-* Protein length:
-- 625
-* Adhesive domains:
-- VWA (PF00092): pos. 261 - 433
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 19 - 90
-

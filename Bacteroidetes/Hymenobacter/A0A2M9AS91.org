@@ -1,9 +1,0 @@
-* Organism:
-- Hymenobacter chitinivorans DSM 11115
-* Protein length:
-- 724
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 45 - 308
-* Stalk domains:
-- DUF11 (PF01345): pos. 417 - 535
-

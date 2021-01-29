@@ -1,9 +1,0 @@
-* Organism:
-- Roseivirga ehrenbergii
-* Protein length:
-- 628
-* Adhesive domains:
-- VWA (PF00092): pos. 267 - 438
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 26 - 98
-

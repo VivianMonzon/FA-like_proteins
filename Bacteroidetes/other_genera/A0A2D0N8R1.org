@@ -1,9 +1,0 @@
-* Organism:
-- Lewinella nigricans DSM 23189 = NBRC 102662
-* Protein length:
-- 640
-* Adhesive domains:
-- VWA (PF00092): pos. 273 - 445
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 32 - 105
-

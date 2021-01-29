@@ -1,9 +1,0 @@
-* Organism:
-- Ferruginibacter sp. BO-59
-* Protein length:
-- 773
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 38 - 246
-* Stalk domains:
-- PKD_4 (PF18911): pos. 327 - 413
-

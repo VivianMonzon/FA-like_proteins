@@ -1,9 +1,0 @@
-* Organism:
-- Flavisolibacter ginsenosidimutans
-* Protein length:
-- 937
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 17 - 226
-* Stalk domains:
-- HYR (PF02494): pos. 439 - 518
-

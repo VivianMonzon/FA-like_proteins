@@ -1,9 +1,0 @@
-* Organism:
-- Hymenobacter chitinivorans DSM 11115
-* Protein length:
-- 668
-* Adhesive domains:
-- VWA (PF00092): pos. 300 - 471
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 41 - 133
-

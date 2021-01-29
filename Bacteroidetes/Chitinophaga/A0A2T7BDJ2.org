@@ -1,9 +1,0 @@
-* Organism:
-- Chitinophaga parva
-* Protein length:
-- 2048
-* Adhesive domains:
-- PA14 (PF07691): pos. 679 - 790
-* Stalk domains:
-- He_PIG (PF05345): pos. 1091 - 1180
-

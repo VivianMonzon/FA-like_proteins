@@ -1,9 +1,0 @@
-* Organism:
-- Muricauda alvinocaridis
-* Protein length:
-- 705
-* Adhesive domains:
-- VWA (PF00092): pos. 349 - 521
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 23 - 96
-

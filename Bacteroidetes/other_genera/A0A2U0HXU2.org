@@ -1,9 +1,0 @@
-* Organism:
-- Marixanthomonas sp. HN-E44
-* Protein length:
-- 603
-* Adhesive domains:
-- VWA (PF00092): pos. 247 - 419
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 23 - 102
-

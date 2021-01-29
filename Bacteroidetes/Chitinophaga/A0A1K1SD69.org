@@ -1,9 +1,0 @@
-* Organism:
-- Chitinophaga sancti
-* Protein length:
-- 2041
-* Adhesive domains:
-- PA14 (PF07691): pos. 618 - 757
-* Stalk domains:
-- DUF5977 (PF19404): pos. 1877 - 1940
-

@@ -1,9 +1,0 @@
-* Organism:
-- Cytophaga xylanolytica
-* Protein length:
-- 680
-* Adhesive domains:
-- VWA (PF00092): pos. 314 - 487
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 78 - 149
-

@@ -1,9 +1,0 @@
-* Organism:
-- Taibaiella sp. KBW10
-* Protein length:
-- 552
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 26 - 238
-* Stalk domains:
-- Ig_7 (PF19081): pos. 245 - 326
-

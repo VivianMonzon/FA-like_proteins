@@ -1,9 +1,0 @@
-* Organism:
-- Dyadobacter fermentans (strain ATCC 700827 / DSM 18053 / NS114)
-* Protein length:
-- 625
-* Adhesive domains:
-- VWA (PF00092): pos. 250 - 422
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 23 - 98
-

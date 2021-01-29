@@ -1,9 +1,0 @@
-* Organism:
-- Arcticibacter svalbardensis MN12-7
-* Protein length:
-- 629
-* Adhesive domains:
-- VWA (PF00092): pos. 259 - 429
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 26 - 109
-

@@ -1,9 +1,0 @@
-* Organism:
-- Chryseolinea flava
-* Protein length:
-- 3132
-* Adhesive domains:
-- PA14 (PF07691): pos. 678 - 817
-* Stalk domains:
-- fn3 (PF00041): pos. 2076 - 2152
-

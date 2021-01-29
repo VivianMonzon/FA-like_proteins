@@ -1,9 +1,0 @@
-* Organism:
-- Flavobacterium noncentrifugens
-* Protein length:
-- 664
-* Adhesive domains:
-- VWA (PF00092): pos. 303 - 474
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 35 - 124
-

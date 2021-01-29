@@ -1,9 +1,0 @@
-* Organism:
-- Fulvivirga sp. M361
-* Protein length:
-- 1249
-* Adhesive domains:
-- PA14 (PF07691): pos. 717 - 846
-* Stalk domains:
-- fn3 (PF00041): pos. 956 - 1054
-

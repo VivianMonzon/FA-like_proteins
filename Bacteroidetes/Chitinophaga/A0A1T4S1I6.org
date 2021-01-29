@@ -1,9 +1,0 @@
-* Organism:
-- Chitinophaga eiseniae
-* Protein length:
-- 640
-* Adhesive domains:
-- VWA (PF00092): pos. 276 - 448
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 24 - 98
-

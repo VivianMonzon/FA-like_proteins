@@ -1,9 +1,0 @@
-* Organism:
-- Alistipes dispar
-* Protein length:
-- 669
-* Adhesive domains:
-- VWA (PF00092): pos. 244 - 415
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 22 - 93
-

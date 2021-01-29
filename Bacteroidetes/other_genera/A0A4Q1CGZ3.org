@@ -1,9 +1,0 @@
-* Organism:
-- Lacibacter luteus
-* Protein length:
-- 795
-* Adhesive domains:
-- PA14 (PF07691): pos. 32 - 177
-* Stalk domains:
-- fn3 (PF00041): pos. 195 - 272
-

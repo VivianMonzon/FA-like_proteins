@@ -1,9 +1,0 @@
-* Organism:
-- Niastella populi
-* Protein length:
-- 604
-* Adhesive domains:
-- VWA (PF00092): pos. 303 - 478
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 15 - 89
-

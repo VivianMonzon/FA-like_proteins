@@ -1,9 +1,0 @@
-* Organism:
-- Chitinophaga japonensis (Flexibacter japonensis)
-* Protein length:
-- 613
-* Adhesive domains:
-- VWA (PF00092): pos. 252 - 424
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 24 - 97
-

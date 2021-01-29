@@ -1,9 +1,0 @@
-* Organism:
-- Solirubrum puertoriconensis
-* Protein length:
-- 614
-* Adhesive domains:
-- VWA (PF00092): pos. 246 - 418
-* Stalk domains:
-- CarboxypepD_reg (PF13620): pos. 9 - 84
-

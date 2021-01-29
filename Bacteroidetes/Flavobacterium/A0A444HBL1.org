@@ -1,9 +1,0 @@
-* Organism:
-- Flavobacterium sp. 1E403
-* Protein length:
-- 1547
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 48 - 326
-* Stalk domains:
-- Ig_7 (PF19081): pos. 658 - 737
-
