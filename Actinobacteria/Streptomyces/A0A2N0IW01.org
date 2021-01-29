@@ -1,9 +1,0 @@
-* Organism:
-- Streptomyces sp. 69
-* Protein length:
-- 565
-* Adhesive domains:
-- PA14 (PF07691): pos. 35 - 170
-* Stalk domains:
-- Big_3_2 (PF12245): pos. 215 - 263
-

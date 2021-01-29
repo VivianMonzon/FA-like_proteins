@@ -1,9 +1,0 @@
-* Organism:
-- Streptomyces sp. NEAU-SSA 1
-* Protein length:
-- 377
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 59 - 245
-* Stalk domains:
-- Collagen (PF01391): pos. 247 - 310
-

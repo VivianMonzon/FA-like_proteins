@@ -1,9 +1,0 @@
-* Organism:
-- Scardovia wiggsiae F0424
-* Protein length:
-- 364
-* Adhesive domains:
-- TED (PF08341): pos. 150 - 278
-* Stalk domains:
-- SpaA (PF17802): pos. 48 - 118
-

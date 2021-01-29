@@ -1,9 +1,0 @@
-* Organism:
-- Humibacillus sp. DSM 29435
-* Protein length:
-- 391
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 52 - 238
-* Stalk domains:
-- TIG (PF01833): pos. 251 - 333
-

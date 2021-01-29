@@ -1,9 +1,0 @@
-* Organism:
-- Frigoribacterium sp. Leaf164
-* Protein length:
-- 437
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 53 - 244
-* Stalk domains:
-- He_PIG (PF05345): pos. 252 - 334
-

@@ -1,9 +1,0 @@
-* Organism:
-- Microbacterium rhizomatis
-* Protein length:
-- 420
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 48 - 231
-* Stalk domains:
-- He_PIG (PF05345): pos. 246 - 330
-

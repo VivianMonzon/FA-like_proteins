@@ -1,9 +1,0 @@
-* Organism:
-- Streptomyces sp. PsTaAH-137
-* Protein length:
-- 744
-* Adhesive domains:
-- Bact_lectin (PF18483): pos. 86 - 337
-* Stalk domains:
-- DUF11 (PF01345): pos. 469 - 587
-

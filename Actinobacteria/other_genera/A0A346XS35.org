@@ -1,9 +1,0 @@
-* Organism:
-- Euzebya sp. DY32-46
-* Protein length:
-- 2519
-* Adhesive domains:
-- PA14 (PF07691): pos. 39 - 181
-* Stalk domains:
-- PKD_4 (PF18911): pos. 1001 - 1079
-

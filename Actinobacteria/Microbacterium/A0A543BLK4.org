@@ -1,9 +1,0 @@
-* Organism:
-- Microbacterium saperdae
-* Protein length:
-- 391
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 48 - 231
-* Stalk domains:
-- He_PIG (PF05345): pos. 241 - 330
-

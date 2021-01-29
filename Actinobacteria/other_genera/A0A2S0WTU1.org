@@ -1,9 +1,0 @@
-* Organism:
-- Agromyces sp. MF30-A
-* Protein length:
-- 358
-* Adhesive domains:
-- Ice_binding (PF11999): pos. 26 - 209
-* Stalk domains:
-- He_PIG (PF05345): pos. 217 - 308
-

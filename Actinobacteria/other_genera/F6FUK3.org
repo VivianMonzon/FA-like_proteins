@@ -1,9 +1,0 @@
-* Organism:
-- Isoptericola variabilis (strain 225)
-* Protein length:
-- 1206
-* Adhesive domains:
-- PA14 (PF07691): pos. 52 - 193
-* Stalk domains:
-- Big_3_5 (PF16640): pos. 1119 - 1206
-

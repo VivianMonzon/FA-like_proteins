@@ -1,9 +1,0 @@
-* Organism:
-- Cellulomonas sp. PSBB021
-* Protein length:
-- 721
-* Adhesive domains:
-- CshA_NR2 (PF18651): pos. 59 - 335
-* Stalk domains:
-- DUF11 (PF01345): pos. 476 - 588
-

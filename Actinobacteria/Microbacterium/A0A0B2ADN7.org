@@ -1,9 +1,0 @@
-* Organism:
-- Microbacterium mangrovi
-* Protein length:
-- 466
-* Adhesive domains:
-- TED (PF08341): pos. 49 - 160
-* Stalk domains:
-- TQ (PF18202): pos. 287 - 400
-

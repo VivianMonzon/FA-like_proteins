@@ -1,9 +1,0 @@
-* Organism:
-- Cellulomonas aerilata
-* Protein length:
-- 1000
-* Adhesive domains:
-- PA14 (PF07691): pos. 708 - 844
-* Stalk domains:
-- PKD_4 (PF18911): pos. 421 - 502
-
